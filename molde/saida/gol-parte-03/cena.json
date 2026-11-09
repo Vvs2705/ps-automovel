@@ -1,0 +1,54 @@
+{
+ "carro": "hatch",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "etiqueta": "FRIO: NÃO PEGA?",
+   "nota": "Termômetro cai; chave gira e o motor não pega."
+  },
+  "L02": {
+   "cartao": {
+    "rotulo": "RECALL:",
+    "valor": "268",
+    "unidade": "MIL"
+   },
+   "nota": "Contador sobe até 268 mil sobre silhuetas de carros."
+  },
+  "L03": {
+   "etiqueta": "GOL, VOYAGE, FOX",
+   "nota": "Três silhuetas com os anos 2009 e 2010."
+  },
+  "L04": {
+   "zona": "arrefecimento",
+   "etiqueta": "VÁRIAS TENTATIVAS",
+   "nota": "Cinco tentativas de partida aparecem em sequência."
+  },
+  "L05": {
+   "estado": "alerta",
+   "etiqueta": "COLETOR PODIA ROMPER",
+   "nota": "Coletor de admissão em corte racha; chama curta em vermelho."
+  },
+  "L06": {
+   "etiqueta": "ATUALIZAÇÃO GRÁTIS",
+   "nota": "Barra de atualização de software chega a 100 por cento."
+  },
+  "L07": {
+   "etiqueta": "CONFIRA O CHASSI",
+   "nota": "Campo de chassi no site da montadora; selo 2009."
+  },
+  "L08": {
+   "zona": "motor",
+   "etiqueta": "TANQUINHO CHEIO",
+   "nota": "Reservatório do tanquinho no cofre do motor, nível cheio."
+  },
+  "L09": {
+   "zona": "painel",
+   "etiqueta": "ESPERE APAGAR",
+   "nota": "Luz de controle acende e depois apaga."
+  }
+ },
+ "serie": "FALANDO DE GOL",
+ "titulo": "FALANDO DE GOL #3",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Vrum, 17/08/2009"
+}

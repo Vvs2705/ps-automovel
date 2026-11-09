@@ -1,7 +1,8 @@
 # Renderiza vídeos do molde em paralelo nas máquinas Linux do GitHub (até 20 ao mesmo tempo no plano Free). Máquina padrão:
 # repositório público 4 vCPU / 16 GB e minutos livres; privado 2 vCPU / 8 GB e ~2.000 min/mês.
-# Disparo só manual: sh molde/nuvem.sh no notebook, ou Actions > render > Run workflow no site.
-# Os vídeos voltam como artifacts (1 dia) e o notebook traz com sh molde/baixar.sh, que depois apaga os artifacts.
+# Disparo só manual: sh molde/nuvem.sh (de um clone), ou Actions > render > Run workflow no site.
+# Saída: artifact "videos" já no formato de VIDEOS PRONTOS/ (Informativos/, Falando de <Carro>/), artifacts "dados-<nome>"
+# (srt, cena.json, folha, poster, log) e um commit com os cena.json novos. Tudo expira em 1 dia; molde/baixar.sh traz e apaga.
 name: render
 run-name: render ${{ inputs.pastas || 'fila' }}
 
@@ -12,6 +13,10 @@ on:
         description: 'Vídeos separados por vírgula, no formato do fila.txt ("roteiros/02-luzes-cores blueprint, serie-falando-de/carros/gol/parte-03"). Vazio = linhas do molde/fila.txt; "todas" = toda pasta de roteiro com lines.json (sem fila, estilo padrão). Nos dois, pula quem já tem molde/saida/<nome>/cena.json no repositório.'
         required: false
         default: ''
+      lote:
+        description: 'Quantos vídeos da fila (ou de "todas") entram neste lote (máximo 20)'
+        required: false
+        default: '5'
 
 concurrency:   # um lote por vez; o próximo espera na fila
   group: render
@@ -37,26 +42,30 @@ jobs:
         shell: bash
         env:
           PASTAS: ${{ inputs.pastas }}
+          LOTE: ${{ inputs.lote }}
         run: |
+          N=20
           case "$PASTAS" in
-            '') grep -vE '^[[:space:]]*(#|$)' molde/fila.txt; PULA=1 ;;
-            todas) ls -d roteiros/*/lines.json serie-falando-de/carros/*/parte-*/lines.json | sed 's,/lines.json$,,'; PULA=1 ;;
+            '') grep -vE '^[[:space:]]*(#|$)' molde/fila.txt; N=$LOTE ;;
+            todas) ls roteiros/*/lines.json serie-falando-de/carros/*/parte-*/lines.json | sed 's,/lines.json$,,'; N=$LOTE ;;
             *) printf '%s\n' "$PASTAS" | tr ',;' '\n\n' ;;
           esac > pedidos.txt
+          [ "$N" -le 20 ] 2>/dev/null || N=20
           tr -d '\r' < pedidos.txt | while read -r pasta estilo; do
             [ -n "$pasta" ] || continue
             [ -f "$pasta/lines.json" ] || { echo "::error::não achei $pasta/lines.json"; exit 1; }
             b=$(basename "$pasta"); case "$b" in parte-*) b="$(basename "$(dirname "$pasta")")-$b" ;; esac
             nome=$b; [ -n "$estilo" ] && [ "$estilo" != hologram-hud ] && nome=$b-$estilo
             # fila: pula quem já tem cena.json no repositório; todas: idem, em qualquer estilo
-            if [ "$PASTAS" = todas ]; then ls -d molde/saida/"$b" molde/saida/"$b"-* 2>/dev/null | grep -q . && continue
-            elif [ -n "$PULA" ] && [ -f "molde/saida/$nome/cena.json" ]; then continue; fi
+            if [ "$PASTAS" = todas ]; then
+              if compgen -G "molde/saida/$b" > /dev/null || compgen -G "molde/saida/$b-*" > /dev/null; then continue; fi
+            elif [ -z "$PASTAS" ] && [ -f "molde/saida/$nome/cena.json" ]; then continue; fi
             jq -nc --arg p "$pasta" --arg e "$estilo" --arg n "$nome" '{pasta: $p, estilo: $e, nome: $n}'
           done | jq -sc . > lista.json
           n=$(jq length lista.json)
-          [ "$n" -le 20 ] || echo "::warning::$n vídeos na lista; este lote leva os 20 primeiros"
-          echo "lista=$(jq -c '.[:20]' lista.json)" >> "$GITHUB_OUTPUT"
-          jq -r '.[:20][] | "\(.nome)  <-  \(.pasta) \(.estilo)"' lista.json
+          [ "$n" -le "$N" ] || echo "::notice::$n vídeos pendentes; este lote leva $N"
+          echo "lista=$(jq -c ".[:$N]" lista.json)" >> "$GITHUB_OUTPUT"
+          jq -r ".[:$N][] | \"\(.nome)  <-  \(.pasta) \(.estilo)\"" lista.json
       - uses: actions/cache@v4
         with:
           path: |
@@ -78,6 +87,8 @@ jobs:
       matrix:
         v: ${{ fromJSON(needs.preparar.outputs.lista) }}
     name: ${{ matrix.v.nome }}
+    env:
+      NOME: ${{ matrix.v.nome }}
     steps:
       - uses: actions/checkout@v5
       - uses: actions/cache/restore@v4
@@ -95,11 +106,21 @@ jobs:
           ESTILO: ${{ matrix.v.estilo }}
           PASTA: ${{ matrix.v.pasta }}
         run: WORKERS=$(nproc) sh molde/build.sh "$PASTA"   # um navegador por vCPU (4 no público, 2 no privado)
+      - name: vídeo no caminho de VIDEOS PRONTOS
+        run: |
+          A=$(python3 molde/prontos.py --destino "$NOME")
+          mkdir -p "entrega/$(dirname "$A")" && mv "molde/saida/$NOME/$NOME.mp4" "entrega/$A" && echo "$A"
       - uses: actions/upload-artifact@v4
         with:
-          name: ${{ matrix.v.nome }}
+          name: video-${{ matrix.v.nome }}
+          path: entrega/
+          retention-days: 1
+          compression-level: 0   # mp4 já é comprimido
+          if-no-files-found: error
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dados-${{ matrix.v.nome }}
           path: |
-            molde/saida/${{ matrix.v.nome }}/${{ matrix.v.nome }}.mp4
             molde/saida/${{ matrix.v.nome }}/${{ matrix.v.nome }}.srt
             molde/saida/${{ matrix.v.nome }}/cena.json
             molde/saida/${{ matrix.v.nome }}/folha.jpg
@@ -107,5 +128,41 @@ jobs:
             molde/saida/${{ matrix.v.nome }}/build.log
             molde/saida/${{ matrix.v.nome }}/out/checagem.txt
           retention-days: 1
-          compression-level: 0   # mp4 já é comprimido
           if-no-files-found: error
+
+  juntar:
+    needs: render
+    if: ${{ !cancelled() && needs.render.result != 'skipped' }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    permissions:
+      contents: write   # commit dos cena.json novos
+    steps:
+      - name: um artifact "videos" com todos os vídeos do lote
+        uses: actions/upload-artifact/merge@v4
+        with:
+          name: videos
+          pattern: video-*
+          delete-merged: true
+          retention-days: 1
+          compression-level: 0
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: dados-*
+          path: dados
+      - name: guardar no repositório os cena.json novos (rascunho automático, a revisar)
+        run: |
+          for d in dados/dados-*/; do
+            [ -d "$d" ] || continue
+            n=$(basename "$d"); n=${n#dados-}
+            [ -f "molde/saida/$n/cena.json" ] || { mkdir -p "molde/saida/$n"; cp "$d/cena.json" "molde/saida/$n/"; }
+          done
+          git add molde/saida/*/cena.json
+          git diff --cached --quiet && { echo "nenhum cena.json novo"; exit 0; }
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -qm "cena.json do lote ${{ github.run_id }} (rascunho automático: revisar)"
+          git diff --stat HEAD~1
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 10; done; exit 1

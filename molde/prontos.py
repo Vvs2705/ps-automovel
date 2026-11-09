@@ -48,16 +48,26 @@ def alvo(chave: str):
     return "Informativos", f"{n[1] if n else '99'} - {t}"
 
 
+def sem_estilo(nome: str) -> str:
+    """03-luz-da-injecao-chalkboard -> 03-luz-da-injecao (a chave do roteiro)."""
+    for e in ESTILOS:
+        if nome.endswith("-" + e):
+            nome = nome[: -len(e) - 1]
+    return nome
+
+
+def arquivo(pasta: str, nome: str) -> str:
+    """Caminho do vídeo dentro de VIDEOS PRONTOS/."""
+    return f"{pasta}/{PROIBIDO.sub('', nome).strip()}.mp4"
+
+
 def main():
     escolha = {}  # chave do roteiro -> mp4 mais recente
     for d in sorted(p for p in SAIDA.iterdir() if p.is_dir()):
         mp4 = d / f"{d.name}.mp4"
         if not mp4.exists():
             continue
-        chave = d.name
-        for e in ESTILOS:
-            if chave.endswith("-" + e):
-                chave = chave[: -len(e) - 1]
+        chave = sem_estilo(d.name)
         if chave not in escolha or mp4.stat().st_mtime > escolha[chave].stat().st_mtime:
             escolha[chave] = mp4
     itens = [
@@ -77,13 +87,10 @@ def main():
         if not mp4.exists():
             sys.stderr.write(f"aviso: falta {mp4}\n")
             continue
-        out = DEST / pasta / (PROIBIDO.sub("", nome).strip() + ".mp4")
+        out = DEST / arquivo(pasta, nome)
         out.parent.mkdir(parents=True, exist_ok=True)
-        if (
-            not out.exists()
-            or out.stat().st_mtime < mp4.stat().st_mtime
-            or out.stat().st_size != mp4.stat().st_size
-        ):
+        # só o mais novo entra: um vídeo vindo do GitHub (baixar.sh) não é trocado pelo antigo de molde/saida/
+        if not out.exists() or out.stat().st_mtime < mp4.stat().st_mtime:
             shutil.copy2(mp4, out)
             novos += 1
         sys.stdout.write(f"{pasta}/{out.name}  <-  {mp4.relative_to(RAIZ)}\n")
@@ -91,4 +98,11 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # GitHub Actions: python molde/prontos.py --destino <nome em saida/>
+    if sys.argv[1:2] == ["--destino"]:
+        a = alvo(sem_estilo(sys.argv[2]))
+        if a is None:
+            sys.exit(f"roteiro de {sys.argv[2]} não encontrado")
+        sys.stdout.write(arquivo(*a) + "\n")
+    else:
+        main()

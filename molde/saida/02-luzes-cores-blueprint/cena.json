@@ -1,0 +1,72 @@
+{
+ "carro": "hatch",
+ "falas": {
+  "L01": {
+   "zona": "painel",
+   "etiqueta": "VERMELHO = PARE",
+   "nota": "Painel apagado; uma luz vermelha acende, pulsa e ocupa o quadro."
+  },
+  "L02": {
+   "estado": "alerta",
+   "etiqueta": "PERIGO: NÃO PROSSIGA",
+   "nota": "Dois manuais abrem e destacam, cada um, o aviso vermelho \"não prosseguir\" e \"parada obrigatória\" (sem marca)."
+  },
+  "L03": {
+   "estado": "alerta",
+   "etiqueta": "PARE COM SEGURANÇA",
+   "nota": "Carro de arame encostando no acostamento, pisca-alerta ligado e triângulo atrás."
+  },
+  "L04": {
+   "zona": "arrefecimento",
+   "estado": "alerta",
+   "etiqueta": "ÓLEO · TEMPERATURA",
+   "nota": "Dois ícones se acendem em vermelho: a almotolia de óleo e o termômetro na água."
+  },
+  "L05": {
+   "zona": "pneus",
+   "etiqueta": "SEM DISTÂNCIA SEGURA",
+   "nota": "Odômetro com um \"?\" no lugar de qualquer distância, e o ícone de \"pare\" por cima."
+  },
+  "L06": {
+   "zona": "arrefecimento",
+   "etiqueta": "NÃO ABRA QUENTE",
+   "nota": "Reservatório de arrefecimento com a tampa trancada por um cadeado e vapor ao redor."
+  },
+  "L07": {
+   "estado": "alerta",
+   "etiqueta": "AMARELO = ATENÇÃO",
+   "nota": "A luz muda de vermelho para âmbar e um relógio mostra \"logo\", sem número."
+  },
+  "L08": {
+   "zona": "freios",
+   "estado": "alerta",
+   "etiqueta": "FALHA OU FALTA",
+   "nota": "Peça em arame com falha e um reservatório de fluido vazio; o carro de arame perde potência."
+  },
+  "L09": {
+   "etiqueta": "NÃO IGNORE",
+   "nota": "O ícone âmbar piscando com o odômetro apagado; selo \"não ignore\"."
+  },
+  "L10": {
+   "zona": "painel",
+   "etiqueta": "AUTOTESTE",
+   "nota": "Ignição ligada: o painel acende tudo por um instante e apaga aos poucos."
+  },
+  "L11": {
+   "zona": "motor",
+   "etiqueta": "CONTINUA ACESA",
+   "nota": "Uma luz fica acesa depois que o motor pega; o manual abre ao lado dela."
+  },
+  "L12": {
+   "zona": "painel",
+   "etiqueta": "LÂMPADA QUEIMADA",
+   "nota": "Uma posição do painel fica apagada durante o autoteste, com uma lâmpada em arame partida."
+  },
+  "L13": {
+   "etiqueta": "CONFIRA O MANUAL",
+   "nota": "Três painéis diferentes passam rápido; o manual abre sobre o painel do dono."
+  }
+ },
+ "serie": "CORES DAS LUZES DO PAINEL",
+ "fonte": "Fonte: manuais Volkswagen, Renault, Nissan e…"
+}
