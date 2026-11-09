@@ -2,7 +2,7 @@
 
 - **Classificação:** Fato documentado (recalls de airbag de 2018 a 2022, deflagrador)
 - **Selo:** FATO DOCUMENTADO
-- **Duração estimada:** 188 palavras ÷ 2,2 = 85 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 220 palavras ÷ 2,2 = 100 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Novo Palio (segunda geração): ano-modelo 2012 e 2013 (dezembro de 2018), 2013 e 2014 (julho de 2019), 2017 (dezembro de 2022). Houve outras etapas em 2021 (Palio 2013 e 2014) e em fevereiro de 2022 (Novo Palio 2015 e 2016): uma página aberta cada, só mencionadas como 'outras etapas'.
 - **Grau de certeza na fala:** Fala diz: 'a Fiat fez recalls', 'o defeito, segundo a Fiat'. Takata só nas etapas de 2019 e de 2022 (as páginas de 2018 não citam o fornecedor). Totais só quando duas páginas coincidem.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -22,7 +22,9 @@
 | L09 | Nas etapas de dois mil e dezenove e de dois mil e vinte e dois, as fontes citam airbags da Takata. | Selo TAKATA sobre as etapas 2019 e 2022. | AIRBAGS TAKATA |
 | L10 | A troca é gratuita e leva cerca de duas horas na concessionária. | Relógio de duas horas; selo GRÁTIS. | GRÁTIS, 2 HORAS |
 | L11 | Consulte o chassi no site da Fiat. Se foi convocado, agende a troca. | Campo de chassi e botão Consultar. | CONSULTE O CHASSI |
-| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L12 | Resumindo: houve vários recalls do airbag do Novo Palio; consulte o chassi e, se foi convocado, agende a troca. | O Palio inteiro em arame, com a zona do problema acesa (o airbag); a etiqueta RESUMO aparece. | RESUMO |
+| L13 | Se esse vídeo te ajudou, salve e mande para quem tem um Palio. | O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L14 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

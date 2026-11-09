@@ -80,6 +80,8 @@ Acesso de todas as fontes: 2026-11-09. Sem preço. Cada trecho tem até 25 palav
 | L12 | 11 |
 | L13 | 12 |
 | L14 | 2 |
+| L15 | Resumo: apoia-se nas mesmas fontes das falas L02 e L14 (nenhuma afirmação nova) |
+| L16 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala (L15) é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".
 

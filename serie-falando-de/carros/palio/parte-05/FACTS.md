@@ -14,7 +14,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L08 | Correção do recall. | [Istoé Dinheiro, Fiat convoca recall de mais de 3 mil Palio com problemas em cintos](https://istoedinheiro.com.br/fiat-convoca-recall-de-mais-de-tres-mil-modelos-palio-com-problemas-em-cintos) (imprensa, 29/07/2013)<br>[iCarros, Palio e Strada Fire são chamados para recall](https://www.icarros.com.br/noticias/manutencao-e-servicos/palio-e-strada-fire-sao-chamados-para-recall/14720.html) (imprensa, 29/07/2013) | As duas páginas: troca gratuita dos fechos dos cintos dianteiros em concessionárias Fiat, com agendamento, a partir de 29/07/2013. |
 | L09 | Convite de conferência pelo chassi. | sem fonte (instrução genérica de segurança ou de compra, não é afirmação sobre frequência) | Orientação do METODO.md, item 9. |
 | L10 | Instrução genérica de segurança. | sem fonte (instrução genérica de segurança ou de compra, não é afirmação sobre frequência) | Cinto é item de segurança: METODO.md, item 9 manda para oficina de confiança. |
-| L11 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L11 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L02, L08 e L09 | Apoia-se nas mesmas fontes das falas L02, L08 e L09; nenhuma afirmação nova. |
+| L12 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L13 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

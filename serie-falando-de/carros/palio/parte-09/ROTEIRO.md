@@ -2,7 +2,7 @@
 
 - **Classificação:** Relato recorrente (imprensa e mecânicos)
 - **Selo:** RELATO DE DONOS
-- **Duração estimada:** 137 palavras ÷ 2,2 = 62 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 170 palavras ÷ 2,2 = 77 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Autoo (2024): Palio de segunda geração (2012 em diante; 1.0 8V, 1.4 8V e 1.6 16V). Oficina Brasil: Palio Weekend 1.6 16V 2002 (2007) e Palio 1.0 16V 2002 (2008).
 - **Grau de certeza na fala:** Fala diz: 'o Autoo cita', 'a Oficina Brasil descreve'. Causa só como 'provável' (Autoo) ou como dita pelo mecânico. Não há número oficial.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -20,7 +20,9 @@
 | L07 | São relatos de fontes diferentes. Não achamos número oficial de quantos carros têm isso. | Selo RELATO DE DONOS. | SEM NÚMERO OFICIAL |
 | L08 | Suspensão e direção são itens de segurança: ruído e folga merecem a avaliação de um mecânico de confiança. | Mecânico examina a suspensão dianteira. | SEGURANÇA: AVALIE |
 | L09 | Comprando usado, ande em rua irregular e escute se há estalos na dianteira. | Test drive em paralelepípedo. | TESTE NA RUA |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: estalos na dianteira são relatos de fontes diferentes; ruído e folga merecem a avaliação de um mecânico de confiança. | O Palio inteiro em arame, com a zona do problema acesa (a suspensão dianteira); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem um Palio. | O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

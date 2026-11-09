@@ -15,7 +15,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L09 | Sinal de alerta do recall de 2018. | [Mecânica Online, mais veículos da Fiat são convocados por risco de desligamento do motor](https://mecanicaonline.com.br/2018/03/mais-veiculos-da-fiat-sao-convocados-em-recall-por-risco-de-desligamento-do-motor/) (imprensa especializada, 09/03/2018) | Mecânica Online (09/03/2018): sinal de alerta é a luz espia da bateria; o fabricante recomenda procurar uma concessionária imediatamente. Uma fonte. |
 | L10 | Correção: verificação e troca gratuitas, cerca de uma hora. | [Auto+ TV, Fiat convoca recall por falha no alternador](https://www.automaistv.com.br/novidades/fiat-convoca-recall-por-falha-no-alternador/) (imprensa, 23/05/2017 (atualizada 02/01/2025))<br>[Campo Grande News, Fiat convoca 70.740 carros por problemas no alternador](https://www.campograndenews.com.br/veiculos/recall-fiat-convoca-70-740-carros-por-problemas-no-alternador) (imprensa regional, 22/05/2017)<br>[Mecânica Online, mais veículos da Fiat são convocados por risco de desligamento do motor](https://mecanicaonline.com.br/2018/03/mais-veiculos-da-fiat-sao-convocados-em-recall-por-risco-de-desligamento-do-motor/) (imprensa especializada, 09/03/2018) | Auto+ TV, Campo Grande News e Mecânica Online: análise e, se preciso, troca do alternador, sem custo, cerca de uma hora. |
 | L11 | Convite de conferência pelo chassi. | sem fonte (instrução genérica de segurança ou de compra, não é afirmação sobre frequência) | Orientação do METODO.md, item 9. |
-| L12 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L12 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L02, L10 e L11 | Apoia-se nas mesmas fontes das falas L02, L10 e L11; nenhuma afirmação nova. |
+| L13 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L14 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

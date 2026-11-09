@@ -1,7 +1,7 @@
 # Falando de HB20 #7: Semieixo: recalls de 2017 e 2019
 
 - **Classificação:** Fato documentado (dois recalls da Hyundai: 2017 e 2019)
-- **Duração estimada:** 187 palavras ÷ 2,2 = 85 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 220 palavras ÷ 2,2 = 100 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** HB20 e HB20S 1.0 com câmbio manual de 5 marchas, primeira geração. Recall 2017: modelo 2017, produção de 20/04 a 26/05/2017. Recall 2019: modelo 2019, produção de 01/04 a 20/05/2019. HB20X e o turbo: não citados nos comunicados.
 - **Grau de certeza na fala:** Fala diz: 'a Hyundai fez dois recalls' e 'segundo a Hyundai'. Os totais de veículos vêm só da imprensa e ficaram fora da fala. A fala repete a ressalva oficial: freio e direção continuam funcionando.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | A Hyundai diz que freio e direção continuam funcionando, e recomenda interromper o uso e procurar a concessionária. | Pedal e volante com visto; seta para a concessionária. | PARE E PROCURE |
 | L08 | Nos dois casos, inspeção e troca, se preciso, são gratuitas, em cerca de duas horas. | Selo GRÁTIS; relógio de 2 horas; semieixo novo entra. | GRÁTIS, 2 HORAS |
 | L09 | Só uma faixa de chassis foi convocada. Confira o seu numa concessionária Hyundai ou no portal de recall do governo. | Campo de chassi e botão Consultar. | CONFIRA O CHASSI |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: houve dois recalls do semieixo dianteiro, com reparo gratuito; só o chassi diz se o seu entrou. | O HB20 inteiro em arame, com a zona do problema acesa (o semieixo dianteiro); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem um agá bê vinte. | O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

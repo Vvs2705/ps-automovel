@@ -71,6 +71,8 @@ A fala manda conferir o manual para: o símbolo e o texto no painel (alguns carr
 | L12 | 10 e 13 |
 | L13 | 11 |
 | L14 | 13 |
+| L15 | Resumo: apoia-se nas mesmas fontes das falas L05, L06 e L07 (nenhuma afirmação nova) |
+| L16 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala (L15) é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".
 

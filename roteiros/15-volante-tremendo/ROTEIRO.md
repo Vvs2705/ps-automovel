@@ -3,7 +3,7 @@
 **Título do vídeo:** Volante tremendo: as causas e quando é perigoso
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** volante de arame em primeiro plano, tremendo; um alerta laranja pulsa no centro. Fala: "Volante tremendo é sinal de problema."
-**Duração estimada:** 190 palavras ÷ 2,2 = 86 s (1:26)
+**Duração estimada:** 218 palavras ÷ 2,2 = 99 s (1:39)
 **Fontes:** `FACTS.md` desta pasta (Pirelli, Michelin, Continental, Goodyear, Bridgestone, Fras-le, Fremax, Nakata, Bosch, AutoPapo, O Mecânico)
 
 ## Falas
@@ -24,7 +24,9 @@
 | L12 | Viu a bolha? Pare em local seguro e chame a oficina ou o guincho. | O carro de arame encosta no acostamento com as setas piscando; dois ícones acendem: guincho e oficina. | PARE · CHAME AJUDA |
 | L13 | Tremor forte, barulho ou carro puxando para um lado: vá à oficina o quanto antes. | Três alertas vermelhos em volta do volante: onda de som, seta de desvio e tremor forte; uma seta aponta para a oficina. | FORTE · BARULHO · PUXA |
 | L14 | Conte à oficina quando o volante treme: isso ajuda a não trocar peça à toa. | Uma ficha com quatro caixas marcadas surge no painel: velocidade, só ao frear, barulho, puxa para um lado. | DIGA QUANDO TREME |
-| L15 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L15 | Resumindo: a hora em que o volante treme ajuda a achar a causa; conte isso à oficina. | O carro inteiro em arame, com a zona do problema acesa (o volante e as rodas); a etiqueta RESUMO aparece. | RESUMO |
+| L16 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L17 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

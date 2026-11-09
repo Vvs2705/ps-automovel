@@ -1,7 +1,7 @@
 # Falando de Strada #10: Cintos de segurança (2013)
 
 - **Classificação:** Fato documentado (dois recalls de 2013: julho, noticiado pela Senacon, e dezembro, registrado pela Senacon)
-- **Duração estimada:** 168 palavras ÷ 2,2 = 76 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 197 palavras ÷ 2,2 = 90 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** 1ª geração. Julho de 2013: Strada 1.4 e Cabine Estendida 1.4, 2012 e 2013, com airbag duplo. Dezembro de 2013: Strada cabine dupla de três portas, produzida de 05/07 a 19/11/2013.
 - **Grau de certeza na fala:** Fala diz: 'a Fiat fez dois recalls' e 'segundo o Ministério da Justiça'. O total de julho é de Strada e Palio Fire juntos; o de dezembro é o número que a Senacon registrou.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -20,7 +20,9 @@
 | L08 | Os parafusos da ancoragem do cinto do passageiro dianteiro tinham trinta e três milímetros, e o projeto previa trinta e oito. | Dois parafusos lado a lado: 33 mm e 38 mm. | PARAFUSO CURTO |
 | L09 | A Senacon registrou oitocentos e trinta veículos nesse segundo recall. | Contador sobe até 830. | 830 VEÍCULOS |
 | L10 | Confira pelo chassi no site da Fiat ou no portal do governo. | Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo. | CONFIRA O CHASSI |
-| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L11 | Resumindo: houve dois recalls do cinto de segurança em dois mil e treze; confira o chassi. | A Strada inteira em arame, com a zona do problema acesa (o cinto de segurança dianteiro); a etiqueta RESUMO aparece. | RESUMO |
+| L12 | Se esse vídeo te ajudou, salve e mande para quem tem uma Strada. | A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

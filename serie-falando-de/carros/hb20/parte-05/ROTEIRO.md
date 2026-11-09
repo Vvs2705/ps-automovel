@@ -1,7 +1,7 @@
 # Falando de HB20 #5: Marcador de combustível impreciso
 
 - **Classificação:** Relato recorrente de donos/mecânicos
-- **Duração estimada:** 137 palavras ÷ 2,2 = 62 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 173 palavras ÷ 2,2 = 79 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** HB20 de primeira geração (2013–2019) segundo Verificar Auto e Autoo. O Vrum não cita ano nem geração: a fala não amarra a segunda geração.
 - **Grau de certeza na fala:** Fala diz: 'reportagens e guias de compra citam' e 'donos relatam'. Não diz defeito de fábrica nem dá número de casos.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | Na compra de um usado, abasteça e confira se o ponteiro acompanha o nível. | Frentista abastece; ponteiro sobe junto. | TESTE O MARCADOR |
 | L08 | Enquanto não resolve, anote a quilometragem de cada tanque para não depender só do ponteiro. | Hodômetro parcial zerado no abastecimento; bloco de notas. | USE O HODÔMETRO |
 | L09 | É relato recorrente, sem número oficial de casos. | Carimbo RELATO RECORRENTE. | RELATO, SEM NÚMERO |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: o marcador de combustível impreciso é relato recorrente; na compra de um usado, abasteça e confira se o ponteiro acompanha. | O HB20 inteiro em arame, com a zona do problema acesa (o tanque e o marcador de combustível); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem um agá bê vinte. | O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

@@ -14,7 +14,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L08 | Total noticiado: 139.159 veículos. | [Carzin, Hyundai e Porsche anunciam recall](https://carzin.com.br/recalls/hyundai-porsche-anunciam-recall.html) (imprensa, 02/01/2017)<br>[Jornal da Paraíba, chamada de recall atinge 772 veículos (informações do Procon-JP)](http://jornaldaparaiba.com.br/cotidiano/vidaurbana/chamada-de-recall-atinge-772-veiculos-na-paraiba-saiba-mais) (imprensa com dados do Procon municipal, 17/01/2017) | Carzin (02/01/2017) e Jornal da Paraíba (17/01/2017) trazem 139.159. O PDF da Hyundai não traz total; por isso a fala diz 'a imprensa noticiou'. |
 | L09 | Orientação do comunicado: secar o local e levar à concessionária para verificar infiltração. | [Hyundai, comunicado de recall do indicador de marchas](https://www.hyundai.com.br/content/dam/hmb/servicos/recall/pdf/Aviso%20de%20Recall%2080000_127550_2016_80.pdf) (fabricante, atendimento desde 28/12/2016; o arquivo não traz data de emissão) | PDF da Hyundai (orientação ao proprietário). |
 | L10 | Instrução genérica de recall: consultar o chassi. | sem fonte (instrução genérica de segurança) | Instrução genérica (marcada como tal). O recall é restrito a faixas de chassi do comunicado; portal do governo e site da Hyundai não abriram na pesquisa. |
-| L11 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L11 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L02, L07 e L10 | Apoia-se nas mesmas fontes das falas L02, L07 e L10; nenhuma afirmação nova. |
+| L12 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L13 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

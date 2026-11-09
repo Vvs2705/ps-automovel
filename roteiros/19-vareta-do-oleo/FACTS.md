@@ -84,6 +84,8 @@ A fala deve mandar conferir o manual para: tempo de espera; motor aquecido ou pa
 | L14 | 12 |
 | L15 | sem afirmação (remete ao tema 11 do canal) |
 | L16 | sem afirmação (fecho do canal) |
+| L16 | Resumo: apoia-se nas mesmas fontes das falas L02, L05 e L09 (nenhuma afirmação nova) |
+| L17 | Chamada para salvar e compartilhar (sem afirmação) |
 
 Nenhuma fala usa afirmação da seção "Cortado".
 

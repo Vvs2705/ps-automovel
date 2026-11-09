@@ -77,6 +77,8 @@ A fala manda conferir o manual (L08) para o que muda de carro para carro.
 | L13 | 11 (e 10) |
 | L14 | 12 |
 | L15 | sem afirmação (fecho do canal) |
+| L15 | Resumo: apoia-se nas mesmas fontes das falas L05 e L07 (nenhuma afirmação nova) |
+| L16 | Chamada para salvar e compartilhar (sem afirmação) |
 
 Nenhuma fala usa afirmação da seção "Cortado".
 

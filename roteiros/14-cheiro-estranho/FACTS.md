@@ -75,6 +75,8 @@ A fala manda conferir o manual para o prazo do filtro de cabine (linha 12). Os p
 | L10 | 10 (a fala usa "dor de cabeça ou enjoo": a fonte diz "dor de cabeça latejante, náusea") |
 | L11 | 11 |
 | L12 | 12 |
+| L13 | Resumo: apoia-se nas mesmas fontes das falas L01, L03 e L09 (nenhuma afirmação nova) |
+| L14 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala (L13) é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".
 

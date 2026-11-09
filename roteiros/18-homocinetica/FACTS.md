@@ -80,6 +80,8 @@ A fala não dá número e não generaliza para três coisas.
 | L12 | 12 |
 | L13 | 13 |
 | L14 | 14 |
+| L15 | Resumo: apoia-se nas mesmas fontes das falas L02, L09 e L10 (nenhuma afirmação nova) |
+| L16 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala (L15) é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".
 

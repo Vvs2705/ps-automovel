@@ -1,7 +1,7 @@
 # Falando de HB20 #9: Cilindro mestre: recalls 2020 e 2021
 
 - **Classificação:** Fato documentado (dois recalls da Hyundai: novembro de 2020 e dezembro de 2021)
-- **Duração estimada:** 190 palavras ÷ 2,2 = 86 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 221 palavras ÷ 2,2 = 100 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Recall 2020: HB20 modelo 2020, produzido de 02/03 a 08/03/2020 (o comunicado inclui também o Creta e não cita HB20S nem HB20X). Recall 2021: HB20, HB20S e HB20X anos-modelo 2021 e 2022, produzidos de 05/11/2020 a 15/11/2021. Motor e câmbio: não restritos nos comunicados. A geração não é dita pelas fontes.
 - **Grau de certeza na fala:** Fala diz: 'a Hyundai fez dois recalls' e 'segundo a Hyundai'. A fala repete as ressalvas oficiais (em frenagem de emergência o freio funciona; no recall de 2021 o dano atinge só uma das duas linhas) e a recomendação de interromper o uso. Sem total de veículos.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | O dano atinge só uma das duas linhas: na maioria dos casos, a eficiência cai, sem perda total de frenagem. | Circuito de freio com duas linhas; uma destacada em vermelho. | SÓ UMA LINHA |
 | L08 | Nos dois casos, a Hyundai recomenda parar de usar o carro e procurar a concessionária. Inspeção e troca do cilindro mestre são gratuitas e levam cerca de duas horas. | Selo GRÁTIS; relógio de 2 horas; cilindro mestre novo. | PARE E PROCURE |
 | L09 | Confira o chassi numa concessionária Hyundai ou no portal de recall do governo. | Campo de chassi e botão Consultar. | CONFIRA O CHASSI |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: houve dois recalls do cilindro mestre do freio, e a Hyundai recomenda procurar a concessionária. | O HB20 inteiro em arame, com a zona do problema acesa (os freios); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem um agá bê vinte. | O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

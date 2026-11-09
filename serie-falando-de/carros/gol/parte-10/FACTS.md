@@ -13,7 +13,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L07 | Faixas de chassi das campanhas se sobrepõem; conferir pelo chassi. | [Volkswagen, consulta de recall por chassi](https://vwapps.volkswagen.com.br/Recall) (fabricante, sem data)<br>[gov.br, consulta de recall](https://www.gov.br/pt-br/servicos/realizar-consulta-sobre-recall-de-veiculos) (órgão oficial, sem data) | Síntese das fontes; por isso a fala não lista faixa. |
 | L08 | Consulta por chassi no site da VW; serviço do governo por placa ou chassi, com conta gov.br. | [Volkswagen, consulta de recall por chassi](https://vwapps.volkswagen.com.br/Recall) (fabricante, sem data)<br>[gov.br, consulta de recall](https://www.gov.br/pt-br/servicos/realizar-consulta-sobre-recall-de-veiculos) (órgão oficial, sem data) | Páginas oficiais. |
 | L09 | Instrução; o reparo de recall é feito pela concessionária. | sem fonte (gancho, chamada ou assinatura) | Chamada à ação; remédio de recall é a troca/inspeção do gerador (Procon-SP). |
-| L10 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L10 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L02, L07 e L09 | Apoia-se nas mesmas fontes das falas L02, L07 e L09; nenhuma afirmação nova. |
+| L11 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L12 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

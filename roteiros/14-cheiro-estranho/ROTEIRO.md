@@ -3,7 +3,7 @@
 **Título do vídeo:** Cheiro estranho no carro: o que ele pode indicar
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** carro de arame com uma onda de cheiro laranja saindo do capô e um triângulo de aviso piscando. Fala: "O cheiro que sai do seu carro é um aviso."
-**Duração estimada:** 193 palavras ÷ 2,2 = 88 s (1:27)
+**Duração estimada:** 220 palavras ÷ 2,2 = 100 s (1:39)
 **Fontes:** `FACTS.md` desta pasta (manuais Hyundai, Kia e Mazda; Cobreq/TMD Friction; Mahle; CETESB; AutoPapo, O Mecânico, Mecânica Online, iCarros, Oficina Brasil)
 
 ## Falas
@@ -22,7 +22,9 @@
 | L10 | Com dor de cabeça ou enjoo, saia do carro e procure atendimento médico. | Boneco de arame sem rosto leva a mão à cabeça, sai do carro para o ar livre e uma cruz de socorro acende em ciano. | DOR DE CABEÇA |
 | L11 | Cheiro de mofo ao ligar o ar-condicionado pode vir de umidade e sujeira dentro do sistema, em dutos, filtro e evaporador. | Duto de ar-condicionado em corte; gotas de condensação e manchas de mofo aparecem no evaporador e no filtro; uma onda de cheiro sobe pela saída de ar. | UMIDADE · SUJEIRA |
 | L12 | Faça a higienização e confira no manual quando trocar o filtro. | O filtro de cabine é retirado e um jato de limpeza ciano percorre o duto; o manual abre num capítulo de manutenção. | HIGIENIZE · FILTRO |
-| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L13 | Resumindo: o cheiro do carro é um aviso, e combustível ou escapamento pedem agir na hora. | O carro inteiro em arame, com a zona do problema acesa (o escapamento e o tanque); a etiqueta RESUMO aparece. | RESUMO |
+| L14 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L15 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

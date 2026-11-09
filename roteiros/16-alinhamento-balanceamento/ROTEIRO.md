@@ -3,7 +3,7 @@
 **Título do vídeo:** Alinhamento ou balanceamento: qual é qual
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** duas rodas de arame lado a lado, uma com setas de ângulo e outra com pesinhos no aro; um "≠" gigante pisca entre elas. Fala: "Alinhar não é balancear. Você sabe a diferença?"
-**Duração estimada:** 185 palavras ÷ 2,2 = 84 s (1:24)
+**Duração estimada:** 212 palavras ÷ 2,2 = 96 s (1:36)
 **Fontes:** `FACTS.md` desta pasta (Pirelli, Michelin, Goodyear, Bridgestone, Hankook, Continental, Dana, manuais Hyundai/Renault/VW, AutoPapo, Mecânica Online, O Mecânico)
 
 ## Falas
@@ -22,7 +22,9 @@
 | L10 | Bateu a roda em buraco ou no meio-fio? Mande verificar o alinhamento e o balanceamento. | A roda cai num buraco de arame; uma onda de choque laranja sobe pela suspensão, os ângulos saem do paralelo e a balanceadora e o alinhador piscam. | BURACO · MEIO-FIO |
 | L11 | De quanto em quanto tempo? Fabricantes de pneu citam intervalos diferentes. Confira o manual do seu carro. | Três cartões de intervalos diferentes (sem números legíveis) se sobrepõem; o manual do carro abre e um deles brilha em ciano. | CONFIRA O MANUAL |
 | L12 | Procure uma oficina de confiança: os dois serviços pedem equipamento próprio. | Carro de arame no alinhador, com sensores nas rodas, e uma roda numa balanceadora; mecânico holográfico sem rosto trabalha (nenhuma pessoa real). | OFICINA DE CONFIANÇA |
-| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L13 | Resumindo: alinhamento acerta os ângulos das rodas, e balanceamento compensa o peso de roda e pneu. | O carro inteiro em arame, com a zona do problema acesa (as rodas e os pneus); a etiqueta RESUMO aparece. | RESUMO |
+| L14 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L15 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

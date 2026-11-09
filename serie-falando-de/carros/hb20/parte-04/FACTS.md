@@ -13,7 +13,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L07 | Resposta da Hyundai nos casos do Autoo: levar o veículo a uma concessionária autorizada para avaliação. | [Autoo, HB20: sucesso nas ruas, mas com reclamações dos proprietários (Stephanie Gomes)](https://www.autoo.com.br/hb20-sucesso-nas-ruas-mas-com-reclamacoes-dos-proprietarios-veja-as-principais/) (imprensa (relatos de leitores e de sites de defesa do consumidor), 04/01/2025) | Autoo (04/01/2025): a montadora pediu que o dono levasse o veículo a uma concessionária autorizada. |
 | L08 | Instrução genérica de compra de usado. | sem fonte (instrução genérica de segurança) | Instrução genérica (marcada como tal): nenhuma fonte aberta confirma que atualização resolve. |
 | L09 | Sem estatística oficial. | [Autoo, HB20: sucesso nas ruas, mas com reclamações dos proprietários (Stephanie Gomes)](https://www.autoo.com.br/hb20-sucesso-nas-ruas-mas-com-reclamacoes-dos-proprietarios-veja-as-principais/) (imprensa (relatos de leitores e de sites de defesa do consumidor), 04/01/2025)<br>[Vrum, HB20: veja as principais reclamações do hatch](https://www.vrum.com.br/aceleradas/2025/01/7030095-hyundai-hb20-veja-as-principais-reclamacoes-do-hatch.html) (imprensa (a partir de reclamações no Reclame Aqui), 08/01/2025)<br>[Verificar Auto, HB20 de primeira geração usado](https://verificarauto.com.br/hb20-primeira-geracao-usado/) (imprensa (guia de compra), 13/10/2026) | Nenhuma fonte traz número de casos nem comunicado do fabricante. |
-| L10 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L10 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L08 e L09 | Apoia-se nas mesmas fontes das falas L08 e L09; nenhuma afirmação nova. |
+| L11 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L12 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

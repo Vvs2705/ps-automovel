@@ -1,7 +1,7 @@
 # Falando de Strada #7: Relés de ignição e injeção
 
 - **Classificação:** Fato documentado (recall de junho de 2018; registro da Senacon e matérias da época)
-- **Duração estimada:** 142 palavras ÷ 2,2 = 65 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 171 palavras ÷ 2,2 = 78 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Strada 1.4, anos 2017 e 2018 (1ª geração), chassi (6 últimos dígitos) 181519 a 246187. O recall inclui nove modelos (Uno, Novo Palio, Argo, Mobi, Toro, Grand Siena, Strada, Palio Weekend e Fiorino).
 - **Grau de certeza na fala:** Fala diz: 'a Fiat fez recall' e 'uma matéria da época contou'. O número de Stradas é de uma só matéria e vem atribuído.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | A troca dos relés é gratuita e leva cerca de trinta minutos. | Relógio de 30 minutos; selo GRÁTIS. | 30 MINUTOS GRÁTIS |
 | L08 | Confira pelo chassi no site da Fiat ou no portal do governo. | Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo. | CONFIRA O CHASSI |
 | L09 | Comprando uma Strada um ponto quatro dessa época, pergunte se o recall foi feito. | Comprador pergunta ao vendedor; visto no comprovante. | PERGUNTE NA COMPRA |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: houve recall dos relés de ignição e de injeção, com troca gratuita; confira o chassi. | A Strada inteira em arame, com a zona do problema acesa (o motor e os relés); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem uma Strada. | A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

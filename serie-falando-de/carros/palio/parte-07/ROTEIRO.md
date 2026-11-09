@@ -2,7 +2,7 @@
 
 - **Classificação:** Relato recorrente (imprensa, dado de empresa citado pela imprensa e mecânicos)
 - **Selo:** RELATO DE DONOS
-- **Duração estimada:** 172 palavras ÷ 2,2 = 78 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 206 palavras ÷ 2,2 = 94 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Vrum (2022): primeira geração, atuador da embreagem. Autoo (2025): Palio Attractive 2013/2014 (primeiro caso 1.0). Autopapo (2021): Palio, sem ano nem motor. Oficina Brasil (2008): Palio 1.0 16V 2002.
 - **Grau de certeza na fala:** Fala diz: 'aparece em várias fontes, cada uma com um sintoma', e atribui cada dado à publicação. Não há número oficial. Não generaliza para todo Palio.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -21,7 +21,9 @@
 | L08 | Atenção a barulho ao pisar no pedal e a pedal que quebra: nesse caso, o carro pode ficar sem andar. | Pedal quebra; o carro parado no acostamento. | PEDAL QUEBRADO |
 | L09 | Leve a uma oficina de confiança para diagnosticar antes de trocar peça. | Mecânico examinando o pedal. | DIAGNOSTICAR ANTES |
 | L10 | Comprando usado, teste o pedal e peça o histórico da embreagem. | Test drive; pedal pisado várias vezes. | TESTE O PEDAL |
-| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L11 | Resumindo: os relatos de embreagem vêm de fontes diferentes; leve a uma oficina de confiança para diagnosticar antes de trocar peça. | O Palio inteiro em arame, com a zona do problema acesa (a embreagem); a etiqueta RESUMO aparece. | RESUMO |
+| L12 | Se esse vídeo te ajudou, salve e mande para quem tem um Palio. | O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

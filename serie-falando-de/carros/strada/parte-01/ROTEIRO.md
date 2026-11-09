@@ -1,7 +1,7 @@
 # Falando de Strada #1: Água na cabine
 
 - **Classificação:** Relato recorrente de donos (imprensa que cita Reclame Aqui e fóruns); a fabricante chama os casos de 'pontuais'
-- **Duração estimada:** 136 palavras ÷ 2,2 = 62 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 168 palavras ÷ 2,2 = 76 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Nova Strada (2ª geração, 2020 em diante). Matérias de 2022 falam da 'nova Strada'; a de 2025 cita unidades 2024 e a linha 2025. Motor: não citado em nenhuma fonte.
 - **Grau de certeza na fala:** Fala diz: 'donos relatam', 'é hipótese, não laudo' e 'não encontramos recall'. Nunca diz 'defeito de fábrica' nem que é comum em todo carro.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | A fabricante respondeu que os casos são pontuais e têm causas distintas. | Balão de resposta da fabricante com as palavras PONTUAIS e CAUSAS DISTINTAS. | FABRICANTE RESPONDEU |
 | L08 | Não encontramos recall sobre esse problema. | Carimbo RECALL riscado sobre a lista de comunicados. | SEM RECALL ACHADO |
 | L09 | Se acontecer com você, leve à concessionária e registre o caso por escrito, com fotos e datas. | Celular fotografa o tapete molhado; folha com data e protocolo. | REGISTRE POR ESCRITO |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: água na cabine é relato de donos, sem recall; leve à concessionária e registre o caso por escrito. | A Strada inteira em arame, com a zona do problema acesa (a cabine); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem uma Strada. | A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

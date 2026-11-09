@@ -15,7 +15,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L09 | Unidades do Palio e do Weekend no recall de 2018. | [Autopapo, Fiat convoca 11,6 mil unidades por problema no câmbio](https://autopapo.com.br/noticia/fiat-convoca-11-mil-defeito-cambio/) (imprensa, 01/10/2018 (atualizada 03/09/2024))<br>[Motor Show, Fiat anuncia recall de oito modelos (sensor de seleção)](https://motorshow.com.br/fiat-anuncia-recall-de-oito-modelos-no-brasil-2) (imprensa, 28/09/2018) | Autopapo e Motor Show: Palio 1.6 ano 2017, 141 unidades; Weekend 1.6 anos 2017 e 2018, 66 unidades. Garagem360 lista os mesmos modelos sem totais. |
 | L10 | Correção do recall de 2018. | [Autopapo, Fiat convoca 11,6 mil unidades por problema no câmbio](https://autopapo.com.br/noticia/fiat-convoca-11-mil-defeito-cambio/) (imprensa, 01/10/2018 (atualizada 03/09/2024))<br>[Motor Show, Fiat anuncia recall de oito modelos (sensor de seleção)](https://motorshow.com.br/fiat-anuncia-recall-de-oito-modelos-no-brasil-2) (imprensa, 28/09/2018) | Autopapo: troca do sensor de seleção, cerca de uma hora; Motor Show: inspeção e, se preciso, troca, cerca de uma hora. |
 | L11 | Convite de conferência pelo chassi. | sem fonte (instrução genérica de segurança ou de compra, não é afirmação sobre frequência) | Orientação do METODO.md, item 9. |
-| L12 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L12 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L02, L07, L10 e L11 | Apoia-se nas mesmas fontes das falas L02, L07, L10 e L11; nenhuma afirmação nova. |
+| L13 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L14 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

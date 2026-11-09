@@ -72,6 +72,8 @@ A fala manda conferir o manual para o que segue.
 | L11 | 11 (e "Varia por carro") |
 | L12 | 12 |
 | L13 | fecho do canal (sem afirmação) |
+| L13 | Resumo: apoia-se nas mesmas fontes das falas L02 e L06 (nenhuma afirmação nova) |
+| L14 | Chamada para salvar e compartilhar (sem afirmação) |
 
 Nenhuma fala usa afirmação da seção "Cortado".
 

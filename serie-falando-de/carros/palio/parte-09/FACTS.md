@@ -13,7 +13,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L07 | Classificação como relato. | sem fonte (instrução genérica de segurança ou de compra, não é afirmação sobre frequência) | METODO.md, item 11. |
 | L08 | Orientação de segurança. | [Autoo, 5 pontos na compra do Palio usado (Fernando Garcia)](https://www.autoo.com.br/seu-por-r-27-mil-veja-5-pontos-importantes-na-compra-do-fiat-palio-usado/) (imprensa, 12/02/2024) | Autoo manda levar a um mecânico de confiança para avaliação. |
 | L09 | Orientação de compra, a partir do sintoma que o Autoo descreve. | sem fonte (instrução genérica de segurança ou de compra, não é afirmação sobre frequência) | Boa prática; coerente com o sintoma do Autoo, não é afirmação sobre frequência. |
-| L10 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L10 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L07 e L08 | Apoia-se nas mesmas fontes das falas L07 e L08; nenhuma afirmação nova. |
+| L11 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L12 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

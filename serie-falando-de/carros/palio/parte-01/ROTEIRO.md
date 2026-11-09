@@ -2,7 +2,7 @@
 
 - **Classificação:** Relato recorrente (imprensa especializada); faixa de preço de imprensa com mês e ano
 - **Selo:** RELATO DE DONOS
-- **Duração estimada:** 167 palavras ÷ 2,2 = 76 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 199 palavras ÷ 2,2 = 90 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Câmbio automatizado Dualogic. Vrum (2022): versões 1.6 e 1.8, primeira geração (1996 a 2018 no texto). Autoo (2024): Palio de segunda geração, versões 1.6. O ano de fabricação do Dualogic não é dito pelas fontes.
 - **Grau de certeza na fala:** Fala diz: 'guias de usados do Vrum e do Autoo citam' e 'não achamos número oficial'. Causa só aparece como 'o Autoo liga ao atuador da embreagem'. Preço entra como faixa de imprensa com mês e ano.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -21,7 +21,9 @@
 | L08 | Para embreagem patinando ou atuador com falha, o Vrum publicou em abril de dois mil e vinte e cinco uma faixa de até seis mil reais, no Dualogic em geral. Varia por oficina. | Etiqueta de preço com a data 04/2025 e a faixa; selo VARIA POR OFICINA. | ATÉ 6 MIL |
 | L09 | Leve a uma oficina de confiança com scanner: diagnosticar antes de trocar peça. | Scanner ligado ao carro; lista de códigos aparece. | DIAGNOSTICAR ANTES |
 | L10 | Comprando usado, teste as trocas e a arrancada, e consulte o chassi: houve recalls do Dualogic. | Test drive; campo de chassi no site da montadora. | TESTE E CHASSI |
-| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L11 | Resumindo: o câmbio automatizado pode dar trancos na troca; leve a uma oficina com scanner antes de trocar peça. | O Palio inteiro em arame, com a zona do problema acesa (o câmbio); a etiqueta RESUMO aparece. | RESUMO |
+| L12 | Se esse vídeo te ajudou, salve e mande para quem tem um Palio. | O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

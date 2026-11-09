@@ -2,7 +2,7 @@
 
 - **Classificação:** Fato documentado (recalls de novembro de 2017 e de junho de 2018)
 - **Selo:** FATO DOCUMENTADO
-- **Duração estimada:** 186 palavras ÷ 2,2 = 85 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 219 palavras ÷ 2,2 = 100 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Palio Weekend 1.6 e 1.8, anos 2016 e 2017 (bobina de ignição, novembro de 2017) e Palio Weekend 1.4, ano 2018 (relés de ignição e injeção, junho de 2018). A bobina também atingiu Novo Palio 1.0 e Grand Siena 1.6 (Autopapo, Auto+ TV).
 - **Grau de certeza na fala:** Fala diz: 'a Fiat fez dois recalls', 'segundo a Fiat'. Lotes pequenos: a fala não cita unidades do Weekend (só uma página dá a conta). Total da bobina (5.802) aparece em Auto+ TV e Car.blog.br; Autopapo diz 'mais de 5.800'.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -22,7 +22,9 @@
 | L09 | A correção é gratuita: cerca de uma hora para a bobina e cerca de trinta minutos para os relés. | Dois relógios: 1 hora e 30 minutos. | REPARO GRÁTIS |
 | L10 | Foram lotes por faixa de chassi: só o chassi diz se o seu Weekend entrou. | Faixa de chassi com lacunas; campo de consulta. | VEJA O CHASSI |
 | L11 | Consulte o chassi no site da Fiat. | Campo de chassi e botão Consultar. | CONSULTE O CHASSI |
-| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L12 | Resumindo: houve dois recalls ligados à ignição no Weekend, com correção gratuita; só o chassi diz se o seu entrou. | O Palio inteiro em arame, com a zona do problema acesa (o motor e a bobina de ignição); a etiqueta RESUMO aparece. | RESUMO |
+| L13 | Se esse vídeo te ajudou, salve e mande para quem tem um Palio. | O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L14 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

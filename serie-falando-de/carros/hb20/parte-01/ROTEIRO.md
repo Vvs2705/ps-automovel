@@ -1,7 +1,7 @@
 # Falando de HB20 #1: Radiador e câmbio do 1.0 turbo
 
 - **Classificação:** Relato recorrente de donos/mecânicos, com reconhecimento da Hyundai noticiado pela imprensa (não é recall)
-- **Duração estimada:** 171 palavras ÷ 2,2 = 78 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 199 palavras ÷ 2,2 = 90 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** HB20 com motor Kappa 1.0 T-GDI (turbo) e câmbio automático. As reportagens não citam anos-modelo nem faixa de chassi; citam também o Creta (HB20S só em fontes fracas). 'Não citado' não é 'não afeta'.
 - **Grau de certeza na fala:** Fala diz: 'reportagens de dois mil e vinte e seis dizem que a Hyundai reconheceu' e 'segundo as reportagens'. A declaração da Hyundai e o boletim técnico não foram vistos em fonte primária; a fala não afirma recall, defeito de projeto nem que atinge todos os carros.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | Não é recall, e as reportagens não trazem lista de anos nem de chassis. | Carimbo RECALL riscado; campo de chassi vazio. | NÃO É RECALL |
 | L08 | A confirmação só vem do diagnóstico na concessionária: leve o histórico de manutenção. | Técnico conecta o scanner; prancheta com histórico. | DIAGNÓSTICO NA AUTORIZADA |
 | L09 | Se o motor superaquecer, pare em local seguro, desligue o carro e chame ajuda. Nunca abra a tampa do radiador quente. | Carro encostado, pisca-alerta; mão afastada da tampa do radiador. | PARE, CHAME AJUDA |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: não é recall, e só o diagnóstico na concessionária confirma o problema. | O HB20 inteiro em arame, com a zona do problema acesa (o radiador); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem um agá bê vinte. | O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

@@ -13,7 +13,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L07 | Em 2018: funcionamento irregular do motor e, em casos extremos, desligamento. | [iCarros, Fiat convoca mais de 15.500 unidades por falha em motor](https://www.icarros.com.br/noticias/manutencao-e-servicos/fiat-convoca-mais-de-15.500-unidades-por-falha-em-motor/24340.html) (imprensa, 09/03/2018) | iCarros: 'poderá ocorrer o funcionamento irregular do motor'; em casos extremos, o motor pode desligar. |
 | L08 | Conferir se o carro foi convocado: pelo chassi, no site do fabricante ou no portal oficial. | [Ministério dos Transportes / Senatran, como funciona o recall](https://www.gov.br/transportes/pt-br/assuntos/noticias/2024/10/voce-sabe-o-que-e-e-como-funciona-o-recall-a-senatran-tira-suas-duvidas) (órgão oficial, 04/10/2024) | Ministério dos Transportes (04/10/2024): a consulta é por placa ou chassi no portal da Senatran ou no app Carteira Digital de Trânsito; o portal registra recalls a partir de 20/04/2011. (Sem comunicado atual da Fiat aberto para estes recalls.) |
 | L09 | Orientação prática para quem compra usada. | instrução genérica de segurança (sem fonte específica; não é afirmação sobre o carro) | Instrução genérica; não é afirmação sobre o carro. |
-| L10 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L10 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L02, L06, L07 e L08 | Apoia-se nas mesmas fontes das falas L02, L06, L07 e L08; nenhuma afirmação nova. |
+| L11 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L12 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

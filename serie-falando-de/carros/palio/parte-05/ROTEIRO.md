@@ -2,7 +2,7 @@
 
 - **Classificação:** Fato documentado (recall de julho de 2013, comunicado da Fiat repassado pela imprensa)
 - **Selo:** FATO DOCUMENTADO
-- **Duração estimada:** 150 palavras ÷ 2,2 = 68 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 180 palavras ÷ 2,2 = 82 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Palio Fire, anos 2012 e 2013, com airbags duplos (mais Strada Fire e Strada Fire cabine estendida). Motor não citado.
 - **Grau de certeza na fala:** Fala diz: 'a Fiat fez recall', 'a Fiat disse que não tinha notícia de ocorrência'. Total: iCarros dá 3.029; Istoé Dinheiro dá 'mais de três mil': a fala diz 'pouco mais de três mil'.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -21,7 +21,9 @@
 | L08 | A solução foi a troca gratuita dos fechos dianteiros na concessionária. | Fecho novo encaixa; selo GRÁTIS. | TROCA GRÁTIS |
 | L09 | Consulte o chassi no site da Fiat para saber se o seu foi convocado. | Campo de chassi e botão Consultar. | CONSULTE O CHASSI |
 | L10 | Se o cinto de qualquer carro estiver com folga ou não travar, procure uma oficina de confiança. | Cinto que não trava; oficina. | CINTO SEM TRAVAR |
-| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L11 | Resumindo: houve recall do cinto dianteiro do Palio Fire, com troca gratuita dos fechos; consulte o chassi. | O Palio inteiro em arame, com a zona do problema acesa (o cinto de segurança dianteiro); a etiqueta RESUMO aparece. | RESUMO |
+| L12 | Se esse vídeo te ajudou, salve e mande para quem tem um Palio. | O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

@@ -3,7 +3,7 @@
 **Título do vídeo:** Luz da bateria acesa nem sempre é a bateria
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** painel de arame com o ícone de bateria aceso em vermelho e uma interrogação sobre a bateria de arame ao lado. Fala: "A luz da bateria acesa pode não ser a bateria."
-**Duração estimada:** 192 palavras ÷ 2,2 = 87 s (1:27)
+**Duração estimada:** 221 palavras ÷ 2,2 = 100 s (1:40)
 **Fontes:** `FACTS.md` desta pasta (Heliar, Moura, manuais Hyundai HB20 / Nissan Kicks / VW Taos / Renault / Kia, AutoPapo, O Mecânico, Revista Carro, Gates)
 
 ## Falas
@@ -24,7 +24,9 @@
 | L12 | Com o alternador falhando, até uma bateria boa se desgasta mais rápido. | Bateria de arame saudável em ciano ao lado de um alternador quebrado; a barra de vida útil da bateria encurta. | DESGASTE MAIS RÁPIDO |
 | L13 | Antes de trocar a bateria, peça o teste do sistema de carga, para não trocar à toa. | Mecânico holográfico sem rosto liga um testador à bateria e ao alternador; aparece um visto ciano. | PEÇA O TESTE |
 | L14 | Um manual avisa: nunca desconecte a bateria com o motor funcionando. Pode danificar o sistema elétrico. | Cabo de arame preso ao polo da bateria com um grande "X" vermelho por cima; o painel pisca (ninguém mexe no cabo). | NÃO DESCONECTE |
-| L15 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L15 | Resumindo: luz da bateria acesa com o motor ligado pede parar em local seguro e procurar a oficina. | O carro inteiro em arame, com a zona do problema acesa (a bateria e o alternador); a etiqueta RESUMO aparece. | RESUMO |
+| L16 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L17 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

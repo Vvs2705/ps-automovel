@@ -1,7 +1,7 @@
 # Falando de HB20 #8: Freio duro no 1.0 turbo (recall)
 
 - **Classificação:** Fato documentado (recall de março de 2018, atendimento a partir de 29/03/2018)
-- **Duração estimada:** 176 palavras ÷ 2,2 = 80 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 206 palavras ÷ 2,2 = 94 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** HB20 e HB20S 1.0 turbo, câmbio manual de 6 marchas, modelos 2016 a 2018, produzidos de 28/01/2016 a 05/02/2018 (primeira geração). HB20X, 1.0 aspirado e 1.6: não citados.
 - **Grau de certeza na fala:** Fala diz: 'a Hyundai fez recall' e 'segundo a Hyundai'. A fala repete a ressalva oficial: o freio continua funcionando, mas exige mais força. O total de veículos não é citado (só uma página, não confirmada).
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | A Hyundai diz que o freio continua funcionando, mas exige mais força, e a frenagem pode ficar mais longa. | Carro freia, com distância de frenagem maior. | PEDAL MAIS DURO |
 | L08 | Com o assovio e a oscilação, a Hyundai recomenda parar de usar o carro e procurar a concessionária. A correção é gratuita e leva cerca de trinta minutos. | Selo GRÁTIS; relógio de 30 minutos; isolador térmico sobre a válvula. | REPARO GRÁTIS |
 | L09 | Só uma faixa de chassis foi convocada. Confira o seu numa concessionária Hyundai ou no portal de recall do governo. | Campo de chassi e botão Consultar. | CONFIRA O CHASSI |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: houve recall por freio duro; com assovio e marcha lenta oscilando, procure a concessionária. | O HB20 inteiro em arame, com a zona do problema acesa (os freios); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem um agá bê vinte. | O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

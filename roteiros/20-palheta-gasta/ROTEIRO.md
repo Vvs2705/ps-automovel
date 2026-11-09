@@ -3,7 +3,7 @@
 **Título do vídeo:** Palheta gasta: quando trocar e como notar
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** para-brisa de arame sob chuva; a palheta passa e deixa faixas borradas em laranja, com um "?" gigante sobre elas. Fala: "Vidro borrando na chuva? Pode ser a palheta vencida."
-**Duração estimada:** 176 palavras ÷ 2,2 = 80 s (1:20)
+**Duração estimada:** 205 palavras ÷ 2,2 = 93 s (1:33)
 **Fontes:** `FACTS.md` desta pasta (fabricantes de palheta Dyna, Valeo e Bosch; manuais Renault, Nissan, Honda, Hyundai e Mazda; CTB art. 230; Resolução Contran 993/2023; O Mecânico, AutoPapo)
 
 ## Falas
@@ -23,7 +23,9 @@
 | L11 | Evite querosene e álcool na borracha: podem encurtar a vida da palheta. | Um frasco genérico de líquido com um X vermelho; a borracha ao lado fica quebradiça e cinza. | SEM QUEROSENE · SEM ÁLCOOL |
 | L12 | Não ligue o limpador com o vidro seco: pode riscar o vidro e danificar a borracha. | O limpador varre um vidro seco e deixa um risco brilhante; a borda da borracha se desgasta. | VIDRO SECO: NÃO |
 | L13 | Limpador é equipamento obrigatório, e a lei trata equipamento ineficiente como infração grave. | Uma lista de equipamentos obrigatórios em arame; o limpador acende. Um carimbo "GRAVE" desce sobre o item quando a palheta falha. | EQUIPAMENTO OBRIGATÓRIO |
-| L14 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L14 | Resumindo: palheta gasta borra o vidro, e o estado vale mais que o prazo: se limpa mal, troque. | O carro inteiro em arame, com a zona do problema acesa (o para-brisa e as palhetas); a etiqueta RESUMO aparece. | RESUMO |
+| L15 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L16 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

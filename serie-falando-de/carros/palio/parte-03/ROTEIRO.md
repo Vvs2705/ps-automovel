@@ -2,7 +2,7 @@
 
 - **Classificação:** Fato documentado (recalls de maio de 2017 e março de 2018)
 - **Selo:** FATO DOCUMENTADO
-- **Duração estimada:** 183 palavras ÷ 2,2 = 83 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 212 palavras ÷ 2,2 = 96 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Recall de 2017: 13 modelos Fiat, anos 2016 e 2017, entre eles Novo Palio, Palio Fire, Palio Weekend e Siena (70.740 veículos). Recall de 2018: 10 modelos com motores Fire 1.0 e 1.4, anos 2016 e 2017 (15.534 veículos), com o Novo Palio (8.373), Palio Fire (334), Weekend (81) e Siena (2).
 - **Grau de certeza na fala:** Fala diz: 'a Fiat fez dois recalls', 'segundo a Fiat'. Totais só quando duas ou mais páginas abertas coincidem. A luz da bateria como sinal de alerta aparece só na Mecânica Online (2018) e vem como 'segundo a Fiat'.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -22,7 +22,9 @@
 | L09 | Um sinal de alerta é a luz da bateria no painel. Se acender, procure a concessionária na hora. | Luz da bateria acende no painel. | LUZ DA BATERIA |
 | L10 | O reparo é gratuito e leva cerca de uma hora. | Relógio de uma hora; selo GRÁTIS. | GRÁTIS, 1 HORA |
 | L11 | Consulte o chassi no site da Fiat para saber se o seu entrou. | Campo de chassi e botão Consultar. | CONSULTE O CHASSI |
-| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L12 | Resumindo: houve dois recalls de alternador, com reparo gratuito; consulte o chassi no site da Fiat. | O Palio inteiro em arame, com a zona do problema acesa (o alternador); a etiqueta RESUMO aparece. | RESUMO |
+| L13 | Se esse vídeo te ajudou, salve e mande para quem tem um Palio. | O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L14 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

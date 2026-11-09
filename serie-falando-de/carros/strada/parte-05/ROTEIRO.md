@@ -1,7 +1,7 @@
 # Falando de Strada #5: Bomba de combustível
 
 - **Classificação:** Fato documentado (recall da Fiat, comunicado de 17/12/2021; Nota Técnica da Senacon)
-- **Duração estimada:** 157 palavras ÷ 2,2 = 71 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 183 palavras ÷ 2,2 = 83 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Nova Strada ano-modelo 2022 (2ª geração), chassis NYW49930 a NYW64032. O comunicado não cita motor, versão nem cabine. Também convocados: Argo e Cronos (2021 e 2022), Fiorino, Grand Siena e Uno (2021).
 - **Grau de certeza na fala:** Fala diz: 'a Fiat fez recall' e 'a fabricante cita'. O remédio é 'análise e, se necessário, troca', como no comunicado.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | O comunicado não cita o motor, a versão nem a cabine. | Ficha da Strada com campos MOTOR, VERSÃO e CABINE vazios. | MOTOR: NÃO CITADO |
 | L08 | Confira pelo chassi no site da Fiat ou no portal do governo. | Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo. | CONFIRA O CHASSI |
 | L09 | Comprando uma Nova Strada usada, peça o comprovante do recall. | Vendedor entrega um papel carimbado. | PEÇA O COMPROVANTE |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: houve recall da bomba de combustível, com reparo gratuito; confira o chassi. | A Strada inteira em arame, com a zona do problema acesa (o tanque e a bomba de combustível); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem uma Strada. | A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

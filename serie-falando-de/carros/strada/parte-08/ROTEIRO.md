@@ -1,7 +1,7 @@
 # Falando de Strada #8: Alternador em dois recalls
 
 - **Classificação:** Fato documentado (recalls de maio de 2017 e março de 2018; registro da Senacon e matérias da época)
-- **Duração estimada:** 149 palavras ÷ 2,2 = 68 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 176 palavras ÷ 2,2 = 80 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** 1ª geração. Recall de 2017: Strada 2016 e 2017 (motor não citado). Recall de 2018: Strada 1.4, 2016 e 2017.
 - **Grau de certeza na fala:** Fala diz: 'a Fiat convocou' e 'segundo as matérias da época'. O número de Stradas do 1º lote (28.935) está em duas matérias abertas; o 2º lote não leva número (as fontes divergem).
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | As matérias citam o mesmo risco: funcionamento irregular e, em casos extremos, desligamento do motor. | Ícone de motor apagando. | MESMO RISCO |
 | L08 | Confira pelo chassi no site da Fiat ou no portal do governo. | Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo. | CONFIRA O CHASSI |
 | L09 | Comprando uma Strada dessa época, peça o comprovante do recall. | Vendedor entrega um papel carimbado. | PEÇA O COMPROVANTE |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: houve dois recalls de alternador, que podiam desligar o motor; confira o chassi. | A Strada inteira em arame, com a zona do problema acesa (o alternador); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem uma Strada. | A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

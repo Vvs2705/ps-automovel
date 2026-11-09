@@ -2,7 +2,7 @@
 
 - **Classificação:** Relato recorrente (imprensa e mecânicos)
 - **Selo:** RELATO DE DONOS
-- **Duração estimada:** 136 palavras ÷ 2,2 = 62 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 167 palavras ÷ 2,2 = 76 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Vrum (2022): primeira geração, versões manuais. Autopapo (2024): segunda geração (2011 a 2017), câmbio manual. Autoo (2024): segunda geração, teste na compra. Oficina Brasil (2007 e 2008): Palio Weekend 1.6 16V 2002 e Palio 1.0 16V 2002.
 - **Grau de certeza na fala:** Fala diz: 'a imprensa descreve' e 'especialistas ouvidos pela Oficina Brasil apontam', sempre atribuído. Não é defeito comprovado nem tem número oficial.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -21,7 +21,9 @@
 | L08 | Um especialista sugere trocar o suporte plástico pelo metálico de modelos mais novos. | Suporte metálico substitui o plástico. | TROCAR POR METÁLICO |
 | L09 | É relato recorrente, não é defeito comprovado nem tem número oficial. | Selo RELATO DE DONOS. | SEM NÚMERO OFICIAL |
 | L10 | Marcha que não engata ou engate muito duro: leve a uma oficina de confiança. | Mecânico testando as marchas. | OFICINA DE CONFIANÇA |
-| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L11 | Resumindo: o câmbio esponjoso é relato recorrente, não defeito comprovado; marcha que não engata pede oficina de confiança. | O Palio inteiro em arame, com a zona do problema acesa (o câmbio manual); a etiqueta RESUMO aparece. | RESUMO |
+| L12 | Se esse vídeo te ajudou, salve e mande para quem tem um Palio. | O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

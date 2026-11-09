@@ -1,7 +1,7 @@
 # Falando de Gol #10: Airbag Takata (recalls)
 
 - **Classificação:** Fato documentado (recall de março de 2020 em página do Procon-SP) + novas etapas só em imprensa/blog
-- **Duração estimada:** 157 palavras ÷ 2,2 = 71 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 189 palavras ÷ 2,2 = 86 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Recall de 2020: Gol 2009 e Voyage 2009 (produção 18/02/2006 a 31/07/2009). Etapas de 2023 e 2024: Gol/Voyage de anos diversos, só imprensa/blog; faixas de chassi se sobrepõem.
 - **Grau de certeza na fala:** Fala diz: 'a Volkswagen fez recall' (2020, fonte oficial + imprensa) e 'houve novas etapas' (imprensa). Sem total de unidades.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | Como as faixas de chassi se sobrepõem, a regra é uma só: consulte o seu chassi. | Várias faixas se sobrepõem; seta aponta para o campo de chassi. | CONSULTE O CHASSI |
 | L08 | Pelo site da Volkswagen, no campo de chassi, ou pelo serviço de recall do governo, que pede conta gov.br. | Site da VW e ícone gov.br lado a lado. | SITE VW, GOV.BR |
 | L09 | Se o seu foi convocado, agende a troca na concessionária. | Agenda; airbag novo. | AGENDE A TROCA |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: o Gol teve vários recalls de airbag; consulte o seu chassi e, se foi convocado, agende a troca. | O Gol inteiro em arame, com a zona do problema acesa (o airbag); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem um Gol. | O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

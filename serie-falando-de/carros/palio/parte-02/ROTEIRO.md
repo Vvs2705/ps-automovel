@@ -2,7 +2,7 @@
 
 - **Classificação:** Fato documentado (recalls de 2014 e de 2018, com comunicado do fabricante repassado pela imprensa)
 - **Selo:** FATO DOCUMENTADO
-- **Duração estimada:** 191 palavras ÷ 2,2 = 87 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 221 palavras ÷ 2,2 = 100 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Recall de 2014: Novo Palio Sporting e Essence, Grand Siena Essence e Palio Weekend Adventure com Dualogic, produzidos de 02/07 a 28/11/2014. Recall de 2018: Palio 1.6 ano-modelo 2017 (141 unidades), Palio Weekend 1.6 2017 e 2018 (66), Grand Siena 1.6 2017 e 2018 (567), com câmbio automatizado GSR ou Dualogic.
 - **Grau de certeza na fala:** Fala diz: 'a Fiat fez recall', 'segundo o recall'. Números só onde duas páginas abertas coincidem. O total de 2018 (11.669 no Autopapo e no Motor Show) diverge de 11.897 no Vrum de 2025: a fala não cita o total.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -22,7 +22,9 @@
 | L09 | Foram cento e quarenta e um Palio um ponto seis de dois mil e dezessete e sessenta e seis Weekend um ponto seis. | Dois contadores: 141 e 66. | LOTES PEQUENOS |
 | L10 | A troca do sensor é gratuita e leva cerca de uma hora. | Sensor novo encaixa; relógio de uma hora. | TROCA GRÁTIS |
 | L11 | Consulte o chassi no site da Fiat para saber se o seu foi convocado. | Campo de chassi e botão Consultar. | CONSULTE O CHASSI |
-| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L12 | Resumindo: houve dois recalls do câmbio automatizado, com correção gratuita; consulte o chassi no site da Fiat. | O Palio inteiro em arame, com a zona do problema acesa (o câmbio); a etiqueta RESUMO aparece. | RESUMO |
+| L13 | Se esse vídeo te ajudou, salve e mande para quem tem um Palio. | O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L14 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

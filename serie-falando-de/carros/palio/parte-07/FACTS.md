@@ -14,7 +14,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L08 | Autoo descreve carro inoperante com pedal ou cabo quebrado. | [Autoo, Fiat Palio: defeitos mais comuns (Stephanie Gomes)](https://www.autoo.com.br/fiat-palio-defeitos-mais-comuns-que-voce-precisa-saber-antes-de-comprar-um-usado/) (imprensa, casos de consumidores, 20/09/2025) | Autoo: o pedal ou o cabo quebra, em alguns casos deixando o carro inoperante. |
 | L09 | Orientação genérica de diagnóstico. | sem fonte (instrução genérica de segurança ou de compra, não é afirmação sobre frequência) | Boa prática; não é afirmação sobre frequência. |
 | L10 | Orientação genérica de compra. | sem fonte (instrução genérica de segurança ou de compra, não é afirmação sobre frequência) | Boa prática; não é afirmação sobre frequência. |
-| L11 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L11 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L02, L07 e L09 | Apoia-se nas mesmas fontes das falas L02, L07 e L09; nenhuma afirmação nova. |
+| L12 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L13 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

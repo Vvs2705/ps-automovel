@@ -1,7 +1,7 @@
 # Falando de Strada #2: Estalo na suspensão traseira
 
 - **Classificação:** Relato recorrente de donos e reparadores (imprensa especializada e fórum de donos)
-- **Duração estimada:** 159 palavras ÷ 2,2 = 72 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 189 palavras ÷ 2,2 = 86 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Strada de 1ª geração (1998–2020): Adventure, Trekking, cabine dupla e Working, de 2009 a 2016 nos relatos. Motor citado só pela Oficina Brasil (Adventure 1.8 8V).
 - **Grau de certeza na fala:** Fala diz: 'donos e reparadores relatam', 'a causa varia'. Não diz que é defeito de fábrica nem dá número de frequência.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | Antes de trocar peça, peça ao mecânico para conferir também o escapamento e a tampa da caçamba, que já causaram barulho parecido. | Elevador com a Strada suspensa; setas no escapamento e na tampa da caçamba. | CONFIRA ESCAPAMENTO |
 | L08 | Na hora de comprar uma usada, teste em piso irregular: o Autoo avisa que estalos podem indicar buchas e pivôs comprometidos. | Teste de rua em piso irregular; selo AUTOO 2023. | TESTE EM LOMBADA |
 | L09 | Não há número publicado de quantas Stradas têm esse barulho. | Contador vazio com ponto de interrogação. | SEM NÚMERO |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: estalos atrás são relato de donos e reparadores, a causa varia, e não há número publicado. | A Strada inteira em arame, com a zona do problema acesa (a suspensão traseira); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem uma Strada. | A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

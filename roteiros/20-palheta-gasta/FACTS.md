@@ -77,6 +77,8 @@ A fala manda conferir o manual para três coisas.
 | L11 | 10 |
 | L12 | 11 |
 | L13 | 12 |
+| L14 | Resumo: apoia-se nas mesmas fontes das falas L01, L03 e L09 (nenhuma afirmação nova) |
+| L15 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala (L14) é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".
 

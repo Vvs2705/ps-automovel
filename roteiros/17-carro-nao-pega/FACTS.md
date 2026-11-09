@@ -84,6 +84,8 @@ A fala manda conferir o manual para:
 | L11 | linha 12 |
 | L12 | linhas 13 e 12 [D] ("na dúvida") |
 | L13 | sem afirmação (fecho do canal) |
+| L13 | Resumo: apoia-se nas mesmas fontes das falas L01, L08 e L12 (nenhuma afirmação nova) |
+| L14 | Chamada para salvar e compartilhar (sem afirmação) |
 
 Nenhuma fala usa afirmação da seção "Cortado".
 

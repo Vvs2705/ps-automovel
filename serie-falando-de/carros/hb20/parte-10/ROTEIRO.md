@@ -1,7 +1,7 @@
 # Falando de HB20 #10: Módulo da bomba do câmbio (recall)
 
 - **Classificação:** Fato documentado (recall de outubro de 2023, atendimento a partir de 02/10/2023)
-- **Duração estimada:** 148 palavras ÷ 2,2 = 67 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 179 palavras ÷ 2,2 = 81 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** HB20 e HB20S com câmbio automático, anos 2023 e 2024, produzidos de 20/12/2022 a 27/09/2023. O comunicado não cita motor nem HB20X; convoca também o Creta de nova geração. A geração não é dita pelo comunicado.
 - **Grau de certeza na fala:** Fala diz: 'a Hyundai fez recall' e 'segundo o comunicado'. O comunicado não descreve sintoma percebido pelo dono e a fala diz isso. Sem total de veículos em nenhuma fonte. Confirmação de imprensa só de dois sites secundários que reproduzem o comunicado.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -18,7 +18,9 @@
 | L06 | O comunicado não descreve nenhum sinal que o dono perceba antes. | Painel limpo, sem luz acesa; interrogação. | SEM SINAL PRÉVIO |
 | L07 | A correção é gratuita: a concessionária inspeciona o módulo e troca se for preciso, em cerca de duas horas. | Selo GRÁTIS; relógio de 2 horas; módulo novo. | REPARO GRÁTIS |
 | L08 | Só uma faixa de chassis foi convocada. Confira o seu numa concessionária Hyundai ou no portal de recall do governo. | Campo de chassi e botão Consultar. | CONFIRA O CHASSI |
-| L09 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L09 | Resumindo: houve recall do módulo da bomba do câmbio automático, com correção gratuita; confira o chassi. | O HB20 inteiro em arame, com a zona do problema acesa (o câmbio); a etiqueta RESUMO aparece. | RESUMO |
+| L10 | Se esse vídeo te ajudou, salve e mande para quem tem um agá bê vinte. | O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

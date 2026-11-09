@@ -73,6 +73,8 @@ A fala manda conferir o manual em dois pontos: significado da luz de freio (no K
 | L11 | 10 |
 | L12 | 12 (e linhas 4, 5, 8) |
 | L13 | 11 |
+| L14 | Resumo: apoia-se nas mesmas fontes das falas L01, L12 e L13 (nenhuma afirmação nova) |
+| L15 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala (L14) é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".
 

@@ -1,7 +1,7 @@
 # Falando de Strada #6: Tubulação de combustível
 
 - **Classificação:** Fato documentado (recall da Fiat, comunicado de 09/12/2022)
-- **Duração estimada:** 131 palavras ÷ 2,2 = 60 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 163 palavras ÷ 2,2 = 74 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Nova Strada ano-modelo 2022 (2ª geração), chassis NYW76978 a NYX64486. O comunicado não cita motor nem versão. Também convocados: Argo, Cronos, Fiorino, Mobi (2022 e 2023) e Pulse (2022).
 - **Grau de certeza na fala:** Fala diz: 'a Fiat fez recall' e 'a fabricante identificou a possível degradação'. Não afirma causa além de 'especialmente com o uso de etanol', como no comunicado.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | O comunicado não cita o motor nem a versão. | Ficha da Strada com campos MOTOR e VERSÃO vazios. | MOTOR: NÃO CITADO |
 | L08 | Confira pelo chassi no site da Fiat ou no portal do governo. | Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo. | CONFIRA O CHASSI |
 | L09 | Sentiu cheiro forte de combustível? Não use o carro e procure a concessionária. | Alerta de cheiro; seta para a concessionária. | CHEIRO? PROCURE AJUDA |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: houve recall da tubulação de combustível, com troca gratuita; com cheiro forte de combustível, não use o carro. | A Strada inteira em arame, com a zona do problema acesa (o tanque e a tubulação de combustível); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem uma Strada. | A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

@@ -13,7 +13,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L07 | Diagnóstico por scanner e teste elétrico; troca da bobina com problema e do jogo completo de velas. | [O Mecânico, diagnóstico de injeção e ignição do HB20 1.0 (Fernando Lalli)](https://omecanico.com.br/injecao-e-ignicao-diagnostico-basico-de-bobinas-e-velas-no-hyundai-hb20-1-0/) (mecânico (revista técnica), 13/10/2020, atualizada em 11/07/2023) | O Mecânico: roteiro de diagnóstico básico de bobinas e velas e recomendação de trocar o jogo completo de velas. |
 | L08 | Sem número oficial; classificação do método: relato recorrente. | [Oficina Brasil, HB20 queridinho na aquisição e quase um desafeto na manutenção (Tenório Júnior)](https://oficinabrasil.com.br/noticia/avaliacao-do-reparador/hyundai-hb20-queridinho-na-aquisicao-e-quase-um-desafeto-na-hora-da-manutencao) (imprensa técnica com reparadores, 04/06/2020)<br>[Autoo, 5 motivos para comprar e 5 para fugir do HB20 usado (Fernando Garcia)](https://www.autoo.com.br/hyundai-hb20-saiba-5-motivos-para-comprar-e-5-para-fugir-do-hatch-usado/) (imprensa, 12/09/2026)<br>[Verificar Auto, HB20 de primeira geração usado](https://verificarauto.com.br/hb20-primeira-geracao-usado/) (imprensa (guia de compra), 13/10/2026) | Nenhuma das fontes traz estatística nem comunicado do fabricante sobre bobina ou vela do HB20. |
 | L09 | Instrução genérica de segurança. | sem fonte (instrução genérica de segurança) | Instrução genérica (marcada como tal): a luz de injeção pode ter outras causas. |
-| L10 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L10 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L07, L08 e L09 | Apoia-se nas mesmas fontes das falas L07, L08 e L09; nenhuma afirmação nova. |
+| L11 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L12 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

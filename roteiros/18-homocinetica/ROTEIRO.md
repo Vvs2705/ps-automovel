@@ -3,7 +3,7 @@
 **Título do vídeo:** Toc-toc nas curvas: o barulho da homocinética
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** carro de arame em curva com a roda dianteira esterçada; ondas "TOC-TOC" saem da roda e um "?" laranja pisca. Fala: "Toc-toc ao fazer curva? Esse barulho tem nome."
-**Duração estimada:** 194 palavras ÷ 2,2 = 88 s (1:28)
+**Duração estimada:** 223 palavras ÷ 2,2 = 101 s (1:41)
 **Fontes:** `FACTS.md` desta pasta (Dana, Cofap, GKN, manual Kia, Nakata via O Mecânico e Mecânica Online)
 
 ## Falas
@@ -24,7 +24,9 @@
 | L12 | Se, na inspeção, o dano não chegou à junta, é possível trocar só a coifa. | O mecânico holográfico inspeciona a junta e um visto ciano acende; só a coifa é trocada. | SÓ A COIFA |
 | L13 | Mas, se a junta já estala, só a coifa não basta: a junta pode precisar de troca. | A pista das esferas aparece com marcas vermelhas e folga; a coifa nova sozinha não apaga o defeito e a junta inteira vira o item a trocar. | JUNTA JÁ ESTALA |
 | L14 | Junta quebrada pode deixar o carro sem tração. | O semieixo se parte, a roda para de girar, os pulsos ciano se apagam e o carro de arame desacelera até parar. | SEM TRAÇÃO |
-| L15 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L15 | Resumindo: toc-toc nas curvas pode ser a junta homocinética; viu graxa espirrada, leve a uma oficina de confiança. | O carro inteiro em arame, com a zona do problema acesa (a junta homocinética e a roda); a etiqueta RESUMO aparece. | RESUMO |
+| L16 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L17 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

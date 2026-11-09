@@ -1,7 +1,7 @@
 # Falando de Strada #9: Câmbio Dualogic: atuador da embreagem
 
 - **Classificação:** Fato documentado (recall de dezembro de 2014; registro da Senacon e matérias da época)
-- **Duração estimada:** 174 palavras ÷ 2,2 = 79 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 199 palavras ÷ 2,2 = 90 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Strada Adventure cabine estendida e cabine dupla com Dualogic, 1ª geração, produzidas de 02/07 a 28/11/2014, chassi 7845988 a 7919023. Motor: não citado.
 - **Grau de certeza na fala:** Fala diz: 'a Fiat convocou'. O número de carros é do recall inteiro (oito modelos), nunca só da Strada. A dica sobre embreagem é de um especialista e é geral, do câmbio automatizado.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -20,7 +20,9 @@
 | L08 | As matérias não citam o motor da Strada. | Ficha da Strada com campo MOTOR vazio. | MOTOR: NÃO CITADO |
 | L09 | Em dois mil e doze, um especialista ouvido pela Oficina Brasil lembrou que segurar o carro na subida com o acelerador desgasta a embreagem do automatizado. | Strada parada em subida; pedal do acelerador segura o carro; fumaça no disco. | SUBIDA: CUIDADO |
 | L10 | Confira pelo chassi no site da Fiat ou no portal do governo. | Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo. | CONFIRA O CHASSI |
-| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L11 | Resumindo: houve recall do câmbio automatizado, com reparo gratuito; confira o chassi. | A Strada inteira em arame, com a zona do problema acesa (o câmbio e o atuador da embreagem); a etiqueta RESUMO aparece. | RESUMO |
+| L12 | Se esse vídeo te ajudou, salve e mande para quem tem uma Strada. | A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

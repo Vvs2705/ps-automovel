@@ -13,7 +13,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L07 | Testar o marcador na compra (inferência do repórter do Autoo, reproduzida como orientação). | [Autoo, 5 motivos para comprar e 5 para fugir do HB20 usado (Fernando Garcia)](https://www.autoo.com.br/hyundai-hb20-saiba-5-motivos-para-comprar-e-5-para-fugir-do-hatch-usado/) (imprensa, 12/09/2026) | Autoo (12/09/2026) sugere testar o marcador de combustível ao avaliar um usado. |
 | L08 | Instrução genérica de uso. | sem fonte (instrução genérica de segurança) | Instrução genérica (marcada como tal), sem fonte. |
 | L09 | Sem estatística oficial. | [Autoo, 5 motivos para comprar e 5 para fugir do HB20 usado (Fernando Garcia)](https://www.autoo.com.br/hyundai-hb20-saiba-5-motivos-para-comprar-e-5-para-fugir-do-hatch-usado/) (imprensa, 12/09/2026)<br>[Verificar Auto, HB20 de primeira geração usado](https://verificarauto.com.br/hb20-primeira-geracao-usado/) (imprensa (guia de compra), 13/10/2026)<br>[Vrum, HB20: veja as principais reclamações do hatch](https://www.vrum.com.br/aceleradas/2025/01/7030095-hyundai-hb20-veja-as-principais-reclamacoes-do-hatch.html) (imprensa (a partir de reclamações no Reclame Aqui), 08/01/2025) | Nenhuma fonte traz número de casos. |
-| L10 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L10 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L07 e L09 | Apoia-se nas mesmas fontes das falas L07 e L09; nenhuma afirmação nova. |
+| L11 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L12 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

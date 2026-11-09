@@ -3,7 +3,7 @@
 **Título do vídeo:** Mancha embaixo do carro: de que cor é o vazamento
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** carro de arame visto de lado, uma poça holográfica se espalha no chão e amostras de cor acendem em volta. Fala: "Mancha embaixo do carro? A cor dá uma pista de onde vaza."
-**Duração estimada:** 190 palavras ÷ 2,2 = 86 s (1:26)
+**Duração estimada:** 219 palavras ÷ 2,2 = 100 s (1:39)
 **Fontes:** `FACTS.md` desta pasta (manuais Nissan, Kia, Hyundai, Renault, Mazda, Volkswagen e Nissan Europa; TotalEnergies e Motul; Mecânica Online, Canaltech, AutoPapo, Vrum, O Mecânico, Cars.com e AAA)
 
 ## Falas
@@ -23,7 +23,9 @@
 | L11 | Mancha ou cheiro forte de combustível? Há risco de incêndio. Não dirija e chame a oficina. | Corte do tanque com gotas e vapor em volta; um ícone de chama de arame pisca em vermelho sobre o carro parado. | RISCO DE INCÊNDIO |
 | L12 | A cor só ajuda: muda com o fabricante e com o uso. | Paleta de amostras de cor com um "?" no centro; um relógio escurece lentamente uma das amostras. | COR SÓ AJUDA |
 | L13 | Vazamento que não é água do ar-condicionado? Confira o manual e vá a uma oficina de confiança. | O manual abre num capítulo de manutenção; ao lado, mecânico holográfico sem rosto trabalha na roda (nenhuma pessoa real). | OFICINA DE CONFIANÇA |
-| L14 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L14 | Resumindo: a cor da mancha só dá uma pista; vazamento que não é água do ar-condicionado pede oficina. | O carro inteiro em arame, com a zona do problema acesa (a parte de baixo do carro); a etiqueta RESUMO aparece. | RESUMO |
+| L15 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L16 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

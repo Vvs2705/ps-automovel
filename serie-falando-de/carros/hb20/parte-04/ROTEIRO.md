@@ -1,7 +1,7 @@
 # Falando de HB20 #4: Central multimídia que trava
 
 - **Classificação:** Relato recorrente de donos/mecânicos
-- **Duração estimada:** 161 palavras ÷ 2,2 = 73 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 196 palavras ÷ 2,2 = 89 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Primeira geração (2013 a 2019; um caso de HB20 2016 1.6 automático) e um caso de HB20 2022 (segunda geração, pela cronologia do carros.csv). Vrum não cita ano nem geração.
 - **Grau de certeza na fala:** Fala diz: 'donos relatam', 'um guia de compra lista' e 'a causa não foi confirmada'. Não diz software nem defeito: nenhuma fonte aberta confirma a causa.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | Nos casos publicados, a Hyundai pediu que o dono levasse o carro a uma concessionária autorizada. | Carro chega à concessionária Hyundai. | VÁ À AUTORIZADA |
 | L08 | Ao comprar usado, teste o pareamento com o seu celular e pergunte na concessionária sobre atualização do sistema. | Celular pareia com a central; lista com visto. | TESTE O PAREAMENTO |
 | L09 | É relato recorrente, sem número oficial de casos. | Carimbo RELATO RECORRENTE. | RELATO, SEM NÚMERO |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: a multimídia que trava é relato recorrente, sem número oficial; ao comprar usado, teste o pareamento com o celular. | O HB20 inteiro em arame, com a zona do problema acesa (a central multimídia no painel); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem um agá bê vinte. | O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

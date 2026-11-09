@@ -14,7 +14,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L08 | Solução citada por um especialista. | [Oficina Brasil/Webmotors, Da Oficina: Palio 1.0 16V 2002](https://www.webmotors.com.br/wm1/noticias/da-oficina-palio-1-0-16v/) (imprensa especializada, mecânicos, 19/02/2008) | Oficina Brasil (19/02/2008): Danilo Tinelli sugere o suporte metálico dos modelos mais novos. |
 | L09 | Classificação como relato. | sem fonte (instrução genérica de segurança ou de compra, não é afirmação sobre frequência) | METODO.md, item 11. |
 | L10 | Orientação genérica. | sem fonte (instrução genérica de segurança ou de compra, não é afirmação sobre frequência) | Boa prática; não é afirmação sobre frequência. |
-| L11 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L11 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L09 e L10 | Apoia-se nas mesmas fontes das falas L09 e L10; nenhuma afirmação nova. |
+| L12 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L13 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

@@ -3,7 +3,7 @@
 **Título do vídeo:** Como ler a vareta do óleo do jeito certo
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** vareta de arame sai do motor, a ponta pinga óleo âmbar e um "?" gigante pulsa. Fala: "Você lê a vareta do óleo do jeito certo?"
-**Duração estimada:** 187 palavras ÷ 2,2 = 85 s (1:25)
+**Duração estimada:** 216 palavras ÷ 2,2 = 98 s (1:38)
 **Fontes:** `FACTS.md` desta pasta (manuais Renault Kwid e Duster, Hyundai HB20, Nissan Kicks, VW Taos e CrossFox, Kia, Mazda; Castrol; AutoPapo, O Mecânico, Vrum)
 
 ## Falas
@@ -25,7 +25,9 @@
 | L13 | Confira o nível com regularidade e antes de viajar. | Calendário com marca repetida e ícone de mala e estrada; a vareta aparece ao lado e acende em ciano. | REGULARMENTE · ANTES DE VIAJAR |
 | L14 | Alguns carros têm sensor e mostram o nível no painel; veja no manual. | Painel de arame com uma barra de nível de óleo no visor, sem vareta. O manual abre e destaca a página do nível. | NÍVEL NO PAINEL |
 | L15 | Luz do óleo acesa é outro caso: veja o nosso vídeo. | O símbolo genérico de óleo acende em vermelho no painel e um cartão "outro vídeo" aparece ao lado. | LUZ DO ÓLEO · OUTRO VÍDEO |
-| L16 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L16 | Resumindo: leia a vareta em piso plano, com o nível entre mínimo e máximo, e confira o manual. | O carro inteiro em arame, com a zona do problema acesa (o motor e a vareta de óleo); a etiqueta RESUMO aparece. | RESUMO |
+| L17 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L18 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

@@ -1,7 +1,7 @@
 # Falando de HB20 #3: Suspensão batendo seco
 
 - **Classificação:** Relato recorrente de donos/mecânicos
-- **Duração estimada:** 154 palavras ÷ 2,2 = 70 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 189 palavras ÷ 2,2 = 86 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** HB20 de primeira geração (2013–2019), versões 1.0 e 1.6 (Oficina Brasil 2019: Comfort Plus 1.6; 2020: 1.0 manual e 1.6 automático). Segunda e terceira gerações: não citadas.
 - **Grau de certeza na fala:** Fala diz: 'guias de compra e reportagens citam' e 'queixas de donos', e registra a divergência das fontes (testes sem fim de curso; reparadores falando em desgaste normal). Não diz defeito nem número de casos.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -18,7 +18,9 @@
 | L06 | Às vezes o ruído é só uma bieleta mal apertada, num caso publicado pela revista O Mecânico. | Chave de torque aperta a bieleta. | BIELETA SOLTA |
 | L07 | No test drive, passe devagar por lombadas e valetas e ouça batidas e estalos na dianteira. | Carro passa devagar por lombada; ícone de ouvido. | TESTE EM LOMBADA |
 | L08 | É relato recorrente, sem número oficial, e as fontes não citam risco de segurança. | Carimbo RELATO RECORRENTE. | RELATO, SEM NÚMERO |
-| L09 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L09 | Resumindo: batidas secas na suspensão são relato recorrente, sem número oficial; no test drive, passe devagar por lombadas e ouça. | O HB20 inteiro em arame, com a zona do problema acesa (a suspensão dianteira); a etiqueta RESUMO aparece. | RESUMO |
+| L10 | Se esse vídeo te ajudou, salve e mande para quem tem um agá bê vinte. | O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

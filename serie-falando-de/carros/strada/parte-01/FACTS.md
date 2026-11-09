@@ -13,7 +13,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L07 | Nota da fabricante à Autoesporte (fev/2025): casos de infiltração e rolamento são pontuais e têm causas distintas. | [Grupo Sentinela, Fiat Strada: os problemas e defeitos mais comuns da picape](https://www.gruposentinela.com.br/?p=12767) (imprensa regional (replica a Autoesporte), 24/02/2025)<br>[Agora Motor, Fiat Strada tem problemas de infiltração e desgaste precoce de rolamentos](https://www.motoragora.com.br/?p=173675) (imprensa (repete a reportagem da Autoesporte), 07/03/2025) | Grupo Sentinela (literal): 'os casos citados sobre infiltração e rolamento da Fiat Strada são pontuais e possuem causas distintas'. Agora Motor traz a mesma nota (casos pontuais, cada um com causa específica). A fala diz 'a fabricante' porque a nota é da Stellantis. |
 | L08 | Nas buscas do levantamento não apareceu recall de infiltração na cabine da Strada. | [Stellantis Media, sala de imprensa (comunicados de recall)](https://www.media.stellantis.com/br-pt/corporate/press) (fabricante, varredura de 12/2023 a 06/11/2026) | Varredura de 79 comunicados de recall (12/2023 a 06/11/2026): só 5 citam Strada e nenhum trata de água na cabine (o de 05/2025 é da central do motor). É ausência na busca, não prova de ausência. |
 | L09 | Orientação prática ao dono (registro por escrito, fotos e datas). | instrução genérica de segurança (sem fonte específica; não é afirmação sobre o carro) | Instrução genérica; não é afirmação sobre o carro. |
-| L10 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L10 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L02, L08 e L09 | Apoia-se nas mesmas fontes das falas L02, L08 e L09; nenhuma afirmação nova. |
+| L11 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L12 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

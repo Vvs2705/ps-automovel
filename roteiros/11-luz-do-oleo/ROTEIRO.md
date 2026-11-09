@@ -3,7 +3,7 @@
 **Título do vídeo:** Luz do óleo acesa: o que fazer agora
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** painel de arame; a luz vermelha de pressão do óleo (lata de óleo com gota) acende e pulsa sobre o velocímetro com o carro em movimento. Fala: "Luz do óleo acesa com o carro andando? Aja agora."
-**Duração estimada:** 189 palavras ÷ 2,2 = 86 s (1:25)
+**Duração estimada:** 218 palavras ÷ 2,2 = 99 s (1:39)
 **Fontes:** `FACTS.md` desta pasta (manuais Nissan Kicks, Renault Duster, Volkswagen Gol, Hyundai HB20, Kia Sportage, Fiat Toro, Chevrolet Onix, Mazda MX-5; Castrol; Mecânica Online; AutoPapo)
 
 ## Falas
@@ -24,7 +24,9 @@
 | L12 | Nível baixo? O manual do seu carro diz o que fazer. | A vareta mostra o óleo abaixo da marca MIN; o manual abre numa página sobre o óleo do motor. | CONFIRA O MANUAL |
 | L13 | Nível certo e a luz acendeu? A causa é outra: não siga viagem. Chame guincho ou a oficina. | A vareta mostra o nível certo em ciano, mas a luz vermelha continua acesa; um guincho de arame leva o carro até uma oficina. | GUINCHO · OFICINA |
 | L14 | Os símbolos e os passos variam: confira o manual do seu carro. | Dois painéis de carros diferentes, com símbolos em posições diferentes; o manual abre entre eles. | VARIA POR CARRO |
-| L15 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L15 | Resumindo: luz vermelha do óleo acesa andando? Pare em local seguro, desligue o motor e não siga viagem. | O carro inteiro em arame, com a zona do problema acesa (o motor e a pressão do óleo); a etiqueta RESUMO aparece. | RESUMO |
+| L16 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L17 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

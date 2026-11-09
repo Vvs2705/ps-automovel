@@ -1,7 +1,7 @@
 # Falando de HB20 #6: Líquido no console (recall)
 
 - **Classificação:** Fato documentado (recall de dezembro de 2016, atendimento a partir de 28/12/2016)
-- **Duração estimada:** 178 palavras ÷ 2,2 = 81 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 213 palavras ÷ 2,2 = 97 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** HB20, HB20S e HB20X 1.6 com câmbio automático de 4 marchas, modelos 2013 a 2015, produzidos de 16/08/2012 a 31/10/2015 (primeira geração). Outros motores e câmbios: não citados no comunicado.
 - **Grau de certeza na fala:** Fala diz: 'a Hyundai fez recall' e 'segundo o comunicado'. O total de veículos vem da imprensa e a fala diz 'a imprensa noticiou'. A fala repete a ressalva do próprio comunicado (sem risco de combustão espontânea).
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -20,7 +20,9 @@
 | L08 | A imprensa noticiou cerca de cento e trinta e nove mil veículos convocados. | Contador sobe até 139 mil sobre silhuetas de carros. | 139 MIL VEÍCULOS |
 | L09 | Se o líquido já derramou, o comunicado manda secar o local e levar o carro à concessionária. | Pano seca o console; seta aponta para a concessionária. | SEQUE E CONFIRA |
 | L10 | Para saber se o seu entrou no recall, confira o chassi numa concessionária Hyundai ou no portal de recall do governo. | Campo de chassi e botão Consultar. | CONFIRA O CHASSI |
-| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L11 | Resumindo: houve recall por bebida derramada no console; a correção é gratuita, e o chassi diz se o seu entrou. | O HB20 inteiro em arame, com a zona do problema acesa (o console e o indicador de marchas); a etiqueta RESUMO aparece. | RESUMO |
+| L12 | Se esse vídeo te ajudou, salve e mande para quem tem um agá bê vinte. | O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

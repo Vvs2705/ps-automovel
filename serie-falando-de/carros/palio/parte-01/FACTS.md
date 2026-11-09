@@ -14,7 +14,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L08 | Faixa de reparo publicada pelo Vrum em abril de 2025. | [Vrum, piores câmbios automáticos do Brasil](https://www.vrum.com.br/aceleradas/2025/04/7113211-dor-de-cabeca-conheca-os-piores-cambios-automaticos-do-brasil.html) (imprensa, 18/04/2025) | Vrum (18/04/2025): embreagem patinando ou atuadores com falha, 'até R$ 6 mil'. A página não data o valor e não separa o Palio; vale para o câmbio automatizado Dualogic da Fiat em geral. |
 | L09 | Orientação genérica de diagnóstico. | sem fonte (instrução genérica de segurança ou de compra, não é afirmação sobre frequência) | Boa prática; não é afirmação sobre frequência. |
 | L10 | Autoo manda verificar recall; teste de trocas e arrancada é orientação de compra. | [Autoo, 5 pontos na compra do Palio usado (Fernando Garcia)](https://www.autoo.com.br/seu-por-r-27-mil-veja-5-pontos-importantes-na-compra-do-fiat-palio-usado/) (imprensa, 12/02/2024) | Autoo (12/02/2024): 'verificar o recall' do Dualogic. Recalls do Dualogic: ver parte 2. |
-| L11 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L11 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L07 e L09 | Apoia-se nas mesmas fontes das falas L07 e L09; nenhuma afirmação nova. |
+| L12 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L13 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

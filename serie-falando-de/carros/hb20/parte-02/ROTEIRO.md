@@ -1,7 +1,7 @@
 # Falando de HB20 #2: Motor falhando: bobina e velas
 
 - **Classificação:** Relato recorrente de donos/mecânicos
-- **Duração estimada:** 183 palavras ÷ 2,2 = 83 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 213 palavras ÷ 2,2 = 97 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** HB20 de primeira geração (2012–2019) com motor 1.0 de 3 cilindros aspirado (Kappa). O carro testado pela O Mecânico é um 1.0 2018. Turbo: não citado como específico. 'Não citado' não é 'não afeta'.
 - **Grau de certeza na fala:** Fala diz: 'mecânicos e guias de compra citam' e 'reparadores ouvidos relataram'. Não diz que é defeito de projeto nem dá número de frequência: nenhuma fonte tem estatística.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | O diagnóstico se faz com scanner e teste elétrico de bobinas e velas. A revista recomenda trocar a bobina com problema e o jogo completo de velas. | Scanner conectado; bobina e jogo de velas novos sobre a bancada. | SCANNER E TESTE |
 | L08 | Não há número oficial de quantos carros têm isso. É um relato recorrente, não um recall. | Carimbo RELATO RECORRENTE; sem selo de recall. | RELATO, NÃO RECALL |
 | L09 | Com a luz de injeção acesa e o motor falhando, leve a uma oficina de confiança antes de trocar peça. | Carro entra na oficina; mecânico liga o scanner. | DIAGNOSTIQUE ANTES |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: é relato recorrente, não recall; diagnostique com scanner na oficina antes de trocar peça. | O HB20 inteiro em arame, com a zona do problema acesa (o motor, com bobina e velas); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem um agá bê vinte. | O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 
