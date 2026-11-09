@@ -126,5 +126,7 @@ Afirmações populares que procurei e NÃO usei, e por quê:
 | L10-L11 | 8 e 11 (autoteste; luz que continua acesa) |
 | L12 | 12 (lâmpada queimada ou interrupção elétrica) |
 | L13 | seção "Varia por carro" |
+| L14 | Resumo: apoia-se nas mesmas fontes das falas L02, L07 e L13 (nenhuma afirmação nova) |
+| L15 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".

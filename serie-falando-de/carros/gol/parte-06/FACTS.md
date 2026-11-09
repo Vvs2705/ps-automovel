@@ -14,7 +14,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L08 | Há consulta por chassi no site da VW e consulta de recall por placa ou chassi no serviço do governo. | [Volkswagen, consulta de recall por chassi](https://vwapps.volkswagen.com.br/Recall) (fabricante, sem data)<br>[gov.br, consulta de recall](https://www.gov.br/pt-br/servicos/realizar-consulta-sobre-recall-de-veiculos) (órgão oficial, sem data) | Serviço do governo: gratuito, imediato, exige conta gov.br. |
 | L09 | O serviço do governo é gratuito e imediato e exige conta gov.br. | [gov.br, consulta de recall](https://www.gov.br/pt-br/servicos/realizar-consulta-sobre-recall-de-veiculos) (órgão oficial, sem data) | Página oficial do serviço. |
 | L10 | Segundo o Ministério dos Transportes, recall não atendido em 1 ano aparece no CRLV, e o carro não pode ser licenciado nem transferido. | [Ministério dos Transportes / Senatran, como funciona o recall](https://www.gov.br/transportes/pt-br/assuntos/noticias/2024/10/voce-sabe-o-que-e-e-como-funciona-o-recall-a-senatran-tira-suas-duvidas) (órgão oficial, 10/2024) | Ministério dos Transportes/Senatran (10/2024). Regra geral, não só deste recall. |
-| L11 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L11 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L02 e L08 | Apoia-se nas mesmas fontes das falas L02 e L08; nenhuma afirmação nova. |
+| L12 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L13 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

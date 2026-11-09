@@ -3,7 +3,7 @@
 **Título do vídeo:** Motor esquentando: o que fazer e o que nunca fazer
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** ponteiro de temperatura do painel subindo até a zona vermelha, com vapor saindo do capô de arame. Fala: "Ponteiro da temperatura subindo? Não abra nada."
-**Duração estimada:** 164 palavras ÷ 2,2 = 75 s (1:14)
+**Duração estimada:** 192 palavras ÷ 2,2 = 87 s (1:27)
 **Fontes:** `FACTS.md` desta pasta (manuais VW, Hyundai, Renault, Mazda, Honda, Kia; imprensa técnica; CTB)
 
 ## Falas
@@ -24,7 +24,9 @@
 | L12 | Seguir rodando assim queima a junta do cabeçote e pode até travar o motor. | Corte do cabeçote: a junta entre cabeçote e bloco escurece, racha e o motor para em vermelho. | JUNTA DO CABEÇOTE |
 | L13 | A ventoinha pode ligar sozinha, mesmo com o motor desligado. Mão longe. | Ventoinha do radiador girando com o motor desligado; uma mão holográfica se afasta. | VENTOINHA PODE LIGAR |
 | L14 | Vazamento, vapor ou aviso que volta? Chame o guincho ou a assistência. | Guincho de arame se aproxima do carro com o pisca-alerta ligado. | CHAME SOCORRO |
-| L15 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L15 | Resumindo: pare em local seguro, espere o motor esfriar e nunca abra a tampa do reservatório quente. | O carro inteiro em arame, com a zona do problema acesa (o radiador); a etiqueta RESUMO aparece. | RESUMO |
+| L16 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L17 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

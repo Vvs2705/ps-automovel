@@ -130,5 +130,7 @@ Manuais abertos (texto extraído do PDF e pesquisado por palavra-chave; a págin
 | L11-L12 | 10 e 11 |
 | L13 | 13 e 14 |
 | L14 | seção "Varia por carro" |
+| L15 | Resumo: apoia-se nas mesmas fontes das falas L03, L05 e L07 (nenhuma afirmação nova) |
+| L16 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".

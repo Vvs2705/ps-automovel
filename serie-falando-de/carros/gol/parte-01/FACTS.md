@@ -15,7 +15,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L09 | Sinais relatados: fumaça azulada ao acelerar forte e reposição frequente de óleo. | [OnlyCars](https://onlycars.com.br/2025/09/motor-vw-ea111-problemas.html) (portal/blog, 09/2025 (pela URL))<br>[Polo9N Brasil, 1.6 EA111 do Polo](https://polo9nbrasil.com.br/2025/11/24/problemas-no-motor-1-6-ea111-do-polo/) (blog/fórum de donos, 24/11/2025) | OnlyCars (mais de 1 litro a cada 3.000 km) e Polo9N (fumaça azulada, óleo escurecendo rápido). Polo9N é sobre o Polo 1.6 EA111, mesmo motor. |
 | L10 | Conferir o nível com frequência; usar a especificação de óleo do manual e trocar no prazo. | [Vrum, 5 defeitos crônicos do Gol](https://www.vrum.com.br/aceleradas/2026/04/7394191-volkswagen-gol-os-5-maiores-defeitos-cronicos-do-queridinho-do-brasil.html) (imprensa, 09/04/2026)<br>[Mecânica Popular](https://mecanicapopular.com.br/problema-motor-ea111/) (blog de oficina, 22/07/2026) | Vrum e Mecânica Popular recomendam conferir o nível semanalmente. Especificação e prazo: os do manual do carro (a fala não cita número). |
 | L11 | Rodar com nível baixo causa lubrificação deficiente e dano grave. | [Vrum, 5 defeitos crônicos do Gol](https://www.vrum.com.br/aceleradas/2026/04/7394191-volkswagen-gol-os-5-maiores-defeitos-cronicos-do-queridinho-do-brasil.html) (imprensa, 09/04/2026) | Vrum. Também é o princípio da própria admissão de 2009 (deficiência de lubrificação). |
-| L12 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L12 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L10 e L11 | Apoia-se nas mesmas fontes das falas L10 e L11; nenhuma afirmação nova. |
+| L13 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L14 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

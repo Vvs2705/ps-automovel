@@ -147,5 +147,7 @@ Procurei e NÃO usar na fala:
 | L12 | 11 |
 | L13 | 14 |
 | L14 | 12 |
+| L15 | Resumo: apoia-se nas mesmas fontes das falas L02, L06 e L07 (nenhuma afirmação nova) |
+| L16 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".

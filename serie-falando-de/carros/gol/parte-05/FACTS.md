@@ -14,7 +14,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L08 | Manual: nunca segurar o carro em subida com o acelerador; usar freio ou freio de mão; superaquecimento reduz a vida útil e pode causar pane. | [Manual VW Novo Gol MY2018](https://www.vw.com.br:443/idhub/content/dam/onehub_pkw/importers/br/literatura-de-bordo/manual-gol/my-2017_174-5b1-gol-66.pdf) (fabricante, arquivo my-2017 (a seção de transmissão automatizada é citada pela pesquisa como do manual MY2018; conferir na página)) | Manual 'Novo Gol' MY2018, seção Transmissão automatizada. |
 | L09 | Faixa de reparo de R$ 4 mil a R$ 7 mil, publicada pelo Vrum em 18/04/2025. | [Vrum, piores câmbios automáticos](https://www.vrum.com.br/aceleradas/2025/04/7113211-dor-de-cabeca-conheca-os-piores-cambios-automaticos-do-brasil.html) (imprensa, 18/04/2025) | Estimativa de imprensa, sem orçamento de oficina nem tabela da VW; por isso a fala cita fonte e data. |
 | L10 | Ao comprar usado: checar vazamento no atuador/robô, testar trancos e patinação, pedir histórico. | [Vrum, piores câmbios automáticos](https://www.vrum.com.br/aceleradas/2025/04/7113211-dor-de-cabeca-conheca-os-piores-cambios-automaticos-do-brasil.html) (imprensa, 18/04/2025)<br>[Autoo, usados com câmbio automatizado](https://www.autoo.com.br/fiat-idea-e-outros-4-carros-usados-com-cambio-automatizado-para-fugir/) (imprensa, 22/05/2025) | Recomendação das duas matérias. |
-| L11 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L11 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L04 e L10 | Apoia-se nas mesmas fontes das falas L04 e L10; nenhuma afirmação nova. |
+| L12 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L13 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

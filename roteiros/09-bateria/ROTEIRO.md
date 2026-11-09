@@ -3,7 +3,7 @@
 **Título do vídeo:** Bateria fraca: os sinais antes de o carro não pegar
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** bateria em corte, indicador de carga piscando e caindo em vermelho. Fala: "Sua bateria avisa antes de falhar."
-**Duração estimada:** 162 palavras ÷ 2,2 = 74 s (1:13)
+**Duração estimada:** 192 palavras ÷ 2,2 = 87 s (1:27)
 **Fontes:** `FACTS.md` desta pasta (Moura, Heliar, AutoPapo, manual Kia)
 
 ## Falas
@@ -24,7 +24,9 @@
 | L12 | A bateria solta gás inflamável e tem ácido. Longe de chama e faísca, com óculos e luvas. | Bateria libera gás ciano; ícones de chama e faísca com X, depois óculos e luvas acendem. | GÁS INFLAMÁVEL · ÁCIDO |
 | L13 | Chupeta só em emergência, e seguindo o manual do seu carro. | Cabos de chupeta em arame ficam apagados; o manual abre e destaca o diagrama do próprio carro. | SIGA O MANUAL |
 | L14 | Na dúvida, a oficina faz o teste com um analisador digital. | Analisador digital encosta nos polos e mostra o resultado da bateria. | TESTE NA OFICINA |
-| L15 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L15 | Resumindo: partida lenta, só cliques ou luz da bateria acesa são sinais; na dúvida, a oficina faz o teste. | O carro inteiro em arame, com a zona do problema acesa (a bateria); a etiqueta RESUMO aparece. | RESUMO |
+| L16 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L17 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

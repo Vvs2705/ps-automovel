@@ -3,7 +3,7 @@
 **Título do vídeo:** Barulho ao frear: chiado, raspagem ou vibração?
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** disco e pinça de freio em arame; uma onda sonora aguda ("iiiii") sai do disco e acende em vermelho. Fala: "Chiado agudo ao frear pode ser um aviso."
-**Duração estimada:** 163 palavras ÷ 2,2 = 74 s (1:14)
+**Duração estimada:** 191 palavras ÷ 2,2 = 87 s (1:26)
 **Fontes:** `FACTS.md` desta pasta (Bosch, Fras-le, manuais Mazda/Nissan/Kia, O Mecânico, AutoPapo). Freio a disco, pastilha; os manuais de carro lidos são de versões internacionais.
 
 ## Falas
@@ -23,7 +23,9 @@
 | L11 | Em alguns carros, o aviso de desgaste é uma luz no painel, e não o chiado. | Painel com o ícone de pastilha acendendo; o chiado fica cinza. | LUZ NO PAINEL |
 | L12 | A oficina mede a pastilha: o limite varia por carro. | Paquímetro holográfico mede o material de atrito; a escala mostra a faixa sem número fixo. | LIMITE VARIA |
 | L13 | Freio é segurança: não espere o barulho piorar. | Ciclo curto: barulho cresce no gráfico e uma seta curva leva à oficina antes do limite. | NÃO ESPERE |
-| L14 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L14 | Resumindo: chiado pode ser aviso, raspagem de ferro com ferro pede troca urgente, e freio é segurança. | O carro inteiro em arame, com a zona do problema acesa (os freios); a etiqueta RESUMO aparece. | RESUMO |
+| L15 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L16 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

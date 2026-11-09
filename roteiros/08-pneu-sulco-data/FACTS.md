@@ -72,5 +72,7 @@ Acesso de todas as fontes: 2026-11-09. Sem preço (valor de multa deixado de for
 | L12 | 10 |
 | L13 | 11 |
 | L14 | 13 |
+| L15 | Resumo: apoia-se nas mesmas fontes das falas L01, L02 e L08 (nenhuma afirmação nova) |
+| L16 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".

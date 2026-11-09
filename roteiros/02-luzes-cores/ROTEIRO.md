@@ -3,7 +3,7 @@
 **Título do vídeo:** Luz vermelha ou amarela no painel: a cor manda
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** painel de arame com todas as luzes apagadas; uma luz vermelha acende e pulsa, enchendo o quadro. Fala: "Luz vermelha no painel não é para ver depois."
-**Duração estimada:** 154 palavras ÷ 2,2 = 70 s (1:10)
+**Duração estimada:** 179 palavras ÷ 2,2 = 81 s (1:21)
 **Fontes:** `FACTS.md` desta pasta (manuais Volkswagen, Renault, Nissan e Hyundai; regulamento UN R121 e ISO 2575; CTB art. 46). Regra geral: o manual de cada carro manda.
 
 ## Falas
@@ -23,7 +23,9 @@
 | L11 | Se alguma continuar acesa depois da partida, confira o manual. | Uma luz fica acesa depois que o motor pega; o manual abre ao lado dela. | CONTINUA ACESA |
 | L12 | E se uma luz não acender no teste, a lâmpada pode estar queimada. | Uma posição do painel fica apagada durante o autoteste, com uma lâmpada em arame partida. | LÂMPADA QUEIMADA |
 | L13 | A cor e o desenho mudam de carro para carro: o manual manda. | Três painéis diferentes passam rápido; o manual abre sobre o painel do dono. | CONFIRA O MANUAL |
-| L14 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L14 | Resumindo: vermelho é perigo, amarelo é atenção, e o manual do seu carro manda. | O carro inteiro em arame, com a zona do problema acesa (o painel); a etiqueta RESUMO aparece. | RESUMO |
+| L15 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L16 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

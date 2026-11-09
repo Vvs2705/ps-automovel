@@ -1,7 +1,7 @@
 # Falando de Gol #5: Câmbio I-Motion com tranco
 
 - **Classificação:** Relato recorrente (teste de imprensa, relatos de donos, fórum de mecânicos); manual é fabricante
-- **Duração estimada:** 176 palavras ÷ 2,2 = 80 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 204 palavras ÷ 2,2 = 93 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Só Gol e Voyage 1.6 com câmbio automatizado I-Motion (5 marchas, SQ200): lançado no fim de 2009 e vendido até 2018 (Motor Show 2009; Autoo 2025; fichas técnicas 2013 e 2017). Não vale para Gol com câmbio manual.
 - **Grau de certeza na fala:** Fala diz: 'donos relatam', 'teste de imprensa notou', 'um fórum de mecânicos registrou um caso'. Preço entra como faixa de imprensa com mês e ano.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -20,7 +20,9 @@
 | L08 | O manual manda não segurar o carro na subida com o acelerador: use o freio, porque a embreagem superaquece. | Subida: pé no acelerador com X, pé no freio com visto. | FREIO NA SUBIDA |
 | L09 | Em abril de dois mil e vinte e cinco, o Vrum publicou uma faixa de quatro a sete mil reais para esse reparo; varia por oficina. | Faixa de preço R$ 4 mil a R$ 7 mil com selo ABR 2025. | R$ 4–7 MIL |
 | L10 | Comprando usado, teste trancos e patinação e procure vazamentos. | Mão no volante; teste de rua; lupa no atuador. | TESTE NA COMPRA |
-| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L11 | Resumindo: o I-Motion pode dar trancos; comprando usado, teste trancos e patinação e procure vazamentos. | O Gol inteiro em arame, com a zona do problema acesa (o câmbio); a etiqueta RESUMO aparece. | RESUMO |
+| L12 | Se esse vídeo te ajudou, salve e mande para quem tem um Gol. | O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

@@ -14,7 +14,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L08 | Manual: nunca abrir a tampa do reservatório com o motor quente. | [Manual VW Gol MY2021](https://www.vw.com.br/idhub/content/dam/onehub_pkw/importers/br/literatura-de-bordo/manual-gol/GOL_MY%202021_21A.5B1.GOL.66.pdf) (fabricante, arquivo MY2021) | Manual do Gol MY2021, p. 230 aprox. |
 | L09 | Manual: checar o nível; se a luz não apagar com o nível correto, procurar concessionária ou oficina. | [Manual VW Gol MY2021](https://www.vw.com.br/idhub/content/dam/onehub_pkw/importers/br/literatura-de-bordo/manual-gol/GOL_MY%202021_21A.5B1.GOL.66.pdf) (fabricante, arquivo MY2021) | Manual do Gol MY2021, p. 19. |
 | L10 | Reparo descrito: trocar a cúpula com anéis novos, não usar silicone como vedante, fazer sangria e teste de estanqueidade. | [O Mecânico, substituição da válvula termostática](https://omecanico.com.br/arrefecimento-substituicao-da-valvula-termostatica/) (revista técnica / mecânicos, 08/08/2022, atualizada 17/11/2022) | O Mecânico (08/08/2022). |
-| L11 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L11 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L07 e L08 | Apoia-se nas mesmas fontes das falas L07 e L08; nenhuma afirmação nova. |
+| L12 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L13 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

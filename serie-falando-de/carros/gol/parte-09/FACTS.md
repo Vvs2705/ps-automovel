@@ -14,7 +14,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L08 | O recall vale para veículos comprados de concessionárias ou de particulares. | [Procon-RS, recall do Novo Gol e Voyage](https://www.procon.rs.gov.br/recall-novo-gol-e-voyage) (órgão oficial, 12/02/2010) | Procon-RS. |
 | L09 | O portal do governo registra recalls a partir de 2011; os anteriores devem ser consultados na montadora. | [Ministério dos Transportes / Senatran, como funciona o recall](https://www.gov.br/transportes/pt-br/assuntos/noticias/2024/10/voce-sabe-o-que-e-e-como-funciona-o-recall-a-senatran-tira-suas-duvidas) (órgão oficial, 10/2024)<br>[Volkswagen, consulta de recall por chassi](https://vwapps.volkswagen.com.br/Recall) (fabricante, sem data) | Ver ficha do #3. |
 | L10 | Instrução de segurança, sem afirmação factual. | sem fonte (gancho, chamada ou assinatura) | Chamada à ação. |
-| L11 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L11 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L02, L07 e L10 | Apoia-se nas mesmas fontes das falas L02, L07 e L10; nenhuma afirmação nova. |
+| L12 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L13 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

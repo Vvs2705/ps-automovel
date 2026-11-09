@@ -1,7 +1,7 @@
 # Falando de Gol #6: Lanterna traseira (recall)
 
 - **Classificação:** Fato documentado (recall de 2015, alerta do Ministério da Justiça)
-- **Duração estimada:** 158 palavras ÷ 2,2 = 72 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 186 palavras ÷ 2,2 = 85 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Gol anos 2014 e 2015, produzido de 02/12/2013 a 03/08/2015.
 - **Grau de certeza na fala:** Fala diz: 'a Volkswagen fez recall' e 'segundo o alerta oficial'.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -20,7 +20,9 @@
 | L08 | Como saber se o seu entrou? Consulte o chassi no site da Volkswagen ou no serviço de recall do governo. | Campo de chassi e botão Consultar. | CONSULTE O CHASSI |
 | L09 | A consulta do governo é gratuita e imediata, mas pede conta gov.br. | Ícone gov.br e selo gratuito. | GRÁTIS, COM GOV.BR |
 | L10 | Recall não atendido por um ano aparece no documento do carro e pode impedir licenciar e transferir. | Documento do carro com aviso de recall pendente. | RECALL PENDENTE |
-| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L11 | Resumindo: houve recall da lanterna traseira; consulte o chassi para saber se o seu entrou. | O Gol inteiro em arame, com a zona do problema acesa (as lanternas traseiras); a etiqueta RESUMO aparece. | RESUMO |
+| L12 | Se esse vídeo te ajudou, salve e mande para quem tem um Gol. | O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

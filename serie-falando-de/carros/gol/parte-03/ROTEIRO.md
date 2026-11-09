@@ -1,7 +1,7 @@
 # Falando de Gol #3: Partida difícil no frio
 
 - **Classificação:** Fato documentado (recall de agosto de 2009) + orientações do manual do fabricante
-- **Duração estimada:** 166 palavras ÷ 2,2 = 75 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 197 palavras ÷ 2,2 = 90 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Novo Gol 1.0 e Voyage 1.0 (e Fox 1.0), anos 2009 e 2010. Orientações do manual: Novo Gol MY2017 (1.0 de 3 cilindros e 1.6).
 - **Grau de certeza na fala:** Fala diz: 'a Volkswagen fez recall' e 'segundo a montadora'. Orientação do manual vem como 'o manual traz'.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | Como o recall é de dois mil e nove, pergunte à Volkswagen pelo chassi se o seu foi convocado. | Campo de chassi no site da montadora; selo 2009. | CONFIRA O CHASSI |
 | L08 | Fora do recall, o manual traz o básico do flex: nas versões com tanquinho de gasolina, mantenha o reservatório sempre abastecido. | Reservatório do tanquinho no cofre do motor, nível cheio. | TANQUINHO CHEIO |
 | L09 | Nas versões com partida aquecida, espere a luz de controle apagar antes de dar partida e leve à oficina se ela ficar acesa. | Luz de controle acende e depois apaga. | ESPERE APAGAR |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: houve recall em dois mil e nove; pergunte à Volkswagen pelo chassi se o seu foi convocado. | O Gol inteiro em arame, com a zona do problema acesa (o motor); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem um Gol. | O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

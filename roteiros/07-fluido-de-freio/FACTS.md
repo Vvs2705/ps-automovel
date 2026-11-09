@@ -77,5 +77,7 @@ A fala deve mandar conferir o manual (ou a tampa do reservatório) para três co
 | L10 | 14 |
 | L11 | 13 |
 | L12 | "Cuidados de segurança" (manual Renault: troca por especialista) |
+| L13 | Resumo: apoia-se nas mesmas fontes das falas L01, L08 e L12 (nenhuma afirmação nova) |
+| L14 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".

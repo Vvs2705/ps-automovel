@@ -11,5 +11,7 @@
   {"id": "L10", "text": "A cor não mostra o estado do fluido. A oficina mede o ponto de ebulição ou a água."},
   {"id": "L11", "text": "Nível abaixo do mínimo ou com queda anormal? Pare com segurança e chame a oficina."},
   {"id": "L12", "text": "Troque em oficina de confiança."},
-  {"id": "L13", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+  {"id": "L13", "text": "Resumindo: o fluido de freio tem validade; confira o prazo no manual e troque na oficina."},
+  {"id": "L14", "text": "Se esse vídeo te ajudou, salve e mande para quem dirige."},
+  {"id": "L15", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
 ]

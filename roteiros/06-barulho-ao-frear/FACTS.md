@@ -129,5 +129,7 @@ O que o narrador pode dizer (cada ponto com a afirmação que o sustenta):
 | L11 | 11 |
 | L12 | 9 e "Divergências" (limite varia) |
 | L13 | 12 e "Cuidados de segurança" |
+| L14 | Resumo: apoia-se nas mesmas fontes das falas L01, L06 e L13 (nenhuma afirmação nova) |
+| L15 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".

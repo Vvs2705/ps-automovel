@@ -1,7 +1,7 @@
 # Falando de Gol #9: Rolamento da roda traseira
 
 - **Classificação:** Fato documentado (recall de fevereiro de 2010)
-- **Duração estimada:** 132 palavras ÷ 2,2 = 60 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 161 palavras ÷ 2,2 = 73 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Novo Gol e Voyage anos 2009 e 2010 (carros produzidos de julho de 2009 em diante, segundo uma matéria, não entram).
 - **Grau de certeza na fala:** Fala diz: 'a Volkswagen convocou' e 'segundo o Procon'. O total (193.620) vem de uma fonte aberta: a fala diz 'mais de cento e noventa mil'.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -20,7 +20,9 @@
 | L08 | Carro comprado de terceiros também tem direito ao reparo. | Dois donos em sequência; selo Direito ao reparo. | TAMBÉM NO USADO |
 | L09 | Como o recall é de dois mil e dez, pergunte à Volkswagen pelo chassi se o seu foi convocado. | Campo de chassi no site da montadora; selo 2010. | PERGUNTE À VW |
 | L10 | Ouviu ruído vindo da roda? Não espere: leve a uma oficina. | Roda com ruído; seta para oficina. | LEVE À OFICINA |
-| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L11 | Resumindo: ruído vindo da roda pede oficina; houve recall do rolamento, e a correção é gratuita. | O Gol inteiro em arame, com a zona do problema acesa (a roda traseira); a etiqueta RESUMO aparece. | RESUMO |
+| L12 | Se esse vídeo te ajudou, salve e mande para quem tem um Gol. | O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

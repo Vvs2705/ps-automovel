@@ -1,7 +1,7 @@
 # Falando de Gol #8: Cinto traseiro (recall)
 
 - **Classificação:** Fato documentado (recall de dezembro de 2018)
-- **Duração estimada:** 140 palavras ÷ 2,2 = 64 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 171 palavras ÷ 2,2 = 78 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Gol e Voyage anos 2018 e 2019, produzidos de 16/05/2018 a 14/06/2018. Total de unidades não informado pela VW.
 - **Grau de certeza na fala:** Fala diz: 'a Volkswagen fez recall'. Não diz quantos carros.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | Para saber se o seu entrou, consulte o chassi no site da Volkswagen ou no serviço de recall do governo. | Campo de chassi e botão Consultar. | CONSULTE O CHASSI |
 | L08 | Recall não atendido por um ano aparece no documento do carro e pode impedir licenciar e transferir. | Documento do carro com aviso de recall pendente. | RECALL PENDENTE |
 | L09 | Cinto é segurança: não deixe para depois. | Cinto afivelado; selo verde. | NÃO ADIE |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: houve recall do cinto traseiro, com reparo gratuito; consulte o chassi para saber se o seu entrou. | O Gol inteiro em arame, com a zona do problema acesa (o cinto de segurança traseiro); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem um Gol. | O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

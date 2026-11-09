@@ -1,7 +1,7 @@
 # Falando de Gol #1: Consumo de óleo no 1.0
 
 - **Classificação:** Relato recorrente de donos/mecânicos (com reconhecimento do fabricante em 2009, noticiado pela imprensa)
-- **Duração estimada:** 171 palavras ÷ 2,2 = 78 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 203 palavras ÷ 2,2 = 92 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Gol com motor 1.0 EA111 (G4, G5 e G6; fabricados entre 2008 e 2013 segundo o Vrum). A admissão de 2009 é do 1.0 VHT (a partir de março/abril de 2008). 1.6 EA111: só blogs, confiança baixa (fica fora da fala).
 - **Grau de certeza na fala:** Fala diz: 'a Volkswagen admitiu em 2009' (fato noticiado por 2 veículos) e 'donos e mecânicos relatam' (relato). Não diz causa única.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -21,7 +21,9 @@
 | L09 | Fumaça azulada ao acelerar forte e a necessidade de completar óleo com frequência são sinais. | Fumaça azul sai do escapamento; contador de reposições sobe. | FUMAÇA AZULADA |
 | L10 | Confira o nível toda semana, use o óleo da especificação do manual e troque no prazo. | Calendário com um visto semanal; manual abre na página do óleo. | CONFIRA SEMANAL |
 | L11 | Rodar com pouco óleo pode causar dano grave ao motor. | Luz de pressão de óleo vermelha pisca; bloco escurece. | POUCO ÓLEO, RISCO |
-| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L12 | Resumindo: confira o nível de óleo toda semana, porque rodar com pouco óleo pode causar dano grave ao motor. | O Gol inteiro em arame, com a zona do problema acesa (o motor); a etiqueta RESUMO aparece. | RESUMO |
+| L13 | Se esse vídeo te ajudou, salve e mande para quem tem um Gol. | O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L14 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

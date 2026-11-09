@@ -3,7 +3,7 @@
 **Título do vídeo:** Fluido de freio tem validade, mesmo rodando pouco
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** frasco de fluido de freio com um selo de "validade" carimbando; o frasco nunca é de marca. Fala: "O fluido de freio tem validade."
-**Duração estimada:** 152 palavras ÷ 2,2 = 69 s (1:09)
+**Duração estimada:** 179 palavras ÷ 2,2 = 81 s (1:21)
 **Fontes:** `FACTS.md` desta pasta (Motul, Castrol, ATE, febi, norma FMVSS 116, manuais Renault/Hyundai, O Mecânico, AutoPapo)
 
 ## Falas
@@ -22,7 +22,9 @@
 | L10 | A cor não mostra o estado do fluido. A oficina mede o ponto de ebulição ou a água. | Dois frascos de cor igual; um testador digital na amostra mostra um resultado diferente em cada um. | COR NÃO BASTA |
 | L11 | Nível abaixo do mínimo ou com queda anormal? Pare com segurança e chame a oficina. | Reservatório com o nível descendo abaixo da marca MIN; luz de freio acende em vermelho no painel. | NÍVEL BAIXO |
 | L12 | Troque em oficina de confiança. | Carro de arame sobe num elevador; mecânico holográfico sem rosto trabalha na roda (nenhuma pessoa real). | TROCA NA OFICINA |
-| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L13 | Resumindo: o fluido de freio tem validade; confira o prazo no manual e troque na oficina. | O carro inteiro em arame, com a zona do problema acesa (o reservatório do fluido de freio); a etiqueta RESUMO aparece. | RESUMO |
+| L14 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L15 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

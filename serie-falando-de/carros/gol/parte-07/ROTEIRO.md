@@ -1,7 +1,7 @@
 # Falando de Gol #7: Alternador e polia (recalls)
 
 - **Classificação:** Fato documentado (dois recalls: 2017 e 2021)
-- **Duração estimada:** 155 palavras ÷ 2,2 = 70 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 183 palavras ÷ 2,2 = 83 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Recall 2017: Gol e Voyage anos 2016 e 2017 (produção 01/03/2016 a 12/01/2017). Recall 2021: Gol e Voyage ano-modelo 2022 (produção 07/04/2021 a 19/05/2021). As fontes não dizem G6, G7 ou G8, nem o motor.
 - **Grau de certeza na fala:** Fala diz: 'a Volkswagen fez recall'. Total de unidades: só o de 2017 (54.170, todos os modelos).
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -19,7 +19,9 @@
 | L07 | A polia do motor podia se soltar, e o carro perdia a assistência da direção e a carga do alternador. | Polia solta do motor; volante pesa; carga cai. | POLIA PODIA SOLTAR |
 | L08 | A correção também é gratuita, na concessionária. | Selo GRÁTIS sobre a concessionária. | CORREÇÃO GRÁTIS |
 | L09 | Como saber se o seu entrou? Consulte o chassi no site da Volkswagen ou no serviço de recall do governo. | Campo de chassi e botão Consultar. | CONSULTE O CHASSI |
-| L10 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L10 | Resumindo: houve dois recalls, do alternador e da polia, com reparo gratuito; consulte o chassi. | O Gol inteiro em arame, com a zona do problema acesa (o alternador); a etiqueta RESUMO aparece. | RESUMO |
+| L11 | Se esse vídeo te ajudou, salve e mande para quem tem um Gol. | O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L12 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

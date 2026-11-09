@@ -3,7 +3,7 @@
 **Título do vídeo:** O número do pneu NÃO é a pressão certa
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** corte 3D de um pneu girando; o número do flanco brilha em laranja com um "?" enorme. Fala: "O número escrito no seu pneu não é a pressão certa."
-**Duração estimada:** 180 palavras ÷ 2,2 = 82 s (1:21)
+**Duração estimada:** 206 palavras ÷ 2,2 = 94 s (1:33)
 **Fontes:** `FACTS.md` desta pasta (Michelin, Pirelli, Hankook, Goodyear, manuais Hyundai/Renault/VW)
 
 ## Falas
@@ -25,7 +25,9 @@
 | L13 | Viajando com o carro cheio, use a pressão de carga do manual. | Carro com malas; a tabela da etiqueta mostra duas colunas, "normal" e "carga", e a de carga se destaca. | CARGA CHEIA |
 | L14 | E não esqueça o estepe. | O estepe se acende no porta-malas em arame. | ESTEPE TAMBÉM |
 | L15 | Olhar não adianta: pneu murcho pode parecer normal. | Lupa passa sobre o pneu e não vê nada; o calibrador encosta e mostra o valor baixo em vermelho. | SÓ O CALIBRADOR |
-| L16 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L16 | Resumindo: a pressão certa está na etiqueta e no manual, medida com o pneu frio. | O carro inteiro em arame, com a zona do problema acesa (os pneus); a etiqueta RESUMO aparece. | RESUMO |
+| L17 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L18 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

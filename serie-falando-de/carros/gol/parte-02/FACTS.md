@@ -14,7 +14,9 @@ Cada afirmação da fala, com a fonte, o tipo e a data da página. Acesso a toda
 | L08 | Caso da Oficina Brasil (2012): a causa final foi o módulo integrado à bobina. | [Oficina Brasil, cilindros gêmeos 1 e 4](https://oficinabrasil.com.br/noticia/tecnicas/defeito-intrigante-vw-gol-com-motor-ea111-apresenta-falha-nos-cilindros-gemeos-1-e-4) (mecânico / imprensa técnica, 02/10/2012) | É um caso, não estatística: a fala usa 'num caso publicado'. |
 | L09 | Falha de ignição: reduzir a velocidade e verificar; combustível não queimado pode superaquecer o catalisador. | [Manual VW Novo Gol (my-2017)](https://www.vw.com.br:443/idhub/content/dam/onehub_pkw/importers/br/literatura-de-bordo/manual-gol/my-2017_174-5b1-gol-66.pdf) (fabricante, arquivo my-2017) | Manual do Novo Gol (my-2017), p. 218 aprox.; fabricante. |
 | L10 | Não puxar o cabo de vela para testar queda de rotação. | [O Mecânico, bobina do Voyage 1.6](https://omecanico.com.br/ignicao-bobina-de-ignicao-do-voyage-1-6/) (mecânico / imprensa técnica, 30/11/2015, atualizada 24/01/2020) | O Mecânico/NGK (2015), Voyage 1.6 EA111, alerta do próprio texto. |
-| L11 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
+| L11 | Resumo: repete o principal já dito, sem dado novo. | sem fonte própria: mesmas fontes das falas L07 e L09 | Apoia-se nas mesmas fontes das falas L07 e L09; nenhuma afirmação nova. |
+| L12 | Chamada para salvar e compartilhar. | sem fonte (gancho, chamada ou assinatura) | Sem afirmação factual. |
+| L13 | Assinatura do canal. | sem fonte (gancho, chamada ou assinatura) | Frase fixa do canal. |
 
 ## Fontes usadas
 

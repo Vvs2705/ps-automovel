@@ -134,5 +134,7 @@ Acesso a todas as fontes: 2026-11-09. Cada trecho foi conferido no texto da pró
 | L13 | 10a a 10d |
 | L14 | 11a a 11c |
 | L15 | 13a, 13b |
+| L16 | Resumo: apoia-se nas mesmas fontes das falas L03 e L07 (nenhuma afirmação nova) |
+| L17 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".

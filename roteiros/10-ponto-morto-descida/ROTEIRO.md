@@ -3,7 +3,7 @@
 **Título do vídeo:** Descer a serra no neutro: não economiza e é perigoso
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** carro de arame descendo uma serra, alavanca em N brilhando em vermelho, medidor de combustível com um "?" . Fala: "Descer a serra no neutro não economiza combustível."
-**Duração estimada:** 172 palavras ÷ 2,2 = 78 s (1:18)
+**Duração estimada:** 201 palavras ÷ 2,2 = 91 s (1:31)
 **Fontes:** `FACTS.md` desta pasta (CTB art. 231, IX e art. 259, III, no texto compilado do Planalto; manuais Hyundai HB20 e VW Taos; FuelTech; Cobreq e Fras-le via imprensa; AutoPapo, iCarros, Mecânica Online). Carro comum a combustão.
 
 ## Falas
@@ -23,7 +23,9 @@
 | L11 | O certo é reduzir a velocidade e engatar uma marcha mais baixa antes de descer. | Velocímetro caindo e o câmbio descendo para uma marcha menor, antes do início da serra. | MARCHA MAIS BAIXA |
 | L12 | E não deixe o pé apoiado no freio: use-o só quando precisar. | Pé em arame levantando do pedal; os discos esfriam de laranja a ciano. | NÃO APOIE |
 | L13 | No automático, veja no manual como segurar o carro em descida. | Manual aberto no capítulo de câmbio; o seletor mostra o modo manual como exemplo. | CONFIRA O MANUAL |
-| L14 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L14 | Resumindo: neutro na descida não economiza e dá multa; reduza a velocidade e engate uma marcha mais baixa. | O carro inteiro em arame, com a zona do problema acesa (o câmbio); a etiqueta RESUMO aparece. | RESUMO |
+| L15 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L16 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

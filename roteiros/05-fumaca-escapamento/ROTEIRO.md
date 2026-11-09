@@ -3,7 +3,7 @@
 **Título do vídeo:** Fumaça no escapamento: o que cada cor indica
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** carro de arame com o escapamento soltando três nuvens de cores diferentes (branca, azul, preta), cada uma com um ponto de interrogação. Fala: "A cor da fumaça do escapamento é um aviso."
-**Duração estimada:** 175 palavras ÷ 2,2 = 80 s (1:19)
+**Duração estimada:** 203 palavras ÷ 2,2 = 92 s (1:32)
 **Fontes:** `FACTS.md` desta pasta (imprensa técnica: O Mecânico, AutoPapo, iCarros, Garagem 360; manual Kia; CTB). Carro a gasolina, etanol ou flex; diesel fora do escopo.
 
 ## Falas
@@ -25,7 +25,9 @@
 | L13 | A cor é só uma pista: o diagnóstico é na oficina. | As três nuvens se alinham ao lado de um scanner de diagnóstico que as lê. | DIAGNÓSTICO NA OFICINA |
 | L14 | Olhe o reservatório só com o motor frio. | Capô aberto; reservatório com a tampa fechada e um termômetro em ciano (frio). | MOTOR FRIO |
 | L15 | E se a temperatura subir, pare em local seguro e chame socorro. | Painel com o ponteiro de temperatura subindo para a zona vermelha; o carro de arame encosta com o pisca-alerta. | TEMPERATURA SUBINDO |
-| L16 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L16 | Resumindo: a cor da fumaça é um aviso, mas só uma pista: o diagnóstico é na oficina. | O carro inteiro em arame, com a zona do problema acesa (o escapamento); a etiqueta RESUMO aparece. | RESUMO |
+| L17 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L18 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

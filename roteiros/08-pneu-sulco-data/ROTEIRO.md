@@ -3,7 +3,7 @@
 **Título do vídeo:** Pneu careca ou velho? Sulco e data de fabricação
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** pneu em corte com sulcos fundos e bonitos, e um relógio de areia girando por cima. Fala: "Pneu com sulco bom ainda pode estar velho."
-**Duração estimada:** 190 palavras ÷ 2,2 = 86 s (1:26)
+**Duração estimada:** 219 palavras ÷ 2,2 = 100 s (1:39)
 **Fontes:** `FACTS.md` desta pasta (Resolução Contran 913/2022; Michelin, Pirelli, Goodyear, Continental, ANIP). Nenhum valor de multa na fala.
 
 ## Falas
@@ -24,7 +24,9 @@
 | L12 | Com mais de cinco anos, fabricantes pedem inspeção profissional todo ano. | Linha do tempo com um marco em cinco anos e um ícone de lupa repetido a cada ano. | INSPEÇÃO ANUAL |
 | L13 | Alguns mandam trocar com dez anos, mesmo com sulco bom. | O marco de dez anos acende sobre o pneu de sulco bom, com a etiqueta de fabricantes. | ATÉ 10 ANOS |
 | L14 | Bolha na lateral? Evite rodar e procure um profissional com urgência. | Bolha se forma na lateral do pneu em vermelho; o carro de arame fica parado. | BOLHA: URGENTE |
-| L15 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L15 | Resumindo: confira o sulco e a data de fabricação, porque pneu com sulco bom ainda pode estar velho. | O carro inteiro em arame, com a zona do problema acesa (os pneus); a etiqueta RESUMO aparece. | RESUMO |
+| L16 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L17 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

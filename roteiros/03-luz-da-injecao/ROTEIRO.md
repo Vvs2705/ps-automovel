@@ -3,7 +3,7 @@
 **Título do vídeo:** Luz da injeção acesa: fixa ou piscando?
 **Formato:** Shorts vertical 1080×1920 · voz edge-tts pt-BR-AntonioNeural · holograma em código (estilo do EP01)
 **Gancho (0–2 s):** painel com o ícone do motor aparecendo em âmbar, fixo, e depois piscando em vermelho no mesmo lugar. Fala: "Luz da injeção piscando é diferente de luz fixa."
-**Duração estimada:** 182 palavras ÷ 2,2 = 83 s (1:22)
+**Duração estimada:** 209 palavras ÷ 2,2 = 95 s (1:34)
 **Fontes:** `FACTS.md` desta pasta (manuais Fiat, VW, Chevrolet, Renault, Hyundai, Nissan; Resolução Conama 354/2004; imprensa técnica). Carro a gasolina, etanol ou flex.
 
 ## Falas
@@ -24,7 +24,9 @@
 | L12 | O código mostra a área com problema, mas não diz qual peça trocar. | Um código aponta para um grupo de peças em arame, nenhuma delas é marcada como culpada. | SÓ UMA PISTA |
 | L13 | Apagar o código não resolve se a causa continua. | O scanner apaga o código e a luz volta a acender em seguida. | APAGAR NÃO RESOLVE |
 | L14 | O nome e o desenho da luz variam: confira o manual do seu carro. | Quatro desenhos diferentes do ícone passam rápido; o manual abre e destaca o do dono. | CONFIRA O MANUAL |
-| L15 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
+| L15 | Resumindo: luz fixa, oficina o quanto antes; piscando é mais grave, e aí alivie o acelerador. | O carro inteiro em arame, com a zona do problema acesa (o painel); a etiqueta RESUMO aparece. | RESUMO |
+| L16 | Se esse vídeo te ajudou, salve e mande para quem dirige. | O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L17 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Vinheta de encerramento do canal (ambulância de arame leva o carro, nome pintado na lateral). | PS AUTOMÓVEL |
 
 ## Descrição (YouTube)
 

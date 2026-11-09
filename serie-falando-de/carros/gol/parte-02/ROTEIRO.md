@@ -1,7 +1,7 @@
 # Falando de Gol #2: Falha de ignição
 
 - **Classificação:** Relato recorrente de mecânicos (o manual da VW é fabricante só para a orientação geral)
-- **Duração estimada:** 143 palavras ÷ 2,2 = 65 s (meta 45 a 90 s; teto 2 min)
+- **Duração estimada:** 173 palavras ÷ 2,2 = 79 s (meta 45 a 90 s; teto 2 min)
 - **Gerações / motores:** Gol com motor EA111 (1.0 8V; casos de G5 1.0 e de 'Gol 1.0 8V MI'). Bobina como ponto fraco do G7/G8 (EA211) NÃO se sustenta: uma fonte sem referência.
 - **Grau de certeza na fala:** Fala diz: 'matérias de oficina registram casos'. Nunca 'é comum' nem 'sempre acontece'. O manual entra como orientação do fabricante.
 - **Formato:** Short vertical 1080×1920, voz edge-tts pt-BR-AntonioNeural, holograma (molde `ep01-oleo`).
@@ -20,7 +20,9 @@
 | L08 | Num caso publicado, quatro bobinas novas não resolveram: o defeito estava no módulo dentro da bobina. | Bobina em corte mostra módulo interno em vermelho. | CASO PUBLICADO |
 | L09 | O manual do Gol manda reduzir a velocidade e procurar uma oficina: o catalisador pode superaquecer. | Catalisador esquenta em vermelho; seta de velocidade desce. | REDUZA, OFICINA |
 | L10 | E não tire o cabo de vela para testar: isso também joga combustível no catalisador. | Cabo de vela desconectado com X vermelho. | NÃO PUXE CABO |
-| L11 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
+| L11 | Resumindo: motor falhando? Leia os códigos com o scanner antes de trocar peça e procure uma oficina. | O Gol inteiro em arame, com a zona do problema acesa (o motor); a etiqueta RESUMO aparece. | RESUMO |
+| L12 | Se esse vídeo te ajudou, salve e mande para quem tem um Gol. | O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece. | SALVE E COMPARTILHE |
+| L13 | Pê Ésse Automóvel. Seu carro sempre em boas mãos. | Logo PS Automóvel; a ambulância de arame chega freando (molde do EP01). | PS AUTOMÓVEL |
 
 ## Descrição
 

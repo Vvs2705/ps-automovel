@@ -80,5 +80,7 @@ Na fala, mandar conferir o manual do proprietário (capítulo de condução, câ
 | L11 | 12 |
 | L12 | 13 |
 | L13 | seção "Varia por carro" (câmbio automático) |
+| L14 | Resumo: apoia-se nas mesmas fontes das falas L01, L06 e L11 (nenhuma afirmação nova) |
+| L15 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".

@@ -133,5 +133,7 @@ Procurei e NÃO usei:
 | L12 | 12 |
 | L13 | 13 (a ordem dos cabos não entra: as fontes divergem) |
 | L14 | 14c |
+| L15 | Resumo: apoia-se nas mesmas fontes das falas L04, L05, L09 e L14 (nenhuma afirmação nova) |
+| L16 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".

@@ -125,5 +125,7 @@ Pesquisa feita em 2026-11-09. Escopo: carro de passeio a gasolina, etanol ou fle
 | L12 | 13 |
 | L13 | seção "Cuidados de segurança" (a cor é pista, não diagnóstico) |
 | L14-L15 | 14 e "Cuidados de segurança" (manual Kia; Folha BV) |
+| L16 | Resumo: apoia-se nas mesmas fontes das falas L01 e L13 (nenhuma afirmação nova) |
+| L17 | Chamada para salvar e compartilhar (sem afirmação) |
 
 A última fala é o fecho do canal (sem afirmação). Nenhuma fala usa afirmação da seção "Cortado".

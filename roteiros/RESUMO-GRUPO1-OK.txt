@@ -1,0 +1,41 @@
+GRUPO 1 PRONTO: resumo + chamada acrescentados (2026-11-09)
+
+Cada roteiro abaixo ganhou duas falas antes da assinatura "Pê Ésse Automóvel. Seu carro sempre em boas mãos.":
+  - Resumo (etiqueta RESUMO): repete só o que o próprio roteiro já disse, sem dado novo.
+  - Chamada (etiqueta SALVE E COMPARTILHE):
+      informativos: "Se esse vídeo te ajudou, salve e mande para quem dirige."
+      Falando de Gol: "Se esse vídeo te ajudou, salve e mande para quem tem um Gol."
+Os ids do lines.json foram renumerados em sequência (resumo, chamada, assinatura são as 3 últimas falas).
+ROTEIRO.md (tabela e duração estimada), lines.json e FACTS.md foram atualizados. cena.json e molde/ não foram tocados.
+
+Já podem ser refeitos no GitHub (19 roteiros):
+  roteiros/01-calibragem-pneu
+  roteiros/02-luzes-cores
+  roteiros/03-luz-da-injecao
+  roteiros/04-motor-esquentando
+  roteiros/05-fumaca-escapamento
+  roteiros/06-barulho-ao-frear
+  roteiros/07-fluido-de-freio
+  roteiros/08-pneu-sulco-data
+  roteiros/09-bateria
+  roteiros/10-ponto-morto-descida
+  serie-falando-de/carros/gol/parte-01
+  serie-falando-de/carros/gol/parte-02
+  serie-falando-de/carros/gol/parte-03
+  serie-falando-de/carros/gol/parte-04
+  serie-falando-de/carros/gol/parte-05
+  serie-falando-de/carros/gol/parte-06
+  serie-falando-de/carros/gol/parte-07
+  serie-falando-de/carros/gol/parte-08
+  serie-falando-de/carros/gol/parte-09
+
+Checadores (sem erro):
+  roteiros/_ferramentas/gerar.py nos roteiros 01 a 10: títulos, etiquetas (até 3 palavras), dígitos e siglas na fala, fecho: tudo ok.
+  serie-falando-de/checar_partes.py carros/gol: 0 erros.
+Avisos que sobraram (esperados, não são erro): a estimativa palavras ÷ 2,2 passou de 90 s em
+  roteiros 01 (94 s), 03 (95 s), 05 (92 s), 08 (100 s), 10 (91 s) e Gol parte-01 (92 s), parte-05 (93 s).
+  Todos seguem abaixo do teto de 2 min. A estimativa de 2,2 palavras por segundo é conservadora
+  (os vídeos medidos saem mais curtos que o estimado), e as outras falas não podiam ser cortadas nesta tarefa.
+
+Os roteiros do grupo 2 (Gol parte-10, Palio, HB20, Strada, informativos 11 a 20) ainda estão sendo feitos.
+Quando terminar, este arquivo será complementado por RESUMO-GRUPO2-OK.txt.
