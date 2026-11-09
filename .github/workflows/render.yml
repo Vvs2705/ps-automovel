@@ -1,0 +1,105 @@
+# Renderiza vídeos do molde em paralelo nas máquinas Linux do GitHub (2 vCPU, 8 GB, até 20 ao mesmo tempo no plano Free).
+# Disparo só manual: sh molde/nuvem.sh no notebook, ou Actions > render > Run workflow no site.
+# Os vídeos voltam como artifacts (1 dia) e o notebook traz com sh molde/baixar.sh, que depois apaga os artifacts.
+name: render
+run-name: render ${{ inputs.pastas || 'fila' }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      pastas:
+        description: 'Vídeos separados por vírgula, no formato do fila.txt ("roteiros/02-luzes-cores blueprint, serie-falando-de/carros/gol/parte-03"). Vazio = linhas do molde/fila.txt sem molde/saida/<nome>/cena.json no repositório.'
+        required: false
+        default: ''
+
+concurrency:   # um lote por vez; o próximo espera na fila
+  group: render
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+env:
+  LIB_SHA: 143f387ad774525dc9abc0ff05fb5f4bfbaa5f02   # versão da biblioteca no notebook: git -C ~/lemo-opuscar rev-parse HEAD
+  CACHE_KEY: lemo-143f387ad774525dc9abc0ff05fb5f4bfbaa5f02-v1   # troque junto com o LIB_SHA
+
+jobs:
+  preparar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    outputs:
+      lista: ${{ steps.lista.outputs.lista }}
+    steps:
+      - uses: actions/checkout@v5
+      - id: lista
+        name: lista do lote
+        shell: bash
+        env:
+          PASTAS: ${{ inputs.pastas }}
+        run: |
+          if [ -n "$PASTAS" ]; then printf '%s\n' "$PASTAS" | tr ',;' '\n\n'; else grep -vE '^[[:space:]]*(#|$)' molde/fila.txt; fi |
+          tr -d '\r' | while read -r pasta estilo; do
+            [ -n "$pasta" ] || continue
+            [ -f "$pasta/lines.json" ] || { echo "::error::não achei $pasta/lines.json"; exit 1; }
+            b=$(basename "$pasta"); case "$b" in parte-*) b="$(basename "$(dirname "$pasta")")-$b" ;; esac
+            nome=$b; [ -n "$estilo" ] && [ "$estilo" != hologram-hud ] && nome=$b-$estilo
+            [ -n "$PASTAS" ] || [ ! -f "molde/saida/$nome/cena.json" ] || continue
+            jq -nc --arg p "$pasta" --arg e "$estilo" --arg n "$nome" '{pasta: $p, estilo: $e, nome: $n}'
+          done | jq -sc . > lista.json
+          n=$(jq length lista.json)
+          [ "$n" -le 20 ] || echo "::warning::$n vídeos na lista; este lote leva os 20 primeiros"
+          echo "lista=$(jq -c '.[:20]' lista.json)" >> "$GITHUB_OUTPUT"
+          jq -r '.[:20][] | "\(.nome)  <-  \(.pasta) \(.estilo)"' lista.json
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/lemo-opuscar
+            ~/.cache/ms-playwright
+            ~/ffmpeg
+          key: ${{ env.CACHE_KEY }}
+      - name: instalar (só quando o cache falta)
+        run: sh .github/instalar.sh
+
+  render:
+    needs: preparar
+    if: needs.preparar.outputs.lista != '[]'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        v: ${{ fromJSON(needs.preparar.outputs.lista) }}
+    name: ${{ matrix.v.nome }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/cache/restore@v4
+        with:
+          path: |
+            ~/lemo-opuscar
+            ~/.cache/ms-playwright
+            ~/ffmpeg
+          key: ${{ env.CACHE_KEY }}
+          fail-on-cache-miss: true
+      - name: conferir instalação
+        run: sh .github/instalar.sh
+      - name: build
+        env:
+          ESTILO: ${{ matrix.v.estilo }}
+          PASTA: ${{ matrix.v.pasta }}
+          WORKERS: 2   # 2 vCPU
+        run: sh molde/build.sh "$PASTA"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.v.nome }}
+          path: |
+            molde/saida/${{ matrix.v.nome }}/${{ matrix.v.nome }}.mp4
+            molde/saida/${{ matrix.v.nome }}/${{ matrix.v.nome }}.srt
+            molde/saida/${{ matrix.v.nome }}/cena.json
+            molde/saida/${{ matrix.v.nome }}/folha.jpg
+            molde/saida/${{ matrix.v.nome }}/poster.jpg
+            molde/saida/${{ matrix.v.nome }}/build.log
+            molde/saida/${{ matrix.v.nome }}/out/checagem.txt
+          retention-days: 1
+          compression-level: 0   # mp4 já é comprimido
+          if-no-files-found: error
