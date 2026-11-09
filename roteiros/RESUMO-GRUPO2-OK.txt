@@ -1,0 +1,35 @@
+GRUPO 2 PRONTO: resumo + chamada acrescentados (2026-11-09)
+
+Mesmo trabalho do RESUMO-GRUPO1-OK.txt, agora nos 41 roteiros restantes (fora o Onix, que outra sessão está escrevendo).
+Em cada um: duas falas antes da assinatura "Pê Ésse Automóvel. Seu carro sempre em boas mãos."
+  - Resumo (etiqueta RESUMO): só repete o que o próprio roteiro já disse, sem dado novo.
+  - Chamada (etiqueta SALVE E COMPARTILHE):
+      informativos: "Se esse vídeo te ajudou, salve e mande para quem dirige."
+      Falando de: "Se esse vídeo te ajudou, salve e mande para quem tem um/uma <Carro>."
+        (Gol, Palio, "agá bê vinte" no lugar de HB20, e "uma Strada")
+Ids do lines.json renumerados em sequência; ROTEIRO.md (tabela e duração estimada), lines.json e FACTS.md atualizados.
+cena.json, molde/ e o Onix não foram tocados.
+
+Já podem ser refeitos no GitHub (41 roteiros):
+  serie-falando-de/carros/gol/parte-10
+  serie-falando-de/carros/palio/parte-01 a parte-10
+  serie-falando-de/carros/hb20/parte-01 a parte-10
+  serie-falando-de/carros/strada/parte-01 a parte-10
+  roteiros/11-luz-do-oleo
+  roteiros/12-luz-da-bateria
+  roteiros/13-mancha-embaixo-do-carro
+  roteiros/14-cheiro-estranho
+  roteiros/15-volante-tremendo
+  roteiros/16-alinhamento-balanceamento
+  roteiros/17-carro-nao-pega
+  roteiros/18-homocinetica
+  roteiros/19-vareta-do-oleo
+  roteiros/20-palheta-gasta
+
+Checadores (sem erro):
+  roteiros/_ferramentas/gerar.py nos roteiros 11 a 20: títulos, etiquetas, dígitos e siglas, fecho: tudo ok.
+  serie-falando-de/checar_partes.py em gol, palio, hb20 e strada: 0 erros.
+Avisos que sobraram (esperados, não são erro): a estimativa palavras ÷ 2,2 passou de 90 s em
+  roteiros 11 a 20 (93 a 101 s), Palio 01/02/03/04/06/07/10 (90 a 100 s), HB20 01/02/06/07/08/09 (90 a 100 s)
+  e Strada 09 (90 s). O maior é 101 s (roteiro 18), abaixo do teto de 2 min. A estimativa de 2,2 palavras por
+  segundo é conservadora, e as outras falas não podiam ser cortadas nesta tarefa.
