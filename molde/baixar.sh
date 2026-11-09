@@ -16,8 +16,13 @@ if [ "$(gh run view -R "$R" "$RUN" --json status -q .status)" != completed ]; th
 fi
 gh run view -R "$R" "$RUN" --json jobs -q '.jobs[] | select(.name != "preparar" and .name != "juntar") | "    \(.conclusion)\t\(.name)"'
 # baixa numa pasta temporária e copia por cima, para um vídeo refeito trocar o antigo
-T=$(mktemp -d); trap 'rm -rf "$T"' EXIT
-gh run download -R "$R" "$RUN" -n videos -D "$(cygpath -m "$T" 2>/dev/null || echo "$T")"
+T=$(mktemp -d); trap 'rm -rf "$T"' EXIT; TW=$(cygpath -m "$T" 2>/dev/null || echo "$T")
+if ! gh run download -R "$R" "$RUN" -n videos -D "$TW" 2>/dev/null; then
+  # o job "juntar" não rodou (já aconteceu por falha do GitHub): junta aqui os video-<nome>
+  echo "sem o artifact \"videos\"; juntando os video-* do lote"
+  gh run download -R "$R" "$RUN" -p 'video-*' -D "$TW"
+  for v in "$T"/video-*/; do cp -r "$v". "$T"/ && rm -rf "$v"; done
+fi
 mkdir -p "$DEST"
 (cd "$T" && find . -name '*.mp4' | sed 's,^\./,    ,')
 cp -r "$T"/. "$DEST"/
