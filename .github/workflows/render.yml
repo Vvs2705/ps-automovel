@@ -1,4 +1,5 @@
-# Renderiza vídeos do molde em paralelo nas máquinas Linux do GitHub (2 vCPU, 8 GB, até 20 ao mesmo tempo no plano Free).
+# Renderiza vídeos do molde em paralelo nas máquinas Linux do GitHub (até 20 ao mesmo tempo no plano Free). Máquina padrão:
+# repositório público 4 vCPU / 16 GB e minutos livres; privado 2 vCPU / 8 GB e ~2.000 min/mês.
 # Disparo só manual: sh molde/nuvem.sh no notebook, ou Actions > render > Run workflow no site.
 # Os vídeos voltam como artifacts (1 dia) e o notebook traz com sh molde/baixar.sh, que depois apaga os artifacts.
 name: render
@@ -8,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       pastas:
-        description: 'Vídeos separados por vírgula, no formato do fila.txt ("roteiros/02-luzes-cores blueprint, serie-falando-de/carros/gol/parte-03"). Vazio = linhas do molde/fila.txt sem molde/saida/<nome>/cena.json no repositório.'
+        description: 'Vídeos separados por vírgula, no formato do fila.txt ("roteiros/02-luzes-cores blueprint, serie-falando-de/carros/gol/parte-03"). Vazio = linhas do molde/fila.txt; "todas" = toda pasta de roteiro com lines.json (sem fila, estilo padrão). Nos dois, pula quem já tem molde/saida/<nome>/cena.json no repositório.'
         required: false
         default: ''
 
@@ -37,13 +38,19 @@ jobs:
         env:
           PASTAS: ${{ inputs.pastas }}
         run: |
-          if [ -n "$PASTAS" ]; then printf '%s\n' "$PASTAS" | tr ',;' '\n\n'; else grep -vE '^[[:space:]]*(#|$)' molde/fila.txt; fi |
-          tr -d '\r' | while read -r pasta estilo; do
+          case "$PASTAS" in
+            '') grep -vE '^[[:space:]]*(#|$)' molde/fila.txt; PULA=1 ;;
+            todas) ls -d roteiros/*/lines.json serie-falando-de/carros/*/parte-*/lines.json | sed 's,/lines.json$,,'; PULA=1 ;;
+            *) printf '%s\n' "$PASTAS" | tr ',;' '\n\n' ;;
+          esac > pedidos.txt
+          tr -d '\r' < pedidos.txt | while read -r pasta estilo; do
             [ -n "$pasta" ] || continue
             [ -f "$pasta/lines.json" ] || { echo "::error::não achei $pasta/lines.json"; exit 1; }
             b=$(basename "$pasta"); case "$b" in parte-*) b="$(basename "$(dirname "$pasta")")-$b" ;; esac
             nome=$b; [ -n "$estilo" ] && [ "$estilo" != hologram-hud ] && nome=$b-$estilo
-            [ -n "$PASTAS" ] || [ ! -f "molde/saida/$nome/cena.json" ] || continue
+            # fila: pula quem já tem cena.json no repositório; todas: idem, em qualquer estilo
+            if [ "$PASTAS" = todas ]; then ls -d molde/saida/"$b" molde/saida/"$b"-* 2>/dev/null | grep -q . && continue
+            elif [ -n "$PULA" ] && [ -f "molde/saida/$nome/cena.json" ]; then continue; fi
             jq -nc --arg p "$pasta" --arg e "$estilo" --arg n "$nome" '{pasta: $p, estilo: $e, nome: $n}'
           done | jq -sc . > lista.json
           n=$(jq length lista.json)
@@ -87,8 +94,7 @@ jobs:
         env:
           ESTILO: ${{ matrix.v.estilo }}
           PASTA: ${{ matrix.v.pasta }}
-          WORKERS: 2   # 2 vCPU
-        run: sh molde/build.sh "$PASTA"
+        run: WORKERS=$(nproc) sh molde/build.sh "$PASTA"   # um navegador por vCPU (4 no público, 2 no privado)
       - uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.v.nome }}
