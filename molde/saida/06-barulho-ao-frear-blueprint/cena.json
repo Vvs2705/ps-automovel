@@ -4,24 +4,115 @@
  "serie": "BARULHO AO FREAR",
  "fonte": "Fonte: Bosch, Fras-le e manuais de fabricantes",
  "falas": {
-  "L01": { "zona": "freios", "estado": "alerta", "seta": true, "etiqueta": "CHIADO AO FREAR" },
-  "L02": { "zona": "freios", "estado": "ok", "lupa": true, "etiqueta": "INDICADOR DE DESGASTE" },
-  "L03": { "zona": "freios", "estado": "atencao", "lupa": true, "etiqueta": "LÂMINA ENCOSTA" },
-  "L04": { "zona": "freios", "estado": "atencao", "etiqueta": ["OUTRAS CAUSAS", "POEIRA · AREIA · FERRUGEM"] },
-  "L05": { "zona": "freios", "estado": "ok", "etiqueta": ["RUÍDO LEVE: NORMAL", "COSTUMA SUMIR"] },
-  "L06": { "zona": "freios", "estado": "alerta", "lupa": true, "etiqueta": "FERRO COM FERRO" },
-  "L07": { "zona": "carro", "estado": "alerta", "etiqueta": ["OFICINA NA HORA", "EVITE RODAR"] },
-  "L08": { "zona": "freios", "estado": "alerta", "etiqueta": "FREIO PODE FALHAR" },
-  "L09": { "zona": "freios", "estado": "atencao", "seta": true, "etiqueta": ["VIBRAÇÃO: DISCO", "PEDAL OU VOLANTE"] },
-  "L10": { "zona": "freios", "estado": "ok", "etiqueta": ["ABS: NORMAL", "FREADA DE EMERGÊNCIA"],
-           "legenda": "Numa freada forte de emergência, o pedal vibrando é o ABS, e é normal.",
-           "fonte": "Fonte: manual Mazda MX-5 2025 (ABS)" },
-  "L11": { "zona": "painel", "estado": "atencao", "etiqueta": ["LUZ NO PAINEL", "SEM CHIADO"],
-           "fonte": "Fonte: Bosch Mobility, sensor de desgaste" },
-  "L12": { "zona": "freios", "estado": "ok",
-           "cartao": { "rotulo": "Limite da pastilha", "valor": "VARIA", "unidade": "", "detalhe": "Quem mede é a oficina", "palavra": "varia" },
-           "fonte": "Fonte: Fras-le, Bosch; O Mecânico, 2020" },
-  "L13": { "zona": "carro", "estado": "atencao", "etiqueta": ["NÃO ESPERE", "FREIO É SEGURANÇA"],
-           "fonte": "Fonte: Bosch, Fras-le e manuais de fabricantes" }
+  "L01": {
+   "zona": "freios",
+   "estado": "alerta",
+   "seta": true,
+   "etiqueta": "CHIADO AO FREAR"
+  },
+  "L02": {
+   "zona": "freios",
+   "estado": "ok",
+   "lupa": true,
+   "etiqueta": "INDICADOR DE DESGASTE"
+  },
+  "L03": {
+   "zona": "freios",
+   "estado": "atencao",
+   "lupa": true,
+   "etiqueta": "LÂMINA ENCOSTA"
+  },
+  "L04": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": [
+    "OUTRAS CAUSAS",
+    "POEIRA · AREIA · FERRUGEM"
+   ]
+  },
+  "L05": {
+   "zona": "freios",
+   "estado": "ok",
+   "etiqueta": [
+    "RUÍDO LEVE: NORMAL",
+    "COSTUMA SUMIR"
+   ]
+  },
+  "L06": {
+   "zona": "freios",
+   "estado": "alerta",
+   "lupa": true,
+   "etiqueta": "FERRO COM FERRO"
+  },
+  "L07": {
+   "zona": "carro",
+   "estado": "alerta",
+   "etiqueta": [
+    "OFICINA NA HORA",
+    "EVITE RODAR"
+   ]
+  },
+  "L08": {
+   "zona": "freios",
+   "estado": "alerta",
+   "etiqueta": "FREIO PODE FALHAR"
+  },
+  "L09": {
+   "zona": "freios",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": [
+    "VIBRAÇÃO: DISCO",
+    "PEDAL OU VOLANTE"
+   ]
+  },
+  "L10": {
+   "zona": "freios",
+   "estado": "ok",
+   "etiqueta": [
+    "ABS: NORMAL",
+    "FREADA DE EMERGÊNCIA"
+   ],
+   "legenda": "Numa freada forte de emergência, o pedal vibrando é o ABS, e é normal.",
+   "fonte": "Fonte: manual Mazda MX-5 2025 (ABS)"
+  },
+  "L11": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": [
+    "LUZ NO PAINEL",
+    "SEM CHIADO"
+   ],
+   "fonte": "Fonte: Bosch Mobility, sensor de desgaste"
+  },
+  "L12": {
+   "zona": "freios",
+   "estado": "ok",
+   "cartao": {
+    "rotulo": "Limite da pastilha",
+    "valor": "VARIA",
+    "unidade": "",
+    "detalhe": "Quem mede é a oficina",
+    "palavra": "varia"
+   },
+   "fonte": "Fonte: Fras-le, Bosch; O Mecânico, 2020"
+  },
+  "L13": {
+   "zona": "carro",
+   "estado": "atencao",
+   "etiqueta": [
+    "NÃO ESPERE",
+    "FREIO É SEGURANÇA"
+   ],
+   "fonte": "Fonte: Bosch, Fras-le e manuais de fabricantes"
+  },
+  "L14": {
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (os freios); a etiqueta RESUMO aparece."
+  },
+  "L15": {
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
  }
 }

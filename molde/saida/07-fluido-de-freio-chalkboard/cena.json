@@ -61,6 +61,15 @@
    "zona": "pneus",
    "etiqueta": "TROCA NA OFICINA",
    "nota": "Carro de arame sobe num elevador; mecânico holográfico sem rosto trabalha na roda (nenhuma pessoa real)."
+  },
+  "L13": {
+   "zona": "freios",
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (o reservatório do fluido de freio); a etiqueta RESUMO aparece."
+  },
+  "L14": {
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
   }
  },
  "serie": "FLUIDO DE FREIO",

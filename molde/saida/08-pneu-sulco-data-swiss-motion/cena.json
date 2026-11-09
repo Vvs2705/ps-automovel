@@ -77,6 +77,14 @@
    "estado": "alerta",
    "etiqueta": "BOLHA: URGENTE",
    "nota": "Bolha se forma na lateral do pneu em vermelho; o carro de arame fica parado."
+  },
+  "L15": {
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (os pneus); a etiqueta RESUMO aparece."
+  },
+  "L16": {
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
   }
  },
  "serie": "PNEU: SULCO E DATA",

@@ -65,6 +65,14 @@
   "L13": {
    "etiqueta": "CONFIRA O MANUAL",
    "nota": "Três painéis diferentes passam rápido; o manual abre sobre o painel do dono."
+  },
+  "L14": {
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (o painel); a etiqueta RESUMO aparece."
+  },
+  "L15": {
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
   }
  },
  "serie": "CORES DAS LUZES DO PAINEL",
