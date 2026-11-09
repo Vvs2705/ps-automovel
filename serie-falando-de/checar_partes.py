@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Confere a parte mecânica das partes da série. Uso: python checar_partes.py [carros/<slug>]
 Checa: título (1ª linha do ROTEIRO.md, <=60), ids L01.., última linha fixa,
-palavras e duração (palavras/2,2: 45-90 s; erro acima de 120 s), etiquetas <=3 palavras,
+palavras e duração (aviso abaixo de 190 palavras; erro acima de 120 s pela conta palavras/2,2), etiquetas <=3 palavras,
 e cada id do lines.json citado no FACTS.md."""
 
 import json, re, sys, pathlib
@@ -43,10 +43,13 @@ for p in partes:
     palavras = sum(len(l["text"].split()) for l in linhas)
     dur = palavras / 2.2
     msg = f"{palavras} palavras, {dur:.0f} s"
+    # regra de 2026-11-09: vídeo final >= 70 s (o molde completa com pausas e final), fala >= 190 palavras, até 2 min
     if dur > 120:
         err(p, msg + " (passa de 2 min)")
-    elif not 45 <= dur <= 90:
-        aviso(p, msg + " (fora de 45-90 s)")
+    elif palavras < 190:
+        aviso(
+            p, msg + " (menos de 190 palavras: o molde estica pausas e final até 70 s)"
+        )
     else:
         print(f"ok    {p.relative_to(raiz)}: {msg}")
     texto = ro.read_text(encoding="utf-8")
