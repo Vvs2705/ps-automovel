@@ -69,7 +69,7 @@ run ffmpeg -y -loglevel error -i "$D/$NOME.mp4" -c:v libx264 -preset slow -b:v 2
 rm -f "$D/out"/2pass*
 step "folha de contato (baixa resolução)"
 DUR=$("$PY" -c "import json,sys; print(json.load(open(sys.argv[1]))['dur'])" "$DW/timeline.json")
-RG=$(awk -v d="$DUR" 'BEGIN { printf "0.8:%.2f:%.2f", d - 0.3, (d - 1.1) / 17 }')
+RG=$(awk -v d="$DUR" 'BEGIN { printf "0.8:%.2f:%.2f", d - 0.3, int((d - 1.1) / 17 * 100) / 100 }')   # passo para baixo: o 18º quadro (o final) não cai fora
 rm -rf "$D/out/folha"; (cd "$LIB" && run node core/render/still.mjs "$MW" --range "$RG" --q "$Q" --size 1080x1920 --out "$DW/out/folha" --prefix f_)
 run "$PY" tools/folha.py "$DW/out/folha" "$DW/folha.jpg"
 rm -f "$D/out/video24.mp4"
