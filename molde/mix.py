@@ -225,7 +225,9 @@ def bubbles(d, dens, low):
 
 
 def grit(d):
-    x = np.zeros(int(d * SR))
+    x = np.zeros(
+        int(round(d * SR))
+    )  # mesmo arredondamento de tt(): o "grit" é multiplicado por ele
     idx = rng.integers(0, len(x), int(d * 220))
     x[idx] = rng.uniform(-1, 1, len(idx))
     return flt(x, "high", 3000) * 0.5
