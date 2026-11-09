@@ -168,7 +168,8 @@ jobs:
           done
           git add molde/saida/*/cena.json
           git diff --cached --quiet && { echo "nenhum cena.json novo"; exit 0; }
-          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
-            commit -qm "cena.json do lote ${{ github.run_id }} (rascunho automático: revisar)"
+          # identidade no config (não só no commit): o pull --rebase também reescreve o commit
+          git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -qm "cena.json do lote ${{ github.run_id }} (rascunho automático: revisar)"
           git diff --stat HEAD~1
           for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 10; done; exit 1
