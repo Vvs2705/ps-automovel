@@ -106,8 +106,12 @@ jobs:
           ESTILO: ${{ matrix.v.estilo }}
           PASTA: ${{ matrix.v.pasta }}
         run: WORKERS=$(nproc) sh molde/build.sh "$PASTA"   # um navegador por vCPU (4 no público, 2 no privado)
-      - name: vídeo no caminho de VIDEOS PRONTOS
+      - name: vídeo no caminho de VIDEOS PRONTOS (e nunca abaixo de 70 s)
         run: |
+          F="molde/saida/$NOME/$NOME.mp4"; M=${DURACAO_MIN:-70}
+          d=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$F")
+          awk -v d="$d" -v m="$M" 'BEGIN { exit !(d >= m) }' || { echo "::error::$NOME tem $d s, abaixo do mínimo de $M s"; exit 1; }
+          echo "duração: $d s"
           A=$(python3 molde/prontos.py --destino "$NOME")
           mkdir -p "entrega/$(dirname "$A")" && mv "molde/saida/$NOME/$NOME.mp4" "entrega/$A" && echo "$A"
       - uses: actions/upload-artifact@v4
@@ -153,12 +157,14 @@ jobs:
         with:
           pattern: dados-*
           path: dados
-      - name: guardar no repositório os cena.json novos (rascunho automático, a revisar)
+      - name: guardar no repositório os cena.json novos ou completados (rascunho automático, a revisar)
         run: |
           for d in dados/dados-*/; do
             [ -d "$d" ] || continue
-            n=$(basename "$d"); n=${n#dados-}
-            [ -f "molde/saida/$n/cena.json" ] || { mkdir -p "molde/saida/$n"; cp "$d/cena.json" "molde/saida/$n/"; }
+            n=$(basename "$d"); n=${n#dados-}; f=molde/saida/$n/cena.json
+            # mudou no repositório durante o lote? fica a versão de lá (o rascunho só completa falas; não desfaz revisão)
+            if [ -f "$f" ] && ! git diff --quiet "$GITHUB_SHA" -- "$f"; then echo "pulei $f: mudou durante o lote"; continue; fi
+            mkdir -p "molde/saida/$n"; cp "$d/cena.json" "$f"
           done
           git add molde/saida/*/cena.json
           git diff --cached --quiet && { echo "nenhum cena.json novo"; exit 0; }

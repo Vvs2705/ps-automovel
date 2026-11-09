@@ -46,7 +46,7 @@ else echo "    reaproveitada (lines.json igual; VOZ=1 refaz)"; fi
 step "lábios do apresentador"; say "$PY" apresentador/labios.py "$DW/voices" "$DW/labios.json"
 
 step "cena"
-if [ ! -f "$D/cena.json" ]; then say "$PY" tools/rascunho_cena.py "$(W "$SRC")" "$DW/cena.json"; else echo "    usando saida/$NOME/cena.json"; fi
+say "$PY" tools/rascunho_cena.py "$(W "$SRC")" "$DW/cena.json"   # sem cena.json: rascunho; com ele: só completa falas novas
 
 step "linha do tempo"; say "$PY" tools/linha_do_tempo.py "$DW"
 step "eventos de som"; (cd "$LIB" && say node core/render/events.mjs "$MW" --q "$Q" --size 1080x1920 --out "$DW/events.json")

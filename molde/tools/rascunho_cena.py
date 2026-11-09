@@ -162,8 +162,30 @@ for L in lines:
     if holo:
         f["nota"] = holo  # o que o roteiro pede (o filme ignora; serve para revisar)
     cena["falas"][lid] = f
-os.makedirs(os.path.dirname(os.path.abspath(OUT)), exist_ok=True)
-json.dump(cena, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-print(
-    f"rascunho do cena.json: {len(cena['falas'])} falas → {OUT} (revise antes de publicar)"
-)
+if not os.path.exists(OUT):
+    os.makedirs(os.path.dirname(os.path.abspath(OUT)), exist_ok=True)
+    json.dump(cena, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(
+        f"rascunho do cena.json: {len(cena['falas'])} falas → {OUT} (revise antes de publicar)"
+    )
+else:  # cena.json já existe (revisado): só completa as falas que faltam, sem tocar nas outras
+    velho = json.load(open(OUT, encoding="utf-8"))
+    vf = velho.setdefault("falas", {})
+    novas = [k for k in cena["falas"] if k not in vf]
+    if novas:
+        ordem = [L["id"] for L in lines]
+        falas = {k: vf.get(k, cena["falas"].get(k)) for k in ordem}
+        falas = {k: v for k, v in falas.items() if v is not None}
+        falas.update(
+            {k: v for k, v in vf.items() if k not in falas}
+        )  # fala que saiu do roteiro fica
+        velho["falas"] = falas
+        json.dump(velho, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(
+        f"usando {OUT}"
+        + (
+            f"; falas novas tiradas do rascunho (revise): {', '.join(novas)}"
+            if novas
+            else ""
+        )
+    )

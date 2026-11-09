@@ -61,7 +61,9 @@ Cinco estilos leem o mesmo `cena.json` (detalhes e por que cada um: `estilos/EST
 - **Gancho na primeira fala**, que começa em 0,3 s; o carro entra por varredura em 0,6 s. A marca no começo é só o canto do HUD (`PS AUTOMÓVEL // <série>`).
 - Cada fala começa quando a anterior termina + 0,3 s (`pausa` muda isso por fala).
 - **Final de ~3,5 a 4 s**: se a última fala for a assinatura ("Pê Ésse Automóvel. Seu carro sempre em boas mãos."), ela é falada 20% mais rápida e toca sobre a ambulância do EP01, que vai embora com o carro na maca, com o nome pintado na lateral, o slogan e INSCREVA-SE. Sem assinatura, o final entra mudo.
+- **Nunca abaixo de 70 s** (o TikTok só remunera acima de 1 min; `DURACAO_MIN=<s>` muda): se as falas somadas não chegam lá, `tools/linha_do_tempo.py` completa sozinho, nesta ordem: (a) pausas entre falas até +1,0 s cada; (b) mais até +1,0 s em cada pausa, com o carro e o cartão ainda na tela; (c) o final da ambulância (Doutor Graxa acenando, slogan, INSCREVA-SE) pelo tempo que faltar. O build não para por isso; no GitHub, o job falha se o `.mp4` sair abaixo do mínimo (rede de segurança).
 - Até 2 min: passou disso, o build para com erro.
+- Fala nova no `lines.json` sem entrada no `cena.json`: o build completa só essa fala com o rascunho da tabela do `ROTEIRO.md` e mantém as revisadas.
 - Trilha e efeitos sintetizados; a **semente** (do nome do vídeo, ou `"semente"` no `cena.json`) escolhe tom, andamento, progressão, arpejo, timbre e bateria.
 
 ## `cena.json`
