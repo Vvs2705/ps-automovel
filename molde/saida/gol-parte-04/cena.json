@@ -1,0 +1,53 @@
+{
+ "carro": "hatch",
+ "falas": {
+  "L01": {
+   "zona": "arrefecimento",
+   "estado": "alerta",
+   "etiqueta": "TEMPERATURA SUBINDO",
+   "nota": "Ponteiro de temperatura sobe até o vermelho."
+  },
+  "L02": {
+   "etiqueta": "TERMOSTÁTICA",
+   "nota": "Posição da válvula termostática destacada no bloco."
+  },
+  "L03": {
+   "etiqueta": "CARCAÇA TRINCA",
+   "nota": "Carcaça plástica com rachadura aparecendo."
+  },
+  "L04": {
+   "etiqueta": "SILICONE EM EXCESSO",
+   "nota": "Silicone sobra na cúpula e bloqueia a passagem."
+  },
+  "L05": {
+   "etiqueta": "NÍVEL CAINDO",
+   "nota": "Reservatório baixa; mancha branca no cavalete; ponteiro sobe."
+  },
+  "L06": {
+   "etiqueta": "JUNTA DO CABEÇOTE",
+   "nota": "Junta do cabeçote em corte queima."
+  },
+  "L07": {
+   "zona": "motor",
+   "etiqueta": "PISCOU? PARE",
+   "nota": "Luz vermelha pisca; carro encosta; motor desliga."
+  },
+  "L08": {
+   "estado": "alerta",
+   "etiqueta": "NÃO ABRA QUENTE",
+   "nota": "Tampa do reservatório com jato de vapor e X vermelho."
+  },
+  "L09": {
+   "etiqueta": "CONFIRA O NÍVEL",
+   "nota": "Vareta de nível do reservatório; mapa de oficinas."
+  },
+  "L10": {
+   "etiqueta": "ANÉIS NOVOS, SANGRIA",
+   "nota": "Peça nova com anéis; sistema sem bolhas de ar."
+  }
+ },
+ "serie": "FALANDO DE GOL",
+ "titulo": "FALANDO DE GOL #4",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Vrum, 09/04/2026"
+}

@@ -1,0 +1,78 @@
+{
+ "carro": "hatch",
+ "falas": {
+  "L01": {
+   "zona": "tanque",
+   "estado": "alerta",
+   "etiqueta": "NEUTRO NÃO ECONOMIZA",
+   "nota": "Carro de arame descendo uma serra; a alavanca em N brilha em vermelho e o medidor de combustível mostra um \"?\"."
+  },
+  "L02": {
+   "zona": "cambio",
+   "etiqueta": "ENGRENADO: INJEÇÃO CORTA",
+   "nota": "Corte do motor: bicos injetores apagados enquanto as rodas giram o motor; marcha engatada."
+  },
+  "L03": {
+   "zona": "motor",
+   "etiqueta": "NEUTRO: MARCHA LENTA",
+   "nota": "Motor em arame, bicos injetores piscando na rotação baixa; gotas de combustível pingando."
+  },
+  "L04": {
+   "etiqueta": "MITO DO CARBURADOR",
+   "nota": "Um carburador antigo em arame se desfaz em pó e dá lugar ao sistema de injeção."
+  },
+  "L05": {
+   "cartao": {
+    "rotulo": "CTB, ART.",
+    "valor": "231",
+    "unidade": ""
+   },
+   "nota": "Um livro holográfico abre no art. 231, inciso IX, destacando \"desligado ou desengrenado, em declive\"."
+  },
+  "L06": {
+   "cartao": {
+    "rotulo": "PONTOS RETENÇÃO",
+    "valor": "4",
+    "unidade": ""
+   },
+   "nota": "Três cartões entram: \"multa\", \"4 pontos\" e \"retenção do veículo\"."
+  },
+  "L07": {
+   "zona": "freios",
+   "etiqueta": "SÓ OS FREIOS",
+   "nota": "A rotação do motor desaparece do gráfico e as quatro pinças de freio ficam sozinhas, acesas."
+  },
+  "L08": {
+   "estado": "alerta",
+   "etiqueta": "FREIO ESQUENTA",
+   "nota": "Discos de freio passam de ciano a laranja e vermelho; a distância de parada cresce no gráfico."
+  },
+  "L09": {
+   "etiqueta": "SEM ASSISTÊNCIA",
+   "nota": "Servofreio e direção assistida apagam; o pedal fica duro e o volante pesa."
+  },
+  "L10": {
+   "zona": "cambio",
+   "estado": "alerta",
+   "etiqueta": "AUTOMÁTICO: NÃO N",
+   "nota": "Alavanca do câmbio automático passando de D para N com um X vermelho sobre o N."
+  },
+  "L11": {
+   "etiqueta": "MARCHA MAIS BAIXA",
+   "nota": "Velocímetro caindo e o câmbio descendo para uma marcha menor, antes do início da serra."
+  },
+  "L12": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": "NÃO APOIE",
+   "nota": "Pé em arame levantando do pedal; os discos esfriam de laranja a ciano."
+  },
+  "L13": {
+   "zona": "cambio",
+   "etiqueta": "CONFIRA O MANUAL",
+   "nota": "Manual aberto no capítulo de câmbio; o seletor mostra o modo manual como exemplo."
+  }
+ },
+ "serie": "PONTO MORTO NA DESCIDA",
+ "fonte": "Fonte: CTB art. 231, IX e art. 259, III, no…"
+}

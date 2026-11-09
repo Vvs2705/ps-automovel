@@ -1,0 +1,68 @@
+{
+ "carro": "hatch",
+ "falas": {
+  "L01": {
+   "zona": "freios",
+   "etiqueta": "TEM VALIDADE",
+   "nota": "Frasco genérico de fluido; um carimbo \"VALIDADE\" desce sobre ele."
+  },
+  "L02": {
+   "zona": "arrefecimento",
+   "etiqueta": "ABSORVE UMIDADE",
+   "nota": "O reservatório do freio em corte; gotas de água entram pelo respiro e se misturam ao fluido âmbar."
+  },
+  "L03": {
+   "etiqueta": "FERVE MAIS CEDO",
+   "nota": "Termômetro na pinça de freio: com fluido seco a marca de ebulição fica alta; com água ela cai e o fluido borbulha."
+  },
+  "L04": {
+   "zona": "freios",
+   "etiqueta": "PEDAL PERDE FIRMEZA",
+   "nota": "Bolhas dentro da linha de freio; o pedal afunda sem empurrar o pistão da pinça."
+  },
+  "L05": {
+   "zona": "arrefecimento",
+   "etiqueta": "CORROSÃO INTERNA",
+   "nota": "Câmera entra no cilindro mestre; manchas de ferrugem aparecem na parede interna."
+  },
+  "L06": {
+   "etiqueta": "TEMPO CONTA",
+   "nota": "Odômetro parado em poucos km enquanto o calendário avança e o nível de água sobe."
+  },
+  "L07": {
+   "cartao": {
+    "rotulo": "ANOS",
+    "valor": "1-2",
+    "unidade": ""
+   },
+   "nota": "Linha do tempo de um a dois anos com uma faixa de prazo em ciano."
+  },
+  "L08": {
+   "etiqueta": "CONFIRA O MANUAL",
+   "nota": "O manual abre num capítulo de manutenção; dois cartões, \"meses\" e \"km\", alternam."
+  },
+  "L09": {
+   "zona": "freios",
+   "etiqueta": "SÓ O INDICADO",
+   "nota": "Tampa do reservatório com a marcação do tipo (sem valor específico), ligada ao manual por uma linha."
+  },
+  "L10": {
+   "zona": "arrefecimento",
+   "etiqueta": "COR NÃO BASTA",
+   "nota": "Dois frascos de cor igual; um testador digital na amostra mostra um resultado diferente em cada um."
+  },
+  "L11": {
+   "zona": "lanternas",
+   "estado": "alerta",
+   "etiqueta": "NÍVEL BAIXO",
+   "nota": "Reservatório com o nível descendo abaixo da marca MIN; luz de freio acende em vermelho no painel."
+  },
+  "L12": {
+   "zona": "pneus",
+   "etiqueta": "TROCA NA OFICINA",
+   "nota": "Carro de arame sobe num elevador; mecânico holográfico sem rosto trabalha na roda (nenhuma pessoa real)."
+  }
+ },
+ "serie": "FLUIDO DE FREIO",
+ "fonte": "Fonte: Motul, Castrol, ATE, febi, norma FMVSS…"
+}

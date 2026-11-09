@@ -1,0 +1,84 @@
+{
+ "carro": "hatch",
+ "falas": {
+  "L01": {
+   "zona": "pneus",
+   "etiqueta": "SULCO E DATA",
+   "nota": "Pneu em corte com sulcos fundos; um relógio de areia gira sobre ele."
+  },
+  "L02": {
+   "estado": "alerta",
+   "cartao": {
+    "rotulo": "LIMITE",
+    "valor": "1,6",
+    "unidade": "MM"
+   },
+   "nota": "Régua holográfica mede a profundidade do sulco e trava em 1,6 mm (valor em laranja)."
+  },
+  "L03": {
+   "etiqueta": "INDICADORES DE DESGASTE",
+   "nota": "Câmera entra num sulco; pequenos ressaltos de borracha se acendem no fundo."
+  },
+  "L04": {
+   "estado": "alerta",
+   "etiqueta": "HORA DE TROCAR",
+   "nota": "A banda de rodagem se desgasta até ficar rente aos ressaltos; o pneu fica vermelho."
+  },
+  "L05": {
+   "etiqueta": "TRIÂNGULO · TWI",
+   "nota": "Lateral do pneu: um triângulo e as letras TWI acendem e apontam para o sulco."
+  },
+  "L06": {
+   "zona": "arrefecimento",
+   "etiqueta": "AQUAPLANAGEM",
+   "nota": "Pneu novo e pneu gasto sobre piso molhado; a água escoa no novo e forma uma cunha no gasto."
+  },
+  "L07": {
+   "estado": "atencao",
+   "etiqueta": "ATENÇÃO ANTES",
+   "nota": "A régua volta e destaca a faixa entre três milímetros e 1,6 mm como \"atenção\"."
+  },
+  "L08": {
+   "zona": "pneus",
+   "etiqueta": "CÓDIGO DOT",
+   "nota": "Lateral do pneu com o código DOT; os quatro últimos números brilham."
+  },
+  "L09": {
+   "etiqueta": "SEMANA · ANO",
+   "nota": "O número se divide em duas metades: \"semana\" e \"ano\"."
+  },
+  "L10": {
+   "cartao": {
+    "rotulo": "SEMANA",
+    "valor": "35/2021",
+    "unidade": ""
+   },
+   "nota": "Exemplo de leitura: o número 3521 vira um calendário que aponta a 35ª semana de 2021."
+  },
+  "L11": {
+   "estado": "alerta",
+   "etiqueta": "ENVELHECE SEM USO",
+   "nota": "Lateral do pneu com microrachaduras surgindo em vermelho."
+  },
+  "L12": {
+   "etiqueta": "INSPEÇÃO ANUAL",
+   "lupa": true,
+   "nota": "Linha do tempo com um marco em cinco anos e um ícone de lupa repetido a cada ano."
+  },
+  "L13": {
+   "cartao": {
+    "rotulo": "ANOS",
+    "valor": "10",
+    "unidade": "ATÉ"
+   },
+   "nota": "O marco de dez anos acende sobre o pneu de sulco bom, com a etiqueta de fabricantes."
+  },
+  "L14": {
+   "estado": "alerta",
+   "etiqueta": "BOLHA: URGENTE",
+   "nota": "Bolha se forma na lateral do pneu em vermelho; o carro de arame fica parado."
+  }
+ },
+ "serie": "PNEU: SULCO E DATA",
+ "fonte": "Fonte: Resolução Contran 913/2022; Michelin…"
+}

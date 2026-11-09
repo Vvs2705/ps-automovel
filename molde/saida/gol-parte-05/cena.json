@@ -1,0 +1,61 @@
+{
+ "carro": "hatch",
+ "falas": {
+  "L01": {
+   "zona": "cambio",
+   "etiqueta": "TRANCO NO CÂMBIO?",
+   "nota": "Seletor de marchas; o HUD sacode a cada troca."
+  },
+  "L02": {
+   "etiqueta": "I-MOTION 2009–2018",
+   "nota": "Caixa de câmbio em corte com a etiqueta I-Motion e a linha 2009 a 2018."
+  },
+  "L03": {
+   "cartao": {
+    "rotulo": "TESTE",
+    "valor": "2013",
+    "unidade": "DE"
+   },
+   "nota": "Gráfico de aceleração com picos nas trocas."
+  },
+  "L04": {
+   "etiqueta": "DONOS RELATAM",
+   "nota": "Atuador e robô eletro-hidráulico em corte; gota vaza."
+  },
+  "L05": {
+   "etiqueta": "CASO DE OFICINA",
+   "nota": "Kit de embreagem com X; robô reformado com visto verde."
+  },
+  "L06": {
+   "etiqueta": "PROJETO + DESGASTE",
+   "nota": "Embreagem única abre e fecha em cada troca."
+  },
+  "L07": {
+   "etiqueta": "SCANNER E VAZAMENTO",
+   "lupa": true,
+   "nota": "Scanner conectado; lupa sobre o atuador."
+  },
+  "L08": {
+   "zona": "freios",
+   "etiqueta": "FREIO NA SUBIDA",
+   "nota": "Subida: pé no acelerador com X, pé no freio com visto."
+  },
+  "L09": {
+   "cartao": {
+    "rotulo": "Valor",
+    "valor": "4–7",
+    "unidade": "R$ MIL"
+   },
+   "nota": "Faixa de preço R$ 4 mil a R$ 7 mil com selo ABR 2025."
+  },
+  "L10": {
+   "etiqueta": "TESTE NA COMPRA",
+   "lupa": true,
+   "nota": "Mão no volante; teste de rua; lupa no atuador."
+  }
+ },
+ "serie": "FALANDO DE GOL",
+ "titulo": "FALANDO DE GOL #5",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Motor Show, 01/12/2009"
+}
