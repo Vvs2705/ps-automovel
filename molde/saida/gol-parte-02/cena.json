@@ -5,30 +5,112 @@
  "selo": "RELATO DE DONOS",
  "fonte": "Fonte: Oficina Brasil, 02/10/2012",
  "falas": {
-  "L01": { "zona": "motor", "estado": "atencao", "seta": true, "etiqueta": "MOTOR FALHANDO" },
-  "L02": { "zona": "motor", "estado": "atencao",
-           "cartao": { "rotulo": "Motor 1.0 do Gol", "valor": "EA111", "unidade": "", "detalhe": "Casos de falha de ignição", "palavra": "onze" },
-           "etiqueta": "IGNIÇÃO",
-           "legenda": "Matérias de oficina registram casos de falha de ignição no Gol 1.0, com motor EA111." },
-  "L03": { "zona": "motor", "estado": "ok", "lupa": true, "etiqueta": ["SEM DISTRIBUIDOR", "BOBINA DUPLA"],
-           "fonte": "Fonte: O Mecânico, 2015" },
-  "L04": { "zona": "motor", "estado": "atencao", "etiqueta": ["ENGASGA E VIBRA", "PERDE FORÇA"],
-           "fonte": "Fonte: O Mecânico, 2020; manual VW" },
-  "L05": { "zona": "painel", "estado": "atencao", "seta": true, "etiqueta": "LUZ DA INJEÇÃO",
-           "fonte": "Fonte: AutoPapo, 21/02/2019" },
-  "L06": { "zona": "motor", "estado": "atencao",
-           "cartao": { "rotulo": "Mecânicos listam", "valor": "5", "unidade": "SUSPEITOS", "detalhe": "Velas, cabos, bobinas, bicos, bomba", "palavra": "bomba" },
-           "fonte": "Fonte: O Mecânico, 2020; AutoPapo, 2019" },
-  "L07": { "zona": "painel", "estado": "ok", "etiqueta": ["LEIA COM SCANNER", "ANTES DE TROCAR"],
-           "fonte": "Fonte: O Mecânico, 2020; Oficina Brasil" },
-  "L08": { "zona": "motor", "estado": "atencao",
-           "cartao": { "rotulo": "Num caso publicado", "valor": "4 BOBINAS", "unidade": "", "detalhe": "Novas, e não resolveram", "palavra": "resolveram" },
-           "etiqueta": "MÓDULO NA BOBINA",
-           "legenda": "Num caso publicado, 4 bobinas novas não resolveram: o defeito estava no módulo dentro da bobina.",
-           "fonte": "Fonte: Oficina Brasil, 02/10/2012" },
-  "L09": { "zona": "escapamento", "estado": "alerta", "lupa": true, "etiqueta": ["REDUZA, OFICINA", "CATALISADOR EM RISCO"],
-           "fonte": "Fonte: manual do Novo Gol (my-2017)" },
-  "L10": { "zona": "motor", "estado": "alerta", "etiqueta": ["NÃO PUXE CABO", "COMBUSTÍVEL NO CATALISADOR"],
-           "fonte": "Fonte: O Mecânico/NGK, 2015" }
+  "L01": {
+   "zona": "motor",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "MOTOR FALHANDO"
+  },
+  "L02": {
+   "zona": "motor",
+   "estado": "atencao",
+   "cartao": {
+    "rotulo": "Motor 1.0 do Gol",
+    "valor": "EA111",
+    "unidade": "",
+    "detalhe": "Casos de falha de ignição",
+    "palavra": "onze"
+   },
+   "etiqueta": "IGNIÇÃO",
+   "legenda": "Matérias de oficina registram casos de falha de ignição no Gol 1.0, com motor EA111."
+  },
+  "L03": {
+   "zona": "motor",
+   "estado": "ok",
+   "lupa": true,
+   "etiqueta": [
+    "SEM DISTRIBUIDOR",
+    "BOBINA DUPLA"
+   ],
+   "fonte": "Fonte: O Mecânico, 2015"
+  },
+  "L04": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": [
+    "ENGASGA E VIBRA",
+    "PERDE FORÇA"
+   ],
+   "fonte": "Fonte: O Mecânico, 2020; manual VW"
+  },
+  "L05": {
+   "zona": "painel",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "LUZ DA INJEÇÃO",
+   "fonte": "Fonte: AutoPapo, 21/02/2019"
+  },
+  "L06": {
+   "zona": "motor",
+   "estado": "atencao",
+   "cartao": {
+    "rotulo": "Mecânicos listam",
+    "valor": "5",
+    "unidade": "SUSPEITOS",
+    "detalhe": "Velas, cabos, bobinas, bicos, bomba",
+    "palavra": "bomba"
+   },
+   "fonte": "Fonte: O Mecânico, 2020; AutoPapo, 2019"
+  },
+  "L07": {
+   "zona": "painel",
+   "estado": "ok",
+   "etiqueta": [
+    "LEIA COM SCANNER",
+    "ANTES DE TROCAR"
+   ],
+   "fonte": "Fonte: O Mecânico, 2020; Oficina Brasil"
+  },
+  "L08": {
+   "zona": "motor",
+   "estado": "atencao",
+   "cartao": {
+    "rotulo": "Num caso publicado",
+    "valor": "4 BOBINAS",
+    "unidade": "",
+    "detalhe": "Novas, e não resolveram",
+    "palavra": "resolveram"
+   },
+   "etiqueta": "MÓDULO NA BOBINA",
+   "legenda": "Num caso publicado, 4 bobinas novas não resolveram: o defeito estava no módulo dentro da bobina.",
+   "fonte": "Fonte: Oficina Brasil, 02/10/2012"
+  },
+  "L09": {
+   "zona": "escapamento",
+   "estado": "alerta",
+   "lupa": true,
+   "etiqueta": [
+    "REDUZA, OFICINA",
+    "CATALISADOR EM RISCO"
+   ],
+   "fonte": "Fonte: manual do Novo Gol (my-2017)"
+  },
+  "L10": {
+   "zona": "motor",
+   "estado": "alerta",
+   "etiqueta": [
+    "NÃO PUXE CABO",
+    "COMBUSTÍVEL NO CATALISADOR"
+   ],
+   "fonte": "Fonte: O Mecânico/NGK, 2015"
+  },
+  "L11": {
+   "etiqueta": "RESUMO",
+   "nota": "O Gol inteiro em arame, com a zona do problema acesa (o motor); a etiqueta RESUMO aparece."
+  },
+  "L12": {
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
  }
 }

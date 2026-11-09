@@ -45,6 +45,15 @@
    "zona": "painel",
    "etiqueta": "ESPERE APAGAR",
    "nota": "Luz de controle acende e depois apaga."
+  },
+  "L10": {
+   "zona": "motor",
+   "etiqueta": "RESUMO",
+   "nota": "O Gol inteiro em arame, com a zona do problema acesa (o motor); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
   }
  },
  "serie": "FALANDO DE GOL",
