@@ -1,0 +1,17 @@
+[
+  {"id": "L01", "text": "A luz da bateria acesa pode não ser a bateria."},
+  {"id": "L02", "text": "Com o motor ligado, ela costuma avisar falha no sistema de carga: alternador, correia ou cabos."},
+  {"id": "L03", "text": "O alternador é quem recarrega a bateria enquanto o motor funciona."},
+  {"id": "L04", "text": "Ao ligar a ignição, a luz acende e apaga quando o motor pega. É o autoteste."},
+  {"id": "L05", "text": "Se acender com o motor ligado, a bateria pode não estar sendo recarregada."},
+  {"id": "L06", "text": "Aí o carro roda com o que restou na bateria e pode apagar."},
+  {"id": "L07", "text": "Manuais de montadoras mandam parar em local seguro e procurar a oficina."},
+  {"id": "L08", "text": "Um deles manda ainda desligar os itens elétricos desnecessários. Confira o manual do seu carro."},
+  {"id": "L09", "text": "Escolha bem onde parar: desligado, pode não ligar de novo."},
+  {"id": "L10", "text": "Em muitos carros, a correia que gira o alternador também move a bomba d'água."},
+  {"id": "L11", "text": "Se ela se rompe, o motor pode superaquecer."},
+  {"id": "L12", "text": "Com o alternador falhando, até uma bateria boa se desgasta mais rápido."},
+  {"id": "L13", "text": "Antes de trocar a bateria, peça o teste do sistema de carga, para não trocar à toa."},
+  {"id": "L14", "text": "Um manual avisa: nunca desconecte a bateria com o motor funcionando. Pode danificar o sistema elétrico."},
+  {"id": "L15", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]

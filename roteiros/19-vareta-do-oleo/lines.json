@@ -1,0 +1,18 @@
+[
+  {"id": "L01", "text": "Você lê a vareta do óleo do jeito certo?"},
+  {"id": "L02", "text": "Primeiro, estacione em piso plano. Carro inclinado engana a leitura."},
+  {"id": "L03", "text": "Desligue o motor e espere o óleo voltar para o fundo do motor."},
+  {"id": "L04", "text": "Tem manual que pede esperar cinco minutos, outro dez, outro quinze."},
+  {"id": "L05", "text": "Uns pedem o motor aquecido, outros parado há bastante tempo. Confira o manual do seu carro."},
+  {"id": "L06", "text": "O manual de alguns carros avisa: motor quente e ventoinha que pode ligar de repente."},
+  {"id": "L07", "text": "Retire a vareta e limpe com um pano que não solte fiapos."},
+  {"id": "L08", "text": "Reinsira até o fim, retire de novo e leia o nível."},
+  {"id": "L09", "text": "O nível tem que ficar entre as marcas de mínimo e máximo."},
+  {"id": "L10", "text": "Óleo demais também faz mal ao motor."},
+  {"id": "L11", "text": "Passou do máximo? Alguns manuais mandam não ligar o motor e chamar a oficina."},
+  {"id": "L12", "text": "Se faltar, complete só com o óleo indicado no manual, aos poucos, conferindo a vareta."},
+  {"id": "L13", "text": "Confira o nível com regularidade e antes de viajar."},
+  {"id": "L14", "text": "Alguns carros têm sensor e mostram o nível no painel; veja no manual."},
+  {"id": "L15", "text": "Luz do óleo acesa é outro caso: veja o nosso vídeo."},
+  {"id": "L16", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]

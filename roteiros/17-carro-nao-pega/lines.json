@@ -1,0 +1,15 @@
+[
+  {"id": "L01", "text": "Carro não pega? O som dá a pista."},
+  {"id": "L02", "text": "Primeiro o básico. Câmbio manual: pise a embreagem. Automático: alavanca no estacionamento ou em neutro."},
+  {"id": "L03", "text": "Painel apagado ou fraco, faróis fracos, silêncio ou só estalos? Aponta para bateria descarregada ou terminais soltos ou sujos."},
+  {"id": "L04", "text": "Gira, mas devagar? Provavelmente é bateria fraca."},
+  {"id": "L05", "text": "Um clique só e nada? Pode ser a bateria ou o motor de partida. Só o teste separa."},
+  {"id": "L06", "text": "Gira normal, mas não pega? Veja o marcador de combustível."},
+  {"id": "L07", "text": "Tem combustível e não pega? Pode ser o sistema de combustível, a faísca ou outro problema."},
+  {"id": "L08", "text": "Não insista na partida: várias tentativas podem descarregar mais a bateria e danificar o motor de partida."},
+  {"id": "L09", "text": "O manual do seu carro pode indicar o tempo de cada tentativa."},
+  {"id": "L10", "text": "Não empurre o carro para pegar no tranco: manuais de montadoras alertam que pode danificá-lo."},
+  {"id": "L11", "text": "A chupeta é só para emergência, exige cuidado e varia de carro para carro: siga o manual."},
+  {"id": "L12", "text": "Na dúvida, se o carro continuar sem pegar ou o problema se repetir, chame a assistência."},
+  {"id": "L13", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]

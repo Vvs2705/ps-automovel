@@ -1,0 +1,17 @@
+[
+  {"id": "L01", "text": "Luz do óleo acesa com o carro andando? Aja agora."},
+  {"id": "L02", "text": "Falo da luz vermelha de pressão do óleo."},
+  {"id": "L03", "text": "Alguns carros têm outro aviso, de nível ou de troca do óleo. É outra coisa."},
+  {"id": "L04", "text": "Ao ligar a ignição, ela acende e apaga quando o motor funciona. Isso é normal."},
+  {"id": "L05", "text": "Acendeu andando, ou não apagou com o motor ligado? Indica pressão do óleo baixa."},
+  {"id": "L06", "text": "Vários manuais de montadoras mandam parar em local seguro e desligar o motor."},
+  {"id": "L07", "text": "Não siga viagem: rodar assim pode causar graves danos ao motor."},
+  {"id": "L08", "text": "O motivo: com pressão baixa, a lubrificação do motor fica ruim."},
+  {"id": "L09", "text": "Ela avisa de pressão, não de nível: pode acender com nível baixo ou certo."},
+  {"id": "L10", "text": "Com o carro parado, em piso plano e o motor desligado, confira o nível na vareta."},
+  {"id": "L11", "text": "Cuidado: o motor está quente. Espere o tempo que o manual manda."},
+  {"id": "L12", "text": "Nível baixo? O manual do seu carro diz o que fazer."},
+  {"id": "L13", "text": "Nível certo e a luz acendeu? A causa é outra: não siga viagem. Chame guincho ou a oficina."},
+  {"id": "L14", "text": "Os símbolos e os passos variam: confira o manual do seu carro."},
+  {"id": "L15", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]

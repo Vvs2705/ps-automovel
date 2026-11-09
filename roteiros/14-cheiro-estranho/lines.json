@@ -1,0 +1,15 @@
+[
+  {"id": "L01", "text": "O cheiro que sai do seu carro é um aviso."},
+  {"id": "L02", "text": "Cheiro forte de combustível pode ser vazamento, e o vapor pode pegar fogo perto de chama ou faísca."},
+  {"id": "L03", "text": "Pare em local seguro, desligue o motor, afaste qualquer chama e chame o guincho."},
+  {"id": "L04", "text": "Cheiro adocicado costuma estar ligado ao líquido de arrefecimento e pode indicar falha no sistema."},
+  {"id": "L05", "text": "Se esquentar, pare e deixe esfriar: nunca abra a tampa do reservatório com o motor quente."},
+  {"id": "L06", "text": "Cheiro de queimado pode vir do freio, da embreagem ou da parte elétrica."},
+  {"id": "L07", "text": "Pare em local seguro, desligue o motor e espere esfriar. Com fumaça, saia, afaste-se e ligue cento e noventa e três."},
+  {"id": "L08", "text": "Cheiro de escapamento dentro do carro é sério: esses gases têm monóxido de carbono, que não tem cheiro e pode ser fatal."},
+  {"id": "L09", "text": "Abra todos os vidros e procure uma oficina na hora."},
+  {"id": "L10", "text": "Com dor de cabeça ou enjoo, saia do carro e procure atendimento médico."},
+  {"id": "L11", "text": "Cheiro de mofo ao ligar o ar-condicionado pode vir de umidade e sujeira dentro do sistema, em dutos, filtro e evaporador."},
+  {"id": "L12", "text": "Faça a higienização e confira no manual quando trocar o filtro."},
+  {"id": "L13", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]
