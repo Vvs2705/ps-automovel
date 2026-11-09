@@ -1,0 +1,23 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE GOL",
+ "titulo": "FALANDO DE GOL #6",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: alerta de recall, gov.br/mj, 30/11/2015",
+ "falas": {
+  "L01": { "zona": "lanternas", "estado": "atencao", "seta": true, "etiqueta": "LUZ TRASEIRA OK?" },
+  "L02": { "zona": "carro", "cartao": { "rotulo": "Recall · novembro de 2015", "valor": "2014–2015", "unidade": "", "detalhe": "Gol anos 2014 e 2015", "palavra": "gol" },
+           "legenda": "Em novembro de 2015, a Volkswagen fez recall do Gol 2014 e 2015." },
+  "L03": { "cartao": { "rotulo": "Carros convocados", "valor": "170 MIL", "unidade": "", "detalhe": "Número do alerta oficial: 170.443", "palavra": "carros" },
+           "legenda": "Foram cerca de 170 mil carros, segundo o alerta oficial." },
+  "L04": { "cartao": { "rotulo": "Produzidos entre", "valor": "2013–2015", "unidade": "", "detalhe": "de 02/12/2013 a 03/08/2015", "palavra": "quinze" },
+           "legenda": "Eles foram produzidos entre dezembro de 2013 e agosto de 2015." },
+  "L05": { "zona": "eletrica", "estado": "alerta", "pontos": [{ "p": "lanterna", "rotulo": "LANTERNA" }], "etiqueta": "CIRCUITO DA LANTERNA" },
+  "L06": { "zona": "lanternas", "estado": "alerta", "etiqueta": "RISCO GRAVE" },
+  "L07": { "etiqueta": ["AVALIA", "COMPONENTE EXTRA", "TROCA SE PRECISO"] },
+  "L08": { "zona": "carro", "etiqueta": ["CONSULTE O CHASSI", "VOLKSWAGEN · GOV.BR"] },
+  "L09": { "cartao": { "rotulo": "Consulta do governo", "valor": "GRÁTIS", "unidade": "", "detalhe": "Imediata, com conta gov.br", "palavra": "gratuita" } },
+  "L10": { "estado": "atencao", "cartao": { "rotulo": "Recall pendente há", "valor": "1 ANO", "unidade": "", "detalhe": "Aparece no documento do carro", "palavra": "ano" },
+           "etiqueta": ["LICENCIAR", "TRANSFERIR"] }
+ }
+}

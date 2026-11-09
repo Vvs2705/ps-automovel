@@ -1,0 +1,33 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE GOL",
+ "titulo": "FALANDO DE GOL #1",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Vrum, 09/04/2026",
+ "falas": {
+  "L01": { "zona": "motor", "estado": "atencao", "seta": true, "etiqueta": "BEBENDO ÓLEO?" },
+  "L02": { "zona": "motor",
+           "cartao": { "rotulo": "Motor 1.0 do Gol", "valor": "EA111", "unidade": "", "detalhe": "Relatos de consumo de óleo", "palavra": "onze" },
+           "legenda": "Donos e mecânicos relatam consumo de óleo no Gol com motor 1.0, da família EA111." },
+  "L03": { "zona": "carro",
+           "cartao": { "rotulo": "Segundo a imprensa", "valor": "2008–2013", "unidade": "", "detalhe": "Gol G4, G5 e G6", "palavra": "treze" },
+           "legenda": "A imprensa situa o problema nos Gol feitos entre 2008 e 2013." },
+  "L04": { "zona": "motor", "estado": "atencao",
+           "cartao": { "rotulo": "A Volkswagen admitiu em", "valor": "2009", "unidade": "", "detalhe": "Problema de lubrificação no 1.0", "palavra": "nove" },
+           "etiqueta": "VW ADMITIU",
+           "legenda": "Em 2009, a Volkswagen admitiu problema de lubrificação no 1.0, produzido a partir de 2008.",
+           "fonte": "Fonte: Mecânica Online, 01/11/2009" },
+  "L05": { "cartao": { "rotulo": "Garantia do motor", "valor": "3 PARA 4", "unidade": "ANOS", "detalhe": "Óleo perdia propriedades com álcool", "palavra": "quatro" },
+           "legenda": "Ela atribuiu o caso ao óleo, que perdia propriedades com o álcool, e estendeu a garantia do motor de 3 para 4 anos." },
+  "L06": { "estado": "atencao", "etiqueta": "NÃO FOI RECALL" },
+  "L07": { "estado": "atencao", "etiqueta": ["CAUSA: DIVERGE", "ANÉIS DO PISTÃO", "RETENTORES"],
+           "fonte": "Fonte: Vrum, 04/2026; OnlyCars, 09/2025" },
+  "L08": { "estado": "ok", "seta": true, "etiqueta": ["MEÇA NA VARETA", "FRIO E NIVELADO"],
+           "fonte": "Fonte: OnlyCars, 09/2025" },
+  "L09": { "zona": "escapamento", "estado": "atencao", "etiqueta": ["FUMAÇA AZULADA", "COMPLETAR ÓLEO"] },
+  "L10": { "zona": "motor", "estado": "ok",
+           "cartao": { "rotulo": "Nível do óleo", "valor": "1×", "unidade": "POR SEMANA", "detalhe": "Óleo e prazo: os do manual", "palavra": "semana" },
+           "fonte": "Fonte: Vrum, 04/2026; Mecânica Popular, 07/2026" },
+  "L11": { "zona": "motor", "estado": "alerta", "etiqueta": "POUCO ÓLEO, RISCO", "fonte": "Fonte: Vrum, 09/04/2026" }
+ }
+}

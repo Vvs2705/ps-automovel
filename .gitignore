@@ -1,0 +1,15 @@
+# Vídeos e saída de render ficam só no notebook (o GitHub devolve os vídeos por molde/baixar.sh).
+VIDEOS PRONTOS/
+molde/saida/*
+!molde/saida/*/
+molde/saida/*/*
+# exceção: o cena.json (revisado à mão) é entrada do render, então vai para o git
+!molde/saida/*/cena.json
+
+# intermediários e vozes: o build refaz (a voz sai do edge-tts, inclusive no GitHub)
+*.mp4
+*.wav
+out/
+*.log
+__pycache__/
+.ruff_cache/

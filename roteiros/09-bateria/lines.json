@@ -1,0 +1,17 @@
+[
+  {"id": "L01", "text": "Sua bateria avisa antes de falhar."},
+  {"id": "L02", "text": "Segundo os fabricantes, ela costuma durar de dois a cinco anos."},
+  {"id": "L03", "text": "Calor, trajetos curtos e carro parado por muito tempo encurtam essa vida."},
+  {"id": "L04", "text": "Primeiro sinal: a partida fica lenta, com o motor girando arrastado."},
+  {"id": "L05", "text": "Outro sinal: você gira a chave e só ouve cliques."},
+  {"id": "L06", "text": "Mas clique nem sempre é bateria: pode ser o motor de partida."},
+  {"id": "L07", "text": "Faróis e painel mais fracos que o normal também denunciam pouca carga."},
+  {"id": "L08", "text": "Caixa estufada? Troque a bateria na hora."},
+  {"id": "L09", "text": "Luz da bateria acesa com o carro andando?"},
+  {"id": "L10", "text": "Em geral, o problema está no sistema de carga: alternador ou correia."},
+  {"id": "L11", "text": "Procure uma oficina logo, sem rodar longe: o carro pode ficar sem energia."},
+  {"id": "L12", "text": "A bateria solta gás inflamável e tem ácido. Longe de chama e faísca, com óculos e luvas."},
+  {"id": "L13", "text": "Chupeta só em emergência, e seguindo o manual do seu carro."},
+  {"id": "L14", "text": "Na dúvida, a oficina faz o teste com um analisador digital."},
+  {"id": "L15", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]

@@ -1,0 +1,17 @@
+[
+  {"id": "L01", "text": "Luz da injeção piscando é diferente de luz fixa."},
+  {"id": "L02", "text": "Ela acende quando o carro detecta falha em emissões ou em sensores do motor."},
+  {"id": "L03", "text": "Fixa: leve o carro à oficina o quanto antes, sem forçar o motor nem andar em alta velocidade."},
+  {"id": "L04", "text": "Não existe prazo seguro em quilômetros para rodar com ela acesa."},
+  {"id": "L05", "text": "Piscando é mais grave."},
+  {"id": "L06", "text": "Se o combustível chega sem queimar ao catalisador, ele pode superaquecer e ser destruído."},
+  {"id": "L07", "text": "Os manuais mandam aliviar o acelerador e baixar a rotação até parar de piscar."},
+  {"id": "L08", "text": "Se continuar piscando, pare em local seguro e chame a assistência."},
+  {"id": "L09", "text": "Em alguns carros, o manual cita uma causa simples: a tampa do tanque frouxa."},
+  {"id": "L10", "text": "Confira com o carro parado e o motor desligado, longe de chama e cigarro."},
+  {"id": "L11", "text": "O defeito é lido na tomada de diagnóstico, onde a oficina liga o scanner."},
+  {"id": "L12", "text": "O código mostra a área com problema, mas não diz qual peça trocar."},
+  {"id": "L13", "text": "Apagar o código não resolve se a causa continua."},
+  {"id": "L14", "text": "O nome e o desenho da luz variam: confira o manual do seu carro."},
+  {"id": "L15", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]

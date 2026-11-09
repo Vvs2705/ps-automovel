@@ -1,0 +1,16 @@
+[
+  {"id": "L01", "text": "Luz vermelha no painel não é para ver depois."},
+  {"id": "L02", "text": "Manuais de montadoras dizem: vermelho é perigo, não prossiga."},
+  {"id": "L03", "text": "Pare em local seguro assim que possível, com pisca-alerta e triângulo."},
+  {"id": "L04", "text": "Óleo e temperatura do motor costumam ser vermelhas."},
+  {"id": "L05", "text": "Os manuais mandam parar, e não dão distância para seguir rodando."},
+  {"id": "L06", "text": "Se for temperatura, não abra a tampa do reservatório com o motor quente."},
+  {"id": "L07", "text": "Amarelo é atenção: verificar a função o mais rápido possível."},
+  {"id": "L08", "text": "Falha ou falta de fluido pode danificar ou parar o carro."},
+  {"id": "L09", "text": "Amarela não é licença para ignorar: nenhum manual dá quilômetros para seguir."},
+  {"id": "L10", "text": "É normal várias luzes acenderem ao ligar a ignição e apagarem com o motor funcionando."},
+  {"id": "L11", "text": "Se alguma continuar acesa depois da partida, confira o manual."},
+  {"id": "L12", "text": "E se uma luz não acender no teste, a lâmpada pode estar queimada."},
+  {"id": "L13", "text": "A cor e o desenho mudam de carro para carro: o manual manda."},
+  {"id": "L14", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]

@@ -1,0 +1,27 @@
+{
+ "carro": "hatch",
+ "serie": "BATERIA",
+ "fonte": "Fonte: Moura, Heliar, AutoPapo, manual Kia",
+ "falas": {
+  "L01": { "zona": "eletrica", "estado": "alerta", "seta": true, "etiqueta": "BATERIA AVISA" },
+  "L02": { "zona": "eletrica", "estado": "ok",
+           "cartao": { "rotulo": "Vida útil da bateria", "valor": "2-5", "unidade": "ANOS", "detalhe": "Segundo os fabricantes", "palavra": "cinco" },
+           "legenda": "Segundo os fabricantes, ela costuma durar de 2 a 5 anos." },
+  "L03": { "zona": "eletrica", "estado": "atencao", "etiqueta": ["CALOR", "TRAJETO CURTO", "CARRO PARADO"] },
+  "L04": { "zona": "motor", "estado": "atencao", "seta": true, "etiqueta": "PARTIDA LENTA" },
+  "L05": { "zona": "motor", "estado": "atencao", "etiqueta": ["SÓ CLIQUES", "MOTOR NÃO GIRA"] },
+  "L06": { "zona": "motor", "estado": "ok", "etiqueta": ["PODE SER OUTRO", "MOTOR DE PARTIDA"] },
+  "L07": { "zona": "farois", "estado": "atencao", "etiqueta": ["LUZ FRACA", "FARÓIS E PAINEL"] },
+  "L08": { "zona": "eletrica", "estado": "alerta", "etiqueta": ["CAIXA ESTUFADA", "TROQUE NA HORA"],
+           "fonte": "Fonte: Baterias Moura" },
+  "L09": { "zona": "painel", "estado": "alerta", "etiqueta": ["LUZ DA BATERIA", "CARRO ANDANDO"],
+           "fonte": "Fonte: Heliar; AutoPapo; manual Kia" },
+  "L10": { "zona": "eletrica", "estado": "atencao", "etiqueta": ["SISTEMA DE CARGA", "ALTERNADOR · CORREIA"] },
+  "L11": { "zona": "carro", "estado": "atencao", "etiqueta": ["OFICINA LOGO", "NÃO RODE LONGE"] },
+  "L12": { "zona": "eletrica", "estado": "atencao", "etiqueta": ["GÁS INFLAMÁVEL · ÁCIDO", "LONGE DE CHAMA", "ÓCULOS E LUVAS"],
+           "fonte": "Fonte: manual Kia; Heliar; Moura" },
+  "L13": { "zona": "carro", "estado": "ok", "etiqueta": ["SÓ EM EMERGÊNCIA", "SIGA O MANUAL"],
+           "fonte": "Fonte: Moura, Heliar, AutoPapo, manual Kia" },
+  "L14": { "zona": "eletrica", "estado": "ok", "etiqueta": ["TESTE NA OFICINA", "ANALISADOR DIGITAL"] }
+ }
+}

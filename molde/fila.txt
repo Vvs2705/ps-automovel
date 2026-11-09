@@ -1,0 +1,15 @@
+# Fila de produção: uma linha por vídeo, na ordem em que devem sair.
+# <pasta do roteiro>   [estilo]      estilo vazio = hologram-hud; opções em molde/estilos/ESTILOS.md
+# Informativos alternam estilo; "Falando de" fica em hologram-hud (identidade da série).
+# Rodar: sh molde/produzir.sh   (pula o que já está pronto; REFAZER=1 refaz)
+roteiros/02-luzes-cores                     blueprint
+serie-falando-de/carros/gol/parte-03
+roteiros/07-fluido-de-freio                 chalkboard
+serie-falando-de/carros/gol/parte-04
+roteiros/08-pneu-sulco-data                 swiss-motion
+serie-falando-de/carros/gol/parte-05
+roteiros/10-ponto-morto-descida             midcentury-toon
+serie-falando-de/carros/gol/parte-07
+serie-falando-de/carros/gol/parte-08
+serie-falando-de/carros/gol/parte-09
+serie-falando-de/carros/gol/parte-10

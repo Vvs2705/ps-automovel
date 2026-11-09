@@ -1,0 +1,24 @@
+{
+ "carro": "hatch",
+ "serie": "FUMAÇA DO ESCAPAMENTO",
+ "fonte": "Fonte: O Mecânico, AutoPapo, Garagem 360",
+ "falas": {
+  "L01": { "zona": "escapamento", "estado": "atencao", "seta": true, "etiqueta": "COR DA FUMAÇA" },
+  "L02": { "zona": "escapamento", "estado": "ok", "etiqueta": ["BRANCA FINA: NORMAL", "DIA FRIO"] },
+  "L03": { "zona": "escapamento", "estado": "ok", "lupa": true, "etiqueta": ["VAPOR DE ÁGUA", "CONDENSA NO FRIO"] },
+  "L04": { "zona": "escapamento", "estado": "atencao", "etiqueta": ["BRANCA E GROSSA", "MOTOR QUENTE"] },
+  "L05": { "zona": "arrefecimento", "estado": "alerta", "etiqueta": ["JUNTA DO CABEÇOTE", "LÍQUIDO NO CILINDRO"] },
+  "L06": { "zona": "arrefecimento", "estado": "atencao", "etiqueta": ["NÍVEL CAI", "SEM VAZAMENTO VISÍVEL"] },
+  "L07": { "zona": "motor", "estado": "atencao", "etiqueta": "AZULADA: ÓLEO",
+           "fonte": "Fonte: O Mecânico, iCarros, Garagem 360" },
+  "L08": { "zona": "motor", "estado": "atencao", "lupa": true, "etiqueta": "ANÉIS · VEDADORES" },
+  "L09": { "zona": "motor", "estado": "atencao", "etiqueta": ["CONSUMO DE ÓLEO", "SEM VAZAMENTO"] },
+  "L10": { "zona": "motor", "estado": "atencao", "etiqueta": ["PRETA: MISTURA RICA", "COMBUSTÍVEL DEMAIS"],
+           "fonte": "Fonte: O Mecânico, AutoPapo, Garagem 360" },
+  "L11": { "zona": "motor", "estado": "atencao", "etiqueta": ["FILTRO DE AR", "BICOS INJETORES", "SONDA LAMBDA"] },
+  "L12": { "zona": "escapamento", "estado": "alerta", "lupa": true, "etiqueta": "CATALISADOR EM RISCO" },
+  "L13": { "zona": "painel", "estado": "ok", "etiqueta": ["SÓ UMA PISTA", "DIAGNÓSTICO NA OFICINA"] },
+  "L14": { "zona": "arrefecimento", "estado": "ok", "etiqueta": ["MOTOR FRIO", "OLHE O RESERVATÓRIO"] },
+  "L15": { "zona": "painel", "estado": "alerta", "etiqueta": ["TEMPERATURA SUBINDO", "PARE E CHAME"] }
+ }
+}

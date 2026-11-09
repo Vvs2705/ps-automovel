@@ -1,0 +1,30 @@
+{
+ "carro": "hatch",
+ "serie": "MOTOR ESQUENTANDO",
+ "fonte": "Fonte: manuais VW, Hyundai, Renault, Mazda",
+ "falas": {
+  "L01": { "zona": "painel", "estado": "alerta", "seta": true, "etiqueta": ["TEMPERATURA ALTA", "NÃO ABRA NADA"] },
+  "L02": { "zona": "carro", "estado": "alerta", "etiqueta": ["PARE COM SEGURANÇA", "NÃO SIGA VIAGEM"] },
+  "L03": { "zona": "farois", "estado": "atencao", "etiqueta": ["PISCA-ALERTA", "SINALIZE O CARRO"],
+           "fonte": "Fonte: CTB, Lei 9.503/1997, art. 40 e 46" },
+  "L04": { "zona": "motor", "estado": "alerta", "etiqueta": ["VAPOR: DESLIGUE", "NÃO ABRA CAPÔ"],
+           "fonte": "Fonte: manuais VW, Hyundai, Renault, Mazda" },
+  "L05": { "zona": "carro", "estado": "atencao", "etiqueta": ["CONFIRA O MANUAL", "FABRICANTES DIVERGEM"],
+           "fonte": "Fonte: manuais VW, Renault, Hyundai, Honda" },
+  "L06": { "zona": "arrefecimento", "estado": "ok", "etiqueta": ["ESPERE ESFRIAR", "POR COMPLETO"],
+           "fonte": "Fonte: manuais VW, Hyundai, Renault, Mazda" },
+  "L07": { "zona": "arrefecimento", "estado": "alerta", "etiqueta": ["NUNCA ABRA QUENTE", "SISTEMA SOB PRESSÃO"] },
+  "L08": { "zona": "arrefecimento", "estado": "alerta", "etiqueta": "RISCO DE QUEIMADURA" },
+  "L09": { "zona": "arrefecimento", "estado": "ok", "lupa": true, "etiqueta": "MOTOR FRIO · MIN-MAX" },
+  "L10": { "zona": "arrefecimento", "estado": "ok", "etiqueta": ["LÍQUIDO CERTO", "ÁGUA NÃO BASTA"],
+           "fonte": "Fonte: manuais VW e Hyundai" },
+  "L11": { "zona": "arrefecimento", "estado": "atencao", "etiqueta": ["NÍVEL BAIXO", "VAZAMENTO"],
+           "fonte": "Fonte: Olhar Digital, 26/07/2025" },
+  "L12": { "zona": "motor", "estado": "alerta", "lupa": true, "etiqueta": ["JUNTA DO CABEÇOTE", "MOTOR PODE TRAVAR"],
+           "fonte": "Fonte: A Gazeta, 2020; manual Mazda" },
+  "L13": { "zona": "arrefecimento", "estado": "atencao", "etiqueta": ["VENTOINHA PODE LIGAR", "MÃO LONGE"],
+           "fonte": "Fonte: manuais Hyundai HB20 e Renault Duster" },
+  "L14": { "zona": "carro", "estado": "alerta", "etiqueta": ["CHAME SOCORRO", "GUINCHO OU ASSISTÊNCIA"],
+           "fonte": "Fonte: manuais Hyundai, VW e Renault" }
+ }
+}

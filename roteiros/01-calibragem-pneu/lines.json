@@ -1,0 +1,18 @@
+[
+  {"id": "L01", "text": "O número escrito no seu pneu não é a pressão certa."},
+  {"id": "L02", "text": "Ele é o máximo que o pneu aguenta, não a calibragem do carro."},
+  {"id": "L03", "text": "A pressão certa está na etiqueta do carro e no manual."},
+  {"id": "L04", "text": "A etiqueta pode ficar na porta, na coluna ou na tampa do tanque."},
+  {"id": "L05", "text": "No posto, a pressão aparece em bar ou em pê ésse ai, as famosas libras."},
+  {"id": "L06", "text": "Um bar vale cerca de catorze e meio pê ésse ai."},
+  {"id": "L07", "text": "Calibre com o pneu frio: carro parado há pelo menos três horas."},
+  {"id": "L08", "text": "Pneu quente mostra pressão maior do que a real. Nunca tire ar dele."},
+  {"id": "L09", "text": "Pressão baixa gasta combustível, desgasta o pneu e pode aumentar a distância para frear."},
+  {"id": "L10", "text": "E, muito baixa, o pneu esquenta demais e pode estourar."},
+  {"id": "L11", "text": "Pressão alta também prejudica: gasta o centro do pneu e tira aderência."},
+  {"id": "L12", "text": "Confira pelo menos uma vez por mês e antes de viajar."},
+  {"id": "L13", "text": "Viajando com o carro cheio, use a pressão de carga do manual."},
+  {"id": "L14", "text": "E não esqueça o estepe."},
+  {"id": "L15", "text": "Olhar não adianta: pneu murcho pode parecer normal."},
+  {"id": "L16", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]

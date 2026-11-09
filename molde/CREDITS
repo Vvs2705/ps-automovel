@@ -1,0 +1,24 @@
+PS Automóvel · EP01 "Por que trocar o óleo?"
+
+Imagem
+- Todo o motor, o parafuso, a lupa e a interface são desenhados em código (film.js, models.js). Nenhuma imagem gerada por IA ou de banco.
+- Motor de desenho wireframe e camada HUD: estilo "Sci-fi Hologram HUD" da biblioteca Lemo-Opuscar (github.com/lemomo-ai/lemo-opuscar), licença MIT (engine/holo.js, engine/hud.js, engine/mkmodel.mjs).
+- Nenhuma marca de carro, de óleo ou de oficina aparece.
+- Estilos blueprint, chalkboard, swiss-motion e midcentury-toon (estilos/): gramática dos estilos de mesmo nome da Lemo-Opuscar (MIT), desenhados em código.
+
+Fontes (SIL Open Font License 1.1, licenças em fonts/)
+- Rajdhani: Indian Type Foundry
+- Share Tech Mono: Carrois Apostrophe
+- Estilos (estilos/fonts/, licenças ao lado): Tektur, Instrument Sans, Fredoka, Lilita One (todas OFL)
+
+Voz
+- Microsoft Edge TTS (edge-tts), voz pt-BR-AntonioNeural. Serviço online não oficial: confirme os termos de uso antes de monetizar.
+
+Música
+- Composição original, sintetizada em numpy (music/score.py). Sem samples.
+
+Efeitos sonoros
+- Todos sintetizados em numpy (mix.py): batidas, catraca, metal, scanner, óleo, raspagem.
+
+Fatos
+- Cada afirmação do roteiro tem fonte em FACTS.md.

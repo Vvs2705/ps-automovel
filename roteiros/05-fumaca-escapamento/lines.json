@@ -1,0 +1,18 @@
+[
+  {"id": "L01", "text": "A cor da fumaça do escapamento é um aviso."},
+  {"id": "L02", "text": "Fumaça branca fininha, em dia frio, é normal."},
+  {"id": "L03", "text": "É vapor de água da combustão, que condensa no escapamento frio e some quando ele esquenta."},
+  {"id": "L04", "text": "Branca, grossa e persistente, mesmo com o motor quente?"},
+  {"id": "L05", "text": "Pode ser líquido de arrefecimento entrando na câmara, geralmente por problema na junta do cabeçote."},
+  {"id": "L06", "text": "Outro sinal: o nível do reservatório cai sem vazamento visível."},
+  {"id": "L07", "text": "Fumaça azulada, na maioria dos casos, indica óleo queimando."},
+  {"id": "L08", "text": "As causas citadas são anéis do pistão ou vedadores de válvula desgastados."},
+  {"id": "L09", "text": "O sinal junto é o consumo de óleo subindo, sem vazamento por fora."},
+  {"id": "L10", "text": "Fumaça preta costuma ser mistura rica: combustível demais para o ar."},
+  {"id": "L11", "text": "Filtro de ar sujo, bicos injetores sujos ou sonda lambda com defeito podem causar isso."},
+  {"id": "L12", "text": "Rodar muito tempo assim pode danificar o catalisador."},
+  {"id": "L13", "text": "A cor é só uma pista: o diagnóstico é na oficina."},
+  {"id": "L14", "text": "Olhe o reservatório só com o motor frio."},
+  {"id": "L15", "text": "E se a temperatura subir, pare em local seguro e chame socorro."},
+  {"id": "L16", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]

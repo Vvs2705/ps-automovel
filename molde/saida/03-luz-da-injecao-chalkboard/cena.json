@@ -1,0 +1,26 @@
+{
+ "estilo": "chalkboard",
+ "carro": "hatch",
+ "serie": "LUZ DA INJEÇÃO",
+ "fonte": "Fonte: manuais Fiat, VW, Chevrolet, Renault",
+ "falas": {
+  "L01": { "zona": "painel", "estado": "atencao", "seta": true, "etiqueta": "FIXA × PISCANDO" },
+  "L02": { "zona": "motor", "estado": "atencao", "etiqueta": "FALHA DETECTADA" },
+  "L03": { "zona": "carro", "estado": "atencao", "etiqueta": ["FIXA: OFICINA LOGO", "SEM ALTA VELOCIDADE"] },
+  "L04": { "zona": "painel", "estado": "atencao",
+           "cartao": { "rotulo": "Quilometragem segura", "valor": "NENHUMA", "unidade": "", "detalhe": "Nem em km, nem em dias", "palavra": "quilometros" },
+           "etiqueta": "SEM PRAZO SEGURO" },
+  "L05": { "zona": "painel", "estado": "alerta", "seta": true, "etiqueta": "PISCANDO: GRAVE" },
+  "L06": { "zona": "escapamento", "estado": "alerta", "lupa": true, "etiqueta": "CATALISADOR EM RISCO" },
+  "L07": { "zona": "motor", "estado": "atencao", "etiqueta": "ALIVIE O ACELERADOR" },
+  "L08": { "zona": "carro", "estado": "alerta", "etiqueta": ["SE CONTINUAR PISCANDO", "PARE E CHAME"] },
+  "L09": { "zona": "tanque", "pontos": [{ "p": "tanque", "rotulo": "TAMPA DO TANQUE" }], "etiqueta": "TAMPA FROUXA",
+           "fonte": "Fonte: manual Nissan Kicks 2018" },
+  "L10": { "estado": "atencao", "etiqueta": ["CARRO PARADO", "MOTOR DESLIGADO", "SEM CHAMA"] },
+  "L11": { "zona": "painel", "etiqueta": "TOMADA DE DIAGNÓSTICO", "fonte": "Fonte: IBAMA, IN 126/2006; manual Fiat" },
+  "L12": { "zona": "motor", "etiqueta": "SÓ UMA PISTA", "fonte": "Fonte: Mecânica Online, 03/11/2026" },
+  "L13": { "zona": "painel", "estado": "atencao", "etiqueta": ["APAGAR NÃO RESOLVE", "CAUSA CONTINUA"],
+           "fonte": "Fonte: manual Fiat; IBAMA, IN 126/2006" },
+  "L14": { "zona": "painel", "etiqueta": "CONFIRA O MANUAL", "fonte": "Fonte: manuais de seis fabricantes" }
+ }
+}

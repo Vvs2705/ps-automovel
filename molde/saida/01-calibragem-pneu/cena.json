@@ -1,0 +1,27 @@
+{
+ "carro": "hatch",
+ "serie": "CALIBRAGEM DO PNEU",
+ "fonte": "Fonte: Michelin, Pirelli, Hankook e manuais",
+ "falas": {
+  "L01": { "zona": "pneus", "estado": "atencao", "seta": true,
+           "cartao": { "rotulo": "Escrito no pneu (exemplo)", "valor": "MAX 51", "unidade": "PSI", "palavra": "pneu" },
+           "etiqueta": "NÃO É CALIBRAGEM" },
+  "L02": { "estado": "alerta", "lupa": true, "etiqueta": "LIMITE DO PNEU" },
+  "L03": { "zona": "carro", "etiqueta": ["ETIQUETA DO CARRO", "MANUAL"] },
+  "L04": { "zona": "carroceria", "pontos": ["porta", "coluna", { "p": "tanque", "rotulo": "TAMPA DO TANQUE" }] },
+  "L05": { "zona": "pneus", "etiqueta": ["BAR", "LIBRAS · PSI"],
+           "legenda": "No posto, a pressão aparece em bar ou em PSI, as famosas libras." },
+  "L06": { "cartao": { "rotulo": "1 bar vale cerca de", "valor": "14,5", "unidade": "PSI", "detalhe": "1 bar = 100 kPa", "palavra": "meio" },
+           "legenda": "Um bar vale cerca de 14,5 PSI." },
+  "L07": { "cartao": { "rotulo": "Pneu frio: parado há", "valor": "3", "unidade": "HORAS", "detalhe": "no mínimo", "palavra": "horas" },
+           "etiqueta": "PNEU FRIO" },
+  "L08": { "estado": "atencao", "etiqueta": ["PNEU QUENTE", "NÃO ESVAZIE"] },
+  "L09": { "estado": "alerta", "etiqueta": ["+ COMBUSTÍVEL", "+ DESGASTE", "+ DISTÂNCIA"] },
+  "L10": { "estado": "alerta", "seta": true, "etiqueta": "RISCO DE ESTOURO" },
+  "L11": { "estado": "atencao", "lupa": true, "etiqueta": ["CENTRO GASTO", "MENOS ADERÊNCIA"] },
+  "L12": { "zona": "carro", "cartao": { "rotulo": "Confira a pressão", "valor": "1×", "unidade": "POR MÊS", "detalhe": "e antes de viajar", "palavra": "mes" } },
+  "L13": { "zona": "carro", "etiqueta": "PRESSÃO DE CARGA" },
+  "L14": { "zona": "estepe", "etiqueta": "ESTEPE TAMBÉM" },
+  "L15": { "zona": "pneus", "estado": "atencao", "lupa": true, "etiqueta": "SÓ O CALIBRADOR" }
+ }
+}

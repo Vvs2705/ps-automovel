@@ -1,0 +1,17 @@
+[
+  {"id": "L01", "text": "Ponteiro da temperatura subindo? Não abra nada."},
+  {"id": "L02", "text": "Pare em local seguro assim que puder, e não siga viagem."},
+  {"id": "L03", "text": "Ligue o pisca-alerta e sinalize o carro."},
+  {"id": "L04", "text": "Se sair vapor ou houver vazamento, desligue o motor e não abra o capô."},
+  {"id": "L05", "text": "Sem vapor, os fabricantes divergem sobre desligar ou não. Confira o manual do seu carro."},
+  {"id": "L06", "text": "Depois, espere o motor esfriar por completo."},
+  {"id": "L07", "text": "Com o motor quente, o sistema está sob pressão. Nunca abra a tampa do reservatório."},
+  {"id": "L08", "text": "O líquido pode jorrar e queimar."},
+  {"id": "L09", "text": "Com o motor frio, confira o nível entre as marcas do reservatório."},
+  {"id": "L10", "text": "Use o líquido de arrefecimento que o manual indica: não é só água."},
+  {"id": "L11", "text": "Causa comum: nível baixo por vazamento ou falta de reposição."},
+  {"id": "L12", "text": "Seguir rodando assim queima a junta do cabeçote e pode até travar o motor."},
+  {"id": "L13", "text": "A ventoinha pode ligar sozinha, mesmo com o motor desligado. Mão longe."},
+  {"id": "L14", "text": "Vazamento, vapor ou aviso que volta? Chame o guincho ou a assistência."},
+  {"id": "L15", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]
