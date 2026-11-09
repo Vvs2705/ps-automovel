@@ -44,6 +44,15 @@
   "L10": {
    "etiqueta": "ANÉIS NOVOS, SANGRIA",
    "nota": "Peça nova com anéis; sistema sem bolhas de ar."
+  },
+  "L11": {
+   "zona": "arrefecimento",
+   "etiqueta": "RESUMO",
+   "nota": "O Gol inteiro em arame, com a zona do problema acesa (o radiador); a etiqueta RESUMO aparece."
+  },
+  "L12": {
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
   }
  },
  "serie": "FALANDO DE GOL",

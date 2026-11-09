@@ -52,6 +52,15 @@
    "etiqueta": "TESTE NA COMPRA",
    "lupa": true,
    "nota": "Mão no volante; teste de rua; lupa no atuador."
+  },
+  "L11": {
+   "zona": "cambio",
+   "etiqueta": "RESUMO",
+   "nota": "O Gol inteiro em arame, com a zona do problema acesa (o câmbio); a etiqueta RESUMO aparece."
+  },
+  "L12": {
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
   }
  },
  "serie": "FALANDO DE GOL",

@@ -1,0 +1,68 @@
+{
+ "carro": "hatch",
+ "falas": {
+  "L01": {
+   "zona": "pneus",
+   "etiqueta": "BARULHO NA RODA?",
+   "nota": "Roda traseira gira; ruído em ondas no HUD."
+  },
+  "L02": {
+   "cartao": {
+    "rotulo": "RECALL",
+    "valor": "02/2010",
+    "unidade": ""
+   },
+   "nota": "Linha do tempo fev. 2010; silhuetas do Novo Gol e do Voyage."
+  },
+  "L03": {
+   "cartao": {
+    "rotulo": "CARROS",
+    "valor": "190",
+    "unidade": "MIL"
+   },
+   "nota": "Contador sobe até 193 mil."
+  },
+  "L04": {
+   "estado": "alerta",
+   "etiqueta": "POUCA GRAXA",
+   "nota": "Rolamento em corte com pouca graxa em vermelho."
+  },
+  "L05": {
+   "etiqueta": "RUÍDO",
+   "nota": "Ruído cresce no HUD."
+  },
+  "L06": {
+   "estado": "alerta",
+   "etiqueta": "RODA PODE TRAVAR",
+   "nota": "Roda trava; em seguida se desprende do eixo."
+  },
+  "L07": {
+   "etiqueta": "REPARO GRÁTIS",
+   "nota": "Rolamento novo encaixa no cubo."
+  },
+  "L08": {
+   "etiqueta": "TAMBÉM NO USADO",
+   "nota": "Dois donos em sequência; selo Direito ao reparo."
+  },
+  "L09": {
+   "etiqueta": "PERGUNTE À VW",
+   "nota": "Campo de chassi no site da montadora; selo 2010."
+  },
+  "L10": {
+   "etiqueta": "LEVE À OFICINA",
+   "nota": "Roda com ruído; seta para oficina."
+  },
+  "L11": {
+   "etiqueta": "RESUMO",
+   "nota": "O Gol inteiro em arame, com a zona do problema acesa (a roda traseira); a etiqueta RESUMO aparece."
+  },
+  "L12": {
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ },
+ "serie": "FALANDO DE GOL",
+ "titulo": "FALANDO DE GOL #9",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Procon-RS, 12/02/2010"
+}

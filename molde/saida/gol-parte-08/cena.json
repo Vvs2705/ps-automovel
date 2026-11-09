@@ -1,0 +1,68 @@
+{
+ "carro": "hatch",
+ "falas": {
+  "L01": {
+   "zona": "carro",
+   "etiqueta": "CINTO TRASEIRO?",
+   "nota": "Fecho duplo do cinto traseiro em destaque."
+  },
+  "L02": {
+   "cartao": {
+    "rotulo": "RECALL",
+    "valor": "12/2018",
+    "unidade": ""
+   },
+   "nota": "Gol e Voyage em silhueta; cinto traseiro pisca."
+  },
+  "L03": {
+   "estado": "alerta",
+   "etiqueta": "PORCA FORA",
+   "nota": "Porca em corte; rosca fora da medida em vermelho."
+  },
+  "L04": {
+   "etiqueta": "FIXAÇÃO PODIA SOLTAR",
+   "nota": "Cinto solta do ponto de fixação durante colisão simulada."
+  },
+  "L05": {
+   "cartao": {
+    "rotulo": "MAIO–JUNHO",
+    "valor": "2018",
+    "unidade": ""
+   },
+   "nota": "Calendário de maio a junho de 2018."
+  },
+  "L06": {
+   "cartao": {
+    "rotulo": "MINUTOS",
+    "valor": "50",
+    "unidade": ""
+   },
+   "nota": "Porca nova instalada; relógio de 50 minutos."
+  },
+  "L07": {
+   "etiqueta": "CONSULTE O CHASSI",
+   "nota": "Campo de chassi e botão Consultar."
+  },
+  "L08": {
+   "estado": "atencao",
+   "etiqueta": "RECALL PENDENTE",
+   "nota": "Documento do carro com aviso de recall pendente."
+  },
+  "L09": {
+   "etiqueta": "NÃO ADIE",
+   "nota": "Cinto afivelado; selo verde."
+  },
+  "L10": {
+   "etiqueta": "RESUMO",
+   "nota": "O Gol inteiro em arame, com a zona do problema acesa (o cinto de segurança traseiro); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ },
+ "serie": "FALANDO DE GOL",
+ "titulo": "FALANDO DE GOL #8",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Autopapo"
+}

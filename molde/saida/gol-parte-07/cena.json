@@ -1,0 +1,68 @@
+{
+ "carro": "hatch",
+ "falas": {
+  "L01": {
+   "zona": "eletrica",
+   "etiqueta": "ALTERNADOR PODE PARAR?",
+   "nota": "Bateria no HUD; barra de carga descendo."
+  },
+  "L02": {
+   "cartao": {
+    "rotulo": "RECALL",
+    "valor": "2017",
+    "unidade": ""
+   },
+   "nota": "Linha do tempo 2017; silhuetas de Gol e Voyage."
+  },
+  "L03": {
+   "cartao": {
+    "rotulo": "VEÍCULOS",
+    "valor": "54",
+    "unidade": "MIL"
+   },
+   "nota": "Contador sobe até 54 mil."
+  },
+  "L04": {
+   "etiqueta": "BATERIA SEM CARGA",
+   "nota": "Alternador em corte; a carga cai e o motor apaga."
+  },
+  "L05": {
+   "etiqueta": "REPARO GRÁTIS",
+   "nota": "Relógio de 3 horas; alternador novo entra."
+  },
+  "L06": {
+   "cartao": {
+    "rotulo": "RECALL",
+    "valor": "2021",
+    "unidade": ""
+   },
+   "nota": "Linha do tempo 2021; selo ANO-MODELO 2022."
+  },
+  "L07": {
+   "zona": "motor",
+   "etiqueta": "POLIA PODIA SOLTAR",
+   "nota": "Polia solta do motor; volante pesa; carga cai."
+  },
+  "L08": {
+   "etiqueta": "CORREÇÃO GRÁTIS",
+   "nota": "Selo GRÁTIS sobre a concessionária."
+  },
+  "L09": {
+   "etiqueta": "CONSULTE O CHASSI",
+   "nota": "Campo de chassi e botão Consultar."
+  },
+  "L10": {
+   "zona": "eletrica",
+   "etiqueta": "RESUMO",
+   "nota": "O Gol inteiro em arame, com a zona do problema acesa (o alternador); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ },
+ "serie": "FALANDO DE GOL",
+ "titulo": "FALANDO DE GOL #7",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Procon-MS, 08/06/2017"
+}
