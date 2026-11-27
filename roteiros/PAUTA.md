@@ -48,3 +48,24 @@ Criada em 2026-11-09. Série principal = dicas e explicações que servem para q
 
 ## Roteiros prontos
 Ver `STATUS.md` desta pasta.
+
+## Lote 1 da grade de 3 por dia (2026-11-27)
+
+Com 3 vídeos por dia, a pauta passou a seguir os temas mais pesquisados (autocompletar do Google Brasil em 27/11/2026, estudo Emaster de buscas de troca de óleo, VRUM fev/2026, vídeos mais vistos do AutoPapo). Cada tema vira um **quadro** fixo: mesmo Doutor Graxa, mesma voz, muda o formato. A estratégia completa (grade manhã/tarde/noite, quadros e estilos, banco de temas dos próximos lotes) está no documento "PS Automóvel · Estratégia de roteiros para 3 vídeos por dia".
+
+Os temas 21, 22, 26, 27 e 28 da tabela acima entraram neste lote com outro número; os demais (23 câmbio automático, 24 ABS no pedal, 25 catalisador, 29 turbo, 30 alagamento) vão para os próximos lotes.
+
+| # | Pasta | Quadro | Estilo sugerido | Tema da tabela acima |
+|---|---|---|---|---|
+| 21 | `21-ar-condicionado` | 3 sinais | swiss-motion | 21 |
+| 22 | `22-agua-do-radiador` | É normal? | chalkboard | novo |
+| 23 | `23-correia-dentada` | Quando trocar? | blueprint | novo |
+| 24 | `24-misturar-etanol-gasolina` | Mito ou verdade | swiss-motion | 28 |
+| 25 | `25-gasolina-aditivada` | Mito ou verdade | midcentury-toon | 27 |
+| 26 | `26-regra-dos-70` | Faça a conta | swiss-motion | novo |
+| 27 | `27-barulho-ao-virar-volante` | Que barulho é esse? | hologram-hud | novo |
+| 28 | `28-chiado-correia` | Que barulho é esse? | hologram-hud | novo |
+| 29 | `29-consumo-alto` | Lista de causas | chalkboard | novo |
+| 30 | `30-luz-do-abs` | Luz no painel | hologram-hud | novo |
+| 31 | `31-esquentar-motor` | Mito ou verdade | blueprint | 26 |
+| 32 | `32-pe-na-embreagem` | Você faz errado? | midcentury-toon | 22 |

@@ -1,0 +1,15 @@
+[
+  {"id": "L01", "text": "Misturar etanol e gasolina estraga o carro flex? Mito."},
+  {"id": "L02", "text": "O carro flex foi projetado para rodar com etanol, gasolina ou qualquer mistura dos dois."},
+  {"id": "L03", "text": "Manuais de montadoras dizem isso com todas as letras: em qualquer proporção."},
+  {"id": "L04", "text": "E não precisa esperar o tanque esvaziar para trocar de combustível. Isso também é mito."},
+  {"id": "L05", "text": "Como o carro sabe o que tem no tanque? Por um sensor no escapamento, a sonda lambda."},
+  {"id": "L06", "text": "Ela mede o oxigênio depois da queima, e a central eletrônica ajusta a injeção."},
+  {"id": "L07", "text": "Nos carros atuais, essa adaptação leva poucos minutos rodando."},
+  {"id": "L08", "text": "Atenção: isso vale só para carro flex. Confira no manual ou na tampa do tanque."},
+  {"id": "L09", "text": "Etanol em carro que não é flex dá falha. Abasteceu errado? Procure a oficina."},
+  {"id": "L10", "text": "E se o flex falha sempre ou acende a luz da injeção, o defeito costuma ser de sensor ou central."},
+  {"id": "L11", "text": "Resumindo: no flex, pode misturar, em qualquer proporção."},
+  {"id": "L12", "text": "Se esse vídeo te ajudou, salve e mande para quem dirige."},
+  {"id": "L13", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]

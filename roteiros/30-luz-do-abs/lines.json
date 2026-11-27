@@ -1,0 +1,16 @@
+[
+  {"id": "L01", "text": "Luz do Á Bê Ésse acesa? Seu carro freia, mas pode travar."},
+  {"id": "L02", "text": "O Á Bê Ésse impede as rodas de travarem numa freada forte."},
+  {"id": "L03", "text": "Ao ligar, ela acende uns segundos e apaga: é o autoteste. Ficar acesa é que é alerta."},
+  {"id": "L04", "text": "Só ela acesa: o freio comum continua funcionando, mas sem o antitravamento."},
+  {"id": "L05", "text": "Numa freada de emergência, as rodas podem travar e o carro derrapar."},
+  {"id": "L06", "text": "Então mais devagar, mais distância e sem freada brusca, até a oficina."},
+  {"id": "L07", "text": "Acendeu? Pare em local seguro, desligue e religue. Se apagar, o sistema voltou."},
+  {"id": "L08", "text": "Continuou acesa? Uma causa comum é o sensor de roda, que informa a rotação de cada roda."},
+  {"id": "L09", "text": "A luz vermelha do freio é outra coisa: freio de mão puxado, fluido baixo ou defeito."},
+  {"id": "L10", "text": "Vermelha acesa com o freio de mão solto? Pare em local seguro. Manuais mandam não seguir viagem."},
+  {"id": "L11", "text": "As duas juntas? O freio pode não funcionar normalmente. Devagar até a oficina, ou guincho se o manual mandar."},
+  {"id": "L12", "text": "Resumindo: só a do Á Bê Ésse, freia sem antitravamento. Vermelha junto é mais grave."},
+  {"id": "L13", "text": "Se esse vídeo te ajudou, salve e mande para quem dirige."},
+  {"id": "L14", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]
