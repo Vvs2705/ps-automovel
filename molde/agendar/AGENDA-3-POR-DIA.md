@@ -1,6 +1,6 @@
 # PS Automóvel · agenda de 3 vídeos por dia (YouTube Shorts)
 
-Montada em 27/11/2026. 62 vídeos, de 28/11/2026 a 18/12/2026, às 09:00, 15:00 e 20:00 (Brasília). Primeiro os 11 que ficaram sem agendar no YouTube, depois os 51 novos, com um informativo a cada ~5 vídeos. Os vídeos novos já saem com a legenda mais alta.
+Montada em 27/11/2026. 74 vídeos, de 28/11/2026 a 22/12/2026, às 09:00, 15:00 e 20:00 (Brasília). Primeiro os 11 que ficaram sem agendar no YouTube, depois os 51 do estoque, com um informativo a cada ~5 vídeos, e a partir de 19/12 os 12 informativos novos (21 a 32) da pesquisa de pautas. Os vídeos novos já saem com a legenda mais alta.
 
 | Nº | Data | Hora | Arquivo (em VIDEOS PRONTOS) | Título |
 |---|---|---|---|---|
@@ -66,6 +66,18 @@ Montada em 27/11/2026. 62 vídeos, de 28/11/2026 a 18/12/2026, às 09:00, 15:00 
 | 60 | 17/12/2026 | 20:00 | `Falando de Onix/Onix 09 - Recall do banco dianteiro.mp4` | Falando de Onix #9: Recall do banco dianteiro |
 | 61 | 18/12/2026 | 09:00 | `Falando de Onix/Onix 10 - Recall do cinto do Prisma.mp4` | Falando de Onix #10: Recall do cinto do Prisma |
 | 62 | 18/12/2026 | 15:00 | `Informativos/20 - Palheta gasta.mp4` | Palheta gasta: quando trocar e como notar |
+| 63 | 18/12/2026 | 20:00 | `Informativos/21 - Ar-condicionado fraco ou com cheiro.mp4` | Ar do carro não gela? Não é só pôr gás |
+| 64 | 19/12/2026 | 09:00 | `Informativos/22 - Baixando água do radiador.mp4` | Radiador baixando água: é normal? Nunca só com água |
+| 65 | 19/12/2026 | 15:00 | `Informativos/23 - Correia dentada quando trocar.mp4` | Correia dentada: quando trocar e o risco de esperar |
+| 66 | 19/12/2026 | 20:00 | `Informativos/24 - Misturar etanol e gasolina no flex.mp4` | Misturar etanol e gasolina estraga o flex? Mito |
+| 67 | 20/12/2026 | 09:00 | `Informativos/25 - Gasolina aditivada.mp4` | Gasolina aditivada dá mais força? Mito |
+| 68 | 20/12/2026 | 15:00 | `Informativos/26 - Etanol ou gasolina a regra dos 70%.mp4` | Etanol ou gasolina? A regra dos 70% não serve para todos |
+| 69 | 20/12/2026 | 20:00 | `Informativos/27 - Barulho ao virar o volante.mp4` | Barulho ao virar o volante: o que pode ser |
+| 70 | 21/12/2026 | 09:00 | `Informativos/28 - Chiado, assobio ou grilo no motor.mp4` | Chiado no motor ao ligar? Não passe nada na correia |
+| 71 | 21/12/2026 | 15:00 | `Informativos/29 - Carro gastando muito combustível.mp4` | Carro bebendo demais? Sete causas do consumo alto |
+| 72 | 21/12/2026 | 20:00 | `Informativos/30 - Luz do ABS acesa.mp4` | Luz do ABS acesa: o carro ainda freia? |
+| 73 | 22/12/2026 | 09:00 | `Informativos/31 - Esquentar o motor parado.mp4` | Esquentar o motor parado de manhã: precisa? |
+| 74 | 22/12/2026 | 15:00 | `Informativos/32 - Pé apoiado na embreagem.mp4` | Pé descansando na embreagem gasta o carro |
 
 ## 1. Falando de Gol #3: Partida difícil no frio
 
@@ -1713,4 +1725,340 @@ Narração com voz sintética; animação desenhada em código.
 Hashtags:
 ```
 #PSAutomóvel #palheta #limpador #parabrisa #dicasdecarro #mecânica #Shorts
+```
+
+## 63. Ar do carro não gela? Não é só pôr gás
+
+- Data/hora: 18/12/2026 20:00
+- Arquivo: `Informativos/21 - Ar-condicionado fraco ou com cheiro.mp4`
+
+Título:
+```
+Ar do carro não gela? Não é só pôr gás
+```
+
+Descrição:
+```
+Ar-condicionado do carro fraco ou com cheiro ruim? Três sinais que o dono nota. Ar fraco e cheiro podem ser o filtro de cabine, que segura poeira e pólen; o prazo de troca está no manual. Ar que perdeu força aos poucos pode ser vazamento: o gás circula num circuito fechado e recarga sem conserto dura pouco. Gás, compressor e ventoinha são serviço de oficina. Água pingando embaixo do carro em dia quente, com o ar ligado, é condensação normal.
+
+Fontes: fabricantes de peça (MAHLE, Bosch), manual online de montadora e imprensa técnica (AutoPapo, Mecânica Online).
+
+Conteúdo informativo: não substitui o diagnóstico de um mecânico de confiança. Na dúvida, siga o manual do seu carro.
+
+PS Automóvel: seu carro sempre em boas mãos.
+
+Narração com voz sintética; animação desenhada em código.
+```
+
+Hashtags:
+```
+#PSAutomóvel #arcondicionado #filtrodecabine #dicasdecarro #mecânica #Shorts
+```
+
+## 64. Radiador baixando água: é normal? Nunca só com água
+
+- Data/hora: 19/12/2026 09:00
+- Arquivo: `Informativos/22 - Baixando água do radiador.mp4`
+
+Título:
+```
+Radiador baixando água: é normal? Nunca só com água
+```
+
+Descrição:
+```
+O carro baixando água do radiador: é normal? Uma variação pequena pode acontecer; ter que completar com frequência costuma ser vazamento, e o vazamento nem sempre deixa poça. A "água do radiador" é uma mistura de água com aditivo, que eleva o ponto de fervura e protege contra corrosão. Manuais de montadoras dizem para nunca completar só com água. Confira o nível com o motor frio, entre as marcas de mínimo e máximo, e nunca abra a tampa com o motor quente.
+
+Fontes: manuais online de montadora e imprensa técnica (AutoPapo, Mecânica Online, Oficina Brasil, Revista Carro).
+
+Conteúdo informativo: não substitui o diagnóstico de um mecânico de confiança. Na dúvida, siga o manual do seu carro.
+
+PS Automóvel: seu carro sempre em boas mãos.
+
+Narração com voz sintética; animação desenhada em código.
+```
+
+Hashtags:
+```
+#PSAutomóvel #radiador #arrefecimento #dicasdecarro #mecânica #Shorts
+```
+
+## 65. Correia dentada: quando trocar e o risco de esperar
+
+- Data/hora: 19/12/2026 15:00
+- Arquivo: `Informativos/23 - Correia dentada quando trocar.mp4`
+
+Título:
+```
+Correia dentada: quando trocar e o risco de esperar
+```
+
+Descrição:
+```
+A correia dentada sincroniza o virabrequim com o comando de válvulas. Quem define quando trocar é a montadora, e o manual dá prazo em quilômetros e também em tempo, porque a borracha envelhece mesmo com o carro rodando pouco. Se ela arrebenta, o motor morre na hora e, em muitos motores, pistões batem nas válvulas. Barulho, rachaduras e uso severo pedem troca antes. Fabricantes de peça recomendam trocar tensor e polias junto, e a bomba d'água quando é movida pela correia.
+
+Fontes: fabricante de correias (Continental/ContiTech) e imprensa técnica (AutoPapo, Oficina Brasil, Mecânica Online, O Mecânico).
+
+Conteúdo informativo: não substitui o diagnóstico de um mecânico de confiança. Na dúvida, siga o manual do seu carro.
+
+PS Automóvel: seu carro sempre em boas mãos.
+
+Narração com voz sintética; animação desenhada em código.
+```
+
+Hashtags:
+```
+#PSAutomóvel #correiadentada #manutenção #dicasdecarro #mecânica #Shorts
+```
+
+## 66. Misturar etanol e gasolina estraga o flex? Mito
+
+- Data/hora: 19/12/2026 20:00
+- Arquivo: `Informativos/24 - Misturar etanol e gasolina no flex.mp4`
+
+Título:
+```
+Misturar etanol e gasolina estraga o flex? Mito
+```
+
+Descrição:
+```
+Misturar etanol e gasolina no tanque estraga o carro flex? Mito. O flex foi projetado para rodar com etanol, gasolina ou qualquer mistura, e manuais de montadoras dizem "em qualquer proporção". Não precisa esperar o tanque esvaziar para trocar. Um sensor no escapamento, a sonda lambda, ajuda a central a ajustar a injeção, e a adaptação leva poucos minutos. Isso vale só para carro flex: confira no manual ou na tampa do tanque.
+
+Fontes: manuais de montadoras, Bosch e imprensa técnica (AutoPapo, Vrum).
+
+Conteúdo informativo: não substitui o diagnóstico de um mecânico de confiança. Na dúvida, siga o manual do seu carro.
+
+PS Automóvel: seu carro sempre em boas mãos.
+
+Narração com voz sintética; animação desenhada em código.
+```
+
+Hashtags:
+```
+#PSAutomóvel #carroflex #etanol #gasolina #dicasdecarro #Shorts
+```
+
+## 67. Gasolina aditivada dá mais força? Mito
+
+- Data/hora: 20/12/2026 09:00
+- Arquivo: `Informativos/25 - Gasolina aditivada.mp4`
+
+Título:
+```
+Gasolina aditivada dá mais força? Mito
+```
+
+Descrição:
+```
+Gasolina aditivada dá mais potência? Mito. Pela ANP, aditivada é a gasolina comum ou premium com um detergente e dispersante, que ajuda a manter o motor limpo. Ela não é a mesma coisa que premium, que é a de octanagem mais alta. Pode misturar comum e aditivada: manuais de montadoras aceitam qualquer proporção. E a obrigação de aditivar toda gasolina comum chegou a ser marcada, mas foi suspensa pela ANP em 2017. O combustível certo está no manual.
+
+Fontes: ANP, manual de montadora, distribuidora de combustível e imprensa técnica (AutoPapo, Oficina Brasil, Vrum, Itatiaia).
+
+Conteúdo informativo: não substitui o diagnóstico de um mecânico de confiança. Na dúvida, siga o manual do seu carro.
+
+PS Automóvel: seu carro sempre em boas mãos.
+
+Narração com voz sintética; animação desenhada em código.
+```
+
+Hashtags:
+```
+#PSAutomóvel #gasolinaaditivada #combustível #mitoouverdade #dicasdecarro #Shorts
+```
+
+## 68. Etanol ou gasolina? A regra dos 70% não serve para todos
+
+- Data/hora: 20/12/2026 15:00
+- Arquivo: `Informativos/26 - Etanol ou gasolina a regra dos 70%.mp4`
+
+Título:
+```
+Etanol ou gasolina? A regra dos 70% não serve para todos
+```
+
+Descrição:
+```
+Etanol ou gasolina? A regra dos 70% nasceu em 2003 como valor aproximado, porque o etanol rendia em média 70% da gasolina. Mas cada motor tem seu percentual, e um teste de rua achou o etanol rendendo de pouco mais de 70% a cerca de 75%. A conta certa usa o consumo do seu carro: divida os km/l com etanol pelos km/l com gasolina, e compare com a divisão dos preços. Abaixo do seu limite, o etanol compensa.
+
+Fontes: Inmetro, ANP e imprensa (AutoPapo, Gazeta do Povo, Itatiaia).
+
+Conteúdo informativo: não substitui o diagnóstico de um mecânico de confiança. Na dúvida, siga o manual do seu carro.
+
+PS Automóvel: seu carro sempre em boas mãos.
+
+Narração com voz sintética; animação desenhada em código.
+```
+
+Hashtags:
+```
+#PSAutomóvel #etanol #gasolina #regrados70 #economia #Shorts
+```
+
+## 69. Barulho ao virar o volante: o que pode ser
+
+- Data/hora: 20/12/2026 20:00
+- Arquivo: `Informativos/27 - Barulho ao virar o volante.mp4`
+
+Título:
+```
+Barulho ao virar o volante: o que pode ser
+```
+
+Descrição:
+```
+Barulho ao virar o volante não é normal. Em direção hidráulica, chiado pode ser a correia da bomba, e volante pesado pode ser fluido baixo, que indica vazamento. Batidas e estalos com folga podem ser terminal, pivô ou coluna de direção; estalo na roda em curva fechada costuma ser a homocinética; ruído que cresce com a velocidade pode ser rolamento de roda. Com folga ou trepidação, não vá levando: oficina. Quem confirma é o mecânico, olhando direção e suspensão inteiras.
+
+Fontes: fabricantes de peça (Dana, Nakata) e imprensa técnica (AutoPapo, Mecânica Online, O Mecânico).
+
+Conteúdo informativo: não substitui o diagnóstico de um mecânico de confiança. Na dúvida, siga o manual do seu carro.
+
+PS Automóvel: seu carro sempre em boas mãos.
+
+Narração com voz sintética; animação desenhada em código.
+```
+
+Hashtags:
+```
+#PSAutomóvel #direção #barulhonocarro #dicasdecarro #mecânica #Shorts
+```
+
+## 70. Chiado no motor ao ligar? Não passe nada na correia
+
+- Data/hora: 21/12/2026 09:00
+- Arquivo: `Informativos/28 - Chiado, assobio ou grilo no motor.mp4`
+
+Título:
+```
+Chiado no motor ao ligar? Não passe nada na correia
+```
+
+Descrição:
+```
+Chiado, assobio ou barulho de grilo no motor costuma vir da correia de acessórios, a que move o alternador: correia ressecada ou frouxa, tensor gasto, polia desalinhada ou com rolamento duro, ou óleo em cima da correia. Fabricantes de correia proíbem spray, sabão ou produto silenciador: isso só esconde o problema. Tensor e polias devem ser inspecionados junto. Se a correia arrebenta, a bateria pode acabar e, na direção hidráulica, o volante fica pesado. Nunca mexa perto das correias com o motor ligado.
+
+Fontes: fabricantes de correias e tensores (Continental/ContiTech, Dayco, Litens) e imprensa técnica (Revista Carro, AutoPapo, Mecânica Online, O Mecânico).
+
+Conteúdo informativo: não substitui o diagnóstico de um mecânico de confiança. Na dúvida, siga o manual do seu carro.
+
+PS Automóvel: seu carro sempre em boas mãos.
+
+Narração com voz sintética; animação desenhada em código.
+```
+
+Hashtags:
+```
+#PSAutomóvel #correia #barulhonomotor #dicasdecarro #mecânica #Shorts
+```
+
+## 71. Carro bebendo demais? Sete causas do consumo alto
+
+- Data/hora: 21/12/2026 15:00
+- Arquivo: `Informativos/29 - Carro gastando muito combustível.mp4`
+
+Título:
+```
+Carro bebendo demais? Sete causas do consumo alto
+```
+
+Descrição:
+```
+Carro gastando muito combustível? Sete causas comuns: pneu murcho, velas gastas, sonda lambda com defeito, óleo mais grosso que o do manual, peso extra e bagageiro de teto, pé pesado e motor ligado com o carro parado. Banguela não economiza: mesmo em ponto morto o motor recebe combustível. Manutenção atrasada também pesa. Se o consumo subiu de repente sem mudar o jeito de dirigir, leve à oficina para checar velas, sonda e injeção.
+
+Fontes: Departamento de Energia dos EUA (fueleconomy.gov), manual de montadora, fabricantes de peça (NGK, Hella) e imprensa técnica (AutoPapo, Mecânica Online).
+
+Conteúdo informativo: não substitui o diagnóstico de um mecânico de confiança. Na dúvida, siga o manual do seu carro.
+
+PS Automóvel: seu carro sempre em boas mãos.
+
+Narração com voz sintética; animação desenhada em código.
+```
+
+Hashtags:
+```
+#PSAutomóvel #consumodecombustível #economia #dicasdecarro #mecânica #Shorts
+```
+
+## 72. Luz do ABS acesa: o carro ainda freia?
+
+- Data/hora: 21/12/2026 20:00
+- Arquivo: `Informativos/30 - Luz do ABS acesa.mp4`
+
+Título:
+```
+Luz do ABS acesa: o carro ainda freia?
+```
+
+Descrição:
+```
+Luz do ABS acesa: o carro ainda freia? Sim. Com só a luz do ABS acesa, o freio comum continua funcionando, mas sem o antitravamento, e as rodas podem travar numa freada forte. Ao ligar, a luz acende e apaga: é o autoteste. Uma causa comum é o sensor de roda. A luz vermelha do freio é outra coisa: freio de mão, fluido baixo ou defeito. As duas acesas juntas pedem ir devagar à oficina ou chamar o guincho, conforme o manual.
+
+Fontes: manuais de montadoras, fabricantes de peça (Bosch, Hella, DS, Delphi) e imprensa técnica (AutoPapo, Mecânica Online, Oficina Brasil, O Mecânico).
+
+Conteúdo informativo: não substitui o diagnóstico de um mecânico de confiança. Na dúvida, siga o manual do seu carro.
+
+PS Automóvel: seu carro sempre em boas mãos.
+
+Narração com voz sintética; animação desenhada em código.
+```
+
+Hashtags:
+```
+#PSAutomóvel #ABS #luzdopainel #freio #dicasdecarro #Shorts
+```
+
+## 73. Esquentar o motor parado de manhã: precisa?
+
+- Data/hora: 22/12/2026 09:00
+- Arquivo: `Informativos/31 - Esquentar o motor parado.mp4`
+
+Título:
+```
+Esquentar o motor parado de manhã: precisa?
+```
+
+Descrição:
+```
+Precisa esquentar o motor parado de manhã? Manuais de montadoras pedem para rodar com moderação até o motor chegar à temperatura, e há manual que orienta evitar o motor ligado com o carro parado. Ligue, espere alguns segundos para o óleo circular e saia devagar, sem giro alto. Deixar minutos parado é desnecessário, segundo a imprensa técnica. No flex com etanol no frio, o que importa é o sistema de partida a frio estar em ordem.
+
+Fontes: manuais de montadoras e imprensa técnica (AutoPapo, Mecânica Online).
+
+Conteúdo informativo: não substitui o diagnóstico de um mecânico de confiança. Na dúvida, siga o manual do seu carro.
+
+PS Automóvel: seu carro sempre em boas mãos.
+
+Narração com voz sintética; animação desenhada em código.
+```
+
+Hashtags:
+```
+#PSAutomóvel #motor #mitoouverdade #carroflex #dicasdecarro #Shorts
+```
+
+## 74. Pé descansando na embreagem gasta o carro
+
+- Data/hora: 22/12/2026 15:00
+- Arquivo: `Informativos/32 - Pé apoiado na embreagem.mp4`
+
+Título:
+```
+Pé descansando na embreagem gasta o carro
+```
+
+Descrição:
+```
+Pé apoiado na embreagem gasta a embreagem: só o peso do pé já aciona um pouco o sistema e gera atrito e calor. Fabricante de embreagem recomenda não dirigir com o pé apoiado no pedal. Segurar o carro na subida só com embreagem e acelerador deixa o disco patinando: use o freio de pé ou de mão e a embreagem só para sair. Sinais de embreagem gasta: patinando, pedal duro, trepidação ou cheiro de queimado.
+
+Fontes: fabricantes de embreagem (Eaton, ZF Sachs, Schaeffler, via imprensa), SAE Brasil, CESVI Brasil e imprensa técnica (AutoPapo, O Mecânico, Revista Carro).
+
+Conteúdo informativo: não substitui o diagnóstico de um mecânico de confiança. Na dúvida, siga o manual do seu carro.
+
+PS Automóvel: seu carro sempre em boas mãos.
+
+Narração com voz sintética; animação desenhada em código.
+```
+
+Hashtags:
+```
+#PSAutomóvel #embreagem #dicasdecarro #direção #mecânica #Shorts
 ```
