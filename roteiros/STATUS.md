@@ -19,6 +19,15 @@ Série principal do PS Automóvel: 30 temas na `PAUTA.md`, os 10 primeiros com r
 
 Duração = palavras ÷ 2,2. Nenhum passa de 90 s de fala.
 
+## Lote 1 da grade de 3 por dia (2026-11-27): roteiros 21 a 32
+
+12 roteiros novos, todos com `ROTEIRO.md`, `FACTS.md` e `lines.json`, conferidos no `gerar.py` sem aviso (76 a 90 s). Quadro e estilo de cada um na `PAUTA.md`, seção "Lote 1".
+
+- A pesquisa foi feita com WebSearch + WebFetch (o leitor automático pode cortar ou resumir trechos). Nenhum trecho foi reconferido à mão: abrir o link antes de pôr texto entre aspas na tela.
+- Pontos fracos marcados nas "Notas de produção" de cada roteiro: 22 (um só manual lido), 23 (nenhum manual brasileiro até a tabela da correia), 25 (ano da suspensão da ANP), 29 (mito da banguela com uma fonte), 30 (frase do freio comum em manual de Portugal).
+- Nenhum preço. Nenhuma marca na fala. Ninguém ouviu ainda: siglas escritas como se falam ("Á Bê Ésse").
+- A fila (`molde/fila.txt`) é da thread do orquestrador: os 12 ainda não estão nela.
+
 ## Como mexer
 - `ROTEIRO.md` é a fonte da verdade. Depois de editar as falas, rode `python _ferramentas/gerar.py <pasta>` (ou várias): ele regrava `lines.json`, atualiza a linha "Duração estimada" e avisa se o título passa de 60 caracteres, se uma etiqueta tem mais de 3 palavras, se há dígito ou sigla em maiúsculas na fala, se passa de 90 s ou se a última fala não é o fecho do canal.
 - Siglas e números estão escritos como se falam: "pê ésse ai" (psi), "Á Bê Ésse", "dê ó tê", "tê dáblio i". Ninguém ouviu ainda como a voz edge-tts pronuncia; ouvir antes de renderizar.

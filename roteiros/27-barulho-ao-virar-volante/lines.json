@@ -1,0 +1,17 @@
+[
+  {"id": "L01", "text": "Volante fazendo barulho? Seu carro está tentando te avisar."},
+  {"id": "L02", "text": "Nas manobras, o volante não deveria fazer barulho nenhum. Se faz, alguma peça está gastando."},
+  {"id": "L03", "text": "Chiado ou apito ao virar, em direção hidráulica? Pode ser a correia que move a bomba, ressecada e patinando."},
+  {"id": "L04", "text": "Volante pesado e ruído? Pode ser fluido baixo, forçando a bomba."},
+  {"id": "L05", "text": "E o fluido da direção não baixa sozinho. Se baixou, é vazamento."},
+  {"id": "L06", "text": "Completar não resolve: leve à oficina."},
+  {"id": "L07", "text": "Batidas, estalos ou rangidos ao virar, com folga no volante? Pode ser terminal de direção ou pivô."},
+  {"id": "L08", "text": "A coluna de direção também pode estalar e dar a sensação de volante solto."},
+  {"id": "L09", "text": "Estalo repetido vindo da roda em curva fechada costuma ser a homocinética."},
+  {"id": "L10", "text": "Folga, volante solto ou trepidação? Não vá levando: o risco é perder o controle."},
+  {"id": "L11", "text": "Na direção hidráulica, não segure o volante todo virado, no batente, por mais de poucos segundos."},
+  {"id": "L12", "text": "O som dá a pista, mas quem confirma é a oficina, olhando direção e suspensão inteiras."},
+  {"id": "L13", "text": "Resumindo: volante não faz barulho. Se fez, oficina. Com folga, quanto antes."},
+  {"id": "L14", "text": "Se esse vídeo te ajudou, salve e mande para quem dirige."},
+  {"id": "L15", "text": "Pê Ésse Automóvel. Seu carro sempre em boas mãos."}
+]
