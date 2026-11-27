@@ -1,0 +1,111 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE STRADA",
+ "titulo": "FALANDO DE STRADA #7",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Senacon; AutoPapo, 29/06/2018",
+ "falas": {
+  "L01": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": "FALHA NA PARTIDA?",
+   "nota": "Chave gira; o motor tosse e não pega."
+  },
+  "L02": {
+   "zona": "eletrica",
+   "cartao": {
+    "rotulo": "Recall da Fiat",
+    "valor": "JUN/2018",
+    "unidade": "",
+    "detalhe": "Relés de ignição e de injeção",
+    "palavra": "junho"
+   },
+   "legenda": "Em junho de 2018, a Fiat fez recall dos relés dos sistemas de ignição e de injeção de combustível.",
+   "nota": "Calendário junho de 2018; selo RECALL; dois relés em destaque."
+  },
+  "L03": {
+   "zona": "eletrica",
+   "cartao": {
+    "rotulo": "Carros no recall",
+    "valor": "223 MIL",
+    "unidade": "",
+    "detalhe": "Nove modelos; total oficial 223.034",
+    "palavra": "mil"
+   },
+   "legenda": "O recall somou mais de 223 mil carros de nove modelos.",
+   "fonte": "Fonte: planilha da Senacon, 2018",
+   "nota": "Contador sobe até 223 mil; nove silhuetas."
+  },
+  "L04": {
+   "zona": "eletrica",
+   "cartao": {
+    "rotulo": "Strada do recall",
+    "valor": "1.4",
+    "unidade": "",
+    "detalhe": "Anos 2017 e 2018",
+    "palavra": "quatro"
+   },
+   "legenda": "Na Strada, foram os carros 1.4, anos 2017 e 2018.",
+   "fonte": "Fonte: Auto+ TV, 01/07/2018",
+   "nota": "Silhueta da Strada com os selos 1.4, 2017 e 2018."
+  },
+  "L05": {
+   "zona": "eletrica",
+   "estado": "alerta",
+   "etiqueta": "PARTIDA E DESLIGAMENTO",
+   "fonte": "Fonte: planilha da Senacon, 2018",
+   "nota": "Relé em corte; partida falha; motor apaga."
+  },
+  "L06": {
+   "zona": "eletrica",
+   "cartao": {
+    "rotulo": "Segundo uma matéria",
+    "valor": "46 MIL",
+    "unidade": "",
+    "detalhe": "Auto+ TV contou 46.167 Stradas 1.4",
+    "palavra": "seis"
+   },
+   "legenda": "Uma matéria da época contou cerca de 46 mil Stradas e citou risco para a dirigibilidade e de colisão.",
+   "fonte": "Fonte: Auto+ TV, 01/07/2018",
+   "nota": "Contador 46 mil Stradas; ícone de volante."
+  },
+  "L07": {
+   "zona": "eletrica",
+   "cartao": {
+    "rotulo": "Troca gratuita dos relés",
+    "valor": "30 MIN",
+    "unidade": "",
+    "detalhe": "Reparo na concessionária",
+    "palavra": "trinta"
+   },
+   "legenda": "A troca dos relés é gratuita e leva cerca de 30 minutos.",
+   "fonte": "Fonte: Auto+ TV, 01/07/2018",
+   "nota": "Relógio de 30 minutos; selo GRÁTIS."
+  },
+  "L08": {
+   "zona": "carroceria",
+   "pontos": [
+    "chassi"
+   ],
+   "etiqueta": "CONFIRA O CHASSI",
+   "fonte": "Fonte: Ministério dos Transportes, 04/10/2024",
+   "nota": "Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo."
+  },
+  "L09": {
+   "zona": "eletrica",
+   "etiqueta": "PERGUNTE NA COMPRA",
+   "legenda": "Comprando uma Strada 1.4 dessa época, pergunte se o recall foi feito.",
+   "nota": "Comprador pergunta ao vendedor; visto no comprovante."
+  },
+  "L10": {
+   "zona": "eletrica",
+   "etiqueta": "RESUMO",
+   "nota": "A Strada inteira em arame, com a zona do problema acesa (o motor e os relés); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

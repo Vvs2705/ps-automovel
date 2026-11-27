@@ -39,7 +39,7 @@ const CAM = {
   eletrica: [-0.15, 0.45, 0, -0.62, 0.32, 5.6], escapamento: [0.2, 0.18, 0, 0.6, 0.04, 5.6], painel: [-0.38, 0.66, 0.05, -0.32, 0.3, 3.6],
   farois: [-1.2, 0.5, 0.05, -1.0, 0.16, 4.2], lanternas: [1.2, 0.6, 0.05, 1.0, 0.16, 4.2], tanque: [0.6, 0.42, 0.25, 0.45, 0.26, 4.6], estepe: [0.95, 0.4, 0, 0.8, 0.55, 4.2],
 };
-const CY = 930;   // altura do alvo na tela: o carro fica entre os cartões (em cima) e as etiquetas (embaixo)
+const CY = 810;   // altura do alvo na tela: o carro fica entre os cartões (em cima) e as etiquetas (embaixo)
 
 export function makeFilm(TL, cena, dur, words, lines, AP = null) {
   const WARN = [];
@@ -113,12 +113,12 @@ export function makeFilm(TL, cena, dur, words, lines, AP = null) {
     const L = lineAt(t), P = L.i ? F[BODY[L.i - 1]] : null;
     const c1 = CAM[L.zona] || CAM.carro, c0 = P ? (CAM[P.zona] || CAM.carro) : c1;
     const k = eio(seg(t, L.a - 0.05, L.a + 0.85)), v = c0.map((x, j) => lerp(x, c1[j], k));
-    return { target: [v[0], v[1], v[2]], yaw: v[3] + 0.07 * Math.sin(t * 0.45), pitch: v[4], dist: v[5] * (1 - 0.015 * Math.sin(t * 0.3)), fov: 0.8, cx: 540 + (AP ? AP.dx(t) : 0), cy: CY };
+    return { target: [v[0], v[1], v[2]], yaw: v[3] + 0.07 * Math.sin(t * 0.45), pitch: v[4], dist: v[5] * 1.12 * (1 - 0.015 * Math.sin(t * 0.3)), fov: 0.8, cx: 540 + (AP ? AP.dx(t) : 0), cy: CY };
   };
   const vanState = t => { const u = seg(t, GO, DUR), dx = -3.2 * u * u; return { dx, wheel: -dx / VAN.R, pitch: -0.016 * seg(t, GO, GO + 0.2) * (1 - seg(t, GO + 0.4, GO + 1.4)), door: VAN.DOORS }; };
   const camVan = (t, dx) => {
-    const [yaw, pitch, dist] = K(t, [[O, [0.7, 0.2, 7.2]], [GO, [0.62, 0.17, 7.0]], [DUR, [0.52, 0.14, 7.4]]]);
-    return { target: [0.3 + 0.55 * dx, 0.55, 0], yaw, pitch, dist, fov: 0.8, cx: 540, cy: 860 };
+    const [yaw, pitch, dist] = K(t, [[O, [0.7, 0.2, 7.9]], [GO, [0.62, 0.17, 7.7]], [DUR, [0.52, 0.14, 8.1]]]);
+    return { target: [0.3 + 0.55 * dx, 0.55, 0], yaw, pitch, dist, fov: 0.8, cx: 540, cy: 790 };
   };
   const ptWorld = p => PONTOS[p] || CARM.byId[p]?.anchor || [0, 0.5, 0];
 
@@ -233,7 +233,7 @@ export function makeFilm(TL, cena, dur, words, lines, AP = null) {
     txt('tagline', 'SEU CARRO SEMPRE EM BOAS MÃOS.', 80, y - 44, 1000, y + 12);
   };
 
-  // ---------- legenda karaokê (62 px, 2 linhas por página, termina em y = 1500) ----------
+  // ---------- legenda karaokê (62 px, 2 linhas por página, termina em y = 1350: acima do título e dos botões do Shorts/TikTok) ----------
   const SUBIDS = BODY;
   const subOf = t => {
     for (let i = 0; i < SUBIDS.length; i++) {
@@ -244,7 +244,7 @@ export function makeFilm(TL, cena, dur, words, lines, AP = null) {
     return null;
   };
   const SUBTEXT = id => F[id].leg || TEXT[id];
-  const SUB_PX = 62, SUB_W = 780, SUB_Y = 1500;
+  const SUB_PX = 62, SUB_W = 780, SUB_Y = 1350;
   const drawSub = (ctx, Th, t) => {
     const s = subOf(t); if (!s) return;
     const list = words[s.id] || [], text = SUBTEXT(s.id);
@@ -348,7 +348,7 @@ export function makeFilm(TL, cena, dur, words, lines, AP = null) {
       // etiquetas (embaixo, acima da legenda)
       if (L.tags.length) {
         const out = 1 - seg(t, L.b - 0.25, L.b);
-        rows(ctx, red ? TRd : L.estado === 'atencao' ? TOr : T, L.tags.map((s, j) => ({ label: s, lit: t >= L.tagT[j], a: seg(t, L.tagT[j] - 0.15, L.tagT[j] + 0.1) * out, roll: seg(t, L.tagT[j] - 0.1, L.tagT[j] + 0.25) })), 1226, frame);
+        rows(ctx, red ? TRd : L.estado === 'atencao' ? TOr : T, L.tags.map((s, j) => ({ label: s, lit: t >= L.tagT[j], a: seg(t, L.tagT[j] - 0.15, L.tagT[j] + 0.1) * out, roll: seg(t, L.tagT[j] - 0.1, L.tagT[j] + 0.25) })), 1076, frame);
       }
       // título da série no gancho; depois selo + fonte até o final
       const top = 1 - seg(t, O - 0.6, O - 0.3);
@@ -372,9 +372,9 @@ export function makeFilm(TL, cena, dur, words, lines, AP = null) {
         keep: { lights: blink ? '#ff3b4a' : '#eaf6ff', car: '#ffa25a' } });
       sirenGlow(ctx, cam, vs, blink, seg(t, O + 0.1, O + 0.4));
       vanName(ctx, T, cam, vs, seg(t, O + 0.2, CLACK), frame, 1);
-      tagline(ctx, T, seg(t, slogan, sloganEnd), frame, 1, 1330);
+      tagline(ctx, T, seg(t, slogan, sloganEnd), frame, 1, 1180);
       const ia = seg(t, GO, GO + 0.3);
-      if (ia > 0) rows(ctx, T, [{ label: 'INSCREVA-SE', lit: true, a: ia, roll: seg(t, GO, GO + 0.35) }], 1385, frame);
+      if (ia > 0) rows(ctx, T, [{ label: 'INSCREVA-SE', lit: true, a: ia, roll: seg(t, GO, GO + 0.35) }], 1240, frame);
       status = t < GO ? 'RESGATE · CARREGADO' : 'RESGATE · EM ROTA';
     }
     U.vignette(ctx, W, H, 0.55);

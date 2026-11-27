@@ -1,0 +1,74 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE HB20",
+ "titulo": "FALANDO DE HB20 #3",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Verificar Auto, 13/10/2026",
+ "falas": {
+  "L01": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": "PANCADA SECA?",
+   "nota": "Roda cai num buraco; pancada seca; onda sonora."
+  },
+  "L02": {
+   "zona": "susp_dianteira",
+   "cartao": {
+    "rotulo": "Primeira geração",
+    "valor": "2013–2019",
+    "unidade": "",
+    "detalhe": "Suspensão de curso curto",
+    "palavra": "treze"
+   },
+   "legenda": "Guias de compra e reportagens sobre o HB20 da primeira geração, de 2013 a 2019, citam a suspensão de curso curto.",
+   "nota": "Linha do tempo 2013 a 2019; corte da suspensão com pouco curso."
+  },
+  "L03": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": "BATE NO BATENTE",
+   "nota": "Amortecedor encosta no batente; impacto sobe pela carroceria."
+  },
+  "L04": {
+   "zona": "susp_dianteira",
+   "etiqueta": "FONTES DIVERGEM",
+   "legenda": "Mas a Oficina Brasil diz que, nos testes que fez em 2019, não houve fim de curso.",
+   "nota": "Dois balões: queixa de donos e resultado do teste; sinal de divergência."
+  },
+  "L05": {
+   "zona": "susp_dianteira",
+   "etiqueta": [
+    "DESGASTE NORMAL",
+    "BUCHAS E PIVÔS"
+   ],
+   "legenda": "Reparadores ouvidos em 2020 falaram de desgaste normal de buchas, pivôs, bieletas e batentes na dianteira, e um deles, de molas traseiras fracas.",
+   "nota": "Peças da dianteira destacadas; mola traseira com dois passageiros."
+  },
+  "L06": {
+   "zona": "susp_dianteira",
+   "etiqueta": "BIELETA MAL APERTADA",
+   "nota": "Chave de torque aperta a bieleta."
+  },
+  "L07": {
+   "zona": "susp_dianteira",
+   "etiqueta": "TESTE EM LOMBADA",
+   "nota": "Carro passa devagar por lombada; ícone de ouvido."
+  },
+  "L08": {
+   "zona": "carro",
+   "etiqueta": "RELATO, SEM NÚMERO",
+   "nota": "Carimbo RELATO RECORRENTE."
+  },
+  "L09": {
+   "zona": "susp_dianteira",
+   "etiqueta": "RESUMO",
+   "nota": "O HB20 inteiro em arame, com a zona do problema acesa (a suspensão dianteira); a etiqueta RESUMO aparece."
+  },
+  "L10": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "legenda": "Se esse vídeo te ajudou, salve e mande para quem tem um HB20.",
+   "nota": "O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

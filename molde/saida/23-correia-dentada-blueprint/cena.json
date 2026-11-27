@@ -1,0 +1,83 @@
+{
+ "estilo": "blueprint",
+ "carro": "hatch",
+ "serie": "CORREIA DENTADA",
+ "fonte": "Fonte: Continental, AutoPapo, Oficina Brasil",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "CORREIA DENTADA",
+   "nota": "Carro coberto na garagem; calendário corre; no corte do motor a correia vai ressecando."
+  },
+  "L02": {
+   "zona": "motor",
+   "etiqueta": "TEMPO CERTO",
+   "nota": "Vista técnica: correia dentada abraçando a polia do virabrequim e a do comando, girando juntas."
+  },
+  "L03": {
+   "zona": "motor",
+   "etiqueta": "PRAZO NO MANUAL",
+   "fonte": "Fonte: Oficina Brasil; Mecânica Online",
+   "nota": "O manual abre numa tabela de revisões com a linha da correia marcada."
+  },
+  "L04": {
+   "zona": "motor",
+   "etiqueta": "KM E TEMPO",
+   "nota": "Na tabela, duas colunas acendem: quilômetros e anos."
+  },
+  "L05": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "BORRACHA ENVELHECE",
+   "fonte": "Fonte: AutoPapo; Continental",
+   "nota": "Zoom na correia: trincas finas aparecem na borracha."
+  },
+  "L06": {
+   "zona": "motor",
+   "estado": "alerta",
+   "etiqueta": "MOTOR MORRE",
+   "nota": "A correia estoura; as polias param; o ponteiro do conta-giros cai a zero."
+  },
+  "L07": {
+   "zona": "motor",
+   "estado": "alerta",
+   "etiqueta": "PISTÃO BATE VÁLVULA",
+   "nota": "Corte do cilindro: pistão sobe e toca a válvula parada; nuvem de revisão em vermelho."
+  },
+  "L08": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "ADIANTE A TROCA",
+   "lupa": true,
+   "nota": "Lupa sobre a correia com rachaduras; ondas de som saindo dela."
+  },
+  "L09": {
+   "zona": "motor",
+   "etiqueta": "TENSOR E POLIAS",
+   "fonte": "Fonte: Continental; O Mecânico",
+   "nota": "O conjunto se separa: correia, tensor e polias, todos marcados."
+  },
+  "L10": {
+   "zona": "arrefecimento",
+   "etiqueta": "BOMBA D'ÁGUA",
+   "nota": "A bomba d'água acende no desenho, ligada à correia."
+  },
+  "L11": {
+   "zona": "motor",
+   "etiqueta": "CONFIRA O MANUAL",
+   "fonte": "Fonte: AutoPapo",
+   "nota": "Três desenhos: correia seca, correia banhada a óleo e corrente de metal."
+  },
+  "L12": {
+   "zona": "motor",
+   "etiqueta": "RESUMO",
+   "nota": "O manual aberto e uma etiqueta de \"última troca\" colada no motor."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro no estilo do vídeo; ícones de salvar e de compartilhar acendem."
+  }
+ }
+}

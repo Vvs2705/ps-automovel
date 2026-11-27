@@ -1,0 +1,110 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE HB20",
+ "titulo": "FALANDO DE HB20 #6",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Hyundai, aviso de recall, 28/12/2016",
+ "falas": {
+  "L01": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "BEBIDA NO CONSOLE?",
+   "nota": "Copo tomba no porta-copos do console; o líquido escorre."
+  },
+  "L02": {
+   "zona": "carro",
+   "etiqueta": [
+    "HB20",
+    "HB20S",
+    "HB20X"
+   ],
+   "legenda": "A Hyundai fez recall do HB20, do sedã HB20S e do HB20X.",
+   "nota": "Três silhuetas: hatch, sedã e versão X."
+  },
+  "L03": {
+   "zona": "cambio",
+   "cartao": {
+    "rotulo": "Automático de 4 marchas",
+    "valor": "1.6",
+    "unidade": "",
+    "detalhe": "Modelos 2013 a 2015",
+    "palavra": "seis"
+   },
+   "legenda": "Eram os modelos 2013 a 2015, com motor 1.6 e câmbio automático de quatro marchas.",
+   "nota": "Linha do tempo 2013 a 2015; etiqueta 1.6 AUT."
+  },
+  "L04": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": [
+    "BEBIDA NO CONSOLE",
+    "FIAÇÃO DO INDICADOR"
+   ],
+   "nota": "Corte do console: gotas descem até os fios do indicador de marchas."
+  },
+  "L05": {
+   "zona": "eletrica",
+   "estado": "alerta",
+   "etiqueta": [
+    "CURTO-CIRCUITO",
+    "RISCO DE INCÊNDIO"
+   ],
+   "nota": "Faróis acesos; faísca curta no console; sinal de alerta."
+  },
+  "L06": {
+   "zona": "painel",
+   "etiqueta": "SEM COMBUSTÃO ESPONTÂNEA",
+   "nota": "Carro estacionado, desligado; selo SEM COMBUSTÃO ESPONTÂNEA."
+  },
+  "L07": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Correção gratuita",
+    "valor": "1 HORA",
+    "unidade": "",
+    "detalhe": "Vedação de silicone no indicador",
+    "palavra": "hora"
+   },
+   "legenda": "A correção é gratuita: a concessionária inspeciona, aplica vedação de silicone no indicador e troca a peça se houver infiltração. Leva cerca de uma hora.",
+   "nota": "Técnico aplica silicone no indicador; relógio de 1 hora; selo GRÁTIS."
+  },
+  "L08": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Convocados, segundo a imprensa",
+    "valor": "139 MIL",
+    "unidade": "",
+    "detalhe": "Total não consta no comunicado",
+    "palavra": "mil"
+   },
+   "legenda": "A imprensa noticiou cerca de 139 mil veículos convocados.",
+   "nota": "Contador sobe até 139 mil sobre silhuetas de carros."
+  },
+  "L09": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "SEQUE E LEVE",
+   "nota": "Pano seca o console; seta aponta para a concessionária."
+  },
+  "L10": {
+   "zona": "carro",
+   "etiqueta": "CONFIRA O CHASSI",
+   "pontos": [
+    "porta",
+    "chassi"
+   ],
+   "nota": "Campo de chassi e botão Consultar."
+  },
+  "L11": {
+   "zona": "painel",
+   "etiqueta": "RESUMO",
+   "nota": "O HB20 inteiro em arame, com a zona do problema acesa (o console e o indicador de marchas); a etiqueta RESUMO aparece."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "legenda": "Se esse vídeo te ajudou, salve e mande para quem tem um HB20.",
+   "nota": "O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

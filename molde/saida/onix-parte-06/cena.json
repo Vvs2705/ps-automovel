@@ -1,0 +1,90 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE ONIX",
+ "titulo": "FALANDO DE ONIX #6",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Ministério da Justiça, 20/05/2014",
+ "falas": {
+  "L01": {
+   "zona": "tanque",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "FILTRO PODE VAZAR?",
+   "nota": "Filtro de combustível em destaque no vão do tanque."
+  },
+  "L02": {
+   "zona": "carro",
+   "etiqueta": "FATO DOCUMENTADO",
+   "cartao": {
+    "rotulo": "Veículos no recall",
+    "valor": "238 MIL",
+    "unidade": "",
+    "detalhe": "10 modelos Chevrolet",
+    "palavra": "mil"
+   },
+   "legenda": "Em maio de 2014, a Chevrolet fez recall de cerca de 238 mil veículos, de 10 modelos.",
+   "nota": "Contador sobe até 238 mil; dez silhuetas; selo FATO DOCUMENTADO."
+  },
+  "L03": {
+   "zona": "carro",
+   "etiqueta": "ONIX E PRISMA",
+   "cartao": {
+    "rotulo": "Onix e Prisma modelos",
+    "valor": "2014–2015",
+    "unidade": "",
+    "detalhe": "Fabricados de out/2013 a abr/2014",
+    "palavra": "quinze"
+   },
+   "legenda": "Entre eles, Onix e Prisma modelos 2014 e 2015, fabricados entre outubro de 2013 e abril de 2014.",
+   "nota": "Silhuetas de Onix e Prisma; calendário de outubro de 2013 a abril de 2014."
+  },
+  "L04": {
+   "zona": "tanque",
+   "etiqueta": "FILTRO IRREGULAR",
+   "nota": "Filtro em corte; gota de combustível perto do tanque."
+  },
+  "L05": {
+   "zona": "tanque",
+   "estado": "alerta",
+   "etiqueta": [
+    "PRINCÍPIO DE INCÊNDIO",
+    "MOTOR PODE DESLIGAR"
+   ],
+   "nota": "Chama curta junto ao filtro; motor apaga."
+  },
+  "L06": {
+   "zona": "tanque",
+   "etiqueta": "TROCA GRÁTIS",
+   "legenda": "O serviço é inspeção e, se necessário, troca do filtro, gratuita. O iCarros fala em cerca de 15 minutos.",
+   "nota": "Filtro novo entra; relógio de 15 minutos; selo GRÁTIS."
+  },
+  "L07": {
+   "zona": "carro",
+   "etiqueta": "MOTOR NÃO CITADO",
+   "nota": "Dois motores em corte com interrogação; faixa de chassi."
+  },
+  "L08": {
+   "zona": "carro",
+   "etiqueta": "CONSULTE O CHASSI",
+   "legenda": "O serviço de recall do governo cobre campanhas desde 2011. Consulte o chassi, que é gratuito e pede conta gov.br.",
+   "nota": "Campo de chassi e botão Consultar; ícone gov.br; selo 2011."
+  },
+  "L09": {
+   "zona": "motor",
+   "estado": "alerta",
+   "etiqueta": "MOTOR FALHOU, PARE",
+   "nota": "Painel com luz de motor; carro encosta; cheiro de combustível."
+  },
+  "L10": {
+   "zona": "tanque",
+   "etiqueta": "RESUMO",
+   "legenda": "Resumindo: o recall de 2014 trata de uma não conformidade no filtro de combustível de 10 modelos, com inspeção e troca gratuitas.",
+   "nota": "Os pontos principais aparecem numa lista rápida na tela."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "Botão salvar e ícone de compartilhar sobre um Onix."
+  }
+ }
+}

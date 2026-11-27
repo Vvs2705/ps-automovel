@@ -1,0 +1,86 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE STRADA",
+ "titulo": "FALANDO DE STRADA #2",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Oficina Brasil, 17/08/2016; Carro Club",
+ "falas": {
+  "L01": {
+   "zona": "susp_traseira",
+   "estado": "atencao",
+   "etiqueta": "ESTALO ATRÁS?",
+   "nota": "Strada passa em lombada; ondas sonoras saem do eixo traseiro."
+  },
+  "L02": {
+   "zona": "susp_traseira",
+   "etiqueta": "SUSPENSÃO TRASEIRA",
+   "nota": "Corte holográfico do feixe de molas traseiro; pontos piscam nas buchas."
+  },
+  "L03": {
+   "zona": "susp_traseira",
+   "cartao": {
+    "rotulo": "Reparadores ouvidos, 2016",
+    "valor": "3",
+    "unidade": "REPARADORES",
+    "detalhe": "Buchas das molas traseiras estalam",
+    "palavra": "três"
+   },
+   "legenda": "Em 2016, três reparadores ouvidos pela Oficina Brasil disseram que as buchas das molas traseiras costumam estalar, na Strada Adventure 1.8.",
+   "fonte": "Fonte: Oficina Brasil, 17/08/2016",
+   "nota": "Três silhuetas de mecânicos; trecho da matéria com a data 2016 destacado."
+  },
+  "L04": {
+   "zona": "susp_traseira",
+   "cartao": {
+    "rotulo": "Donos em fóruns",
+    "valor": "2009–2016",
+    "unidade": "",
+    "detalhe": "Estalo em buraco, lombada e terra",
+    "palavra": "dezesseis"
+   },
+   "legenda": "Em fóruns, donos de Strada de 2009 a 2016 descrevem o mesmo barulho, em buraco, lombada ou estrada de terra.",
+   "fonte": "Fonte: fórum Carro Club (sem data)",
+   "nota": "Balões de fórum com Trekking 2009, Adventure 2011, Working 2016; piso irregular."
+  },
+  "L05": {
+   "zona": "susp_traseira",
+   "seta": true,
+   "etiqueta": "CAUSA VARIA",
+   "nota": "Seta para as borrachas do feixe; outras setas com interrogação."
+  },
+  "L06": {
+   "zona": "susp_traseira",
+   "etiqueta": "BARULHO VOLTOU",
+   "nota": "Peça nova instalada; o ícone de som continua piscando."
+  },
+  "L07": {
+   "zona": "escapamento",
+   "etiqueta": [
+    "CONFIRA ESCAPAMENTO",
+    "TAMPA DA CAÇAMBA"
+   ],
+   "nota": "Elevador com a Strada suspensa; setas no escapamento e na tampa da caçamba."
+  },
+  "L08": {
+   "zona": "susp_traseira",
+   "etiqueta": "TESTE EM LOMBADA",
+   "fonte": "Fonte: Autoo, 19/07/2023",
+   "nota": "Teste de rua em piso irregular; selo AUTOO 2023."
+  },
+  "L09": {
+   "zona": "carro",
+   "etiqueta": "SEM NÚMERO",
+   "nota": "Contador vazio com ponto de interrogação."
+  },
+  "L10": {
+   "zona": "susp_traseira",
+   "etiqueta": "RESUMO",
+   "nota": "A Strada inteira em arame, com a zona do problema acesa (a suspensão traseira); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

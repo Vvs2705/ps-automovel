@@ -1,0 +1,113 @@
+{
+ "carro": "hatch",
+ "serie": "CHIADO NO MOTOR",
+ "fonte": "Fonte: Continental, Dayco, Revista Carro, AutoPapo",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "NÃO PASSE NADA",
+   "fonte": "Fonte: Continental, Dayco, Revista Carro",
+   "nota": "Chiado agudo; a correia de acessórios de arame acende; um spray aparece e leva um X."
+  },
+  "L02": {
+   "zona": "motor",
+   "etiqueta": "CORREIA E ALTERNADOR",
+   "fonte": "Fonte: Revista Carro, 16/04/2019",
+   "nota": "A correia percorre as polias até o alternador, que acende."
+  },
+  "L03": {
+   "zona": "motor",
+   "etiqueta": "PARTIDA E ACELERAÇÃO",
+   "fonte": "Fonte: Mecânica Online, 03/01/2018",
+   "nota": "Chave girando e conta-giros subindo; as ondas de som crescem."
+  },
+  "L04": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "CHIADO LONGO",
+   "fonte": "Fonte: Dayco, webinar de ruído de correia",
+   "nota": "Onda de som comprida; a correia escorrega sobre a polia."
+  },
+  "L05": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "GRILO: POLIA",
+   "nota": "Ondas curtas em sequência; uma polia fora do alinhamento acende."
+  },
+  "L06": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "CORREIA RESSECADA",
+   "lupa": true,
+   "fonte": "Fonte: Revista Carro, 16/04/2019",
+   "nota": "Zoom nas costas da correia com trincas."
+  },
+  "L07": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "TENSOR GASTO",
+   "fonte": "Fonte: Continental; Dayco",
+   "nota": "O tensor afrouxa; a correia balança."
+  },
+  "L08": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "ROLAMENTO DURO",
+   "nota": "Uma polia gira travando, com faíscas de atrito."
+  },
+  "L09": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "ÓLEO NA CORREIA",
+   "fonte": "Fonte: Continental; Dayco",
+   "nota": "Gota de óleo cai na correia; a borracha escurece."
+  },
+  "L10": {
+   "zona": "motor",
+   "estado": "alerta",
+   "etiqueta": "NADA DE SPRAY",
+   "fonte": "Fonte: Continental; Dayco; Revista Carro",
+   "nota": "Spray, sabão e frasco genérico, todos com X vermelho."
+  },
+  "L11": {
+   "zona": "motor",
+   "etiqueta": "INSPEÇÃO COMPLETA",
+   "fonte": "Fonte: Litens (O Mecânico), 2026",
+   "nota": "Correia, tensor e polias acendem juntos."
+  },
+  "L12": {
+   "zona": "eletrica",
+   "estado": "alerta",
+   "etiqueta": "BATERIA PODE ACABAR",
+   "fonte": "Fonte: AutoPapo",
+   "nota": "A correia estoura; a luz da bateria acende no painel."
+  },
+  "L13": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "VOLANTE PESADO",
+   "fonte": "Fonte: AutoPapo, 24/02/2024",
+   "nota": "Volante com peso de academia pendurado."
+  },
+  "L14": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": [
+    "MOTOR LIGADO? NÃO",
+    "CONTE AO MECÂNICO"
+   ],
+   "nota": "Mão de arame recua do motor girando; um caderno de anotações."
+  },
+  "L15": {
+   "zona": "motor",
+   "etiqueta": "RESUMO",
+   "nota": "O motor inteiro com a zona das correias acesa; etiqueta RESUMO."
+  },
+  "L16": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro no estilo do vídeo; ícones de salvar e de compartilhar acendem."
+  }
+ }
+}

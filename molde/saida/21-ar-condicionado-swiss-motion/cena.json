@@ -1,0 +1,100 @@
+{
+ "estilo": "swiss-motion",
+ "carro": "hatch",
+ "serie": "AR-CONDICIONADO",
+ "fonte": "Fonte: MAHLE, Bosch, AutoPapo, manual Volvo",
+ "falas": {
+  "L01": {
+   "zona": "painel",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "NÃO GELA?",
+   "nota": "Saída de ar soprando fraco; um cilindro de gás aparece e leva um ponto de interrogação."
+  },
+  "L02": {
+   "zona": "painel",
+   "etiqueta": "TRÊS SINAIS",
+   "cartao": {
+    "rotulo": "Sinais que você nota",
+    "valor": "3",
+    "unidade": "SINAIS",
+    "detalhe": "Confira antes de pôr gás",
+    "palavra": "três"
+   },
+   "nota": "O número três grande; três cartões vazios esperando."
+  },
+  "L03": {
+   "zona": "painel",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "UM: AR FRACO",
+   "nota": "Cartão um: setas de ar curtas saindo da saída do painel, ventilador no máximo."
+  },
+  "L04": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "DOIS: CHEIRO RUIM",
+   "nota": "Cartão dois: ondas de cheiro saindo da saída de ar."
+  },
+  "L05": {
+   "zona": "painel",
+   "etiqueta": "FILTRO DE CABINE",
+   "nota": "Corte do painel: o filtro de cabine aparece segurando pontinhos de poeira e pólen."
+  },
+  "L06": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "FILTRO SUJO",
+   "nota": "O filtro escurece; as setas de ar encolhem; manchas de mofo surgem."
+  },
+  "L07": {
+   "zona": "painel",
+   "etiqueta": "CONFIRA O MANUAL",
+   "fonte": "Fonte: AutoPapo; Mecânica Online",
+   "nota": "Manual abre numa página de filtro; uma estrada de terra e um trânsito parado passam ao fundo."
+  },
+  "L08": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": "TRÊS: PERDEU FORÇA",
+   "nota": "Cartão três: um termômetro de saída de ar sobe devagar, dia após dia."
+  },
+  "L09": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": "PODE SER VAZAMENTO",
+   "lupa": true,
+   "fonte": "Fonte: AutoPapo, recarga e vazamento",
+   "nota": "Circuito do ar em linha: compressor, condensador, evaporador; uma gota escapa de uma conexão."
+  },
+  "L10": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": "RESOLVE POUCO",
+   "nota": "O cilindro enche o circuito; um relógio corre e o nível volta a cair."
+  },
+  "L11": {
+   "zona": "arrefecimento",
+   "etiqueta": "SERVIÇO DE OFICINA",
+   "fonte": "Fonte: manual Volvo; AutoPapo",
+   "nota": "Uma máquina de oficina liga ao circuito; um X sobre a lata de gás caseira."
+  },
+  "L12": {
+   "zona": "carroceria",
+   "estado": "ok",
+   "etiqueta": "PINGANDO? NORMAL",
+   "fonte": "Fonte: manual Volvo online",
+   "nota": "Sol forte; gotas caem de baixo do carro; selo verde de normal."
+  },
+  "L13": {
+   "zona": "painel",
+   "etiqueta": "RESUMO",
+   "nota": "Os três cartões lado a lado, com o filtro e a oficina marcados."
+  },
+  "L14": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro no estilo do vídeo; ícones de salvar e de compartilhar acendem."
+  }
+ }
+}

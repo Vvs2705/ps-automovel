@@ -1,0 +1,102 @@
+{
+ "estilo": "swiss-motion",
+ "carro": "hatch",
+ "serie": "REGRA DOS 70%",
+ "fonte": "Fonte: Inmetro, ANP, AutoPapo, Gazeta do Povo",
+ "falas": {
+  "L01": {
+   "zona": "carro",
+   "estado": "atencao",
+   "cartao": {
+    "rotulo": "Regra do etanol",
+    "valor": "70%",
+    "detalhe": "Não serve para todo carro",
+    "palavra": "setenta"
+   },
+   "legenda": "A regra dos 70% não serve para todo carro.",
+   "nota": "O número setenta por cento enorme se parte em vários números diferentes."
+  },
+  "L02": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Etanol compensa até",
+    "valor": "70%",
+    "detalhe": "do preço da gasolina",
+    "palavra": "setenta"
+   },
+   "legenda": "Ela diz: o etanol compensa se custar até 70% do preço da gasolina.",
+   "fonte": "Fonte: AutoPapo, 03/08/2020",
+   "nota": "Duas barras de preço; a do etanol até a linha de setenta por cento."
+  },
+  "L03": {
+   "zona": "tanque",
+   "etiqueta": "MENOS ENERGIA",
+   "fonte": "Fonte: Itatiaia, 27/08/2025",
+   "nota": "Dois litros lado a lado; a estrada do etanol é mais curta."
+  },
+  "L04": {
+   "zona": "motor",
+   "etiqueta": "CADA MOTOR",
+   "fonte": "Fonte: AutoPapo; Gazeta do Povo",
+   "nota": "Vários motores, cada um com uma barra de altura diferente."
+  },
+  "L05": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Teste de rua, etanol rendeu",
+    "valor": "70-75%",
+    "detalhe": "Estudo pedido pelo setor do etanol",
+    "palavra": "setenta"
+   },
+   "legenda": "Num teste de rua, o etanol rendeu de pouco mais de 70 a uns 75 por cento.",
+   "fonte": "Fonte: Gazeta do Povo, 21/11/2018",
+   "nota": "Uma faixa entre setenta e setenta e cinco acende na régua."
+  },
+  "L06": {
+   "zona": "carro",
+   "etiqueta": "SEU CARRO",
+   "nota": "O carro do espectador ganha um holofote."
+  },
+  "L07": {
+   "zona": "carro",
+   "etiqueta": "SEU LIMITE",
+   "fonte": "Fonte: Itatiaia; Gazeta do Povo",
+   "nota": "Fração grande: consumo com etanol sobre consumo com gasolina = SEU LIMITE."
+  },
+  "L08": {
+   "zona": "carro",
+   "etiqueta": "DIVIDA OS PREÇOS",
+   "nota": "Segunda fração: preço do etanol sobre preço da gasolina."
+  },
+  "L09": {
+   "zona": "carro",
+   "etiqueta": [
+    "ABAIXO: ETANOL",
+    "ACIMA: GASOLINA"
+   ],
+   "nota": "As duas frações se comparam; seta verde para o etanol ou para a gasolina."
+  },
+  "L10": {
+   "zona": "tanque",
+   "etiqueta": "MEÇA O CONSUMO",
+   "fonte": "Fonte: Itatiaia; Gazeta do Povo",
+   "nota": "Bico desarmando; o hodômetro parcial volta a zero."
+  },
+  "L11": {
+   "zona": "tanque",
+   "etiqueta": "REPITA",
+   "fonte": "Fonte: Gazeta do Povo, 21/11/2018",
+   "nota": "Quilômetros sobre litros; o ciclo se repete três vezes."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "RESUMO",
+   "nota": "As duas frações e o selo RESUMO."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro no estilo do vídeo; ícones de salvar e de compartilhar acendem."
+  }
+ }
+}

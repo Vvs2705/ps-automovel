@@ -50,7 +50,7 @@ say "$PY" tools/rascunho_cena.py "$(W "$SRC")" "$DW/cena.json"   # sem cena.json
 
 step "linha do tempo"; say "$PY" tools/linha_do_tempo.py "$DW"
 step "eventos de som"; (cd "$LIB" && say node core/render/events.mjs "$MW" --q "$Q" --size 1080x1920 --out "$DW/events.json")
-step "checagem de texto (sobreposição, legenda entre y 1350 e 1500, avisos do cena.json)"
+step "checagem de texto (sobreposição, legenda entre y 1200 e 1350, avisos do cena.json)"
 CHK=0; node tools/checar.mjs "$MW" "$Q" > "$D/out/checagem.txt" 2>&1 || CHK=1
 cat "$D/out/checagem.txt" >> "$LOG"; head -20 "$D/out/checagem.txt" | sed 's/^/    /'
 step "trilha"; say "$PY" music/score.py "$DW"

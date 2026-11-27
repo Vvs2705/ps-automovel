@@ -1,0 +1,94 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE STRADA",
+ "titulo": "FALANDO DE STRADA #5",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: comunicado FCA, 17/12/2021",
+ "falas": {
+  "L01": {
+   "zona": "tanque",
+   "estado": "atencao",
+   "etiqueta": "BOMBA DE COMBUSTÍVEL",
+   "nota": "Bomba de combustível em corte dentro do tanque."
+  },
+  "L02": {
+   "zona": "tanque",
+   "cartao": {
+    "rotulo": "Recall da Fiat",
+    "valor": "DEZ/2021",
+    "unidade": "",
+    "detalhe": "Nova Strada, ano-modelo 2022",
+    "palavra": "dezembro"
+   },
+   "legenda": "Em dezembro de 2021, a Fiat fez recall da bomba de combustível da Nova Strada, ano-modelo 2022.",
+   "nota": "Calendário dezembro de 2021; selo RECALL sobre a Nova Strada 2022."
+  },
+  "L03": {
+   "zona": "tanque",
+   "cartao": {
+    "rotulo": "Stradas convocadas",
+    "valor": "9.932",
+    "unidade": "",
+    "detalhe": "De 23.789 carros, em 6 modelos",
+    "palavra": "duas"
+   },
+   "legenda": "Foram 9.932 Stradas, num recall de mais de 23 mil carros de seis modelos.",
+   "fonte": "Fonte: FCA e Nota Técnica Senacon 268/2021",
+   "nota": "Contador sobe até 9.932 Stradas; barra mostra o total de 23.789."
+  },
+  "L04": {
+   "zona": "tanque",
+   "estado": "atencao",
+   "etiqueta": "FALHA INTERNA",
+   "legenda": "As bombas feitas de 2 a 12 de julho de 2021 podiam ter falha interna e interromper o envio de combustível ao motor, com o carro em movimento.",
+   "nota": "Linha de montagem em julho de 2021; o fluxo de combustível é cortado no corte da bomba."
+  },
+  "L05": {
+   "zona": "tanque",
+   "estado": "alerta",
+   "etiqueta": "RISCO DE ACIDENTE",
+   "nota": "Aviso vermelho: RISCO DE ACIDENTE."
+  },
+  "L06": {
+   "zona": "tanque",
+   "cartao": {
+    "rotulo": "Reparo gratuito",
+    "valor": "90 MIN",
+    "unidade": "",
+    "detalhe": "Análise e, se preciso, troca da bomba",
+    "palavra": "noventa"
+   },
+   "legenda": "O reparo é gratuito: análise e, se necessário, troca da bomba, em cerca de 90 minutos.",
+   "nota": "Relógio de 90 minutos; bomba nova; selo GRÁTIS."
+  },
+  "L07": {
+   "zona": "carro",
+   "etiqueta": "MOTOR: NÃO CITADO",
+   "nota": "Ficha da Strada com campos MOTOR, VERSÃO e CABINE vazios."
+  },
+  "L08": {
+   "zona": "carroceria",
+   "pontos": [
+    "chassi"
+   ],
+   "etiqueta": "CONFIRA O CHASSI",
+   "fonte": "Fonte: Ministério dos Transportes, 04/10/2024",
+   "nota": "Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo."
+  },
+  "L09": {
+   "zona": "tanque",
+   "etiqueta": "PEÇA O COMPROVANTE",
+   "nota": "Vendedor entrega um papel carimbado."
+  },
+  "L10": {
+   "zona": "tanque",
+   "etiqueta": "RESUMO",
+   "nota": "A Strada inteira em arame, com a zona do problema acesa (o tanque e a bomba de combustível); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

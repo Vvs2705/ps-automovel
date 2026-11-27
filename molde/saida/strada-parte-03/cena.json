@@ -1,0 +1,87 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE STRADA",
+ "titulo": "FALANDO DE STRADA #3",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: comunicado Fiat/Stellantis, 13/09/2024",
+ "falas": {
+  "L01": {
+   "zona": "freios",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "FREIO DE MÃO?",
+   "nota": "Mão puxa a alavanca do freio de mão; ela volta sem segurar."
+  },
+  "L02": {
+   "zona": "freios",
+   "cartao": {
+    "rotulo": "Recall da Fiat",
+    "valor": "2024",
+    "unidade": "",
+    "detalhe": "Nova Strada, anos-modelo 2024 e 2025",
+    "palavra": "quatro"
+   },
+   "legenda": "Em setembro de 2024, a Fiat fez recall da alavanca do freio de mão da Nova Strada, anos-modelo 2024 e 2025.",
+   "nota": "Calendário setembro de 2024; selo RECALL sobre a Nova Strada 2024 e 2025."
+  },
+  "L03": {
+   "zona": "freios",
+   "estado": "alerta",
+   "etiqueta": "CARRO PODE ANDAR",
+   "nota": "Strada estacionada em rampa começa a deslizar."
+  },
+  "L04": {
+   "zona": "carroceria",
+   "estado": "atencao",
+   "etiqueta": "PARAFUSO DA COLUNA",
+   "nota": "Corte da carroceria; um parafuso aparece destacado na coluna superior."
+  },
+  "L05": {
+   "zona": "carroceria",
+   "estado": "alerta",
+   "etiqueta": "DEFORMAÇÃO NA BATIDA",
+   "nota": "Simulação de colisão; a coluna se deforma em vermelho."
+  },
+  "L06": {
+   "zona": "freios",
+   "cartao": {
+    "rotulo": "Reparo gratuito",
+    "valor": "1 HORA",
+    "unidade": "",
+    "detalhe": "Cerca de 2 horas se forem os dois reparos",
+    "palavra": "hora"
+   },
+   "nota": "Relógio de 1 hora e de 2 horas; selo GRÁTIS."
+  },
+  "L07": {
+   "zona": "carro",
+   "etiqueta": "MOTOR: NÃO CITADO",
+   "nota": "Ficha da Strada com campos MOTOR e UNIDADES vazios."
+  },
+  "L08": {
+   "zona": "carroceria",
+   "pontos": [
+    "chassi"
+   ],
+   "etiqueta": "CONFIRA O CHASSI",
+   "fonte": "Fonte: Ministério dos Transportes, 04/10/2024",
+   "nota": "Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo."
+  },
+  "L09": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": "NA DÚVIDA, OFICINA",
+   "nota": "Mão na alavanca; seta para a concessionária."
+  },
+  "L10": {
+   "zona": "freios",
+   "etiqueta": "RESUMO",
+   "nota": "A Strada inteira em arame, com a zona do problema acesa (os freios, com a alavanca do freio de mão); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

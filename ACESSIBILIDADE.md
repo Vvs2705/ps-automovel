@@ -13,8 +13,8 @@ Tela 1080×1920. No celular, 1 px do vídeo ≈ 0,36 pt. O canal é para quem te
 | Canto da tela (HUD decorativo) | 24 px | 24 px; não carrega informação necessária |
 
 Regras de layout:
-- Legenda termina em y = 1500 e fica entre x ≈ 130 e 910 (fora da coluna de botões do Shorts à direita e da faixa de título embaixo).
-- Painéis da parte de baixo terminam acima de y ≈ 1316 para não encostar na legenda.
+- Legenda termina em y = 1350 e fica entre x ≈ 130 e 910 (fora da coluna de botões do Shorts à direita e da faixa de título, canal e descrição embaixo, que no Shorts e no TikTok sobe até perto de y 1400; até 2026-11-27 terminava em 1500 e ficava tampada).
+- Painéis da parte de baixo terminam acima de y ≈ 1166 para não encostar na legenda.
 - Texto na tela com até 3 palavras por etiqueta.
 - Nada de informação só por cor: vermelho de defeito sempre vem com texto (ATRITO, TRAVADO).
 - Apresentador (molde/apresentador/): janela sem texto informativo, fora da legenda, das etiquetas, do cartão e da coluna de botões. Gancho x 30–530 / y 620–1140, canto x 20–260 / y 890–1140, final x 310–770 / y 158–636.

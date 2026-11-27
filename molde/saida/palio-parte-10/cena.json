@@ -1,0 +1,83 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE PALIO",
+ "titulo": "FALANDO DE PALIO #10",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Autopapo e Oficina Brasil",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "INJEÇÃO FALHANDO?",
+   "nota": "Painel com a luz da injeção acesa."
+  },
+  "L02": {
+   "zona": "motor",
+   "etiqueta": [
+    "SONDA LAMBDA",
+    "FALHA DE IGNIÇÃO",
+    "BORBOLETA (TPS)"
+   ],
+   "legenda": "A Alfatest, citada pelo Autopapo em 2021, lista para o Palio falha na sonda lambda, falha de ignição e falha na borboleta, o TPS.",
+   "fonte": "Fonte: Autopapo (dado Alfatest), 14/05/2021",
+   "nota": "Três sensores acendem: sonda, ignição e borboleta. Selo RELATO DE DONOS no canto."
+  },
+  "L03": {
+   "zona": "motor",
+   "etiqueta": "SEM MÉTODO",
+   "nota": "Selo SEM MÉTODO PUBLICADO."
+  },
+  "L04": {
+   "zona": "motor",
+   "etiqueta": "FALHA NA ACELERAÇÃO",
+   "legenda": "Em 2024, o Autopapo também cita falhas na aceleração como comuns na segunda geração.",
+   "fonte": "Fonte: Autopapo, 18/12/2024",
+   "nota": "Pedal do acelerador; resposta atrasada."
+  },
+  "L05": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "BORRA NA BORBOLETA",
+   "legenda": "A Oficina Brasil relatou, em um Palio de 2002, borra de óleo no corpo de borboleta e no sensor MAP, com falhas intermitentes e luz de injeção acesa.",
+   "fonte": "Fonte: Oficina Brasil, 19/02/2008",
+   "nota": "Corpo de borboleta com borra; luz da injeção pisca."
+  },
+  "L06": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "LAVAGEM DO MOTOR",
+   "fonte": "Fonte: Oficina Brasil, 11/12/2007",
+   "nota": "Jato de água no cofre; sensores úmidos."
+  },
+  "L07": {
+   "zona": "motor",
+   "etiqueta": [
+    "LIMPAR BORBOLETA",
+    "EVITAR LAVAR MOTOR"
+   ],
+   "nota": "Limpeza do corpo de borboleta; jato de água riscado."
+  },
+  "L08": {
+   "zona": "carro",
+   "etiqueta": "CAUSAS DIFERENTES",
+   "nota": "Selo RELATO DE DONOS."
+  },
+  "L09": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "LEIA COM SCANNER",
+   "nota": "Scanner lê códigos de falha."
+  },
+  "L10": {
+   "zona": "motor",
+   "etiqueta": "RESUMO",
+   "nota": "O Palio inteiro em arame, com a zona do problema acesa (o motor e o corpo de borboleta); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

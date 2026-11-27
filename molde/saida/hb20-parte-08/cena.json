@@ -1,0 +1,101 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE HB20",
+ "titulo": "FALANDO DE HB20 #8",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Hyundai, aviso de recall, 29/03/2018",
+ "falas": {
+  "L01": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": "PEDAL DURO?",
+   "nota": "Pé aperta o pedal com esforço; indicador de força sobe."
+  },
+  "L02": {
+   "zona": "motor",
+   "cartao": {
+    "rotulo": "Turbo, manual de 6 marchas",
+    "valor": "1.0",
+    "unidade": "",
+    "detalhe": "HB20 e HB20S",
+    "palavra": "zero"
+   },
+   "legenda": "A Hyundai fez recall do HB20 e do HB20S com motor 1.0 turbo e câmbio manual de seis marchas.",
+   "nota": "Hatch e sedã; selo 1.0 TURBO MANUAL."
+  },
+  "L03": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Carros dos anos",
+    "valor": "2016–2018",
+    "unidade": "",
+    "detalhe": "Feitos de jan/2016 a fev/2018",
+    "palavra": "dezesseis"
+   },
+   "legenda": "Eram carros dos anos 2016 a 2018, feitos entre janeiro de 2016 e fevereiro de 2018.",
+   "nota": "Linha do tempo de janeiro de 2016 a fevereiro de 2018."
+  },
+  "L04": {
+   "zona": "escapamento",
+   "estado": "atencao",
+   "etiqueta": "VÁLVULA RESSECA",
+   "nota": "Válvula perto do catalisador quente; borracha resseca."
+  },
+  "L05": {
+   "zona": "motor",
+   "etiqueta": [
+    "ASSOVIO NO MOTOR",
+    "MARCHA LENTA OSCILA"
+   ],
+   "nota": "Onda de assovio no cofre; ponteiro do conta-giros oscila."
+  },
+  "L06": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": "PEDAL ENDURECE",
+   "nota": "Pedal endurece; barra de vácuo cai."
+  },
+  "L07": {
+   "zona": "freios",
+   "estado": "alerta",
+   "etiqueta": [
+    "PEDAL EXIGE FORÇA",
+    "FRENAGEM MAIS LONGA"
+   ],
+   "nota": "Carro freia, com distância de frenagem maior."
+  },
+  "L08": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Correção gratuita",
+    "valor": "30 MIN",
+    "unidade": "",
+    "detalhe": "Isolador térmico ou válvula nova",
+    "palavra": "trinta"
+   },
+   "etiqueta": "PROCURE A CONCESSIONÁRIA",
+   "legenda": "Com o assovio e a oscilação, a Hyundai recomenda parar de usar o carro e procurar a concessionária. A correção é gratuita e leva cerca de 30 minutos.",
+   "nota": "Selo GRÁTIS; relógio de 30 minutos; isolador térmico sobre a válvula."
+  },
+  "L09": {
+   "zona": "carro",
+   "etiqueta": "CONFIRA O CHASSI",
+   "pontos": [
+    "porta",
+    "chassi"
+   ],
+   "nota": "Campo de chassi e botão Consultar."
+  },
+  "L10": {
+   "zona": "freios",
+   "etiqueta": "RESUMO",
+   "nota": "O HB20 inteiro em arame, com a zona do problema acesa (os freios); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "legenda": "Se esse vídeo te ajudou, salve e mande para quem tem um HB20.",
+   "nota": "O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "estilo": "blueprint",
+ "carro": "hatch",
+ "serie": "ESQUENTAR O MOTOR",
+ "fonte": "Fonte: manuais Honda e VW, AutoPapo, Mecânica Online",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "ESQUENTAR PARADO?",
+   "nota": "Carro parado com relógio correndo; o carimbo MITO cai sobre o relógio."
+  },
+  "L02": {
+   "zona": "motor",
+   "etiqueta": "RODE DEVAGAR",
+   "fonte": "Fonte: manuais Honda City, Fit e CR-V",
+   "nota": "Manual abre; o carro anda devagar com o termômetro subindo."
+  },
+  "L03": {
+   "zona": "motor",
+   "etiqueta": "EVITE PARADO",
+   "fonte": "Fonte: manual VW Voyage 2017",
+   "nota": "Outro manual com a frase grifada (sem marca)."
+  },
+  "L04": {
+   "zona": "motor",
+   "cartao": {
+    "rotulo": "Espere ao ligar",
+    "valor": "20-30",
+    "unidade": "SEGUNDOS",
+    "detalhe": "Dica da imprensa técnica",
+    "palavra": "vinte"
+   },
+   "legenda": "Então o que vale? Ligue e espere uns 20, 30 segundos.",
+   "fonte": "Fonte: AutoPapo, partida pela manhã",
+   "nota": "Cronômetro curto ao lado da chave girando."
+  },
+  "L05": {
+   "zona": "motor",
+   "etiqueta": "ÓLEO CIRCULA",
+   "lupa": true,
+   "fonte": "Fonte: AutoPapo, partida pela manhã",
+   "nota": "Corte do motor: o óleo desce ao cárter e depois sobe pelas galerias."
+  },
+  "L06": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "MINUTOS PARADO? NÃO",
+   "nota": "Relógio longo riscado com nuvem de revisão."
+  },
+  "L07": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "SEM GIRO ALTO",
+   "fonte": "Fonte: manuais VW e Honda",
+   "nota": "Conta-giros com a faixa alta marcada em vermelho."
+  },
+  "L08": {
+   "zona": "arrefecimento",
+   "etiqueta": "PÉ LEVE",
+   "fonte": "Fonte: AutoPapo",
+   "nota": "Ponteiro da temperatura saindo do frio; pé leve no acelerador."
+  },
+  "L09": {
+   "zona": "tanque",
+   "etiqueta": "ETANOL NO FRIO",
+   "fonte": "Fonte: AutoPapo, etanol no inverno",
+   "nota": "Termômetro de rua baixo; gota de etanol; sistema de partida a frio desenhado."
+  },
+  "L10": {
+   "zona": "painel",
+   "etiqueta": "TANQUINHO DE GASOLINA",
+   "fonte": "Fonte: manual Honda City 2009; AutoPapo",
+   "nota": "Tanquinho no cofre do motor e a luz de aviso no painel."
+  },
+  "L11": {
+   "zona": "motor",
+   "etiqueta": "PARTIDA A FRIO",
+   "nota": "Sistema de partida a frio com um visto."
+  },
+  "L12": {
+   "zona": "motor",
+   "etiqueta": "RESUMO",
+   "nota": "Chave, cronômetro curto e carro saindo devagar; etiqueta RESUMO."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro no estilo do vídeo; ícones de salvar e de compartilhar acendem."
+  }
+ }
+}

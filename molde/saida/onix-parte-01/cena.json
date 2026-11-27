@@ -1,0 +1,105 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE ONIX",
+ "titulo": "FALANDO DE ONIX #1",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Vrum, 04/12/2024",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "seta": true,
+   "etiqueta": "CORREIA NO ÓLEO",
+   "nota": "Corte do motor; a correia dentada aparece mergulhada em óleo."
+  },
+  "L02": {
+   "zona": "motor",
+   "etiqueta": "RELATO DE DONOS",
+   "nota": "Corte do motor de três cilindros; selo RELATO DE DONOS aparece sobre a correia."
+  },
+  "L03": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": [
+    "PEDAÇOS ENTOPEM",
+    "BOMBA DE ÓLEO"
+   ],
+   "nota": "Fragmentos de borracha entopem a entrada da bomba de óleo."
+  },
+  "L04": {
+   "zona": "motor",
+   "cartao": {
+    "rotulo": "Queixas a partir de",
+    "valor": "50 MIL",
+    "unidade": "KM",
+    "detalhe": "Reclame Aqui, reunidas pelo Vrum",
+    "palavra": "cinquenta"
+   },
+   "legenda": "O Vrum reuniu queixas do Reclame Aqui de quebra da correia a partir de 50 mil quilômetros.",
+   "nota": "Hodômetro em cinquenta mil; correia partida."
+  },
+  "L05": {
+   "zona": "motor",
+   "etiqueta": "CAUSA NÃO FECHADA",
+   "nota": "Duas gotas de óleo e um ponto de interrogação sobre a causa."
+  },
+  "L06": {
+   "zona": "motor",
+   "etiqueta": "SEM RECALL NOTICIADO",
+   "cartao": {
+    "rotulo": "Garantia da correia",
+    "valor": "240 MIL",
+    "unidade": "KM",
+    "detalhe": "Sem limite de tempo (AutoPapo)",
+    "palavra": "duzentos"
+   },
+   "legenda": "Não houve recall noticiado. A Chevrolet estendeu a garantia da correia para 240 mil quilômetros, sem limite de tempo.",
+   "fonte": "Fonte: AutoPapo, 22/11/2024",
+   "nota": "Carimbo RECALL riscado; selo de garantia de 240 mil km."
+  },
+  "L07": {
+   "zona": "motor",
+   "etiqueta": "REVISÃO E ÓLEO",
+   "cartao": {
+    "rotulo": "Garantia vale para",
+    "valor": "2020+",
+    "unidade": "",
+    "detalhe": "Carros de 2020 em diante",
+    "palavra": "vinte"
+   },
+   "legenda": "Vale para carros de 2020 em diante, com revisões na concessionária e o óleo especificado.",
+   "nota": "Selo 2020 em diante; concessionária e frasco de óleo com visto."
+  },
+  "L08": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": [
+    "PEDAL MAIS PESADO",
+    "PERDA DE POTÊNCIA"
+   ],
+   "fonte": "Fonte: Webmotors, 18/08/2025",
+   "nota": "Pedal pesado; barra de potência cai; luzes acendem no painel."
+  },
+  "L09": {
+   "zona": "motor",
+   "etiqueta": "EXAMINE A CORREIA",
+   "nota": "Manual aberto na página do óleo; mecânico examina a correia."
+  },
+  "L10": {
+   "zona": "painel",
+   "estado": "alerta",
+   "etiqueta": "PAINEL AVISOU, PARE",
+   "nota": "Luz do painel acesa; carro encosta com segurança."
+  },
+  "L11": {
+   "zona": "motor",
+   "etiqueta": "RESUMO",
+   "legenda": "Resumindo: donos relatam problemas na correia dentada banhada a óleo, a causa não está fechada, e a Chevrolet estendeu a garantia para 240 mil quilômetros.",
+   "nota": "Os pontos principais aparecem numa lista rápida na tela."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "Botão salvar e ícone de compartilhar sobre um Onix."
+  }
+ }
+}

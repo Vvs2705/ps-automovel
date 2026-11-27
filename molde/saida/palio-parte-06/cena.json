@@ -1,0 +1,101 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE PALIO",
+ "titulo": "FALANDO DE PALIO #6",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Autopapo e Auto+ TV, 2017 e 2018",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "DESLIGA SOZINHO?",
+   "nota": "Weekend em corte; o motor apaga."
+  },
+  "L02": {
+   "zona": "motor",
+   "etiqueta": "DOIS RECALLS",
+   "nota": "Dois carimbos RECALL: bobina e relés. Selo FATO DOCUMENTADO no canto."
+  },
+  "L03": {
+   "zona": "motor",
+   "cartao": {
+    "rotulo": "Bobina, Weekend 1.6 e 1.8",
+    "valor": "2016–2017",
+    "unidade": "",
+    "detalhe": "Recall de novembro de 2017",
+    "palavra": "dezesseis"
+   },
+   "legenda": "O primeiro foi em novembro de 2017: bobina de ignição, no Weekend 1.6 e 1.8, anos 2016 e 2017.",
+   "fonte": "Fonte: Autopapo, 11/11/2017",
+   "nota": "Bobina de ignição em corte; etiqueta WEEKEND 1.6 E 1.8."
+  },
+  "L04": {
+   "zona": "motor",
+   "cartao": {
+    "rotulo": "Recall da bobina",
+    "valor": "5.800",
+    "unidade": "",
+    "detalhe": "5.802 veículos, 8 modelos",
+    "palavra": "cinco"
+   },
+   "legenda": "O recall da bobina somou cerca de 5.800 carros, de 8 modelos.",
+   "fonte": "Fonte: Auto+ TV, 10/11/2017",
+   "nota": "Contador até 5.800; oito silhuetas."
+  },
+  "L05": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": "RELÉS",
+   "legenda": "O segundo foi em junho de 2018: relés dos sistemas de ignição e de injeção, no Weekend 1.4, ano 2018.",
+   "fonte": "Fonte: Autopapo, 29/06/2018",
+   "nota": "Relés em corte; etiqueta WEEKEND 1.4 2018."
+  },
+  "L06": {
+   "zona": "motor",
+   "estado": "alerta",
+   "etiqueta": "MOTOR IRREGULAR",
+   "nota": "Gráfico de rotação falha; o motor apaga."
+  },
+  "L07": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "RISCO DE COLISÃO",
+   "nota": "Carro perde estabilidade (silhueta)."
+  },
+  "L08": {
+   "zona": "painel",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "LUZ DA BATERIA",
+   "nota": "Luz da bateria pisca; selo NÃO GARANTIDO."
+  },
+  "L09": {
+   "zona": "motor",
+   "etiqueta": "REPARO GRÁTIS",
+   "nota": "Dois relógios: 1 hora e 30 minutos."
+  },
+  "L10": {
+   "zona": "motor",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "VEJA O CHASSI",
+   "nota": "Faixa de chassi com lacunas; campo de consulta."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "CONSULTE O CHASSI",
+   "nota": "Campo de chassi e botão Consultar."
+  },
+  "L12": {
+   "zona": "motor",
+   "etiqueta": "RESUMO",
+   "nota": "O Palio inteiro em arame, com a zona do problema acesa (o motor e a bobina de ignição); a etiqueta RESUMO aparece."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

@@ -21,7 +21,7 @@ O projeto vive no GitHub: [Vvs2705/ps-automovel](https://github.com/Vvs2705/ps-a
   - `sh molde/nuvem.sh "roteiros/02-luzes-cores blueprint" serie-falando-de/carros/gol/parte-03`: exatamente estes (refaz, mesmo com `cena.json`).
   - Sem clone: no site, Actions > render > Run workflow (mesmas opções), ou `gh workflow run render.yml -R Vvs2705/ps-automovel -f pastas="..."`.
 - **O que o GitHub faz** (`.github/workflows/render.yml`): um job por vídeo, em paralelo, com `sh molde/build.sh` (voz edge-tts, render, mux, checagem). No fim, o job "juntar" deixa um artifact `videos` já no formato de `VIDEOS PRONTOS/`, um `dados-<nome>` por vídeo (srt, `cena.json`, folha, poster, log) e commita os `cena.json` novos. Artifacts expiram em 1 dia. Um lote por vez; o próximo espera.
-- **Baixar no PC** (de qualquer pasta, sem o projeto; espera o lote terminar, traz para `~/Videos/MEUS PROJETOS/Parafuso Solto/VIDEOS PRONTOS` e apaga os artifacts):
+- **Baixar no PC** (de qualquer pasta, sem o projeto; espera o lote terminar, traz para `~/Videos/MEUS PROJETOS/PS AUTOMOVEL/VIDEOS PRONTOS` e apaga os artifacts):
 
   ```bash
   gh api -H "Accept: application/vnd.github.raw" repos/Vvs2705/ps-automovel/contents/molde/baixar.sh | sh

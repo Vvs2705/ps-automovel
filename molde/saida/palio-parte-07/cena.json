@@ -1,0 +1,80 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE PALIO",
+ "titulo": "FALANDO DE PALIO #7",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Vrum, Autoo, Autopapo, Oficina Brasil",
+ "falas": {
+  "L01": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "EMBREAGEM COM PROBLEMA?",
+   "nota": "Pedal da embreagem pisado; o carro não responde."
+  },
+  "L02": {
+   "zona": "cambio",
+   "etiqueta": "VÁRIAS FONTES",
+   "nota": "Quatro cartões de fonte em volta do pedal. Selo RELATO DE DONOS no canto."
+  },
+  "L03": {
+   "zona": "cambio",
+   "etiqueta": "ATUADOR (VRUM)",
+   "fonte": "Fonte: Vrum, 14/06/2022",
+   "nota": "Atuador em corte; etiqueta 1ª GERAÇÃO."
+  },
+  "L04": {
+   "zona": "cambio",
+   "etiqueta": "SENSOR DA EMBREAGEM",
+   "fonte": "Fonte: Autopapo (dado Alfatest), 2021",
+   "nota": "Selo ALFATEST sobre o sensor do pedal."
+  },
+  "L05": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "PEDAL QUEBRA",
+   "legenda": "O Autoo, com base em reclamações de consumidores, relata pedal e cabo da embreagem quebrando em Palio Attractive 2013 e 2014, às vezes sem peça para repor.",
+   "fonte": "Fonte: Autoo, 20/09/2025",
+   "nota": "Pedal e cabo quebrados; etiqueta ATTRACTIVE 2013/14."
+  },
+  "L06": {
+   "zona": "cambio",
+   "etiqueta": "BARULHO: PLATÔ",
+   "legenda": "Um especialista ouvido pela Oficina Brasil, num Palio de 2002, diz que barulho ao acionar a embreagem costuma indicar problema no platô.",
+   "fonte": "Fonte: Oficina Brasil, 2008",
+   "nota": "Platô em corte, com um ruído marcado."
+  },
+  "L07": {
+   "zona": "carro",
+   "etiqueta": "SEM NÚMERO OFICIAL",
+   "nota": "Selo RELATO DE DONOS."
+  },
+  "L08": {
+   "zona": "cambio",
+   "estado": "alerta",
+   "etiqueta": "PEDAL QUEBRADO",
+   "fonte": "Fonte: Autoo, 20/09/2025",
+   "nota": "Pedal quebra; o carro parado no acostamento."
+  },
+  "L09": {
+   "zona": "cambio",
+   "etiqueta": "DIAGNOSTICAR ANTES",
+   "nota": "Mecânico examinando o pedal."
+  },
+  "L10": {
+   "zona": "cambio",
+   "etiqueta": "TESTE O PEDAL",
+   "nota": "Test drive; pedal pisado várias vezes."
+  },
+  "L11": {
+   "zona": "cambio",
+   "etiqueta": "RESUMO",
+   "nota": "O Palio inteiro em arame, com a zona do problema acesa (a embreagem); a etiqueta RESUMO aparece."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

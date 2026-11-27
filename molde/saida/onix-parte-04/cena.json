@@ -1,0 +1,96 @@
+{
+ "carro": "sedan",
+ "serie": "FALANDO DE ONIX",
+ "titulo": "FALANDO DE ONIX #4",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Senacon, Nota Técnica 556/2019",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "seta": true,
+   "etiqueta": "TEVE RECALL?",
+   "nota": "Onix Plus sedã em silhueta; selo de recall piscando."
+  },
+  "L02": {
+   "zona": "carro",
+   "etiqueta": "FATO DOCUMENTADO",
+   "legenda": "Em novembro de 2019, a Chevrolet fez recall do sedã Onix Plus, modelo 2020.",
+   "nota": "Linha do tempo 2019; selo FATO DOCUMENTADO sobre o Onix Plus."
+  },
+  "L03": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Carros convocados",
+    "valor": "19 MIL",
+    "unidade": "",
+    "detalhe": "Fabricados de abril a novembro de 2019",
+    "palavra": "dezenove"
+   },
+   "legenda": "Foram cerca de 19 mil carros, fabricados entre abril e novembro de 2019.",
+   "nota": "Contador sobe até 19 mil; calendário de abril a novembro."
+  },
+  "L04": {
+   "zona": "motor",
+   "etiqueta": "CALIBRAÇÃO DO MÓDULO",
+   "nota": "Módulo eletrônico do motor em destaque."
+  },
+  "L05": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "DANO AO PISTÃO",
+   "nota": "Câmara de combustão em corte; temperatura sobe; pistão racha."
+  },
+  "L06": {
+   "zona": "motor",
+   "estado": "alerta",
+   "etiqueta": "RISCO DE INCÊNDIO",
+   "nota": "Bloco do motor trinca; óleo toca peça quente."
+  },
+  "L07": {
+   "zona": "motor",
+   "etiqueta": "ATUALIZAÇÃO GRÁTIS",
+   "cartao": {
+    "rotulo": "Atualização, até",
+    "valor": "90 MIN",
+    "unidade": "",
+    "detalhe": "Software do módulo, gratuita",
+    "palavra": "noventa"
+   },
+   "legenda": "A correção é uma atualização gratuita do software do módulo, de até 90 minutos.",
+   "nota": "Barra de atualização de software chega a 100 por cento; relógio de 90 minutos."
+  },
+  "L08": {
+   "zona": "motor",
+   "cartao": {
+    "rotulo": "Atendimento desde",
+    "valor": "18/11/2019",
+    "unidade": "",
+    "detalhe": "Início do recall",
+    "palavra": "dezoito"
+   },
+   "legenda": "O atendimento começou em 18 de novembro de 2019.",
+   "nota": "Calendário em 18 de novembro de 2019."
+  },
+  "L09": {
+   "zona": "carro",
+   "etiqueta": "MOTOR NÃO CITADO",
+   "nota": "Dois motores em corte com interrogação; faixa de chassi em destaque."
+  },
+  "L10": {
+   "zona": "carro",
+   "etiqueta": "CONSULTE O CHASSI",
+   "nota": "Campo de chassi e botão Consultar; ícone gov.br."
+  },
+  "L11": {
+   "zona": "motor",
+   "etiqueta": "RESUMO",
+   "legenda": "Resumindo: a Chevrolet fez recall de cerca de 19 mil Onix Plus modelo 2020, por um defeito na calibração do módulo do motor, com correção gratuita.",
+   "nota": "Os pontos principais aparecem numa lista rápida na tela."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "Botão salvar e ícone de compartilhar sobre um Onix."
+  }
+ }
+}

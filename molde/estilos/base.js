@@ -38,7 +38,7 @@ const CAM = {   // igual ao film.js: alvo, yaw, pitch, distância
   eletrica: [-0.15, 0.45, 0, -0.62, 0.32, 5.6], escapamento: [0.2, 0.18, 0, 0.6, 0.04, 5.6], painel: [-0.38, 0.66, 0.05, -0.32, 0.3, 3.6],
   farois: [-1.2, 0.5, 0.05, -1.0, 0.16, 4.2], lanternas: [1.2, 0.6, 0.05, 1.0, 0.16, 4.2], tanque: [0.6, 0.42, 0.25, 0.45, 0.26, 4.6], estepe: [0.95, 0.4, 0, 0.8, 0.55, 4.2],
 };
-const CY = 930;
+const CY = 810;
 
 // fontes do estilo, carregadas antes do primeiro quadro: [família, arquivo em estilos/fonts/, peso]
 export async function fontes(lista) {
@@ -196,7 +196,7 @@ export function styled(S, TL, cena, dur, words, lines, AP = null) {
 
   // ---------- câmera (as zonas do film.js; nos estilos 2D o giro e a inclinação são achatados e a projeção é ortográfica) ----------
   const [KY, KP] = S.camK || [1, 1], ortho = !!S.ortho;
-  const camOf = c => ({ target: [c[0], c[1], c[2]], yaw: c[3] * KY, pitch: c[4] * KP, dist: c[5] });
+  const camOf = c => ({ target: [c[0], c[1], c[2]], yaw: c[3] * KY, pitch: c[4] * KP, dist: c[5] * 1.12 });   // ×1,12: carro menor, para caber acima das etiquetas e da legenda (y 1350)
   const camAt = t => {
     const L = lineAt(t), P = L.i ? F[BODY[L.i - 1]] : null;
     const c1 = CAM[L.zona] || CAM.carro, c0 = P ? (CAM[P.zona] || CAM.carro) : c1;
@@ -205,8 +205,8 @@ export function styled(S, TL, cena, dur, words, lines, AP = null) {
   };
   const vanState = t => { const u = seg(t, GO, DUR), dx = -3.2 * u * u; return { dx, wheel: -dx / VAN.R, pitch: -0.016 * seg(t, GO, GO + 0.2) * (1 - seg(t, GO + 0.4, GO + 1.4)), door: VAN.DOORS }; };
   const camVan = (t, dx) => {
-    const [yaw, pitch, dist] = K(t, [[O, [0.7, 0.2, 7.2]], [GO, [0.62, 0.17, 7.0]], [DUR, [0.52, 0.14, 7.4]]]);
-    return { target: [0.3 + 0.55 * dx, 0.55, 0], yaw: yaw * KY, pitch: pitch * KP, dist, fov: 0.8, cx: 540, cy: 860, ortho };
+    const [yaw, pitch, dist] = K(t, [[O, [0.7, 0.2, 7.9]], [GO, [0.62, 0.17, 7.7]], [DUR, [0.52, 0.14, 8.1]]]);
+    return { target: [0.3 + 0.55 * dx, 0.55, 0], yaw: yaw * KY, pitch: pitch * KP, dist, fov: 0.8, cx: 540, cy: 790, ortho };
   };
   const ptWorld = p => PONTOS[p] || CARM.byId[p]?.anchor || [0, 0.5, 0];
 
@@ -324,7 +324,7 @@ export function styled(S, TL, cena, dur, words, lines, AP = null) {
     txt('tagline', s, 80, y - 44, 1000, y + 12);
   };
 
-  // ---------- legenda karaokê (62 px, 2 linhas por página, termina em y = 1500; mesma caixa do film.js) ----------
+  // ---------- legenda karaokê (62 px, 2 linhas por página, termina em y = 1350; mesma caixa do film.js) ----------
   const subOf = t => {
     for (let i = 0; i < BODY.length; i++) {
       const id = BODY[i], s0 = vo[id] - 0.1, nxt = i + 1 < BODY.length ? vo[BODY[i + 1]] - 0.12 : O - 0.2;
@@ -334,7 +334,7 @@ export function styled(S, TL, cena, dur, words, lines, AP = null) {
     return null;
   };
   const SUBTEXT = id => F[id].leg || TEXT[id];
-  const SUB_W = 780, SUB_Y = 1500;
+  const SUB_W = 780, SUB_Y = 1350;
   const drawSub = (ctx, t, st) => {
     const s = subOf(t); if (!s) return;
     const list = words[s.id] || [], text = SUBTEXT(s.id);
@@ -413,7 +413,7 @@ export function styled(S, TL, cena, dur, words, lines, AP = null) {
       }
       if (L.tags.length) {
         const out = 1 - seg(t, L.b - 0.25, L.b), est = red ? 'alerta' : L.estado;
-        rows(ctx, L.tags.map((s, j) => ({ label: s, lit: t >= L.tagT[j], estado: est, a: seg(t, L.tagT[j] - 0.15, L.tagT[j] + 0.1) * out, k: seg(t, L.tagT[j] - 0.1, L.tagT[j] + 0.25) })), 1226);
+        rows(ctx, L.tags.map((s, j) => ({ label: s, lit: t >= L.tagT[j], estado: est, a: seg(t, L.tagT[j] - 0.15, L.tagT[j] + 0.1) * out, k: seg(t, L.tagT[j] - 0.1, L.tagT[j] + 0.25) })), 1076);
       }
       const top = 1 - seg(t, O - 0.6, O - 0.3);
       if (cena.titulo) plateText(ctx, 'titulo', cena.titulo, 110, 128, 56, S.font.titulo, (BODY.length > 1 ? 1 - seg(t, F[BODY[1]].a - 0.2, F[BODY[1]].a) : 1) * top, { k: seg(t, 0.1, 0.6) });
@@ -435,9 +435,9 @@ export function styled(S, TL, cena, dur, words, lines, AP = null) {
       S.estrada?.(ctx, geo(ROAD, cam), st);
       S.van(ctx, geo(VANM, cam, { only: ['furgao', 'luzes', 'rodas', door, 'carga'], explode: { furgao: vs.dx, luzes: vs.dx, rodas: vs.dx, carga: vs.dx, [door]: vs.dx }, angle }), st);
       vanName(ctx, cam, vs, seg(t, O + 0.2, CLACK));
-      tagline(ctx, seg(t, slogan, sloganEnd), 1330);
+      tagline(ctx, seg(t, slogan, sloganEnd), 1180);
       const ia = seg(t, GO, GO + 0.3);
-      if (ia > 0) rows(ctx, [{ label: 'INSCREVA-SE', lit: true, kind: 'inscreva', a: ia, k: seg(t, GO, GO + 0.35) }], 1385);
+      if (ia > 0) rows(ctx, [{ label: 'INSCREVA-SE', lit: true, kind: 'inscreva', a: ia, k: seg(t, GO, GO + 0.35) }], 1240);
       status = t < GO ? 'RESGATE · CARREGADO' : 'RESGATE · EM ROTA';
       S.post?.(ctx, t, st);
     }

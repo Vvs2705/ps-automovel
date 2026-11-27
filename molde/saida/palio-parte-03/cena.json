@@ -1,0 +1,111 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE PALIO",
+ "titulo": "FALANDO DE PALIO #3",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Istoé Dinheiro (2017), Motor Show (2018)",
+ "falas": {
+  "L01": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "DESLIGA ANDANDO?",
+   "nota": "Painel do Palio; o motor apaga em movimento."
+  },
+  "L02": {
+   "zona": "eletrica",
+   "etiqueta": "DOIS RECALLS",
+   "legenda": "A Fiat fez dois recalls de alternador que incluíram o Palio, nos anos 2016 e 2017.",
+   "nota": "Dois carimbos RECALL sobre um alternador em corte. Selo FATO DOCUMENTADO no canto."
+  },
+  "L03": {
+   "zona": "eletrica",
+   "cartao": {
+    "rotulo": "Recall de maio de 2017",
+    "valor": "70.740",
+    "unidade": "",
+    "detalhe": "13 modelos",
+    "palavra": "mil"
+   },
+   "legenda": "O primeiro foi em maio de 2017: 70.740 carros, de 13 modelos.",
+   "fonte": "Fonte: Istoé Dinheiro, 22/05/2017",
+   "nota": "Contador sobe até 70.740; treze silhuetas."
+  },
+  "L04": {
+   "zona": "eletrica",
+   "etiqueta": [
+    "NOVO PALIO",
+    "PALIO FIRE",
+    "WEEKEND E SIENA"
+   ],
+   "nota": "Quatro silhuetas acendem na lista."
+  },
+  "L05": {
+   "zona": "eletrica",
+   "cartao": {
+    "rotulo": "Recall de março de 2018",
+    "valor": "15.534",
+    "unidade": "",
+    "detalhe": "Motores Fire 1.0 e 1.4",
+    "palavra": "mil"
+   },
+   "legenda": "O segundo foi em março de 2018: 15.534 carros com motores Fire 1.0 e 1.4.",
+   "fonte": "Fonte: Motor Show, 09/03/2018",
+   "nota": "Contador sobe até 15.534; etiqueta FIRE 1.0 e 1.4."
+  },
+  "L06": {
+   "zona": "eletrica",
+   "cartao": {
+    "rotulo": "Novo Palio nesse lote",
+    "valor": "8.373",
+    "unidade": "",
+    "detalhe": "Recall de março de 2018",
+    "palavra": "mil"
+   },
+   "legenda": "Desse lote, o Novo Palio teve 8.373 carros.",
+   "nota": "Barra do Novo Palio no gráfico: 8.373."
+  },
+  "L07": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": "ALTERNADOR FALHA",
+   "nota": "Alternador em corte; o motor apaga."
+  },
+  "L08": {
+   "zona": "eletrica",
+   "estado": "alerta",
+   "etiqueta": "RISCO DE COLISÃO",
+   "nota": "Carro perde o controle numa curva (silhueta)."
+  },
+  "L09": {
+   "zona": "painel",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "LUZ DA BATERIA",
+   "fonte": "Fonte: Mecânica Online, 09/03/2018",
+   "nota": "Luz da bateria acende no painel."
+  },
+  "L10": {
+   "zona": "eletrica",
+   "etiqueta": "GRÁTIS, 1 HORA",
+   "nota": "Relógio de uma hora; selo GRÁTIS."
+  },
+  "L11": {
+   "zona": "carro",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "CONSULTE O CHASSI",
+   "nota": "Campo de chassi e botão Consultar."
+  },
+  "L12": {
+   "zona": "eletrica",
+   "etiqueta": "RESUMO",
+   "nota": "O Palio inteiro em arame, com a zona do problema acesa (o alternador); a etiqueta RESUMO aparece."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

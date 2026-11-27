@@ -1,0 +1,73 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE HB20",
+ "titulo": "FALANDO DE HB20 #5",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Autoo, 12/09/2026",
+ "falas": {
+  "L01": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "MARCADOR MENTINDO?",
+   "nota": "Ponteiro do marcador em ¼ enquanto o tanque está cheio."
+  },
+  "L02": {
+   "zona": "painel",
+   "etiqueta": "MARCADOR IMPRECISO",
+   "nota": "Painel do HB20; ponteiro oscilando."
+  },
+  "L03": {
+   "zona": "tanque",
+   "etiqueta": "BOIA OU BOMBA",
+   "nota": "Boia dentro do tanque em corte; bomba ao lado."
+  },
+  "L04": {
+   "zona": "tanque",
+   "etiqueta": "BOIA OU SENSOR",
+   "nota": "Setas para boia e sensor da bomba."
+  },
+  "L05": {
+   "zona": "painel",
+   "cartao": {
+    "rotulo": "Queixas no Vrum",
+    "valor": "2025",
+    "unidade": "",
+    "detalhe": "Sem o ano do carro",
+    "palavra": "cinco"
+   },
+   "legenda": "Em janeiro de 2025, o Vrum registrou queixas de falhas no indicador de combustível, sem dizer o ano do carro.",
+   "nota": "Recorte de reportagem de janeiro de 2025; ano do carro em branco."
+  },
+  "L06": {
+   "zona": "carro",
+   "etiqueta": "SEM COMUNICADO OFICIAL",
+   "nota": "Selo SEM RECALL; sem alerta de risco."
+  },
+  "L07": {
+   "zona": "painel",
+   "etiqueta": "TESTE O MARCADOR",
+   "nota": "Frentista abastece; ponteiro sobe junto."
+  },
+  "L08": {
+   "zona": "tanque",
+   "etiqueta": "ANOTE OS KM",
+   "nota": "Hodômetro parcial zerado no abastecimento; bloco de notas."
+  },
+  "L09": {
+   "zona": "carro",
+   "etiqueta": "RELATO, SEM NÚMERO",
+   "nota": "Carimbo RELATO RECORRENTE."
+  },
+  "L10": {
+   "zona": "painel",
+   "etiqueta": "RESUMO",
+   "nota": "O HB20 inteiro em arame, com a zona do problema acesa (o tanque e o marcador de combustível); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "legenda": "Se esse vídeo te ajudou, salve e mande para quem tem um HB20.",
+   "nota": "O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

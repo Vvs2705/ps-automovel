@@ -121,14 +121,14 @@ Avisos do `cena.json` (zona que não existe, etiqueta com mais de 3 palavras, va
 | 128–236 | título, depois selo (34 px) e fonte (30 px) |
 | 242–610 | cartão (valor 130 px, rótulo 40 px, detalhe 34 px) ou lupa |
 | 626–850 | nomes dos pontos marcados (34 px), nas laterais |
-| ~600–1250 | carro de arame (alvo da câmera em y 930) |
-| 1150–1288 | etiquetas (34 px, 1 ou 2 fileiras) |
-| 1354–1500 | legenda karaokê, 62 px, peso 600, até 2 linhas, x entre 130 e 910 |
-| 620–1140 | apresentador grande na 1ª fala (x 30–530; o carro vai 250 px para a direita) |
-| 890–1140 | apresentador pequeno na explicação (x 20–260) |
+| ~520–1100 | carro de arame (alvo da câmera em y 810, 12% menor que até 2026-11-27) |
+| 1000–1138 | etiquetas (34 px, 1 ou 2 fileiras) |
+| 1204–1350 | legenda karaokê, 62 px, peso 600, até 2 linhas, x entre 130 e 910 (acima da faixa que o Shorts/TikTok cobre) |
+| 616–990 | apresentador grande na 1ª fala (x 30–390; o carro vai 250 px para a direita) |
+| 782–990 | apresentador pequeno na explicação (x 20–220) |
 | 158–636 | apresentador grande no final, sobre a ambulância (x 310–770) |
 
-A checagem (`tools/checar.mjs`) percorre o vídeo a cada 0,1 s e acusa caixas de texto a menos de 6 px uma da outra, legenda fora de y 1350–1500 ou x 130–910 e painel abaixo de y 1316. A janela do apresentador (e a mão quando ele aponta) entra na checagem como uma caixa.
+A checagem (`tools/checar.mjs`) percorre o vídeo a cada 0,1 s e acusa caixas de texto a menos de 6 px uma da outra, legenda fora de y 1200–1350 ou x 130–910 e painel abaixo de y 1166. A janela do apresentador (e a mão quando ele aponta) entra na checagem como uma caixa.
 
 ## Arquivos do molde
 

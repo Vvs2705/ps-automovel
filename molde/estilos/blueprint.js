@@ -83,7 +83,7 @@ const S = {
       ctx.strokeStyle = foco ? col : br(0.9 * a); ctx.lineWidth = foco ? lerp(2.2, 3.6, k) : 2.1; ctx.stroke(near);
     }
     // ponta da pena no desenho entrando
-    if (!st.lupa && st.entra < 1 && st.entra > 0) { ctx.fillStyle = '#fff'; ctx.beginPath(); ctx.arc(cut, 930 + 120 * Math.sin(st.t * 9), 5, 0, TAU); ctx.fill(); }
+    if (!st.lupa && st.entra < 1 && st.entra > 0) { ctx.fillStyle = '#fff'; ctx.beginPath(); ctx.arc(cut, 810 + 120 * Math.sin(st.t * 9), 5, 0, TAU); ctx.fill(); }
     ctx.restore();
   },
   alvo(ctx, bb, a, st) {

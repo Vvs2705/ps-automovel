@@ -5,9 +5,15 @@
 set -e
 F=$HOME/ffmpeg   # o Ubuntu 24.04 traz ffmpeg 6.1; a biblioteca pede 7+
 if [ ! -x "$F/ffmpeg" ]; then
-  mkdir -p "$F"
-  curl -fsSL https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz |
-    tar -xJ -C "$F" --strip-components=1 --wildcards '*/ffmpeg' '*/ffprobe'
+  mkdir -p "$F"; T=$(mktemp)
+  # 1º johnvansickle (estático 7.x); se vier quebrado (em 2026-11-27 não veio um .xz), BtbN master (7+), release do GitHub
+  if curl -fsSL -o "$T" https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz && xz -t "$T" 2>/dev/null; then
+    tar -xJf "$T" -C "$F" --strip-components=1 --wildcards '*/ffmpeg' '*/ffprobe'
+  else
+    curl -fsSL -o "$T" https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz
+    tar -xJf "$T" -C "$F" --strip-components=2 --wildcards '*/bin/ffmpeg' '*/bin/ffprobe'
+  fi
+  rm -f "$T"
 fi
 export PATH=$F:$PATH; echo "$F" >> "$GITHUB_PATH"
 L=$HOME/lemo-opuscar

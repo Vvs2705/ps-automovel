@@ -1,0 +1,96 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE PALIO",
+ "titulo": "FALANDO DE PALIO #5",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Istoé Dinheiro e iCarros, 29/07/2013",
+ "falas": {
+  "L01": {
+   "zona": "carroceria",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "CINTO: CONFERIU?",
+   "nota": "Cinto de segurança dianteiro sendo afivelado."
+  },
+  "L02": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Recall de julho",
+    "valor": "2013",
+    "unidade": "",
+    "detalhe": "Palio Fire e Strada Fire",
+    "palavra": "treze"
+   },
+   "legenda": "Em julho de 2013, a Fiat fez recall do Palio Fire e da Strada Fire.",
+   "nota": "Carimbo RECALL, 07/2013. Selo FATO DOCUMENTADO no canto."
+  },
+  "L03": {
+   "zona": "carroceria",
+   "cartao": {
+    "rotulo": "Anos dos carros",
+    "valor": "2012–2013",
+    "unidade": "",
+    "detalhe": "Versões com airbags duplos",
+    "palavra": "doze"
+   },
+   "legenda": "Eram carros dos anos 2012 e 2013, com airbags duplos.",
+   "nota": "Silhuetas com 2012 e 2013 e dois airbags."
+  },
+  "L04": {
+   "zona": "carroceria",
+   "cartao": {
+    "rotulo": "Total aproximado",
+    "valor": "+3 MIL",
+    "unidade": "",
+    "detalhe": "iCarros: 3.029 veículos",
+    "palavra": "três"
+   },
+   "nota": "Contador sobe até 3 mil."
+  },
+  "L05": {
+   "zona": "carroceria",
+   "estado": "atencao",
+   "etiqueta": "FECHO DO CINTO",
+   "nota": "Fecho do cinto em corte, com uma trinca."
+  },
+  "L06": {
+   "zona": "carroceria",
+   "estado": "alerta",
+   "etiqueta": "RISCO NA BATIDA",
+   "nota": "Batida; fecho solta e o ocupante vai à frente."
+  },
+  "L07": {
+   "zona": "carroceria",
+   "etiqueta": "SEM OCORRÊNCIA",
+   "nota": "Selo SEM OCORRÊNCIA RELATADA."
+  },
+  "L08": {
+   "zona": "carroceria",
+   "etiqueta": "TROCA GRÁTIS",
+   "nota": "Fecho novo encaixa; selo GRÁTIS."
+  },
+  "L09": {
+   "zona": "carro",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "CONSULTE O CHASSI",
+   "nota": "Campo de chassi e botão Consultar."
+  },
+  "L10": {
+   "zona": "carroceria",
+   "estado": "atencao",
+   "etiqueta": "CINTO SEM TRAVAR",
+   "nota": "Cinto que não trava; oficina."
+  },
+  "L11": {
+   "zona": "carroceria",
+   "etiqueta": "RESUMO",
+   "nota": "O Palio inteiro em arame, com a zona do problema acesa (o cinto de segurança dianteiro); a etiqueta RESUMO aparece."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

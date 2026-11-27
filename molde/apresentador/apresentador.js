@@ -284,10 +284,10 @@ export function desenhaNaJanela(g, B, p, personagem = 'mecanico', a = 1) {
 
 // ---------- diretor ----------
 // janelas na tela 1080×1920: [x0, y1 (base), largura]; altura = 1,04 × largura. Faixas: ACESSIBILIDADE.md.
-//   gancho: grande à esquerda, entre o cartão (termina em y 610) e as etiquetas (começam em y 1150); o carro vai 250 px para a direita.
+//   gancho: grande à esquerda, entre o cartão (termina em y 610) e as etiquetas (começam em y 1000); o carro vai 250 px para a direita.
 //   canto:  pequeno no canto esquerdo, entre os nomes dos pontos marcados (até y 840 com 3 pontos) e as etiquetas.
 //   final:  grande no alto (abaixo do canto do HUD, y 110), sobre a ambulância com o nome PS AUTOMÓVEL, o slogan e o INSCREVA-SE.
-export const SLOTS = { gancho: [30, 1140, 500], canto: [20, 1140, 240], final: [310, 636, 460] };
+export const SLOTS = { gancho: [30, 990, 360], canto: [20, 990, 200], final: [310, 636, 460] };
 export const DX_GANCHO = 250;
 const VIS = { A: [1, 1, 0.12], E: [1.12, 0.62, 0], I: [1.18, 0.4, 0], O: [0.66, 0.86, 1], U: [0.46, 0.56, 1], M: [0.86, 0, 0], R: [0.95, 0, 0] };
 export const EXPR = {
@@ -353,7 +353,7 @@ export function makeApresentador({ TL, labios, cena = {}, personagem = 'mecanico
     let ang = -0.3;
     if (G?.tipo === 'aponta') {                                  // mão e olhar vão para o carro (centro da câmera), depois o olhar volta para quem assiste
       const Sx = B.x0 + B.w / 2 + 186 * s, Sy = B.y1 - 150 * s;
-      ang = clamp(Math.atan2(930 - Sy, 540 + dx(t) - Sx), -1.1, 0.45);
+      ang = clamp(Math.atan2(810 - Sy, 540 + dx(t) - Sx), -1.1, 0.45);
       const kg = seg(tb, G.a, G.a + 0.2) * (1 - seg(tb, G.a + 0.9, G.a + 1.15));
       gaze = [lerp(gaze[0], Math.cos(ang) * 0.9, kg), lerp(gaze[1], Math.sin(ang) * 0.6, kg)];
     }

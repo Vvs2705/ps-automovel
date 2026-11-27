@@ -1,0 +1,48 @@
+# FACTS · Misturar etanol e gasolina no tanque do carro flex estraga?
+
+> Pesquisa do lote 1 (2026-11-27). Trechos devolvidos pelo leitor automático de páginas (WebFetch), que pode cortar ou resumir: abra o link e confira antes de pôr qualquer trecho entre aspas na tela.
+
+Acesso: 2026-11-27. Como foi lido: WebFetch em cada URL. Páginas HTML convertidas para texto; os manuais (Honda Fit 2020, Fiat Toro 2023) foram lidos em PDF pelo WebFetch, só nos trechos que o leitor devolveu (o capítulo de abastecimento completo do manual Honda, p. 4-31/4-32, não veio no trecho lido). Trechos de comentários de leitores das páginas NÃO foram usados como fonte.
+
+| # | Afirmação (frase que dá para falar) | Fonte (URL completo + página/seção) | Acesso | Tipo | Trecho literal |
+|---|---|---|---|---|---|
+| 1 | O carro flex foi projetado para rodar com etanol, gasolina ou qualquer mistura dos dois. | https://www.honda.com.br/pos-venda/automoveis/sites/customer_service/files/2020-08/Fit%202020%20-%20Manual%20do%20propriet%C3%A1rio_20200805.pdf (manual do proprietário, "Informações Gerais", página sem número) | 2026-11-27 | oficial/fabricante (manual de montadora) | "funcionar com etanol, gasolina ou a mistura dos dois combustíveis em qualquer proporção." |
+| 2 | Outro manual de montadora diz a mesma coisa: gasolina ou etanol, em qualquer proporção. | https://servicos.fiat.com.br/content/dam/fiat/products/handbooks/226/2023/handbook-toro-2023_2023.pdf (seção "Abastecimento de combustível", p. A-1) | 2026-11-27 | oficial/fabricante (manual de montadora) | "reabastecer o veículo apenas com Gasolina sem chumbo, tipo C ou etanol etílico hidratado combustível em qualquer proporção." |
+| 3 | A Bosch, que fabrica sistemas de injeção flex, diz que o sistema funciona com gasolina, etanol puro ou qualquer mistura. | https://www.bosch-mobility.com/en/solutions/powertrain/flex-fuel (página "Flex fuel") | 2026-11-27 | fabricante de peça | "Flex fuel vehicles have an injection system that can be operated with gasoline, with any mixture ratio of gasoline and ethanol, or with pure ethanol." |
+| 4 | Não precisa esperar o tanque esvaziar para trocar de combustível: isso é mito. | https://autopapo.com.br/blog-do-boris/carro-flex-precisa-esvaziar-o-tanque-para-trocar-o-combustivel/ (Boris Feldman, 25/11/2025) | 2026-11-27 | imprensa especializada | "Tem algum fundamento essa informação? Nada, zero!" / "foi projetado para rodar com qualquer combustível em qualquer proporção" |
+| 5 | O carro descobre o que tem no tanque por um sensor no escapamento, a sonda lambda, que mede o oxigênio depois da queima. | https://autopapo.com.br/blog-do-boris/alternar-o-combustivel-flex-tanque-vazio/ (Boris Feldman, 14/09/2018) + https://autopapo.com.br/noticia/flex-nao-reconhece-combustivel/ (Alexandre Carneiro, 22/09/2018) | 2026-11-27 | imprensa especializada | "um sensor no escapamento que identifica o combustível que está chegando no motor" / "A sonda Lambda mede a quantidade de oxigênio presente após a queima" |
+| 6 | Com base nessa leitura, a central eletrônica ajusta a injeção ao teor de etanol. | https://www.bosch-mobility.com/en/solutions/powertrain/flex-fuel (página "Flex fuel") | 2026-11-27 | fabricante de peça | "Interconnected system components detect the ethanol content with high precision" |
+| 7 | Em carros atuais, a adaptação depois de trocar de combustível é rápida, de poucos minutos rodando. | https://autopapo.com.br/noticia/flex-nao-reconhece-combustivel/ (fala atribuída à Renault, 22/09/2018) | 2026-11-27 | imprensa especializada (citando montadora) | "não leva mais do que 3 minutos" |
+| 8 | Se desligar logo depois de abastecer, nada se perde: a adaptação recomeça sozinha quando o carro é ligado. | https://autopapo.com.br/noticia/flex-nao-reconhece-combustivel/ (fala atribuída à SAE Brasil) | 2026-11-27 | imprensa especializada (citando entidade técnica) | "assim que o veículo for religado, ele recomeçará automaticamente" |
+| 9 | Sintoma possível: em carro mais antigo, trocar de gasolina para etanol e ligar na manhã fria seguinte pode dar partida difícil. O contrário não. | https://autopapo.com.br/blog-do-boris/alternar-o-combustivel-no-flex-partida/ (Boris Feldman, 05/10/2018) | 2026-11-27 | imprensa especializada | "alternar o combustível é um problema que só acontece quando se muda da gasolina para o etanol, e não vice-versa." |
+| 10 | Causa: o etanol pega mal no frio; por isso o flex usa estratégia de partida a frio (tanquinho de gasolina ou aquecimento do combustível). | https://www.bosch-mobility.com/en/solutions/powertrain/flex-fuel (página "Flex fuel") | 2026-11-27 | fabricante de peça | "ethanol is difficult to ignite at temperatures below 13 °C" |
+| 11 | Misturar no flex não traz problema mecânico relevante. Uma fonte sugere, por consumo, trocar aos poucos ou manter o mesmo combustível. | https://www.vrum.com.br/aceleradas/2025/02/7048061-misturar-gasolina-e-etanol-no-tanque-pode-dar-problema-entenda.html (Portal Vrum, 01/02/2025) | 2026-11-27 | imprensa especializada | "misturar gasolina e etanol não traz grandes problemas mecânicos" / "O ideal é trocar gradualmente o combustível ou completar o tanque sempre com a mesma opção." |
+| 12 | Não faça: colocar etanol em carro que NÃO é flex. Aí sim dá problema de partida e falha. | https://www.vrum.com.br/aceleradas/2025/02/7048061-misturar-gasolina-e-etanol-no-tanque-pode-dar-problema-entenda.html | 2026-11-27 | imprensa especializada | "irão ter dificuldades para dar partida e ter falhas na ignição se forem abastecidos com etanol" |
+| 13 | Varia por carro: manuais de alguns motores turbo pedem, para quem só usa etanol, um tanque cheio de gasolina a cada 10 mil km. | https://servicos.fiat.com.br/content/dam/fiat/products/handbooks/226/2023/handbook-toro-2023_2023.pdf (p. A-1, advertência motor turbo) + https://autopapo.com.br/noticia/alternar-combustivel-motor-flex/ (Eduardo Rodrigues, 25/03/2025, trecho de manual de outra montadora) | 2026-11-27 | oficial/fabricante + imprensa especializada | "é recomendado o abastecimento completo do tanque de combustível com gasolina (no mínimo um tanque) a cada 10.000 km" / "é recomendado que a cada 10.000 km o veículo seja abastecido com, pelo menos, um tanque completo de Gasolina." |
+| 14 | Quando ir à oficina: se o flex falha ou não reconhece o combustível, o defeito costuma ser de sensor ou central, não da mistura. | https://autopapo.com.br/blog-do-boris/gasolina-etanol-misturados-carro-flex/ (Boris Feldman, 23/08/2019) | 2026-11-27 | imprensa especializada | "por alguma deficiência do sensor da sonda lambda lá no escapamento" |
+
+## Divergências entre fontes
+- **Rodar depois de trocar de combustível.** Pela AutoPapo (Carneiro, 2018), a Renault diz que a adaptação leva no máximo 3 minutos; a mesma matéria diz que em carros antigos se recomendava cerca de 10 km ou 15 minutos, e que parado pode levar até cinco vezes mais. Boris Feldman (AutoPapo, 2018) chama a recomendação de rodar quilômetros de exagero e diz que só afeta carros antigos, na troca de gasolina para etanol. Não achei, nos trechos de manual que li, um número de km ou minutos. **A fala não deve citar número; deve mandar conferir o manual.**
+- **Misturar à vontade ou manter um só combustível.** AutoPapo (Boris, 2019 e 2025): pode misturar em qualquer proporção, "vá em frente". Vrum (2025): não dá problema mecânico, mas trocar com o tanque quase cheio "pode desregular o consumo", e sugere trocar aos poucos ou usar sempre o mesmo. Nenhuma das duas mostra medição. Uma concessionária citada pela AutoPapo (2018) recomendava trocar só com o tanque quase vazio, e o colunista discorda.
+- **Como o flex detecta o etanol.** A AutoPapo atribui tudo à sonda lambda. A Bosch fala só em "componentes interconectados", sem dizer que é só a sonda. Na fala, dizer "sensor no escapamento e central eletrônica" sem detalhar além disso.
+- **Recomendação periódica de gasolina (turbo).** Existe em manuais de alguns motores turbo de três grupos de montadoras e falta em outros (segundo a AutoPapo, 2025). Não é regra geral do flex.
+
+## Varia por carro
+- Se o manual pede tanque de gasolina periódico (alguns motores turbo/injeção direta, a cada 10.000 km) ou não.
+- Sistema de partida a frio: tanquinho de gasolina (carros mais antigos) ou aquecimento do combustível no rail (Bosch "Flexstart"). Se tiver tanquinho, a manutenção dele está no manual.
+- Tempo de adaptação após trocar de combustível: depende do sistema e da idade do carro.
+- O manual também indica qual gasolina o carro aceita (comum/aditivada/premium).
+→ Na fala: "Confira no manual do seu carro."
+
+## Cuidados de segurança (o que o narrador deve dizer, e o que não deve)
+- DIZER: isso vale só para carro **flex**. Confira no manual, no adesivo ou na tampa do tanque se o seu é flex. Carro só a gasolina com etanol, ou só a etanol com gasolina, pode falhar e ter dano.
+- DIZER: se abasteceu errado um carro que não é flex, evite rodar e procure uma oficina para drenar o tanque (Vrum, 2025).
+- DIZER: falha constante, luz de injeção acesa ou partida difícil que não passa = oficina para checar sensor/central.
+- NÃO DIZER: um número fixo de km/minutos "obrigatório" após abastecer (fontes divergem).
+- NÃO DIZER: "50/50 é a proporção ideal" ou que misturar "rende mais" (nenhuma fonte lida sustenta isso).
+- NÃO incentivar o espectador a mexer em sensor ou chicote, nem desligar a luz de injeção.
+- Não citar marcas de carro: dizer "manuais de montadoras".
+
+## Gancho sugerido e mito comum
+- Gancho (≤10 palavras): "Seu carro flex foi feito para misturar. Sem medo."
+- Mito: "Só pode trocar de combustível com o tanque vazio." Falso, segundo os manuais lidos ("em qualquer proporção") e a AutoPapo ("Nada, zero!").

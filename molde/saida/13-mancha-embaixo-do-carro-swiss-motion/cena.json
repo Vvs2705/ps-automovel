@@ -1,0 +1,110 @@
+{
+ "estilo": "swiss-motion",
+ "carro": "hatch",
+ "serie": "MANCHA EMBAIXO DO CARRO",
+ "fonte": "Fonte: manuais de montadoras, Motul, TotalEnergies",
+ "falas": {
+  "L01": {
+   "zona": "carro",
+   "estado": "atencao",
+   "etiqueta": "COR DÁ PISTA",
+   "nota": "Carro de arame visto de lado; uma poça se espalha no chão e quatro amostras de cor (marrom, rosa, vermelho, verde) acendem em volta dela."
+  },
+  "L02": {
+   "zona": "carroceria",
+   "etiqueta": [
+    "ÁGUA LIMPA",
+    "AR-CONDICIONADO"
+   ],
+   "nota": "Gotas claras em ciano caem de um tubinho sob a cabine do carro; um selo \"normal\" pisca ao lado."
+  },
+  "L03": {
+   "zona": "carro",
+   "etiqueta": [
+    "PAPELÃO LIMPO",
+    "OU PANO BRANCO"
+   ],
+   "nota": "Carro parado; um retângulo branco desliza para o chão sob ele e uma mancha aparece sobre o branco."
+  },
+  "L04": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "ÓLEO DO MOTOR",
+   "nota": "Corte do motor; gotas âmbar escuras caem do cárter e formam, no papel, manchas em degradê de marrom claro a preto."
+  },
+  "L05": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": [
+    "ARREFECIMENTO",
+    "COR VARIA"
+   ],
+   "nota": "Frente do carro com radiador e mangueiras; gotas verdes, rosas e laranjas caem; três frascos de cores diferentes têm um \"?\" no rótulo."
+  },
+  "L06": {
+   "zona": "arrefecimento",
+   "estado": "alerta",
+   "etiqueta": "NÃO ABRA QUENTE",
+   "nota": "Reservatório com a tampa fechada e vapor vermelho em volta; um símbolo de proibido se acende sobre a tampa."
+  },
+  "L07": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": [
+    "DIREÇÃO HIDRÁULICA",
+    "FLUIDO AVERMELHADO"
+   ],
+   "nota": "Corte da caixa de direção, na frente do carro; gotas de tom avermelhado pingam dela no chão."
+  },
+  "L08": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": "FLUIDO DE FREIO",
+   "nota": "Roda de arame com a pinça de freio; gotas caem junto à roda, e uma faixa de cor vai de transparente a marrom escuro."
+  },
+  "L09": {
+   "zona": "freios",
+   "estado": "alerta",
+   "etiqueta": [
+    "NÍVEL BAIXO",
+    "PARE COM SEGURANÇA"
+   ],
+   "nota": "Reservatório de freio com o nível descendo abaixo da marca MIN; uma luz de freio acende em vermelho no painel."
+  },
+  "L10": {
+   "zona": "carro",
+   "estado": "alerta",
+   "etiqueta": "NÃO SIGA VIAGEM",
+   "nota": "O carro de arame para no acostamento com um sinal de pare vermelho; um guincho de arame chega e engata o carro."
+  },
+  "L11": {
+   "zona": "tanque",
+   "estado": "alerta",
+   "etiqueta": [
+    "RISCO DE INCÊNDIO",
+    "NÃO DIRIJA"
+   ],
+   "nota": "Corte do tanque com gotas e vapor em volta; um ícone de chama de arame pisca em vermelho sobre o carro parado."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "COR SÓ AJUDA",
+   "nota": "Paleta de amostras de cor com um \"?\" no centro; um relógio escurece lentamente uma das amostras."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "OFICINA DE CONFIANÇA",
+   "nota": "O manual abre num capítulo de manutenção; ao lado, mecânico holográfico sem rosto trabalha na roda (nenhuma pessoa real)."
+  },
+  "L14": {
+   "zona": "carro",
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (a parte de baixo do carro); a etiqueta RESUMO aparece."
+  },
+  "L15": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

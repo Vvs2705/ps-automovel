@@ -1,0 +1,89 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE ONIX",
+ "titulo": "FALANDO DE ONIX #3",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Quatro Rodas, 14/12/2020",
+ "falas": {
+  "L01": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "DIREÇÃO ENDURECEU?",
+   "nota": "Volante gira e, de repente, trava; ícone de direção pesada."
+  },
+  "L02": {
+   "zona": "eletrica",
+   "etiqueta": "FATO DOCUMENTADO",
+   "cartao": {
+    "rotulo": "Boletim de ação de campo",
+    "valor": "DEZ/2020",
+    "unidade": "",
+    "detalhe": "Para Onix, Onix Plus e Tracker",
+    "palavra": "dezembro"
+   },
+   "legenda": "Em dezembro de 2020, a rede Chevrolet recebeu um boletim de ação de campo para Onix, Onix Plus e Tracker.",
+   "nota": "Boletim chega às concessionárias; selo FATO DOCUMENTADO."
+  },
+  "L03": {
+   "zona": "eletrica",
+   "etiqueta": "SOFTWARE DA DIREÇÃO",
+   "nota": "Módulo da direção em corte; barra de software reinicia."
+  },
+  "L04": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": "RELATO DE DONOS",
+   "nota": "Mãos no volante em curva; resistência aumenta de repente."
+  },
+  "L05": {
+   "zona": "eletrica",
+   "etiqueta": "REPROGRAMAÇÃO GRÁTIS",
+   "nota": "Notebook de diagnóstico conectado ao carro; selo GRÁTIS."
+  },
+  "L06": {
+   "zona": "eletrica",
+   "etiqueta": "VERIFICAR E ATUALIZAR",
+   "nota": "Texto do comunicado em destaque: verificar e atualizar."
+  },
+  "L07": {
+   "zona": "eletrica",
+   "etiqueta": "NÃO PROTOCOLADO",
+   "nota": "Carimbo RECALL com a legenda protocolado, riscado; carro entra na oficina."
+  },
+  "L08": {
+   "zona": "eletrica",
+   "etiqueta": "NEM SEMPRE RESOLVE",
+   "nota": "Três vistos e um X sobre quatro volantes."
+  },
+  "L09": {
+   "zona": "carro",
+   "etiqueta": "CHASSI 20/21",
+   "cartao": {
+    "rotulo": "Faixas de chassi dos modelos",
+    "valor": "2020/2021",
+    "unidade": "",
+    "detalhe": "Onix, Onix Plus e Tracker",
+    "palavra": "vinte"
+   },
+   "legenda": "Os comunicados trazem faixas de chassi dos modelos de 2020 e de 2021.",
+   "nota": "Faixas de chassi sobre silhuetas de Onix, Onix Plus e Tracker."
+  },
+  "L10": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": "REDUZA COM CALMA",
+   "nota": "Velocímetro cai devagar; carro encosta com segurança."
+  },
+  "L11": {
+   "zona": "eletrica",
+   "etiqueta": "RESUMO",
+   "nota": "Os pontos principais aparecem numa lista rápida na tela."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "Botão salvar e ícone de compartilhar sobre um Onix."
+  }
+ }
+}

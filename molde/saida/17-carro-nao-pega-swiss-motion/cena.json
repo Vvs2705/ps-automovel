@@ -1,0 +1,114 @@
+{
+ "estilo": "swiss-motion",
+ "carro": "hatch",
+ "serie": "CARRO NÃO PEGA",
+ "fonte": "Fonte: Moura, Heliar, manuais Kia e Hyundai",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "etiqueta": "SOM DÁ PISTA",
+   "nota": "Painel de arame com a chave girando; ondas de som saem do capô e formam um \"?\" laranja."
+  },
+  "L02": {
+   "zona": "cambio",
+   "etiqueta": [
+    "EMBREAGEM PISADA",
+    "ESTACIONAMENTO OU NEUTRO"
+   ],
+   "nota": "Pedal de embreagem em arame afunda; ao lado, a alavanca do automático passa por P e N e acende em ciano."
+  },
+  "L03": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": [
+    "BATERIA DESCARREGADA",
+    "TERMINAIS SOLTOS"
+   ],
+   "nota": "Painel com luzes fracas, faróis de arame com brilho reduzido e uma onda sonora quase plana com pequenos estalos; a bateria acende em laranja e os dois polos pulsam."
+  },
+  "L04": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": [
+    "GIRA DEVAGAR",
+    "BATERIA FRACA"
+   ],
+   "nota": "O motor de partida gira em câmera lenta; o ponteiro de rotação sobe arrastado e a bateria pisca em laranja."
+  },
+  "L05": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": [
+    "UM CLIQUE SÓ",
+    "BATERIA OU PARTIDA"
+   ],
+   "nota": "Um único pulso de som e depois silêncio; duas setas apontam, uma para a bateria e outra para o motor de partida, com um \"?\" entre elas."
+  },
+  "L06": {
+   "zona": "painel",
+   "etiqueta": [
+    "GIRA NORMAL",
+    "VEJA O COMBUSTÍVEL"
+   ],
+   "nota": "Motor de arame girando em ritmo normal sem pegar; o marcador de combustível do painel se destaca em ciano."
+  },
+  "L07": {
+   "zona": "motor",
+   "etiqueta": [
+    "COMBUSTÍVEL OU FAÍSCA",
+    "OUTRO PROBLEMA"
+   ],
+   "nota": "Três pontos acendem no motor de arame, um de cada vez: a linha de combustível, a vela com faísca e um \"?\" para \"outro problema\"."
+  },
+  "L08": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": [
+    "NÃO INSISTA",
+    "DESCARREGA A BATERIA"
+   ],
+   "nota": "A chave gira várias vezes seguidas; a barra da bateria desce a cada tentativa e o motor de partida esquenta até o laranja."
+  },
+  "L09": {
+   "zona": "painel",
+   "etiqueta": [
+    "TEMPO POR TENTATIVA",
+    "VEJA O MANUAL"
+   ],
+   "nota": "O manual abre na página de partida; um cronômetro e uma pausa surgem em destaque, sem número."
+  },
+  "L10": {
+   "zona": "cambio",
+   "estado": "alerta",
+   "etiqueta": [
+    "NÃO EMPURRE",
+    "PODE DANIFICAR"
+   ],
+   "nota": "Carro de arame com setas de empurrar sendo riscadas por um X vermelho; o escapamento pisca em laranja."
+  },
+  "L11": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": [
+    "SÓ EMERGÊNCIA",
+    "SIGA O MANUAL"
+   ],
+   "nota": "Dois carros de arame lado a lado com cabos de arame sem mostrar ordem nem ponto de ligação; selo \"EMERGÊNCIA\" e o manual abrindo ao lado."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "CHAME A ASSISTÊNCIA",
+   "nota": "Ícone de socorro acende e um guincho de arame chega até o carro parado."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (a bateria e o motor de partida); a etiqueta RESUMO aparece."
+  },
+  "L14": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

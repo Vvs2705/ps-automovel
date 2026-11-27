@@ -1,0 +1,106 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE STRADA",
+ "titulo": "FALANDO DE STRADA #9",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: iCarros e Motor Show, 23/12/2014",
+ "falas": {
+  "L01": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "DUALOGIC",
+   "legenda": "Strada Dualogic em recall?",
+   "nota": "Alavanca do câmbio automatizado; luz de aviso pisca no painel."
+  },
+  "L02": {
+   "zona": "cambio",
+   "cartao": {
+    "rotulo": "Recall da Fiat",
+    "valor": "DEZ/2014",
+    "unidade": "",
+    "detalhe": "Câmbio Dualogic, 8 modelos",
+    "palavra": "dezembro"
+   },
+   "legenda": "Em dezembro de 2014, a Fiat convocou recall do câmbio Dualogic em oito modelos, entre eles a Strada Adventure.",
+   "nota": "Calendário dezembro de 2014; oito silhuetas com a Strada Adventure em destaque."
+  },
+  "L03": {
+   "zona": "cambio",
+   "cartao": {
+    "rotulo": "Produção",
+    "valor": "JUL–NOV",
+    "unidade": "",
+    "detalhe": "De 02/07 a 28/11/2014",
+    "palavra": "novembro"
+   },
+   "legenda": "Eram a cabine estendida e a cabine dupla, produzidas de 2 de julho a 28 de novembro de 2014.",
+   "nota": "Duas Stradas Adventure; barra de produção de julho a novembro de 2014."
+  },
+  "L04": {
+   "zona": "cambio",
+   "cartao": {
+    "rotulo": "Carros no recall",
+    "valor": "10.035",
+    "unidade": "",
+    "detalhe": "Total dos 8 modelos, não só Strada",
+    "palavra": "cinco"
+   },
+   "legenda": "O recall somou 10.035 carros, nos oito modelos.",
+   "nota": "Contador sobe até 10.035; oito silhuetas."
+  },
+  "L05": {
+   "zona": "cambio",
+   "etiqueta": "ATUADOR DA EMBREAGEM",
+   "nota": "Atuador da embreagem em corte; um componente pisca."
+  },
+  "L06": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "ARRANCADA E TROCAS",
+   "nota": "Strada arranca com solavanco; marcha não entra."
+  },
+  "L07": {
+   "zona": "cambio",
+   "cartao": {
+    "rotulo": "Troca do atuador",
+    "valor": "ATÉ 6 H",
+    "unidade": "",
+    "detalhe": "Reparo gratuito",
+    "palavra": "seis"
+   },
+   "legenda": "O reparo é gratuito: verificação e, se necessário, troca do atuador, que pode levar até 6 horas.",
+   "nota": "Relógio de 6 horas; atuador novo; selo GRÁTIS."
+  },
+  "L08": {
+   "zona": "carro",
+   "etiqueta": "MOTOR: NÃO CITADO",
+   "nota": "Ficha da Strada com campo MOTOR vazio."
+  },
+  "L09": {
+   "zona": "cambio",
+   "etiqueta": "SUBIDA: CUIDADO",
+   "legenda": "Em 2012, um especialista ouvido pela Oficina Brasil lembrou que segurar o carro na subida com o acelerador desgasta a embreagem do automatizado.",
+   "fonte": "Fonte: Oficina Brasil, 10/08/2012",
+   "nota": "Strada parada em subida; pedal do acelerador segura o carro; fumaça no disco."
+  },
+  "L10": {
+   "zona": "carroceria",
+   "pontos": [
+    "chassi"
+   ],
+   "etiqueta": "CONFIRA O CHASSI",
+   "fonte": "Fonte: Ministério dos Transportes, 04/10/2024",
+   "nota": "Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo."
+  },
+  "L11": {
+   "zona": "cambio",
+   "etiqueta": "RESUMO",
+   "nota": "A Strada inteira em arame, com a zona do problema acesa (o câmbio e o atuador da embreagem); a etiqueta RESUMO aparece."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

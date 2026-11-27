@@ -1,0 +1,102 @@
+{
+ "carro": "sedan",
+ "serie": "FALANDO DE ONIX",
+ "titulo": "FALANDO DE ONIX #10",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: iCarros, 09/11/2015",
+ "falas": {
+  "L01": {
+   "zona": "carroceria",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "CINTO TRASEIRO?",
+   "nota": "Banco traseiro; cinto lateral esquerdo em destaque."
+  },
+  "L02": {
+   "zona": "carro",
+   "etiqueta": "FATO DOCUMENTADO",
+   "cartao": {
+    "rotulo": "Cobalt e Prisma",
+    "valor": "121 MIL",
+    "unidade": "",
+    "detalhe": "Recall de novembro de 2015",
+    "palavra": "cento"
+   },
+   "legenda": "Em novembro de 2015, a Chevrolet fez recall de 121 mil Cobalt e Prisma.",
+   "nota": "Contador sobe até 121 mil; selo FATO DOCUMENTADO."
+  },
+  "L03": {
+   "zona": "carro",
+   "etiqueta": "PRISMA 2015/2016",
+   "cartao": {
+    "rotulo": "Prisma modelos",
+    "valor": "2015/2016",
+    "unidade": "",
+    "detalhe": "Só Prisma, não o Onix",
+    "palavra": "dezesseis"
+   },
+   "legenda": "No Prisma, são os modelos 2015 e 2016.",
+   "nota": "Silhueta de Prisma com os anos 2015 e 2016."
+  },
+  "L04": {
+   "zona": "carro",
+   "etiqueta": "ONIX NÃO ENTROU",
+   "nota": "Silhuetas de Cobalt e Prisma; Onix aparece riscado."
+  },
+  "L05": {
+   "zona": "carroceria",
+   "estado": "atencao",
+   "etiqueta": "CINTO NÃO TRAVA",
+   "nota": "Cinto traseiro esquerdo é puxado e não trava."
+  },
+  "L06": {
+   "zona": "carroceria",
+   "estado": "atencao",
+   "etiqueta": "CINTO MENOS EFICAZ",
+   "nota": "Boneco de teste no banco traseiro; cinto folgado no impacto."
+  },
+  "L07": {
+   "zona": "carroceria",
+   "estado": "alerta",
+   "etiqueta": "LESÕES GRAVES",
+   "fonte": "Fonte: Motor Show, 10/11/2015",
+   "nota": "Colisão frontal em ângulo; destaque no banco traseiro esquerdo."
+  },
+  "L08": {
+   "zona": "carroceria",
+   "etiqueta": "TROCA GRÁTIS",
+   "legenda": "A correção é trocar o cinto e o mecanismo, de graça, em cerca de 30 minutos.",
+   "fonte": "Fonte: iCarros, 09/11/2015",
+   "nota": "Cinto novo instalado; relógio de 30 minutos; selo GRÁTIS."
+  },
+  "L09": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Atendimento desde",
+    "valor": "11/11/2015",
+    "unidade": "",
+    "detalhe": "Início do recall",
+    "palavra": "onze"
+   },
+   "legenda": "O atendimento começou em 11 de novembro de 2015.",
+   "nota": "Calendário em 11 de novembro de 2015."
+  },
+  "L10": {
+   "zona": "carro",
+   "etiqueta": "CONSULTE O CHASSI",
+   "legenda": "O serviço de recall do governo cobre campanhas desde 2011. Mesmo sendo antigo, consulte o chassi: é gratuito e pede conta gov.br.",
+   "nota": "Campo de chassi e botão Consultar; ícone gov.br; selo 2011."
+  },
+  "L11": {
+   "zona": "carroceria",
+   "etiqueta": "RESUMO",
+   "legenda": "Resumindo: o recall de 2015 trata do cinto traseiro esquerdo do Prisma, que podia travar de forma insuficiente, e a troca é gratuita.",
+   "nota": "Os pontos principais aparecem numa lista rápida na tela."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "Botão salvar e ícone de compartilhar sobre um Onix."
+  }
+ }
+}

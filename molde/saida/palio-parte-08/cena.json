@@ -1,0 +1,81 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE PALIO",
+ "titulo": "FALANDO DE PALIO #8",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Vrum, Autopapo, Autoo, Oficina Brasil",
+ "falas": {
+  "L01": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "CÂMBIO ESPONJOSO?",
+   "nota": "Alavanca do câmbio mole, sem encaixe."
+  },
+  "L02": {
+   "zona": "cambio",
+   "etiqueta": "ENGATE IMPRECISO",
+   "nota": "Alavanca vaga; etiqueta ENGATE IMPRECISO. Selo RELATO DE DONOS no canto."
+  },
+  "L03": {
+   "zona": "cambio",
+   "etiqueta": "CURSO LONGO",
+   "fonte": "Fonte: Vrum, 14/06/2022",
+   "nota": "Alavanca com curso marcado; etiqueta 1ª GERAÇÃO."
+  },
+  "L04": {
+   "zona": "cambio",
+   "etiqueta": "2ª GERAÇÃO",
+   "fonte": "Fonte: Autopapo, 18/12/2024",
+   "nota": "Linha do tempo marca a segunda geração, 2011 a 2017."
+  },
+  "L05": {
+   "zona": "cambio",
+   "etiqueta": "TESTE AS MARCHAS",
+   "fonte": "Fonte: Autoo, 12/02/2024",
+   "nota": "Test drive; cada marcha é testada."
+  },
+  "L06": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "SUPORTE PLÁSTICO",
+   "legenda": "Especialistas ouvidos pela Oficina Brasil apontam, em Palios de 2002, um suporte plástico da alavanca que pode quebrar.",
+   "fonte": "Fonte: Oficina Brasil, 2007 e 2008",
+   "nota": "Suporte plástico da alavanca em corte, com trinca."
+  },
+  "L07": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "MARCHAS SEM ENGATE",
+   "legenda": "Quando quebra, a 2ª, a 3ª e a 4ª marchas deixam de engatar, segundo um deles.",
+   "fonte": "Fonte: Oficina Brasil, 11/12/2007",
+   "nota": "Alavanca solta; marchas 2, 3 e 4 apagadas."
+  },
+  "L08": {
+   "zona": "cambio",
+   "etiqueta": "TROCAR POR METÁLICO",
+   "fonte": "Fonte: Oficina Brasil, 19/02/2008",
+   "nota": "Suporte metálico substitui o plástico."
+  },
+  "L09": {
+   "zona": "carro",
+   "etiqueta": "SEM NÚMERO OFICIAL",
+   "nota": "Selo RELATO DE DONOS."
+  },
+  "L10": {
+   "zona": "cambio",
+   "etiqueta": "OFICINA DE CONFIANÇA",
+   "nota": "Mecânico testando as marchas."
+  },
+  "L11": {
+   "zona": "cambio",
+   "etiqueta": "RESUMO",
+   "nota": "O Palio inteiro em arame, com a zona do problema acesa (o câmbio manual); a etiqueta RESUMO aparece."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

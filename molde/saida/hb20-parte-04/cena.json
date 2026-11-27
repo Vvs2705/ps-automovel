@@ -1,0 +1,79 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE HB20",
+ "titulo": "FALANDO DE HB20 #4",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Autoo e Vrum, 01/2025",
+ "falas": {
+  "L01": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "CENTRAL TRAVANDO?",
+   "nota": "Tela da central congela; ícone de celular piscando."
+  },
+  "L02": {
+   "zona": "painel",
+   "etiqueta": [
+    "TRAVA",
+    "PERDE A CONEXÃO"
+   ],
+   "legenda": "Donos de HB20 relatam a central que trava ou perde a conexão com o celular.",
+   "nota": "Celular pareado perde o sinal com a central."
+  },
+  "L03": {
+   "zona": "painel",
+   "cartao": {
+    "rotulo": "Guia de compra, 1ª geração",
+    "valor": "2013–2019",
+    "unidade": "",
+    "detalhe": "Lista a multimídia que trava",
+    "palavra": "treze"
+   },
+   "legenda": "Um guia de compra da primeira geração, de 2013 a 2019, lista a multimídia que trava.",
+   "nota": "Linha do tempo 2013 a 2019; item da lista de pontos de atenção."
+  },
+  "L04": {
+   "zona": "painel",
+   "etiqueta": "DESCONECTA EM VIAGEM",
+   "legenda": "Uma reportagem de janeiro de 2025 cita um HB20 2022 que desconectava do celular em viagens longas, mesmo com cabo e aparelho trocados.",
+   "nota": "Estrada; ícone de celular desconectando; cabo novo."
+  },
+  "L05": {
+   "zona": "painel",
+   "etiqueta": "ERRO NA ATUALIZAÇÃO",
+   "legenda": "Outro caso, de um 2016 1.6 automático, não conseguiu atualizar o sistema, que dizia que o chassi não pertencia ao carro.",
+   "nota": "Tela de atualização com mensagem de chassi inválido."
+  },
+  "L06": {
+   "zona": "painel",
+   "etiqueta": "CAUSA NÃO CONFIRMADA",
+   "nota": "Interrogação sobre o diagrama da central."
+  },
+  "L07": {
+   "zona": "carro",
+   "etiqueta": "AUTORIZADA HYUNDAI",
+   "nota": "Carro chega à concessionária Hyundai."
+  },
+  "L08": {
+   "zona": "painel",
+   "etiqueta": "TESTE O PAREAMENTO",
+   "nota": "Celular pareia com a central; lista com visto."
+  },
+  "L09": {
+   "zona": "carro",
+   "etiqueta": "RELATO, SEM NÚMERO",
+   "nota": "Carimbo RELATO RECORRENTE."
+  },
+  "L10": {
+   "zona": "painel",
+   "etiqueta": "RESUMO",
+   "nota": "O HB20 inteiro em arame, com a zona do problema acesa (a central multimídia no painel); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "legenda": "Se esse vídeo te ajudou, salve e mande para quem tem um HB20.",
+   "nota": "O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}
