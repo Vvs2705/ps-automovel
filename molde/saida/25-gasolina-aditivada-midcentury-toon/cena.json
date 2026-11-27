@@ -1,0 +1,102 @@
+{
+ "estilo": "midcentury-toon",
+ "carro": "hatch",
+ "serie": "GASOLINA ADITIVADA",
+ "fonte": "Fonte: ANP, manual Honda, Ipiranga, AutoPapo, Vrum",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "MITO",
+   "nota": "Carro de desenho bebe da bomba e faz pose de forte; o carimbo MITO derruba o halter."
+  },
+  "L02": {
+   "zona": "tanque",
+   "etiqueta": "DETERGENTE",
+   "fonte": "Fonte: ANP, página Gasolina",
+   "nota": "A gota de gasolina ganha uma bolhinha de sabão ao lado."
+  },
+  "L03": {
+   "zona": "motor",
+   "etiqueta": "MOTOR LIMPO",
+   "nota": "Bico injetor e válvula com sujeira sendo varrida por bolhas."
+  },
+  "L04": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "NÃO DÁ POTÊNCIA",
+   "fonte": "Fonte: Vrum, 01/07/2026; Itatiaia",
+   "nota": "Um velocímetro de força parado no mesmo lugar; um calendário passa e ele não cai."
+  },
+  "L05": {
+   "zona": "tanque",
+   "etiqueta": "NÃO É PREMIUM",
+   "fonte": "Fonte: ANP; Oficina Brasil",
+   "nota": "Duas bombas: aditivada e premium, com placas diferentes."
+  },
+  "L06": {
+   "zona": "motor",
+   "etiqueta": "SÓ SE PEDIR",
+   "fonte": "Fonte: AutoPapo, 28/10/2023",
+   "nota": "Motor comum dá de ombros; motor de alta compressão sorri."
+  },
+  "L07": {
+   "zona": "tanque",
+   "etiqueta": "PODE MISTURAR",
+   "fonte": "Fonte: Ipiranga, 26/10/2025",
+   "nota": "As duas gotas entram no mesmo tanque e se abraçam."
+  },
+  "L08": {
+   "zona": "tanque",
+   "etiqueta": "QUALQUER PROPORÇÃO",
+   "fonte": "Fonte: manual Honda Fit 2020",
+   "nota": "Manual abre com a frase \"em qualquer proporção\" grifada (sem marca)."
+  },
+  "L09": {
+   "zona": "tanque",
+   "estado": "atencao",
+   "etiqueta": "OUTRO MITO",
+   "cartao": {
+    "rotulo": "Mito: toda comum aditivada",
+    "valor": "2014",
+    "detalhe": "Não é verdade",
+    "palavra": "catorze"
+   },
+   "nota": "Um calendário com o ano e um balão de boato."
+  },
+  "L10": {
+   "zona": "tanque",
+   "etiqueta": "OBRIGAÇÃO SUSPENSA",
+   "fonte": "Fonte: ANP; NovaCana, 30/06/2017",
+   "nota": "O calendário é riscado duas vezes; carimbo SUSPENSA."
+  },
+  "L11": {
+   "zona": "tanque",
+   "estado": "atencao",
+   "etiqueta": "SEM FRASCO",
+   "fonte": "Fonte: manual Honda Fit 2020",
+   "nota": "Um frasco genérico com X; o certificado de garantia rasga ao meio."
+  },
+  "L12": {
+   "zona": "tanque",
+   "etiqueta": "CONFIRA O MANUAL",
+   "pontos": [
+    {
+     "p": "tanque",
+     "rotulo": "TAMPA DO TANQUE"
+    }
+   ],
+   "nota": "Tampa do tanque aberta com a etiqueta do combustível; manual ao lado."
+  },
+  "L13": {
+   "zona": "motor",
+   "etiqueta": "RESUMO",
+   "nota": "O carro de desenho limpinho, sem halter, com a placa RESUMO."
+  },
+  "L14": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro no estilo do vídeo; ícones de salvar e de compartilhar acendem."
+  }
+ }
+}

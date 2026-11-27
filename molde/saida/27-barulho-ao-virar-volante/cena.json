@@ -1,0 +1,111 @@
+{
+ "carro": "hatch",
+ "serie": "BARULHO AO VIRAR O VOLANTE",
+ "fonte": "Fonte: Dana, Nakata (Mecânica Online), AutoPapo",
+ "falas": {
+  "L01": {
+   "zona": "painel",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "QUE BARULHO?",
+   "nota": "Volante de arame gira; ondas de som saem da coluna e formam um ponto de interrogação laranja."
+  },
+  "L02": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": "NÃO É NORMAL",
+   "fonte": "Fonte: Dana, 15/06/2020",
+   "nota": "O sistema de direção inteiro em arame; uma peça pisca sem ser nomeada."
+  },
+  "L03": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "CORREIA DA BOMBA",
+   "fonte": "Fonte: AutoPapo, 21/11/2019; Nakata",
+   "nota": "A correia da bomba de direção acende em laranja e patina."
+  },
+  "L04": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "FLUIDO BAIXO",
+   "fonte": "Fonte: Nakata (Mecânica Online); AutoPapo",
+   "nota": "Reservatório do fluido com o nível baixo; a bomba esquenta em laranja."
+  },
+  "L05": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": "VAZAMENTO",
+   "fonte": "Fonte: AutoPapo, 24/07/2019",
+   "nota": "Uma gota escapa de uma mangueira da direção."
+  },
+  "L06": {
+   "zona": "susp_dianteira",
+   "etiqueta": "VÁ À OFICINA",
+   "nota": "Seta para a oficina; um frasco genérico com X ao lado do manual."
+  },
+  "L07": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": [
+    "ESTALO E FOLGA",
+    "TERMINAL OU PIVÔ"
+   ],
+   "fonte": "Fonte: Dana, 26/12/2024",
+   "nota": "Terminal e pivô perto da roda acendem em vermelho, com folga visível."
+  },
+  "L08": {
+   "zona": "painel",
+   "etiqueta": "COLUNA DE DIREÇÃO",
+   "pontos": [
+    {
+     "p": "volante",
+     "rotulo": "VOLANTE"
+    },
+    {
+     "p": "coluna",
+     "rotulo": "COLUNA DE DIREÇÃO"
+    }
+   ],
+   "fonte": "Fonte: O Mecânico, 03/04/2025",
+   "nota": "A coluna entre o volante e a caixa acende."
+  },
+  "L09": {
+   "zona": "susp_dianteira",
+   "etiqueta": "HOMOCINÉTICA",
+   "fonte": "Fonte: Dana; O Mecânico",
+   "nota": "Carro faz curva fechada; a junta homocinética acende na roda."
+  },
+  "L10": {
+   "zona": "carro",
+   "estado": "alerta",
+   "etiqueta": [
+    "RISCO DE ACIDENTE",
+    "NÃO VÁ LEVANDO"
+   ],
+   "nota": "Placa vermelha de alerta sobre o volante tremendo."
+  },
+  "L11": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "NÃO NO BATENTE",
+   "fonte": "Fonte: AutoPapo, 24/07/2019",
+   "nota": "Volante girado até o fim; um cronômetro curto e a pressão subindo."
+  },
+  "L12": {
+   "zona": "susp_dianteira",
+   "etiqueta": "OFICINA CONFIRMA",
+   "fonte": "Fonte: Nakata (Mecânica Online); Dana",
+   "nota": "Direção e suspensão inteiras em arame; selo OFICINA."
+  },
+  "L13": {
+   "zona": "susp_dianteira",
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro com a zona da direção acesa; etiqueta RESUMO."
+  },
+  "L14": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro no estilo do vídeo; ícones de salvar e de compartilhar acendem."
+  }
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "estilo": "swiss-motion",
+ "carro": "hatch",
+ "serie": "FLEX: PODE MISTURAR?",
+ "fonte": "Fonte: manuais Honda e Fiat, Bosch, AutoPapo, Vrum",
+ "falas": {
+  "L01": {
+   "zona": "tanque",
+   "estado": "atencao",
+   "etiqueta": "MITO",
+   "nota": "Duas bombas enchem o mesmo tanque; o carimbo vermelho MITO cai no centro."
+  },
+  "L02": {
+   "zona": "tanque",
+   "etiqueta": "QUALQUER MISTURA",
+   "fonte": "Fonte: manual Honda Fit 2020; Bosch",
+   "nota": "O tanque em corte com as duas cores se misturando em proporções que mudam."
+  },
+  "L03": {
+   "zona": "tanque",
+   "etiqueta": "QUALQUER PROPORÇÃO",
+   "fonte": "Fonte: manuais Honda e Fiat",
+   "nota": "Dois manuais abrem com a frase \"em qualquer proporção\" grifada (sem marca)."
+  },
+  "L04": {
+   "zona": "tanque",
+   "etiqueta": "TANQUE VAZIO: MITO",
+   "fonte": "Fonte: AutoPapo, 25/11/2025",
+   "nota": "Ponteiro do tanque na reserva; segundo carimbo MITO."
+  },
+  "L05": {
+   "zona": "escapamento",
+   "etiqueta": "SONDA LAMBDA",
+   "fonte": "Fonte: AutoPapo; Bosch",
+   "nota": "Seta do escapamento até a sonda, que acende."
+  },
+  "L06": {
+   "zona": "motor",
+   "etiqueta": "CENTRAL AJUSTA",
+   "nota": "Uma linha liga a sonda à central; o bico injetor muda o jato."
+  },
+  "L07": {
+   "zona": "motor",
+   "etiqueta": "POUCOS MINUTOS",
+   "fonte": "Fonte: AutoPapo, 22/09/2018",
+   "nota": "Um relógio curto ao lado do carro andando."
+  },
+  "L08": {
+   "zona": "tanque",
+   "estado": "atencao",
+   "etiqueta": "SÓ CARRO FLEX",
+   "pontos": [
+    {
+     "p": "tanque",
+     "rotulo": "TAMPA DO TANQUE"
+    }
+   ],
+   "nota": "Tampa do tanque aberta com o selo flex destacado."
+  },
+  "L09": {
+   "zona": "motor",
+   "estado": "alerta",
+   "etiqueta": "NÃO É FLEX?",
+   "fonte": "Fonte: Vrum, 01/02/2025",
+   "nota": "Carro só a gasolina com X vermelho; seta para a oficina."
+  },
+  "L10": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "SENSOR OU CENTRAL",
+   "fonte": "Fonte: AutoPapo, 23/08/2019",
+   "nota": "Luz da injeção acesa; sensor e central marcados; seta para a oficina."
+  },
+  "L11": {
+   "zona": "tanque",
+   "etiqueta": "RESUMO",
+   "nota": "O tanque com as duas cores e o selo VERDADE: PODE MISTURAR."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro no estilo do vídeo; ícones de salvar e de compartilhar acendem."
+  }
+ }
+}

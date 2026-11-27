@@ -1,0 +1,133 @@
+{
+ "estilo": "chalkboard",
+ "carro": "hatch",
+ "serie": "CONSUMO ALTO",
+ "fonte": "Fonte: fueleconomy.gov, NGK, Hella, AutoPapo",
+ "falas": {
+  "L01": {
+   "zona": "tanque",
+   "estado": "atencao",
+   "etiqueta": "CONSUMO ALTO",
+   "nota": "Ponteiro do tanque caindo rápido; a palavra BANGUELA leva um X de giz."
+  },
+  "L02": {
+   "zona": "pneus",
+   "estado": "atencao",
+   "cartao": {
+    "rotulo": "Causa",
+    "valor": "1",
+    "detalhe": "Pneu murcho",
+    "palavra": "um"
+   },
+   "fonte": "Fonte: AutoPapo, 02/05/2022",
+   "nota": "Número um no quadro; pneu achatado deixando um rastro largo."
+  },
+  "L03": {
+   "zona": "pneus",
+   "etiqueta": "PRESSÃO DO MANUAL",
+   "nota": "Calibrador com o ponteiro na marca do manual."
+  },
+  "L04": {
+   "zona": "motor",
+   "estado": "atencao",
+   "cartao": {
+    "rotulo": "Causa",
+    "valor": "2",
+    "detalhe": "Velas gastas",
+    "palavra": "dois"
+   },
+   "fonte": "Fonte: NGK (Mecânica Online), 15/06/2018",
+   "nota": "Número dois; vela com a ponta gasta e faísca fraca."
+  },
+  "L05": {
+   "zona": "escapamento",
+   "estado": "atencao",
+   "cartao": {
+    "rotulo": "Causa",
+    "valor": "3",
+    "detalhe": "Sonda lambda",
+    "palavra": "três"
+   },
+   "fonte": "Fonte: AutoPapo; Hella",
+   "nota": "Número três; a sonda no escapamento manda uma seta torta para a central."
+  },
+  "L06": {
+   "zona": "painel",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "OFICINA DIAGNOSTICA",
+   "nota": "Luz da injeção acesa com um ponto de interrogação; seta para a oficina."
+  },
+  "L07": {
+   "zona": "motor",
+   "estado": "atencao",
+   "cartao": {
+    "rotulo": "Causa",
+    "valor": "4",
+    "detalhe": "Óleo mais grosso",
+    "palavra": "quatro"
+   },
+   "fonte": "Fonte: AutoPapo, manutenção e economia",
+   "nota": "Número quatro; óleo grosso escorrendo devagar entre engrenagens."
+  },
+  "L08": {
+   "zona": "carro",
+   "estado": "atencao",
+   "cartao": {
+    "rotulo": "Causa",
+    "valor": "5",
+    "detalhe": "Peso a mais",
+    "palavra": "cinco"
+   },
+   "fonte": "Fonte: AutoPapo; fueleconomy.gov",
+   "nota": "Número cinco; carro com malas no teto e o ar batendo nelas."
+  },
+  "L09": {
+   "zona": "carro",
+   "estado": "atencao",
+   "cartao": {
+    "rotulo": "Causa",
+    "valor": "6",
+    "detalhe": "Pé pesado",
+    "palavra": "seis"
+   },
+   "nota": "Número seis; pé pisando fundo vira pé leve."
+  },
+  "L10": {
+   "zona": "motor",
+   "estado": "atencao",
+   "cartao": {
+    "rotulo": "Causa",
+    "valor": "7",
+    "detalhe": "Motor parado ligado",
+    "palavra": "sete"
+   },
+   "fonte": "Fonte: fueleconomy.gov; manual Renault Kwid",
+   "nota": "Número sete; carro parado com fumacinha e o ponteiro descendo."
+  },
+  "L11": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "BANGUELA? MITO",
+   "fonte": "Fonte: AutoPapo, 30/12/2024",
+   "nota": "Carro descendo em ponto morto com uma gota ainda caindo no motor; seta para engatar."
+  },
+  "L12": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "SUBIU DE REPENTE",
+   "fonte": "Fonte: NGK (Mecânica Online); fueleconomy.gov",
+   "nota": "Gráfico de consumo dando um salto; seta para a oficina."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "RESUMO",
+   "nota": "As sete causas listadas no quadro com um visto em cada uma."
+  },
+  "L14": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro no estilo do vídeo; ícones de salvar e de compartilhar acendem."
+  }
+ }
+}

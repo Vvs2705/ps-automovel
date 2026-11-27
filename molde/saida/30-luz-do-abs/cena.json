@@ -1,0 +1,93 @@
+{
+ "carro": "hatch",
+ "serie": "LUZ DO ABS",
+ "fonte": "Fonte: manuais Honda, VW e Kia, Bosch, AutoPapo",
+ "falas": {
+  "L01": {
+   "zona": "painel",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "LUZ DO ABS",
+   "legenda": "Luz do ABS acesa? Seu carro freia, mas pode travar.",
+   "nota": "Painel de arame; a luz âmbar do ABS acende e pulsa; as rodas da frente travam numa freada."
+  },
+  "L02": {
+   "zona": "freios",
+   "etiqueta": "ANTITRAVAMENTO",
+   "legenda": "O ABS impede as rodas de travarem numa freada forte.",
+   "fonte": "Fonte: AutoPapo; Mecânica Online",
+   "nota": "Freada forte; as rodas seguem girando em pulsos, sem travar."
+  },
+  "L03": {
+   "zona": "painel",
+   "etiqueta": "AUTOTESTE",
+   "fonte": "Fonte: manuais Kia e Honda",
+   "nota": "Chave gira; a luz acende e apaga; selo verde."
+  },
+  "L04": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": "SEM ANTITRAVAMENTO",
+   "fonte": "Fonte: manual Kia; Mecânica Online",
+   "nota": "O circuito de freio segue azul; o módulo do ABS fica cinza."
+  },
+  "L05": {
+   "zona": "pneus",
+   "estado": "alerta",
+   "etiqueta": "RODAS PODEM TRAVAR",
+   "fonte": "Fonte: Mecânica Online, 2016",
+   "nota": "Freada brusca; as rodas travam e deixam marca; o carro escorrega."
+  },
+  "L06": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": "MAIS DISTÂNCIA",
+   "nota": "A distância para o carro da frente aumenta; seta para a oficina."
+  },
+  "L07": {
+   "zona": "painel",
+   "etiqueta": "DESLIGUE E RELIGUE",
+   "fonte": "Fonte: manual Kia; AutoPapo",
+   "nota": "Carro encosta; chave desliga e liga; a luz apaga."
+  },
+  "L08": {
+   "zona": "pneus",
+   "estado": "atencao",
+   "etiqueta": "SENSOR DE RODA",
+   "fonte": "Fonte: Bosch; O Mecânico; Hella",
+   "nota": "Os quatro sensores das rodas acendem, um de cada vez."
+  },
+  "L09": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": "LUZ VERMELHA",
+   "fonte": "Fonte: manuais VW e Honda",
+   "nota": "Ao lado, a luz vermelha do freio acende; freio de mão e reservatório aparecem."
+  },
+  "L10": {
+   "zona": "painel",
+   "estado": "alerta",
+   "etiqueta": "NÃO SIGA VIAGEM",
+   "fonte": "Fonte: manual VW Voyage; Oficina Brasil",
+   "nota": "Freio de mão solto e a luz vermelha acesa; placa NÃO SIGA."
+  },
+  "L11": {
+   "zona": "freios",
+   "estado": "alerta",
+   "etiqueta": "AS DUAS: PERIGO",
+   "fonte": "Fonte: manuais Kia e Honda",
+   "nota": "As duas luzes acesas juntas; guincho de arame entra em cena."
+  },
+  "L12": {
+   "zona": "painel",
+   "etiqueta": "RESUMO",
+   "legenda": "Resumindo: só a do ABS, freia sem antitravamento. Vermelha junto é mais grave.",
+   "nota": "As duas luzes lado a lado com os recados; etiqueta RESUMO."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro no estilo do vídeo; ícones de salvar e de compartilhar acendem."
+  }
+ }
+}

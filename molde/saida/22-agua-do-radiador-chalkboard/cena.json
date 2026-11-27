@@ -1,0 +1,92 @@
+{
+ "estilo": "chalkboard",
+ "carro": "hatch",
+ "serie": "ÁGUA DO RADIADOR",
+ "fonte": "Fonte: manual Volvo online, AutoPapo, Mecânica Online",
+ "falas": {
+  "L01": {
+   "zona": "arrefecimento",
+   "estado": "alerta",
+   "seta": true,
+   "etiqueta": "NUNCA SÓ ÁGUA",
+   "fonte": "Fonte: manual Volvo online (pt-BR)",
+   "nota": "Uma mangueira aponta para o reservatório do motor; um X grande risca a cena."
+  },
+  "L02": {
+   "zona": "arrefecimento",
+   "etiqueta": "ÁGUA + ADITIVO",
+   "nota": "Um copo dividido: metade água, metade aditivo colorido, com sinal de mais entre eles."
+  },
+  "L03": {
+   "zona": "motor",
+   "etiqueta": "FERVE MAIS ALTO",
+   "nota": "Um termômetro com a marca de fervura subindo; uma peça do motor ganha um escudo."
+  },
+  "L04": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": "DEPÓSITOS",
+   "nota": "Corte de um cano do radiador: pontinhos de mineral grudam e formam crosta."
+  },
+  "L05": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": "ADITIVO DILUÍDO",
+   "nota": "O copo vai clareando a cada gota de água; o escudo some."
+  },
+  "L06": {
+   "zona": "arrefecimento",
+   "etiqueta": "É NORMAL?",
+   "fonte": "Fonte: AutoPapo; Mecânica Online",
+   "nota": "Reservatório com o nível descendo um tiquinho; um ponto de interrogação de giz."
+  },
+  "L07": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": "VAZAMENTO",
+   "nota": "Calendário virando; o nível cai toda semana; carimbo VAZAMENTO."
+  },
+  "L08": {
+   "zona": "motor",
+   "etiqueta": "MOTOR FRIO",
+   "nota": "Um sol nascendo e um termômetro do motor no frio; o capô aberto."
+  },
+  "L09": {
+   "zona": "arrefecimento",
+   "etiqueta": "MÍNIMO E MÁXIMO",
+   "lupa": true,
+   "nota": "Zoom no reservatório com as duas marcas e o líquido entre elas."
+  },
+  "L10": {
+   "zona": "arrefecimento",
+   "estado": "alerta",
+   "etiqueta": "NUNCA QUENTE",
+   "nota": "A tampa do reservatório com vapor e setas de pressão; mão de giz recua."
+  },
+  "L11": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": "SÓ NA EMERGÊNCIA",
+   "nota": "O carro chega à oficina; o copo volta a ficar metade aditivo."
+  },
+  "L12": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": [
+    "VEJA NO MANUAL",
+    "LÍQUIDO TÓXICO"
+   ],
+   "nota": "O manual abre; um frasco com o símbolo de perigo fica numa prateleira alta."
+  },
+  "L13": {
+   "zona": "arrefecimento",
+   "etiqueta": "RESUMO",
+   "nota": "O quadro com as três frases escritas a giz."
+  },
+  "L14": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro no estilo do vídeo; ícones de salvar e de compartilhar acendem."
+  }
+ }
+}

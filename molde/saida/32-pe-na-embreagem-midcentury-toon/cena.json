@@ -1,0 +1,98 @@
+{
+ "estilo": "midcentury-toon",
+ "carro": "hatch",
+ "serie": "PÉ NA EMBREAGEM",
+ "fonte": "Fonte: Eaton, ZF Sachs, CESVI Brasil, AutoPapo",
+ "falas": {
+  "L01": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "PÉ NA EMBREAGEM",
+   "nota": "Pé de desenho cochila em cima do pedal; o disco solta faíscas."
+  },
+  "L02": {
+   "zona": "cambio",
+   "cartao": {
+    "rotulo": "Peças da embreagem",
+    "valor": "3",
+    "detalhe": "Platô, disco e rolamento",
+    "palavra": "três"
+   },
+   "fonte": "Fonte: AutoPapo; O Mecânico",
+   "nota": "As três peças se apresentam, uma de cada vez."
+  },
+  "L03": {
+   "zona": "cambio",
+   "etiqueta": "PESO DO PÉ",
+   "fonte": "Fonte: AutoPapo; CESVI Brasil",
+   "nota": "O pedal desce um fio; o rolamento encosta de leve."
+  },
+  "L04": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "ATRITO E CALOR",
+   "nota": "O disco esquenta em vermelho; estrelinhas de atrito."
+  },
+  "L05": {
+   "zona": "cambio",
+   "etiqueta": "NÃO APOIE",
+   "fonte": "Fonte: Eaton (Mecânica Online), 26/08/2023",
+   "nota": "Placa de recomendação com o pé riscado sobre o pedal."
+  },
+  "L06": {
+   "zona": "cambio",
+   "etiqueta": "PÉ AO LADO",
+   "fonte": "Fonte: CESVI Brasil; AutoPapo",
+   "nota": "O pé muda para o apoio ao lado e sorri."
+  },
+  "L07": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "SUBIDA",
+   "nota": "Carro de desenho numa ladeira, tremendo, segurado na embreagem."
+  },
+  "L08": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "DISCO PATINANDO",
+   "fonte": "Fonte: SAE Brasil (AutoPapo)",
+   "nota": "O disco gira patinando e solta fumaça."
+  },
+  "L09": {
+   "zona": "freios",
+   "etiqueta": "USE O FREIO",
+   "fonte": "Fonte: ZF Sachs; CESVI Brasil",
+   "nota": "O freio de mão segura o carro na ladeira; a embreagem só na saída."
+  },
+  "L10": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": "CONSERTE O FREIO",
+   "fonte": "Fonte: O Mecânico; Revista Carro",
+   "nota": "Freio de mão com chave de boca; seta para a oficina."
+  },
+  "L11": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "SINAIS DE DESGASTE",
+   "fonte": "Fonte: Eaton, ZF e AutoPapo",
+   "nota": "Quatro balões com os sinais, um de cada vez."
+  },
+  "L12": {
+   "zona": "cambio",
+   "etiqueta": "OFICINA",
+   "fonte": "Fonte: Eaton (Mecânica Online); ZF",
+   "nota": "Carro de desenho entra na oficina."
+  },
+  "L13": {
+   "zona": "freios",
+   "etiqueta": "RESUMO",
+   "nota": "O pé ao lado do pedal e o freio de mão puxado; placa RESUMO."
+  },
+  "L14": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro no estilo do vídeo; ícones de salvar e de compartilhar acendem."
+  }
+ }
+}
