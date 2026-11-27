@@ -1,0 +1,114 @@
+{
+ "estilo": "blueprint",
+ "carro": "hatch",
+ "serie": "ALINHAMENTO OU BALANCEAMENTO",
+ "fonte": "Fonte: Pirelli, Michelin, Goodyear, Bridgestone",
+ "falas": {
+  "L01": {
+   "zona": "pneus",
+   "etiqueta": "ALINHAR × BALANCEAR",
+   "nota": "Duas rodas de arame lado a lado: a da esquerda com setas de ângulo, a da direita com pesinhos no aro; um \"≠\" gigante pisca entre elas."
+  },
+  "L02": {
+   "zona": "susp_dianteira",
+   "etiqueta": [
+    "ALINHAMENTO",
+    "ÂNGULOS DAS RODAS"
+   ],
+   "nota": "Carro em arame visto de cima; um transferidor holográfico marca os ângulos das quatro rodas, que se acertam em linhas-guia ciano."
+  },
+  "L03": {
+   "zona": "pneus",
+   "etiqueta": [
+    "CONVERGÊNCIA",
+    "CAMBAGEM"
+   ],
+   "nota": "Duas vistas: de cima, as rodas dianteiras apontam um pouco para dentro e se corrigem; de frente, uma roda inclinada volta à vertical."
+  },
+  "L04": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": [
+    "CARRO PUXANDO",
+    "VOLANTE TORTO",
+    "DESGASTE IRREGULAR"
+   ],
+   "nota": "Três ícones acendem em sequência: carro de cima derivando numa faixa reta, volante com o raio central fora do prumo, banda do pneu gasta só de um lado em laranja."
+  },
+  "L05": {
+   "zona": "pneus",
+   "etiqueta": "CONFIRA A CALIBRAGEM",
+   "nota": "Dois pneus do mesmo eixo com manômetros: um baixo, outro alto; o carro puxa para o lado do mais baixo e endireita quando os dois igualam."
+  },
+  "L06": {
+   "zona": "pneus",
+   "etiqueta": [
+    "BALANCEAMENTO",
+    "PESOS NO ARO"
+   ],
+   "nota": "Roda com pneu em corte girando numa balanceadora; um ponto pesado brilha em laranja e um pequeno peso de arame encaixa no aro no ponto indicado."
+  },
+  "L07": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": [
+    "VIBRAÇÃO NO VOLANTE",
+    "CERTAS VELOCIDADES"
+   ],
+   "nota": "Volante e banco de arame tremendo; o ponteiro do velocímetro passa por uma faixa em que a vibração aparece e some fora dela."
+  },
+  "L08": {
+   "zona": "pneus",
+   "estado": "alerta",
+   "etiqueta": [
+    "PNEU DANIFICADO?",
+    "REDUZA E PARE"
+   ],
+   "nota": "Pneu com um corte em vermelho; o volante treme, o velocímetro desce e o carro de arame encosta numa faixa de acostamento."
+  },
+  "L09": {
+   "zona": "pneus",
+   "etiqueta": [
+    "PNEUS NOVOS",
+    "BALANCEIE",
+    "CONFIRA ALINHAMENTO"
+   ],
+   "nota": "Um pneu novo entra na roda; a balanceadora acende e, em seguida, a mira do alinhador aparece sobre a roda."
+  },
+  "L10": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": [
+    "BATEU A RODA?",
+    "VERIFIQUE OS DOIS"
+   ],
+   "nota": "A roda cai num buraco de arame; uma onda de choque laranja sobe pela suspensão, os ângulos saem do paralelo e a balanceadora e o alinhador piscam."
+  },
+  "L11": {
+   "zona": "pneus",
+   "etiqueta": [
+    "PRAZO VARIA",
+    "CONFIRA O MANUAL"
+   ],
+   "nota": "Três cartões de intervalos diferentes (sem números legíveis) se sobrepõem; o manual do carro abre e um deles brilha em ciano."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": [
+    "OFICINA DE CONFIANÇA",
+    "EQUIPAMENTO PRÓPRIO"
+   ],
+   "nota": "Carro de arame no alinhador, com sensores nas rodas, e uma roda numa balanceadora; mecânico holográfico sem rosto trabalha (nenhuma pessoa real)."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (as rodas e os pneus); a etiqueta RESUMO aparece."
+  },
+  "L14": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

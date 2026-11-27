@@ -1,0 +1,107 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE PALIO",
+ "titulo": "FALANDO DE PALIO #4",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Motor Show, Autopapo e Vrum (2018-2022)",
+ "falas": {
+  "L01": {
+   "zona": "painel",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "AIRBAG TROCADO?",
+   "nota": "Volante do Palio com o airbag em destaque."
+  },
+  "L02": {
+   "zona": "painel",
+   "etiqueta": "VÁRIAS ETAPAS",
+   "legenda": "A Fiat fez recalls do airbag do Novo Palio em várias etapas, de 2018 a 2022.",
+   "nota": "Linha do tempo 2018 a 2022 com cinco marcos. Selo FATO DOCUMENTADO no canto."
+  },
+  "L03": {
+   "zona": "painel",
+   "cartao": {
+    "rotulo": "Dezembro de 2018, Novo Palio",
+    "valor": "2012–2013",
+    "unidade": "",
+    "detalhe": "Anos-modelo 2012 e 2013",
+    "palavra": "doze"
+   },
+   "legenda": "Em dezembro de 2018: Novo Palio 2012 e 2013.",
+   "fonte": "Fonte: Motor Show, 07/12/2018",
+   "nota": "Etapa 1: anos 2012 e 2013."
+  },
+  "L04": {
+   "zona": "painel",
+   "cartao": {
+    "rotulo": "Julho de 2019, Novo Palio 2013 e 2014",
+    "valor": "58 MIL",
+    "unidade": "",
+    "detalhe": "58.168 unidades (faixa brasileira)",
+    "palavra": "cinquenta"
+   },
+   "legenda": "Em julho de 2019: Novo Palio 2013 e 2014, cerca de 58 mil carros.",
+   "fonte": "Fonte: Autopapo, 12/07/2019",
+   "nota": "Etapa 2: anos 2013 e 2014; contador até 58 mil."
+  },
+  "L05": {
+   "zona": "painel",
+   "cartao": {
+    "rotulo": "Dezembro de 2022, Palio ano-modelo",
+    "valor": "2017",
+    "unidade": "",
+    "detalhe": "Recall de dezembro de 2022",
+    "palavra": "dezessete"
+   },
+   "legenda": "Em dezembro de 2022: Palio 2017.",
+   "fonte": "Fonte: Vrum, 20/12/2022",
+   "nota": "Etapa 3: ano 2017."
+  },
+  "L06": {
+   "zona": "painel",
+   "etiqueta": "OUTRAS ETAPAS",
+   "fonte": "Fonte: Revista Carro e Autopapo",
+   "nota": "Mais marcos na linha do tempo, com interrogação."
+  },
+  "L07": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "DEFLAGRADOR DEGRADA",
+   "nota": "Deflagrador em corte, com gotas e termômetro."
+  },
+  "L08": {
+   "zona": "painel",
+   "estado": "alerta",
+   "etiqueta": "RISCO GRAVE",
+   "nota": "Alerta vermelho; fragmentos saem do módulo."
+  },
+  "L09": {
+   "zona": "painel",
+   "etiqueta": "AIRBAGS TAKATA",
+   "fonte": "Fonte: Autopapo (2019), Motor Show (2022)",
+   "nota": "Selo TAKATA sobre as etapas 2019 e 2022."
+  },
+  "L10": {
+   "zona": "painel",
+   "etiqueta": "GRÁTIS, 2 HORAS",
+   "nota": "Relógio de duas horas; selo GRÁTIS."
+  },
+  "L11": {
+   "zona": "carro",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "CONSULTE O CHASSI",
+   "nota": "Campo de chassi e botão Consultar."
+  },
+  "L12": {
+   "zona": "painel",
+   "etiqueta": "RESUMO",
+   "nota": "O Palio inteiro em arame, com a zona do problema acesa (o airbag); a etiqueta RESUMO aparece."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

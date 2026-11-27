@@ -1,0 +1,125 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE PALIO",
+ "titulo": "FALANDO DE PALIO #2",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: recalls da Fiat, via Motor Show",
+ "falas": {
+  "L01": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "DUALOGIC?",
+   "nota": "Silhueta do Palio com a alavanca do câmbio automatizado em destaque."
+  },
+  "L02": {
+   "zona": "cambio",
+   "cartao": {
+    "rotulo": "Recalls do Dualogic",
+    "valor": "2",
+    "unidade": "",
+    "detalhe": "Em 2014 e em 2018",
+    "palavra": "dois"
+   },
+   "nota": "Dois carimbos RECALL, 2014 e 2018, caem sobre o câmbio. Selo FATO DOCUMENTADO no canto."
+  },
+  "L03": {
+   "zona": "cambio",
+   "cartao": {
+    "rotulo": "Recall de 2014, produção de julho a novembro",
+    "valor": "2014",
+    "unidade": "",
+    "detalhe": "De 02/07 a 28/11/2014",
+    "palavra": "catorze"
+   },
+   "legenda": "O primeiro foi em 2014, para carros produzidos de julho a novembro daquele ano.",
+   "fonte": "Fonte: Motor Show, 24/12/2014",
+   "nota": "Barra de produção de 07/2014 a 11/2014."
+  },
+  "L04": {
+   "zona": "cambio",
+   "etiqueta": [
+    "SPORTING E ESSENCE",
+    "GRAND SIENA ESSENCE",
+    "WEEKEND ADVENTURE"
+   ],
+   "nota": "Três silhuetas com os nomes das versões."
+  },
+  "L05": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "ATUADOR DA EMBREAGEM",
+   "nota": "Atuador da embreagem em corte; o disco aparece fora de ponto."
+  },
+  "L06": {
+   "zona": "cambio",
+   "estado": "alerta",
+   "etiqueta": "RISCO NA ARRANCADA",
+   "nota": "Arrancada travando; marcha sem engate; alerta de risco."
+  },
+  "L07": {
+   "zona": "cambio",
+   "etiqueta": "REPARO GRÁTIS",
+   "cartao": {
+    "rotulo": "Correção gratuita",
+    "valor": "ATÉ 6 H",
+    "unidade": "",
+    "detalhe": "Verificação de cerca de 1 h; troca, se preciso",
+    "palavra": "seis"
+   },
+   "nota": "Relógio de uma hora; atuador novo encaixa."
+  },
+  "L08": {
+   "zona": "cambio",
+   "estado": "alerta",
+   "etiqueta": "IA AO NEUTRO",
+   "cartao": {
+    "rotulo": "Segundo recall",
+    "valor": "2018",
+    "unidade": "",
+    "detalhe": "Sensor de seleção de marchas",
+    "palavra": "dezoito"
+   },
+   "legenda": "O segundo foi em 2018: o sensor de seleção de marchas podia falhar, e o câmbio ir ao neutro de repente.",
+   "fonte": "Fonte: Autopapo, 01/10/2018",
+   "nota": "Sensor de seleção em corte; o câmbio salta para N."
+  },
+  "L09": {
+   "zona": "cambio",
+   "etiqueta": "LOTES PEQUENOS",
+   "cartao": {
+    "rotulo": "Palio 1.6 de 2017",
+    "valor": "141",
+    "unidade": "",
+    "detalhe": "Weekend 1.6: 66 unidades",
+    "palavra": "cento"
+   },
+   "legenda": "Foram 141 Palio 1.6 de 2017 e 66 Weekend 1.6.",
+   "nota": "Dois contadores: 141 e 66."
+  },
+  "L10": {
+   "zona": "cambio",
+   "etiqueta": "TROCA GRÁTIS",
+   "nota": "Sensor novo encaixa; relógio de uma hora."
+  },
+  "L11": {
+   "zona": "carro",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "CONSULTE O CHASSI",
+   "fonte": "Fonte: site da Fiat",
+   "nota": "Campo de chassi e botão Consultar."
+  },
+  "L12": {
+   "zona": "cambio",
+   "etiqueta": "RESUMO",
+   "nota": "O Palio inteiro em arame, com a zona do problema acesa (o câmbio); a etiqueta RESUMO aparece."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

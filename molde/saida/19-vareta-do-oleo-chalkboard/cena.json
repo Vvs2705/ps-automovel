@@ -1,0 +1,144 @@
+{
+ "estilo": "chalkboard",
+ "carro": "hatch",
+ "serie": "VARETA DO ÓLEO",
+ "fonte": "Fonte: manuais Renault, Hyundai, Nissan, VW",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "etiqueta": "VARETA DO ÓLEO",
+   "nota": "Vareta de arame sai do motor, a ponta pinga óleo âmbar e um \"?\" gigante pulsa sobre ela."
+  },
+  "L02": {
+   "zona": "carro",
+   "etiqueta": [
+    "PISO PLANO",
+    "CARRO INCLINADO"
+   ],
+   "nota": "Carro de arame numa rampa: o nível na vareta aparece torto e falso. O carro se nivela e a linha do óleo fica reta."
+  },
+  "L03": {
+   "zona": "motor",
+   "etiqueta": [
+    "MOTOR DESLIGADO",
+    "ESPERE O ÓLEO"
+   ],
+   "nota": "Motor em corte: gotas de óleo descem das peças e se juntam no fundo, e o nível sobe devagar."
+  },
+  "L04": {
+   "zona": "motor",
+   "etiqueta": "VARIA POR MANUAL",
+   "cartao": {
+    "rotulo": "Espera, segundo o manual",
+    "valor": "5-15",
+    "unidade": "MIN",
+    "detalhe": "Cada manual diz um tempo",
+    "palavra": "quinze"
+   },
+   "legenda": "Tem manual que pede esperar 5 minutos, outro 10, outro 15.",
+   "nota": "Três relógios lado a lado, cada um preso a um manual diferente (sem marca): 5, 10 e 15 minutos. Nenhum deles brilha como \"o certo\"."
+  },
+  "L05": {
+   "zona": "motor",
+   "etiqueta": [
+    "QUENTE OU PARADO",
+    "CONFIRA O MANUAL"
+   ],
+   "nota": "Duas telas: termômetro de motor aquecido de um lado e relógio de \"manhã, antes de ligar\" do outro. Um manual abre no meio."
+  },
+  "L06": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": [
+    "MOTOR QUENTE",
+    "VENTOINHA LIGA"
+   ],
+   "nota": "Motor de arame com zonas quentes em laranja; a ventoinha gira de repente e uma mão holográfica recua."
+  },
+  "L07": {
+   "zona": "motor",
+   "etiqueta": [
+    "LIMPE A VARETA",
+    "PANO SEM FIAPOS"
+   ],
+   "nota": "A vareta sai do tubo; um pano limpo passa pela haste. Fiapos de estopa aparecem e levam um X."
+  },
+  "L08": {
+   "zona": "motor",
+   "etiqueta": [
+    "ATÉ O FIM",
+    "LEIA O NÍVEL"
+   ],
+   "nota": "A vareta limpa desce até o fim do tubo e sobe de novo; a ponta mostra a película de óleo."
+  },
+  "L09": {
+   "zona": "motor",
+   "etiqueta": [
+    "NÍVEL CERTO",
+    "MÍNIMO A MÁXIMO"
+   ],
+   "nota": "Ponta da vareta ampliada com duas marcas, MIN e MAX; o óleo âmbar chega à faixa entre elas e a faixa acende em ciano."
+  },
+  "L10": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": [
+    "ÓLEO DEMAIS",
+    "TAMBÉM FAZ MAL"
+   ],
+   "nota": "O óleo passa da marca MAX e a faixa acima fica vermelha; o motor em corte pisca em alerta."
+  },
+  "L11": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": [
+    "PASSOU DO MÁXIMO",
+    "CHAME A OFICINA"
+   ],
+   "nota": "Chave de ignição de arame com um X; o ícone de oficina acende em ciano ao lado."
+  },
+  "L12": {
+   "zona": "motor",
+   "etiqueta": [
+    "ÓLEO DO MANUAL",
+    "AOS POUCOS"
+   ],
+   "nota": "Funil de arame e frasco genérico sem marca: o óleo cai em gotas e, a cada gota, a vareta ao lado é conferida. O manual aponta para o frasco."
+  },
+  "L13": {
+   "zona": "motor",
+   "etiqueta": [
+    "CONFIRA SEMPRE",
+    "ANTES DE VIAJAR"
+   ],
+   "nota": "Calendário com marca repetida e ícone de mala e estrada; a vareta aparece ao lado e acende em ciano."
+  },
+  "L14": {
+   "zona": "painel",
+   "etiqueta": [
+    "NÍVEL NO PAINEL",
+    "VEJA O MANUAL"
+   ],
+   "nota": "Painel de arame com uma barra de nível de óleo no visor, sem vareta. O manual abre e destaca a página do nível."
+  },
+  "L15": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": [
+    "LUZ DO ÓLEO",
+    "OUTRO CASO"
+   ],
+   "nota": "O símbolo genérico de óleo acende em vermelho no painel e um cartão \"outro vídeo\" aparece ao lado."
+  },
+  "L16": {
+   "zona": "motor",
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (o motor e a vareta de óleo); a etiqueta RESUMO aparece."
+  },
+  "L17": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

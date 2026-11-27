@@ -1,0 +1,85 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE STRADA",
+ "titulo": "FALANDO DE STRADA #4",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: comunicado Fiat/Stellantis, 23/05/2025",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "ÁGUA NA CENTRAL?",
+   "nota": "Gota cai sobre uma central eletrônica no cofre do motor."
+  },
+  "L02": {
+   "zona": "motor",
+   "cartao": {
+    "rotulo": "Recall da Fiat",
+    "valor": "2025",
+    "unidade": "",
+    "detalhe": "Central do motor (ECM), Nova Strada 2025",
+    "palavra": "cinco"
+   },
+   "legenda": "Em maio de 2025, a Fiat fez recall da central de gerenciamento do motor, a ECM, da Nova Strada ano-modelo 2025.",
+   "nota": "Calendário maio de 2025; selo RECALL; módulo ECM em destaque."
+  },
+  "L03": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "ENTRADA DE ÁGUA",
+   "nota": "Corte da central; água infiltra pela junta."
+  },
+  "L04": {
+   "zona": "motor",
+   "estado": "alerta",
+   "etiqueta": "MOTOR PODE DESLIGAR",
+   "nota": "Painel apaga; velocímetro cai; a Strada perde força em pista."
+  },
+  "L05": {
+   "zona": "motor",
+   "cartao": {
+    "rotulo": "Troca gratuita",
+    "valor": "1 HORA",
+    "unidade": "",
+    "detalhe": "Com agendamento na concessionária",
+    "palavra": "hora"
+   },
+   "nota": "Central nova entra no lugar; relógio de 1 hora; selo GRÁTIS."
+  },
+  "L06": {
+   "zona": "carro",
+   "etiqueta": "MAIS 5 MODELOS",
+   "nota": "Cinco silhuetas de carros aparecem ao lado da Strada."
+  },
+  "L07": {
+   "zona": "carro",
+   "etiqueta": "MOTOR: NÃO CITADO",
+   "nota": "Ficha da Strada com campos MOTOR e UNIDADES vazios."
+  },
+  "L08": {
+   "zona": "motor",
+   "etiqueta": "SEM SINTOMA, TAMBÉM",
+   "fonte": "Fonte: AutoPapo, 02/06/2025",
+   "nota": "Carro sem nenhum aviso no painel; mesmo assim o selo RECALL aparece."
+  },
+  "L09": {
+   "zona": "carroceria",
+   "pontos": [
+    "chassi"
+   ],
+   "etiqueta": "CONFIRA O CHASSI",
+   "fonte": "Fonte: Ministério dos Transportes, 04/10/2024",
+   "nota": "Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo."
+  },
+  "L10": {
+   "zona": "motor",
+   "etiqueta": "RESUMO",
+   "nota": "A Strada inteira em arame, com a zona do problema acesa (a central do motor); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

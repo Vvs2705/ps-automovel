@@ -1,0 +1,128 @@
+{
+ "estilo": "chalkboard",
+ "carro": "hatch",
+ "serie": "VOLANTE TREMENDO",
+ "fonte": "Fonte: Pirelli, Michelin, Continental, Goodyear",
+ "falas": {
+  "L01": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "VOLANTE TREMENDO",
+   "nota": "Volante de arame em primeiro plano, tremendo; um alerta laranja pulsa no centro."
+  },
+  "L02": {
+   "zona": "painel",
+   "etiqueta": "QUANDO TREME?",
+   "nota": "O volante segue tremendo; ao redor dele acendem em fila um velocímetro, um pedal de freio e um pneu, com um \"?\" no meio."
+  },
+  "L03": {
+   "zona": "pneus",
+   "estado": "atencao",
+   "etiqueta": [
+    "CERTA VELOCIDADE",
+    "RODA E PNEU"
+   ],
+   "nota": "Velocímetro de arame com o ponteiro subindo; o tremor do volante cresce com ele. A roda em corte mostra um ponto pesado laranja girando."
+  },
+  "L04": {
+   "zona": "pneus",
+   "etiqueta": [
+    "BALANCEAMENTO",
+    "PESOS NA RODA"
+   ],
+   "nota": "Máquina de balancear em arame gira a roda; pequenos blocos ciano encaixam no aro e o ponto pesado se apaga."
+  },
+  "L05": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": [
+    "ALINHAMENTO",
+    "SUSPENSÃO"
+   ],
+   "nota": "A roda já equilibrada gira firme, mas o volante ainda treme; dois ícones acendem em sequência: setas de alinhamento e uma mola de suspensão."
+  },
+  "L06": {
+   "zona": "pneus",
+   "estado": "atencao",
+   "etiqueta": [
+    "PNEU DANIFICADO",
+    "RODA TORTA",
+    "RODA FROUXA"
+   ],
+   "nota": "Três rodas lado a lado: pneu com um corte vermelho, aro oval (torto) e uma roda com um parafuso girando frouxo. O volante treme."
+  },
+  "L07": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": [
+    "SÓ AO FREAR",
+    "DISCO OU PASTILHA"
+   ],
+   "nota": "O pedal desce e só então o volante treme; o disco de freio visto de lado mostra uma ondulação exagerada em vermelho e uma pastilha gasta torta."
+  },
+  "L08": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": [
+    "FOLGA NA DIREÇÃO",
+    "PEÇAS GASTAS"
+   ],
+   "nota": "Corte da direção, do volante às rodas; uma articulação com folga balança num halo vermelho e o tremor sobe até o volante."
+  },
+  "L09": {
+   "zona": "susp_dianteira",
+   "estado": "alerta",
+   "etiqueta": [
+    "TERMINAL GASTO",
+    "PODE QUEBRAR"
+   ],
+   "nota": "Zoom no terminal entre a caixa de direção e a roda; ele racha e parte, e o volante passa a girar solto, sem mover a roda."
+  },
+  "L10": {
+   "zona": "pneus",
+   "estado": "alerta",
+   "etiqueta": "BOLHA NO PNEU",
+   "nota": "Pneu de arame com uma bolha em relevo na lateral, pulsando em vermelho; o volante treme ao lado."
+  },
+  "L11": {
+   "zona": "pneus",
+   "estado": "alerta",
+   "etiqueta": "RISCO DE ESTOURO",
+   "nota": "A bolha cresce e o pneu estoura em câmera lenta; o carro de arame se desvia da faixa."
+  },
+  "L12": {
+   "zona": "carro",
+   "estado": "alerta",
+   "etiqueta": [
+    "PARE COM SEGURANÇA",
+    "CHAME AJUDA"
+   ],
+   "nota": "O carro de arame encosta no acostamento com as setas piscando; dois ícones acendem: guincho e oficina."
+  },
+  "L13": {
+   "zona": "carro",
+   "estado": "alerta",
+   "etiqueta": [
+    "TREMOR FORTE",
+    "BARULHO",
+    "CARRO PUXANDO"
+   ],
+   "nota": "Três alertas vermelhos em volta do volante: onda de som, seta de desvio e tremor forte; uma seta aponta para a oficina."
+  },
+  "L14": {
+   "zona": "painel",
+   "etiqueta": "DIGA QUANDO TREME",
+   "nota": "Uma ficha com quatro caixas marcadas surge no painel: velocidade, só ao frear, barulho, puxa para um lado."
+  },
+  "L15": {
+   "zona": "painel",
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (o volante e as rodas); a etiqueta RESUMO aparece."
+  },
+  "L16": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

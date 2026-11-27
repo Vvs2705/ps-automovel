@@ -1,0 +1,93 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE STRADA",
+ "titulo": "FALANDO DE STRADA #6",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: comunicado FCA, 09/12/2022",
+ "falas": {
+  "L01": {
+   "zona": "tanque",
+   "estado": "atencao",
+   "etiqueta": "VAZAMENTO?",
+   "nota": "Gota de combustível escorre de uma mangueira no cofre do motor."
+  },
+  "L02": {
+   "zona": "tanque",
+   "cartao": {
+    "rotulo": "Recall da Fiat",
+    "valor": "DEZ/2022",
+    "unidade": "",
+    "detalhe": "Nova Strada, ano-modelo 2022",
+    "palavra": "dezembro"
+   },
+   "legenda": "Em dezembro de 2022, a Fiat fez recall da tubulação de combustível da Nova Strada, ano-modelo 2022.",
+   "nota": "Calendário dezembro de 2022; selo RECALL sobre a Nova Strada 2022."
+  },
+  "L03": {
+   "zona": "tanque",
+   "cartao": {
+    "rotulo": "Stradas convocadas",
+    "valor": "48.901",
+    "unidade": "",
+    "detalhe": "Recall de 6 modelos",
+    "palavra": "nove"
+   },
+   "legenda": "Foram quase 49 mil Stradas, de um recall de seis modelos.",
+   "nota": "Contador sobe até 48.901 Stradas; seis silhuetas de carros ao fundo."
+  },
+  "L04": {
+   "zona": "tanque",
+   "estado": "atencao",
+   "etiqueta": "TUBULAÇÃO DEGRADA",
+   "nota": "Tubulação em corte com a parede se desgastando; gota de etanol."
+  },
+  "L05": {
+   "zona": "tanque",
+   "estado": "alerta",
+   "etiqueta": "VAZA E DESLIGA",
+   "nota": "Vazamento sob o carro; motor apaga em movimento."
+  },
+  "L06": {
+   "zona": "tanque",
+   "cartao": {
+    "rotulo": "Troca gratuita",
+    "valor": "3 HORAS",
+    "unidade": "",
+    "detalhe": "Da tubulação, com agendamento",
+    "palavra": "três"
+   },
+   "legenda": "O reparo é a troca gratuita da tubulação, em cerca de 3 horas, com agendamento.",
+   "nota": "Relógio de 3 horas; tubulação nova; selo GRÁTIS."
+  },
+  "L07": {
+   "zona": "carro",
+   "etiqueta": "MOTOR: NÃO CITADO",
+   "nota": "Ficha da Strada com campos MOTOR e VERSÃO vazios."
+  },
+  "L08": {
+   "zona": "carroceria",
+   "pontos": [
+    "chassi"
+   ],
+   "etiqueta": "CONFIRA O CHASSI",
+   "fonte": "Fonte: Ministério dos Transportes, 04/10/2024",
+   "nota": "Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo."
+  },
+  "L09": {
+   "zona": "tanque",
+   "estado": "alerta",
+   "etiqueta": "CHEIRO? PROCURE AJUDA",
+   "nota": "Alerta de cheiro; seta para a concessionária."
+  },
+  "L10": {
+   "zona": "tanque",
+   "etiqueta": "RESUMO",
+   "nota": "A Strada inteira em arame, com a zona do problema acesa (o tanque e a tubulação de combustível); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

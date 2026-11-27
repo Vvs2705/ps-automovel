@@ -1,0 +1,107 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE HB20",
+ "titulo": "FALANDO DE HB20 #7",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Hyundai, recalls de 2017 e 2019",
+ "falas": {
+  "L01": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": "RUÍDO AO MANOBRAR?",
+   "nota": "Volante gira; ruído seco sai da roda dianteira."
+  },
+  "L02": {
+   "zona": "cambio",
+   "cartao": {
+    "rotulo": "Câmbio manual de 5 marchas",
+    "valor": "1.0",
+    "unidade": "",
+    "detalhe": "HB20 e HB20S",
+    "palavra": "zero"
+   },
+   "legenda": "A Hyundai fez dois recalls do semieixo dianteiro do HB20 e do HB20S com motor 1.0 e câmbio manual de cinco marchas.",
+   "nota": "Hatch e sedã; selo 1.0 MANUAL; semieixo destacado."
+  },
+  "L03": {
+   "zona": "susp_dianteira",
+   "cartao": {
+    "rotulo": "Primeiro recall",
+    "valor": "2017",
+    "unidade": "",
+    "detalhe": "Carros 2017, feitos de abril a maio",
+    "palavra": "dezessete"
+   },
+   "legenda": "O primeiro, em 2017, foi para carros do ano 2017, feitos entre abril e maio.",
+   "nota": "Calendário abril e maio de 2017; contador até 3 mil."
+  },
+  "L04": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": "DUREZA ABAIXO",
+   "nota": "Junta homocinética em corte; escala de dureza abaixo da marca."
+  },
+  "L05": {
+   "zona": "susp_dianteira",
+   "cartao": {
+    "rotulo": "Segundo recall",
+    "valor": "2019",
+    "unidade": "",
+    "detalhe": "Semieixo direito, abril e maio",
+    "palavra": "dezenove"
+   },
+   "legenda": "O segundo, em 2019, foi para carros do ano 2019, feitos entre abril e maio, com um lote de semieixos do lado direito de baixa resistência ao torque.",
+   "nota": "Calendário abril e maio de 2019; lado direito da roda dianteira destacado."
+  },
+  "L06": {
+   "zona": "susp_dianteira",
+   "estado": "alerta",
+   "etiqueta": [
+    "RUÍDO NAS MANOBRAS",
+    "PERDA DE TRAÇÃO"
+   ],
+   "nota": "Ícone de ruído e vibração; roda gira sem transmitir força."
+  },
+  "L07": {
+   "zona": "carro",
+   "estado": "atencao",
+   "etiqueta": [
+    "FREIO FUNCIONA",
+    "PARE E PROCURE"
+   ],
+   "nota": "Pedal e volante com visto; seta para a concessionária."
+  },
+  "L08": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Inspeção e troca grátis",
+    "valor": "2 HORAS",
+    "unidade": "",
+    "detalhe": "Tempo médio do reparo",
+    "palavra": "duas"
+   },
+   "legenda": "Nos dois casos, inspeção e troca, se preciso, são gratuitas, em cerca de 2 horas.",
+   "nota": "Selo GRÁTIS; relógio de 2 horas; semieixo novo entra."
+  },
+  "L09": {
+   "zona": "carro",
+   "etiqueta": "CONFIRA O CHASSI",
+   "pontos": [
+    "porta",
+    "chassi"
+   ],
+   "nota": "Campo de chassi e botão Consultar."
+  },
+  "L10": {
+   "zona": "susp_dianteira",
+   "etiqueta": "RESUMO",
+   "nota": "O HB20 inteiro em arame, com a zona do problema acesa (o semieixo dianteiro); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "legenda": "Se esse vídeo te ajudou, salve e mande para quem tem um HB20.",
+   "nota": "O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

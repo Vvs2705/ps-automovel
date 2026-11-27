@@ -1,0 +1,70 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE ONIX",
+ "titulo": "FALANDO DE ONIX #2",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Quatro Rodas, 19/04/2022",
+ "falas": {
+  "L01": {
+   "zona": "painel",
+   "seta": true,
+   "etiqueta": "CHEIRO RUIM?",
+   "nota": "Ventilação do painel; nuvem verde de cheiro sobe das saídas de ar."
+  },
+  "L02": {
+   "zona": "painel",
+   "etiqueta": "RELATO DE DONOS",
+   "nota": "Saídas de ar com odor em tom esverdeado; selo RELATO DE DONOS."
+  },
+  "L03": {
+   "zona": "painel",
+   "etiqueta": "BOLETIM TÉCNICO",
+   "legenda": "Em 2022, a Quatro Rodas reproduziu um boletim técnico que a Chevrolet enviou às concessionárias.",
+   "nota": "Documento do boletim com carimbo da concessionária."
+  },
+  "L04": {
+   "zona": "painel",
+   "lupa": true,
+   "etiqueta": "ESPUMA DO EVAPORADOR",
+   "nota": "Corte do evaporador; água acumulada na espuma."
+  },
+  "L05": {
+   "zona": "painel",
+   "etiqueta": "FAIXA DE CHASSI",
+   "cartao": {
+    "rotulo": "Modelos do boletim",
+    "valor": "2020–2022",
+    "unidade": "",
+    "detalhe": "Por faixa de chassi",
+    "palavra": "vinte"
+   },
+   "legenda": "Vale para modelos de 2020 a 2022, por faixa de chassi.",
+   "nota": "Três silhuetas com os anos 2020, 2021 e 2022; faixa de chassi."
+  },
+  "L06": {
+   "zona": "painel",
+   "etiqueta": "NÃO É RECALL",
+   "nota": "Espuma antiga sai e espuma nova entra; carimbo RECALL riscado."
+  },
+  "L07": {
+   "zona": "painel",
+   "etiqueta": "SPRAY NÃO RESOLVEU",
+   "nota": "Spray e gerador de ozônio com X; caixa evaporadora nova com visto."
+  },
+  "L08": {
+   "zona": "painel",
+   "etiqueta": "PEÇA A VERIFICAÇÃO",
+   "nota": "Manual na página do ar-condicionado; técnico confere o evaporador."
+  },
+  "L09": {
+   "zona": "painel",
+   "etiqueta": "RESUMO",
+   "nota": "Os pontos principais aparecem numa lista rápida na tela."
+  },
+  "L10": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "Botão salvar e ícone de compartilhar sobre um Onix."
+  }
+ }
+}

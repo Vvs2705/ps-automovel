@@ -1,0 +1,96 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE HB20",
+ "titulo": "FALANDO DE HB20 #2",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Oficina Brasil e O Mecânico, 2020",
+ "falas": {
+  "L01": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "MOTOR FALHANDO?",
+   "nota": "Ponteiro do conta-giros treme; luz de injeção pisca."
+  },
+  "L02": {
+   "zona": "motor",
+   "cartao": {
+    "rotulo": "Primeira geração",
+    "valor": "1.0",
+    "unidade": "",
+    "detalhe": "Motor de 3 cilindros",
+    "palavra": "zero"
+   },
+   "legenda": "Mecânicos e guias de compra citam falha de ignição no HB20 1.0, da primeira geração.",
+   "nota": "Corte do motor de três cilindros; três bobinas acendem."
+  },
+  "L03": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": [
+    "LUZ DA INJEÇÃO",
+    "TIROS NO ESCAPE"
+   ],
+   "nota": "Luz de injeção acesa; estouros no escapamento em câmera lenta."
+  },
+  "L04": {
+   "zona": "motor",
+   "cartao": {
+    "rotulo": "Falha relatada perto de",
+    "valor": "40 MIL KM",
+    "unidade": "",
+    "detalhe": "Dois reparadores, Oficina Brasil, 2020",
+    "palavra": "quarenta"
+   },
+   "legenda": "Dois reparadores ouvidos pela Oficina Brasil em 2020 falaram de bobina e vela com falha perto de 40 mil quilômetros.",
+   "nota": "Odômetro chegando perto de 40 mil km; dois balões de mecânicos."
+  },
+  "L05": {
+   "zona": "motor",
+   "cartao": {
+    "rotulo": "Teste O Mecânico, HB20 2018",
+    "valor": "72 MIL KM",
+    "unidade": "",
+    "detalhe": "Velas com folga acima do nominal",
+    "palavra": "setenta"
+   },
+   "legenda": "Num teste da revista O Mecânico, num HB20 2018 com 72 mil quilômetros, a bobina do terceiro cilindro teve problema na medição elétrica e as velas estavam com a folga acima do nominal.",
+   "nota": "Multímetro mede a bobina do terceiro cilindro; paquímetro mede a vela: 1 mm contra 0,8."
+  },
+  "L06": {
+   "zona": "escapamento",
+   "estado": "alerta",
+   "etiqueta": "RISCO AO CATALISADOR",
+   "nota": "Catalisador em corte esquenta em vermelho."
+  },
+  "L07": {
+   "zona": "motor",
+   "etiqueta": [
+    "SCANNER",
+    "TESTE ELÉTRICO"
+   ],
+   "nota": "Scanner conectado; bobina e jogo de velas novos sobre a bancada."
+  },
+  "L08": {
+   "zona": "carro",
+   "etiqueta": "RELATO, NÃO RECALL",
+   "nota": "Carimbo RELATO RECORRENTE; sem selo de recall."
+  },
+  "L09": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "DIAGNOSTIQUE ANTES",
+   "nota": "Carro entra na oficina; mecânico liga o scanner."
+  },
+  "L10": {
+   "zona": "motor",
+   "etiqueta": "RESUMO",
+   "nota": "O HB20 inteiro em arame, com a zona do problema acesa (o motor, com bobina e velas); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "legenda": "Se esse vídeo te ajudou, salve e mande para quem tem um HB20.",
+   "nota": "O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

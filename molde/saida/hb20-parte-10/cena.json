@@ -1,0 +1,86 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE HB20",
+ "titulo": "FALANDO DE HB20 #10",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Hyundai, aviso de recall, 02/10/2023",
+ "falas": {
+  "L01": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "RECALL: CÂMBIO AUTOMÁTICO",
+   "nota": "Alavanca do câmbio automático e módulo eletrônico em corte."
+  },
+  "L02": {
+   "zona": "cambio",
+   "cartao": {
+    "rotulo": "Câmbio automático",
+    "valor": "2023–2024",
+    "unidade": "",
+    "detalhe": "HB20 e HB20S",
+    "palavra": "três"
+   },
+   "legenda": "A Hyundai fez recall do HB20 e do HB20S com câmbio automático, anos 2023 e 2024.",
+   "nota": "Hatch e sedã; selo AUTOMÁTICO 2023 E 2024."
+  },
+  "L03": {
+   "zona": "carro",
+   "etiqueta": "PRODUÇÃO 12/2022–09/2023",
+   "legenda": "Foram carros feitos entre dezembro de 2022 e setembro de 2023.",
+   "nota": "Linha do tempo de dezembro de 2022 a setembro de 2023."
+  },
+  "L04": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "MÓDULO DA BOMBA",
+   "nota": "Módulo eletrônico da bomba de óleo em destaque."
+  },
+  "L05": {
+   "zona": "cambio",
+   "estado": "alerta",
+   "etiqueta": [
+    "CURTO-CIRCUITO",
+    "INCÊNDIO",
+    "SITUAÇÃO EXTREMA"
+   ],
+   "nota": "Faísca curta no módulo; alerta de incêndio."
+  },
+  "L06": {
+   "zona": "painel",
+   "etiqueta": "SEM SINAL DESCRITO",
+   "nota": "Painel limpo, sem luz acesa; interrogação."
+  },
+  "L07": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Inspeção gratuita",
+    "valor": "2 HORAS",
+    "unidade": "",
+    "detalhe": "Troca do módulo, se preciso",
+    "palavra": "duas"
+   },
+   "legenda": "A correção é gratuita: a concessionária inspeciona o módulo e troca se for preciso, em cerca de 2 horas.",
+   "nota": "Selo GRÁTIS; relógio de 2 horas; módulo novo."
+  },
+  "L08": {
+   "zona": "carro",
+   "etiqueta": "CONFIRA O CHASSI",
+   "pontos": [
+    "porta",
+    "chassi"
+   ],
+   "nota": "Campo de chassi e botão Consultar."
+  },
+  "L09": {
+   "zona": "cambio",
+   "etiqueta": "RESUMO",
+   "nota": "O HB20 inteiro em arame, com a zona do problema acesa (o câmbio); a etiqueta RESUMO aparece."
+  },
+  "L10": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "legenda": "Se esse vídeo te ajudou, salve e mande para quem tem um HB20.",
+   "nota": "O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

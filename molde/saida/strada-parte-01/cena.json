@@ -1,0 +1,78 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE STRADA",
+ "titulo": "FALANDO DE STRADA #1",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Mobiauto e Garagem360, 2022 e 2025",
+ "falas": {
+  "L01": {
+   "zona": "carroceria",
+   "estado": "atencao",
+   "etiqueta": "ÁGUA NA CABINE?",
+   "nota": "Gotas de chuva escorrem pelo vidro; uma poça se forma no tapete do carona."
+  },
+  "L02": {
+   "zona": "carroceria",
+   "etiqueta": "RELATO DE DONOS",
+   "nota": "Silhueta da Nova Strada sob chuva; gotas entram pela borda da porta."
+  },
+  "L03": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Matérias de",
+    "valor": "2022/2025",
+    "unidade": "",
+    "detalhe": "Relato de donos, duas épocas",
+    "palavra": "cinco"
+   },
+   "legenda": "O relato aparece em matérias de 2022 e de 2025.",
+   "nota": "Linha do tempo com dois marcos: 2022 e 2025."
+  },
+  "L04": {
+   "zona": "carro",
+   "etiqueta": "MOTOR: NÃO CITADO",
+   "legenda": "As matérias falam da Nova Strada, inclusive unidades 2024, e não citam o motor.",
+   "fonte": "Fonte: Agora Motor, 07/03/2025",
+   "nota": "Selo NOVA STRADA 2020 EM DIANTE; campo MOTOR com interrogação."
+  },
+  "L05": {
+   "zona": "carroceria",
+   "seta": true,
+   "etiqueta": "LADO DO CARONA",
+   "fonte": "Fonte: Mobiauto, 25/02/2022",
+   "nota": "Seta no lado do carona; ícone de oficina com um visto e a gota voltando."
+  },
+  "L06": {
+   "zona": "carroceria",
+   "etiqueta": "VEDAÇÃO? HIPÓTESE",
+   "nota": "Borracha da porta em corte, destacada; carimbo HIPÓTESE."
+  },
+  "L07": {
+   "zona": "carro",
+   "etiqueta": "FABRICANTE RESPONDEU",
+   "fonte": "Fonte: nota da fabricante, fev/2025 (via imprensa)",
+   "nota": "Balão de resposta da fabricante com as palavras PONTUAIS e CAUSAS DISTINTAS."
+  },
+  "L08": {
+   "zona": "carro",
+   "etiqueta": "SEM RECALL ACHADO",
+   "fonte": "Fonte: comunicados Stellantis, 12/2023 a 11/2026",
+   "nota": "Carimbo RECALL riscado sobre a lista de comunicados."
+  },
+  "L09": {
+   "zona": "carroceria",
+   "etiqueta": "REGISTRE POR ESCRITO",
+   "nota": "Celular fotografa o tapete molhado; folha com data e protocolo."
+  },
+  "L10": {
+   "zona": "carroceria",
+   "etiqueta": "RESUMO",
+   "nota": "A Strada inteira em arame, com a zona do problema acesa (a cabine); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

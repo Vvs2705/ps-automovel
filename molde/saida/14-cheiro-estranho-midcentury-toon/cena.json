@@ -1,0 +1,121 @@
+{
+ "estilo": "midcentury-toon",
+ "carro": "hatch",
+ "serie": "CHEIRO ESTRANHO NO CARRO",
+ "fonte": "Fonte: manuais Hyundai, Kia e Mazda; Cobreq",
+ "falas": {
+  "L01": {
+   "zona": "carro",
+   "estado": "atencao",
+   "etiqueta": "CHEIRO É AVISO",
+   "nota": "Carro de arame; uma onda de cheiro laranja sai do capô e um triângulo de aviso pisca sobre ela."
+  },
+  "L02": {
+   "zona": "tanque",
+   "estado": "alerta",
+   "etiqueta": [
+    "COMBUSTÍVEL",
+    "RISCO DE FOGO"
+   ],
+   "nota": "Tanque e linha de combustível em arame; gotas escorrem, o vapor sobe em ondas laranja e uma faísca perto dele acende uma chama vermelha."
+  },
+  "L03": {
+   "zona": "carro",
+   "estado": "alerta",
+   "etiqueta": [
+    "PARE E DESLIGUE",
+    "CHAME O GUINCHO"
+   ],
+   "nota": "O carro de arame encosta numa área segura; a chave gira para desligar; um símbolo de chama recebe um X; um guincho de arame chega."
+  },
+  "L04": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": "CHEIRO ADOCICADO",
+   "nota": "Radiador e reservatório em corte; gotas ciano escorrem de uma mangueira e uma onda de cheiro suave sobe."
+  },
+  "L05": {
+   "zona": "arrefecimento",
+   "estado": "alerta",
+   "etiqueta": "NÃO ABRA QUENTE",
+   "nota": "Termômetro sobe e o carro encosta; um relógio de espera gira; a tampa do reservatório solta vapor e leva um X vermelho."
+  },
+  "L06": {
+   "zona": "carro",
+   "estado": "atencao",
+   "etiqueta": [
+    "FREIO",
+    "EMBREAGEM",
+    "ELÉTRICA"
+   ],
+   "nota": "Três peças de arame brilham em sequência: pinça de freio, disco de embreagem e chicote elétrico, cada uma soltando uma onda de cheiro."
+  },
+  "L07": {
+   "zona": "carro",
+   "estado": "alerta",
+   "etiqueta": "COM FUMAÇA SAIA",
+   "cartao": {
+    "rotulo": "Bombeiros",
+    "valor": "193",
+    "unidade": "",
+    "detalhe": "Com fumaça ou fogo",
+    "palavra": "três"
+   },
+   "legenda": "Pare em local seguro, desligue o motor e espere esfriar. Com fumaça, saia, afaste-se e ligue 193.",
+   "nota": "O carro encosta e o motor desliga; fumaça sobe do capô; um boneco de arame sem rosto sai do carro, se afasta e um telefone holográfico mostra o número."
+  },
+  "L08": {
+   "zona": "escapamento",
+   "estado": "alerta",
+   "etiqueta": [
+    "MONÓXIDO DE CARBONO",
+    "PODE SER FATAL"
+   ],
+   "nota": "Cabine em corte; do tubo de escapamento sob o piso, um gás vermelho transparente sobe pelo assoalho e preenche a cabine; nenhuma onda de cheiro acompanha o gás."
+  },
+  "L09": {
+   "zona": "carro",
+   "estado": "alerta",
+   "etiqueta": [
+    "ABRA OS VIDROS",
+    "OFICINA NA HORA"
+   ],
+   "nota": "Os quatro vidros descem e o gás vermelho sai pela abertura; uma seta ciano aponta para uma oficina de arame."
+  },
+  "L10": {
+   "zona": "carro",
+   "estado": "alerta",
+   "etiqueta": [
+    "DOR DE CABEÇA",
+    "SAIA DO CARRO"
+   ],
+   "nota": "Boneco de arame sem rosto leva a mão à cabeça, sai do carro para o ar livre e uma cruz de socorro acende em ciano."
+  },
+  "L11": {
+   "zona": "painel",
+   "etiqueta": [
+    "CHEIRO DE MOFO",
+    "UMIDADE E SUJEIRA"
+   ],
+   "nota": "Duto de ar-condicionado em corte; gotas de condensação e manchas de mofo aparecem no evaporador e no filtro; uma onda de cheiro sobe pela saída de ar."
+  },
+  "L12": {
+   "zona": "painel",
+   "etiqueta": [
+    "HIGIENIZAÇÃO",
+    "CONFIRA O FILTRO"
+   ],
+   "nota": "O filtro de cabine é retirado e um jato de limpeza ciano percorre o duto; o manual abre num capítulo de manutenção."
+  },
+  "L13": {
+   "zona": "carro",
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (o escapamento e o tanque); a etiqueta RESUMO aparece."
+  },
+  "L14": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

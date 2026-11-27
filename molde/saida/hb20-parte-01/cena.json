@@ -1,0 +1,90 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE HB20",
+ "titulo": "FALANDO DE HB20 #1",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Canaltech e Garagem360, 2026",
+ "falas": {
+  "L01": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": "NÍVEL CAINDO?",
+   "nota": "Reservatório de água com o nível descendo; luz de temperatura."
+  },
+  "L02": {
+   "zona": "motor",
+   "cartao": {
+    "rotulo": "Motor e câmbio",
+    "valor": "1.0 TURBO",
+    "unidade": "",
+    "detalhe": "Câmbio automático",
+    "palavra": "turbo"
+   },
+   "legenda": "Reportagens de 2026 dizem que a Hyundai reconheceu um problema no HB20 com motor 1.0 turbo e câmbio automático.",
+   "nota": "Silhueta do HB20; selo 1.0 TURBO AUTOMÁTICO."
+  },
+  "L03": {
+   "zona": "arrefecimento",
+   "estado": "atencao",
+   "etiqueta": "FLUIDOS SE MISTURAM",
+   "nota": "Corte do radiador: dois fluidos se encontram nas galerias internas."
+  },
+  "L04": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": [
+    "NÍVEL CAINDO",
+    "LUZ DA INJEÇÃO",
+    "SUPERAQUECIMENTO"
+   ],
+   "nota": "Cinco ícones acendem em sequência: nível, injeção, potência, temperatura, câmbio."
+  },
+  "L05": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Hyundai identificou",
+    "valor": "2023",
+    "unidade": "",
+    "detalhe": "Atendimentos caem desde 2024",
+    "palavra": "três"
+   },
+   "legenda": "A Hyundai diz ter identificado o problema em 2023, em algumas unidades, e que os atendimentos diminuem desde 2024.",
+   "nota": "Linha do tempo: 2023 marcado; barra de atendimentos descendo a partir de 2024."
+  },
+  "L06": {
+   "zona": "carro",
+   "etiqueta": "REPARO EM GARANTIA",
+   "nota": "Selo GARANTIA sobre a oficina da concessionária."
+  },
+  "L07": {
+   "zona": "carro",
+   "etiqueta": "NÃO É RECALL",
+   "nota": "Carimbo RECALL riscado; campo de chassi vazio."
+  },
+  "L08": {
+   "zona": "carro",
+   "etiqueta": "DIAGNÓSTICO NA AUTORIZADA",
+   "nota": "Técnico conecta o scanner; prancheta com histórico."
+  },
+  "L09": {
+   "zona": "arrefecimento",
+   "estado": "alerta",
+   "etiqueta": [
+    "PARE E CHAME",
+    "NÃO ABRA TAMPA"
+   ],
+   "nota": "Carro encostado, pisca-alerta; mão afastada da tampa do radiador."
+  },
+  "L10": {
+   "zona": "arrefecimento",
+   "etiqueta": "RESUMO",
+   "nota": "O HB20 inteiro em arame, com a zona do problema acesa (o radiador); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "legenda": "Se esse vídeo te ajudou, salve e mande para quem tem um HB20.",
+   "nota": "O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE STRADA",
+ "titulo": "FALANDO DE STRADA #8",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: ISTOÉ Dinheiro/Estadão, 22/05/2017",
+ "falas": {
+  "L01": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": "ALTERNADOR",
+   "nota": "Alternador em corte gira e carrega a bateria."
+  },
+  "L02": {
+   "zona": "eletrica",
+   "cartao": {
+    "rotulo": "Recall da Fiat",
+    "valor": "MAI/2017",
+    "unidade": "",
+    "detalhe": "Mais de 70 mil carros, alternador",
+    "palavra": "maio"
+   },
+   "legenda": "Em maio de 2017, a Fiat convocou mais de 70 mil carros para recall do alternador.",
+   "nota": "Calendário maio de 2017; contador sobe até 70 mil."
+  },
+  "L03": {
+   "zona": "eletrica",
+   "cartao": {
+    "rotulo": "Stradas 2016 e 2017",
+    "valor": "28.935",
+    "unidade": "",
+    "detalhe": "De um total de 70.740 carros",
+    "palavra": "nove"
+   },
+   "legenda": "Entre eles, quase 29 mil Stradas, de 2016 e 2017.",
+   "fonte": "Fonte: Auto+ TV, 23/05/2017",
+   "nota": "Silhueta da Strada com os selos 2016 e 2017."
+  },
+  "L04": {
+   "zona": "eletrica",
+   "estado": "alerta",
+   "etiqueta": "MOTOR PODE DESLIGAR",
+   "nota": "Alternador em corte; a carga cai e o motor apaga."
+  },
+  "L05": {
+   "zona": "eletrica",
+   "cartao": {
+    "rotulo": "Reparo gratuito",
+    "valor": "1 HORA",
+    "unidade": "",
+    "detalhe": "A partir de 24/05/2017",
+    "palavra": "hora"
+   },
+   "fonte": "Fonte: Auto+ TV, 23/05/2017",
+   "nota": "Relógio de 1 hora; selo GRÁTIS."
+  },
+  "L06": {
+   "zona": "eletrica",
+   "cartao": {
+    "rotulo": "2º recall do alternador",
+    "valor": "MAR/2018",
+    "unidade": "",
+    "detalhe": "Strada 1.4, 2016 e 2017",
+    "palavra": "março"
+   },
+   "legenda": "Em março de 2018 veio um segundo recall de alternador, com a Strada 1.4, de 2016 e 2017.",
+   "fonte": "Fonte: iCarros, 09/03/2018",
+   "nota": "Calendário março de 2018; Strada 1.4 com selos 2016 e 2017."
+  },
+  "L07": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": "MESMO RISCO",
+   "fonte": "Fonte: iCarros, 09/03/2018",
+   "nota": "Ícone de motor apagando."
+  },
+  "L08": {
+   "zona": "carroceria",
+   "pontos": [
+    "chassi"
+   ],
+   "etiqueta": "CONFIRA O CHASSI",
+   "fonte": "Fonte: Ministério dos Transportes, 04/10/2024",
+   "nota": "Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo."
+  },
+  "L09": {
+   "zona": "eletrica",
+   "etiqueta": "PEÇA O COMPROVANTE",
+   "nota": "Vendedor entrega um papel carimbado."
+  },
+  "L10": {
+   "zona": "eletrica",
+   "etiqueta": "RESUMO",
+   "nota": "A Strada inteira em arame, com a zona do problema acesa (o alternador); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

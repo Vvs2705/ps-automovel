@@ -1,0 +1,93 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE ONIX",
+ "titulo": "FALANDO DE ONIX #8",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Procon-TO, 28/06/2013",
+ "falas": {
+  "L01": {
+   "zona": "freios",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "PEDAL DE FREIO?",
+   "nota": "Pé no pedal de freio; suporte do pedal em destaque."
+  },
+  "L02": {
+   "zona": "carro",
+   "etiqueta": "FATO DOCUMENTADO",
+   "cartao": {
+    "rotulo": "Veículos no recall",
+    "valor": "11.521",
+    "unidade": "",
+    "detalhe": "Recall de junho de 2013",
+    "palavra": "onze"
+   },
+   "legenda": "Em junho de 2013, a Chevrolet fez recall de 11.521 veículos.",
+   "nota": "Contador sobe até 11.521; selo FATO DOCUMENTADO."
+  },
+  "L03": {
+   "zona": "carro",
+   "etiqueta": "CÂMBIO MANUAL",
+   "legenda": "Eram Onix e Prisma modelo 2013, Cobalt e Spin, equipados com câmbio manual, segundo o Procon do Tocantins.",
+   "nota": "Quatro silhuetas; alavanca de câmbio manual em destaque."
+  },
+  "L04": {
+   "zona": "carro",
+   "etiqueta": "MAIO/JUNHO 2013",
+   "legenda": "Foram fabricados entre 20 de maio e 8 de junho de 2013.",
+   "nota": "Calendário de 20 de maio a 8 de junho de 2013."
+  },
+  "L05": {
+   "zona": "freios",
+   "etiqueta": "SOLDA DO SUPORTE",
+   "nota": "Suporte do pedal em corte; solda em destaque."
+  },
+  "L06": {
+   "zona": "freios",
+   "estado": "alerta",
+   "etiqueta": "RISCO DE ACIDENTE",
+   "nota": "Pedal solta do suporte; luz de alerta."
+  },
+  "L07": {
+   "zona": "freios",
+   "cartao": {
+    "rotulo": "Pedais a trocar, no máx.",
+    "valor": "180",
+    "unidade": "",
+    "detalhe": "Estimativa da Chevrolet (Olhar Direto)",
+    "palavra": "oitenta"
+   },
+   "legenda": "O Olhar Direto informou que a Chevrolet estimava, no máximo, 180 carros com pedal a trocar.",
+   "fonte": "Fonte: Olhar Direto, 14/06/2013",
+   "nota": "Contador de 180 sobre 11.521 silhuetas."
+  },
+  "L08": {
+   "zona": "freios",
+   "etiqueta": "INSPEÇÃO GRÁTIS",
+   "nota": "Pedal novo entra no suporte; selo GRÁTIS."
+  },
+  "L09": {
+   "zona": "carro",
+   "etiqueta": "CONSULTE O CHASSI",
+   "legenda": "O serviço de recall do governo cobre campanhas desde 2011. Consulte o chassi, que é gratuito e pede conta gov.br.",
+   "nota": "Campo de chassi e botão Consultar; ícone gov.br; selo 2011."
+  },
+  "L10": {
+   "zona": "freios",
+   "estado": "alerta",
+   "etiqueta": "PEDAL ESTRANHO, PARE",
+   "nota": "Pedal do freio com folga estranha; carro encostado."
+  },
+  "L11": {
+   "zona": "freios",
+   "etiqueta": "RESUMO",
+   "legenda": "Resumindo: o recall de 2013 trata da solda do suporte do pedal de freio, com inspeção e troca gratuitas.",
+   "nota": "Os pontos principais aparecem numa lista rápida na tela."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "Botão salvar e ícone de compartilhar sobre um Onix."
+  }
+ }
+}

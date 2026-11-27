@@ -1,0 +1,104 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE HB20",
+ "titulo": "FALANDO DE HB20 #9",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Hyundai, recalls de 2020 e 2021",
+ "falas": {
+  "L01": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": "CILINDRO MESTRE",
+   "nota": "Cilindro mestre do freio em corte, sob o pedal."
+  },
+  "L02": {
+   "zona": "freios",
+   "etiqueta": "DOIS RECALLS",
+   "nota": "Dois selos de recall, 2020 e 2021, sobre o pedal de freio."
+  },
+  "L03": {
+   "zona": "freios",
+   "cartao": {
+    "rotulo": "Primeiro recall",
+    "valor": "2020",
+    "unidade": "",
+    "detalhe": "Lote de uma semana de março",
+    "palavra": "vinte"
+   },
+   "legenda": "Em 2020, num lote feito em uma semana de março, o fluido de freio da linha de produção estava contaminado.",
+   "nota": "Calendário de uma semana de março de 2020; frasco de fluido."
+  },
+  "L04": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": [
+    "PEDAL LENTO, SUAVE",
+    "EMERGÊNCIA FUNCIONA"
+   ],
+   "nota": "Pedal pressionado devagar: barra de frenagem cai; pisada funda: barra sobe."
+  },
+  "L05": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Segundo recall",
+    "valor": "2021–2022",
+    "unidade": "",
+    "detalhe": "HB20, HB20S e HB20X",
+    "palavra": "um"
+   },
+   "legenda": "Em 2021, o recall valeu para o HB20, o sedã e o X, anos 2021 e 2022.",
+   "nota": "Três silhuetas; linha do tempo de novembro de 2020 a novembro de 2021."
+  },
+  "L06": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": [
+    "VARIAÇÃO NA USINAGEM",
+    "SELOS DE VEDAÇÃO"
+   ],
+   "nota": "Selo de vedação do cilindro mestre com dano."
+  },
+  "L07": {
+   "zona": "freios",
+   "estado": "atencao",
+   "etiqueta": [
+    "SÓ UMA LINHA",
+    "SEM PERDA TOTAL"
+   ],
+   "nota": "Circuito de freio com duas linhas; uma destacada em vermelho."
+  },
+  "L08": {
+   "zona": "carro",
+   "cartao": {
+    "rotulo": "Inspeção e troca grátis",
+    "valor": "2 HORAS",
+    "unidade": "",
+    "detalhe": "Troca do cilindro mestre",
+    "palavra": "duas"
+   },
+   "etiqueta": "PARE E PROCURE",
+   "legenda": "Nos dois casos, a Hyundai recomenda parar de usar o carro e procurar a concessionária. Inspeção e troca do cilindro mestre são gratuitas e levam cerca de 2 horas.",
+   "nota": "Selo GRÁTIS; relógio de 2 horas; cilindro mestre novo."
+  },
+  "L09": {
+   "zona": "carro",
+   "etiqueta": "CONFIRA O CHASSI",
+   "pontos": [
+    "porta",
+    "chassi"
+   ],
+   "nota": "Campo de chassi e botão Consultar."
+  },
+  "L10": {
+   "zona": "freios",
+   "etiqueta": "RESUMO",
+   "nota": "O HB20 inteiro em arame, com a zona do problema acesa (os freios); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "legenda": "Se esse vídeo te ajudou, salve e mande para quem tem um HB20.",
+   "nota": "O HB20 inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

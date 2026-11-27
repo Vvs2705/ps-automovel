@@ -1,0 +1,91 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE PALIO",
+ "titulo": "FALANDO DE PALIO #1",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Vrum (2022) e Autoo (2024)",
+ "falas": {
+  "L01": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "TRANCO NA TROCA?",
+   "nota": "Palio em corte; o carro dá um solavanco ao trocar de marcha."
+  },
+  "L02": {
+   "zona": "cambio",
+   "etiqueta": "VRUM E AUTOO",
+   "nota": "Duas páginas de guia de usados lado a lado, com a palavra Dualogic em destaque. Selo RELATO DE DONOS no canto."
+  },
+  "L03": {
+   "zona": "cambio",
+   "cartao": {
+    "rotulo": "Versões citadas pelo Vrum",
+    "valor": "1.6 e 1.8",
+    "unidade": "",
+    "detalhe": "Trancos e demora nas respostas",
+    "palavra": "seis"
+   },
+   "legenda": "O Vrum fala nas versões 1.6 e 1.8, com trancos e demora nas respostas.",
+   "nota": "Duas etiquetas, 1.6 e 1.8, acendem sobre o câmbio."
+  },
+  "L04": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "etiqueta": "FALHA DE ENGATE",
+   "legenda": "O Autoo, na segunda geração com motor 1.6, fala em falhas de engate, trancos e dificuldade nas arrancadas.",
+   "fonte": "Fonte: Autoo, 12/02/2024",
+   "nota": "Linha do tempo marca a segunda geração; seta de arrancada hesita."
+  },
+  "L05": {
+   "zona": "cambio",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "ATUADOR DA EMBREAGEM",
+   "nota": "Atuador da embreagem em corte acende em vermelho."
+  },
+  "L06": {
+   "zona": "carro",
+   "etiqueta": "SEM NÚMERO OFICIAL",
+   "nota": "Selo RELATO DE DONOS; contador mostra ponto de interrogação."
+  },
+  "L07": {
+   "zona": "cambio",
+   "etiqueta": "TRANCO E HESITAÇÃO",
+   "nota": "Gráfico de aceleração com um degrau e uma hesitação."
+  },
+  "L08": {
+   "zona": "cambio",
+   "cartao": {
+    "rotulo": "Faixa publicada em abril de 2025",
+    "valor": "ATÉ 6 MIL",
+    "unidade": "",
+    "detalhe": "Dualogic em geral; varia por oficina",
+    "palavra": "seis"
+   },
+   "legenda": "Para embreagem patinando ou atuador com falha, o Vrum publicou em abril de 2025 uma faixa de até 6 mil reais, no Dualogic em geral. Varia por oficina.",
+   "fonte": "Fonte: Vrum, 18/04/2025",
+   "nota": "Etiqueta de preço com a data 04/2025 e a faixa; selo VARIA POR OFICINA."
+  },
+  "L09": {
+   "zona": "cambio",
+   "etiqueta": "DIAGNOSTICAR ANTES",
+   "nota": "Scanner ligado ao carro; lista de códigos aparece."
+  },
+  "L10": {
+   "zona": "carro",
+   "etiqueta": "TESTE E CHASSI",
+   "nota": "Test drive; campo de chassi no site da montadora."
+  },
+  "L11": {
+   "zona": "cambio",
+   "etiqueta": "RESUMO",
+   "nota": "O Palio inteiro em arame, com a zona do problema acesa (o câmbio); a etiqueta RESUMO aparece."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

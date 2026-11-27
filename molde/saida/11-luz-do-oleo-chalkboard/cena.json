@@ -1,0 +1,107 @@
+{
+ "estilo": "chalkboard",
+ "carro": "hatch",
+ "serie": "LUZ DO ÓLEO ACESA",
+ "fonte": "Fonte: manuais de montadoras, Castrol",
+ "falas": {
+  "L01": {
+   "zona": "painel",
+   "estado": "alerta",
+   "etiqueta": "LUZ DO ÓLEO",
+   "seta": true,
+   "nota": "Painel de arame; a luz vermelha da lata de óleo acende e pulsa sobre o velocímetro, com a estrada passando ao fundo."
+  },
+  "L02": {
+   "zona": "painel",
+   "estado": "alerta",
+   "etiqueta": "PRESSÃO DO ÓLEO",
+   "nota": "Zoom no símbolo vermelho da lata de óleo; um selo \"PRESSÃO\" aparece ao lado dele."
+  },
+  "L03": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "OUTRO AVISO",
+   "nota": "Em outro canto do painel surgem dois avisos âmbar (vareta com nível baixo e gota com relógio); um carimbo \"OUTRO AVISO\" cai sobre eles."
+  },
+  "L04": {
+   "zona": "painel",
+   "etiqueta": [
+    "ACENDE E APAGA",
+    "É NORMAL"
+   ],
+   "nota": "Uma chave de arame gira até ON: a luz vermelha acende; o motor pega, o ronco sobe e a luz apaga."
+  },
+  "L05": {
+   "zona": "painel",
+   "estado": "alerta",
+   "etiqueta": "PRESSÃO BAIXA",
+   "nota": "Carro de arame na estrada; a luz vermelha acende e fica acesa, e um manômetro de pressão do óleo cai para a zona vermelha."
+  },
+  "L06": {
+   "zona": "carro",
+   "estado": "alerta",
+   "etiqueta": "PARE E DESLIGUE",
+   "nota": "O carro de arame encosta fora da pista, o pisca-alerta pulsa e a chave gira para OFF; a luz vermelha apaga com o motor parado."
+  },
+  "L07": {
+   "zona": "motor",
+   "estado": "alerta",
+   "etiqueta": "NÃO SIGA VIAGEM",
+   "nota": "Placa vermelha \"NÃO SIGA\" cruza a estrada; o carro com a luz acesa leva um X e as peças do motor em corte começam a trincar."
+  },
+  "L08": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "LUBRIFICAÇÃO RUIM",
+   "nota": "Corte do motor em arame: o óleo (âmbar) circula entre as peças; com a pressão caindo o fluxo falha e as peças ficam secas e brilham em vermelho."
+  },
+  "L09": {
+   "zona": "painel",
+   "etiqueta": "PRESSÃO, NÃO NÍVEL",
+   "nota": "Dois mostradores lado a lado: um manômetro (pressão) que liga a luz e uma vareta (nível) que não liga; a luz pisca sobre os dois casos, vareta baixa e vareta certa."
+  },
+  "L10": {
+   "zona": "motor",
+   "etiqueta": [
+    "PISO PLANO",
+    "CONFIRA NA VARETA"
+   ],
+   "nota": "Carro de arame parado sobre piso com nível de bolha centrado; uma vareta holográfica sai do motor e mostra a faixa MIN-MAX (sem mão real)."
+  },
+  "L11": {
+   "zona": "motor",
+   "estado": "atencao",
+   "etiqueta": "MOTOR QUENTE",
+   "nota": "O motor em corte brilha em laranja e o brilho esfria devagar; um relógio de arame corre ao lado, sem número fixo."
+  },
+  "L12": {
+   "zona": "motor",
+   "etiqueta": "CONFIRA O MANUAL",
+   "nota": "A vareta mostra o óleo abaixo da marca MIN; o manual abre numa página sobre o óleo do motor."
+  },
+  "L13": {
+   "zona": "carro",
+   "estado": "alerta",
+   "etiqueta": [
+    "NÃO SIGA VIAGEM",
+    "GUINCHO OU OFICINA"
+   ],
+   "nota": "A vareta mostra o nível certo em ciano, mas a luz vermelha continua acesa; um guincho de arame leva o carro até uma oficina."
+  },
+  "L14": {
+   "zona": "painel",
+   "etiqueta": "VARIA POR CARRO",
+   "nota": "Dois painéis de carros diferentes, com símbolos em posições diferentes; o manual abre entre eles."
+  },
+  "L15": {
+   "zona": "painel",
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (o motor e a pressão do óleo); a etiqueta RESUMO aparece."
+  },
+  "L16": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

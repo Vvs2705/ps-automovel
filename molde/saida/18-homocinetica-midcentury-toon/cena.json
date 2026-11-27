@@ -1,0 +1,120 @@
+{
+ "estilo": "midcentury-toon",
+ "carro": "hatch",
+ "serie": "HOMOCINÉTICA",
+ "fonte": "Fonte: Dana, Cofap, GKN, manual Kia",
+ "falas": {
+  "L01": {
+   "zona": "pneus",
+   "estado": "atencao",
+   "etiqueta": "TOC-TOC NA CURVA",
+   "nota": "Carro de arame visto de cima numa curva; a roda dianteira esterçada solta ondas \"TOC-TOC\" e um \"?\" laranja pisca ao lado dela."
+  },
+  "L02": {
+   "zona": "cambio",
+   "etiqueta": "JUNTA HOMOCINÉTICA",
+   "nota": "A câmera entra na roda dianteira e para numa junta articulada em arame, que acende em ciano."
+  },
+  "L03": {
+   "zona": "cambio",
+   "etiqueta": "CÂMBIO À RODA",
+   "nota": "Semieixo em arame liga o câmbio à roda; pulsos ciano correm pelo eixo enquanto a roda gira para um lado e para o outro, e o fluxo segue constante."
+  },
+  "L04": {
+   "zona": "pneus",
+   "estado": "atencao",
+   "etiqueta": [
+    "ESTALO AO VIRAR",
+    "CURVAS FECHADAS"
+   ],
+   "nota": "Junta em corte com esferas de arame; com a roda esterçada ao máximo, as esferas saltam numa pista marcada e um \"TEC\" laranja pulsa a cada volta."
+  },
+  "L05": {
+   "zona": "pneus",
+   "estado": "atencao",
+   "etiqueta": [
+    "LADO DA RODA",
+    "MECÂNICO CONFIRMA"
+   ],
+   "nota": "O semieixo mostra duas juntas: a do lado do câmbio fica apagada e a do lado da roda pulsa em laranja; um mecânico holográfico sem rosto faz um teste de rodagem."
+  },
+  "L06": {
+   "zona": "pneus",
+   "etiqueta": [
+    "COIFA DE BORRACHA",
+    "GUARDA A GRAXA"
+   ],
+   "nota": "Coifa em arame âmbar envolve a junta; a graxa âmbar fica dentro e um escudo ciano repele partículas cinza de fora."
+  },
+  "L07": {
+   "zona": "pneus",
+   "estado": "atencao",
+   "etiqueta": [
+    "COIFA RASGADA",
+    "GRAXA ESCAPA"
+   ],
+   "nota": "A coifa racha em vermelho; a graxa âmbar escorre para fora enquanto partículas cinza e gotas azuis entram pela fenda."
+  },
+  "L08": {
+   "zona": "pneus",
+   "estado": "atencao",
+   "etiqueta": "DESGASTE ANTECIPADO",
+   "nota": "Dentro da junta, a pista das esferas ganha riscos vermelhos; um medidor de desgaste acelera e o \"TEC\" laranja volta."
+  },
+  "L09": {
+   "zona": "pneus",
+   "estado": "atencao",
+   "etiqueta": [
+    "GRAXA ESPIRRADA",
+    "MANCHAS NO CHÃO"
+   ],
+   "nota": "Roda de arame vista pelo lado de dentro com salpicos âmbar; no chão, sob o carro, aparecem manchas âmbar."
+  },
+  "L10": {
+   "zona": "carro",
+   "etiqueta": [
+    "OFICINA DE CONFIANÇA",
+    "OLHE A COIFA"
+   ],
+   "nota": "Carro de arame sobe num elevador; o mecânico holográfico sem rosto aponta uma luz para a coifa e um calendário de revisões acende."
+  },
+  "L11": {
+   "zona": "pneus",
+   "etiqueta": "TROQUE CEDO",
+   "nota": "Uma coifa nova em ciano substitui a rasgada; o escudo ciano segura a sujeira do lado de fora e a junta fica limpa."
+  },
+  "L12": {
+   "zona": "pneus",
+   "etiqueta": "SÓ A COIFA",
+   "nota": "O mecânico holográfico inspeciona a junta e um visto ciano acende; só a coifa é trocada."
+  },
+  "L13": {
+   "zona": "pneus",
+   "estado": "atencao",
+   "etiqueta": [
+    "JUNTA JÁ ESTALA",
+    "TROCA DA JUNTA"
+   ],
+   "nota": "A pista das esferas aparece com marcas vermelhas e folga; a coifa nova sozinha não apaga o defeito e a junta inteira vira o item a trocar."
+  },
+  "L14": {
+   "zona": "pneus",
+   "estado": "alerta",
+   "etiqueta": [
+    "JUNTA QUEBRADA",
+    "SEM TRAÇÃO"
+   ],
+   "nota": "O semieixo se parte, a roda para de girar, os pulsos ciano se apagam e o carro de arame desacelera até parar."
+  },
+  "L15": {
+   "zona": "carro",
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (a junta homocinética e a roda); a etiqueta RESUMO aparece."
+  },
+  "L16": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

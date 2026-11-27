@@ -1,0 +1,74 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE PALIO",
+ "titulo": "FALANDO DE PALIO #9",
+ "selo": "RELATO DE DONOS",
+ "fonte": "Fonte: Autoo (2024) e Oficina Brasil",
+ "falas": {
+  "L01": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "ESTALO NA DIANTEIRA?",
+   "nota": "Roda dianteira passa por paralelepípedo; ouve-se um estalo."
+  },
+  "L02": {
+   "zona": "susp_dianteira",
+   "etiqueta": "AMORTECEDOR DIANTEIRO",
+   "fonte": "Fonte: Autoo, 12/02/2024",
+   "nota": "Amortecedor dianteiro em corte; paralelepípedo embaixo. Selo RELATO DE DONOS no canto."
+  },
+  "L03": {
+   "zona": "susp_dianteira",
+   "etiqueta": "BUCHAS E PIVÔS",
+   "nota": "Bucha e pivô em destaque."
+  },
+  "L04": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": "FOLGA NA BANDEJA",
+   "legenda": "A Oficina Brasil descreve algo parecido em Palios de 2002: folga nas buchas das bandejas e nos pivôs.",
+   "fonte": "Fonte: Oficina Brasil, 2007 e 2008",
+   "nota": "Bandeja e pivô em corte, com folga marcada."
+  },
+  "L05": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": "AMORTECEDOR VAZANDO",
+   "fonte": "Fonte: Oficina Brasil, 19/02/2008",
+   "nota": "Amortecedor com óleo escorrendo."
+  },
+  "L06": {
+   "zona": "susp_dianteira",
+   "etiqueta": "BURACOS NA PISTA",
+   "fonte": "Fonte: Oficina Brasil, 11/12/2007",
+   "nota": "Roda cai em buraco; ruído em lombada."
+  },
+  "L07": {
+   "zona": "carro",
+   "etiqueta": "SEM NÚMERO OFICIAL",
+   "nota": "Selo RELATO DE DONOS."
+  },
+  "L08": {
+   "zona": "susp_dianteira",
+   "estado": "atencao",
+   "etiqueta": "SEGURANÇA: AVALIE",
+   "nota": "Mecânico examina a suspensão dianteira."
+  },
+  "L09": {
+   "zona": "susp_dianteira",
+   "etiqueta": "TESTE NA RUA",
+   "nota": "Test drive em paralelepípedo."
+  },
+  "L10": {
+   "zona": "susp_dianteira",
+   "etiqueta": "RESUMO",
+   "nota": "O Palio inteiro em arame, com a zona do problema acesa (a suspensão dianteira); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Palio inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

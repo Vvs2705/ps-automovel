@@ -1,0 +1,83 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE GOL",
+ "titulo": "FALANDO DE GOL #10",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Procon-SP, 20/03/2020",
+ "falas": {
+  "L01": {
+   "zona": "painel",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "AIRBAG: JÁ CONFERIU?",
+   "nota": "Volante com airbag em destaque."
+  },
+  "L02": {
+   "zona": "carro",
+   "etiqueta": "VÁRIOS RECALLS",
+   "nota": "Linha do tempo com vários recalls empilhados."
+  },
+  "L03": {
+   "zona": "painel",
+   "cartao": {
+    "rotulo": "Recall de março",
+    "valor": "2020",
+    "unidade": "",
+    "detalhe": "Gol e Voyage 2009, airbag Takata",
+    "palavra": "vinte"
+   },
+   "legenda": "Um deles, de março de 2020, cobriu Gol e Voyage de 2009, com airbag do fornecedor Takata.",
+   "nota": "Marca 03/2020 sobre silhueta do Gol e Voyage."
+  },
+  "L04": {
+   "zona": "painel",
+   "estado": "atencao",
+   "etiqueta": "PROPELENTE DEGRADA",
+   "nota": "Gerador de gás em corte; propelente muda de cor."
+  },
+  "L05": {
+   "zona": "painel",
+   "estado": "alerta",
+   "etiqueta": "RISCO GRAVE",
+   "nota": "Gerador rompe; fragmentos saem do volante."
+  },
+  "L06": {
+   "zona": "painel",
+   "etiqueta": "NOVAS ETAPAS",
+   "legenda": "Depois vieram novas etapas, em 2023 e 2024, com Gol e Voyage de outros anos.",
+   "fonte": "Fonte: O Tempo, 14/05/2024",
+   "nota": "Linha do tempo 2023 e 2024 acende."
+  },
+  "L07": {
+   "zona": "painel",
+   "estado": "atencao",
+   "seta": true,
+   "etiqueta": "CONSULTE O CHASSI",
+   "nota": "Várias faixas se sobrepõem; seta aponta para o campo de chassi."
+  },
+  "L08": {
+   "zona": "painel",
+   "etiqueta": [
+    "SITE DA VW",
+    "GOV.BR"
+   ],
+   "fonte": "Fonte: site da VW e gov.br",
+   "nota": "Site da VW e ícone gov.br lado a lado."
+  },
+  "L09": {
+   "zona": "painel",
+   "etiqueta": "AGENDE A TROCA",
+   "nota": "Agenda; airbag novo."
+  },
+  "L10": {
+   "zona": "painel",
+   "etiqueta": "RESUMO",
+   "nota": "O Gol inteiro em arame, com a zona do problema acesa (o airbag); a etiqueta RESUMO aparece."
+  },
+  "L11": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O Gol inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

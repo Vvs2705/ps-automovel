@@ -1,0 +1,102 @@
+{
+ "estilo": "blueprint",
+ "carro": "hatch",
+ "serie": "LUZ DA BATERIA",
+ "fonte": "Fonte: Heliar, Moura, manuais de montadoras",
+ "falas": {
+  "L01": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": "LUZ DA BATERIA",
+   "seta": true,
+   "nota": "Painel de arame; o ícone de bateria acende em vermelho e uma interrogação aparece sobre a bateria de arame ao lado."
+  },
+  "L02": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": "SISTEMA DE CARGA",
+   "nota": "Motor de arame em corte; três peças acendem em sequência: o alternador, a correia e os cabos ligados à bateria."
+  },
+  "L03": {
+   "zona": "motor",
+   "etiqueta": "ALTERNADOR RECARREGA",
+   "nota": "Seta de energia em ciano sai do alternador, percorre o cabo e enche a barra de carga da bateria."
+  },
+  "L04": {
+   "zona": "painel",
+   "etiqueta": "AUTOTESTE",
+   "nota": "Linha do tempo: a chave gira e o ícone acende; o motor pega, o ícone apaga e vira um visto ciano."
+  },
+  "L05": {
+   "zona": "eletrica",
+   "estado": "alerta",
+   "etiqueta": "NÃO RECARREGA",
+   "nota": "Ícone vermelho aceso com o motor girando; a seta de energia do alternador está cortada e a barra de carga não sobe."
+  },
+  "L06": {
+   "zona": "carro",
+   "estado": "alerta",
+   "etiqueta": "PODE APAGAR",
+   "nota": "A barra de carga da bateria desce aos poucos; no fim, o painel de arame apaga."
+  },
+  "L07": {
+   "zona": "carro",
+   "estado": "atencao",
+   "etiqueta": [
+    "PARE COM SEGURANÇA",
+    "PROCURE A OFICINA"
+   ],
+   "nota": "Carro de arame encosta em um recuo largo e plano; um manual aberto ao lado; uma seta aponta para a oficina."
+  },
+  "L08": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": "CONFIRA O MANUAL",
+   "nota": "Ícones genéricos de arame (farol, ventilador, som) apagam um a um; o manual aberto destaca o capítulo do painel."
+  },
+  "L09": {
+   "zona": "carro",
+   "estado": "atencao",
+   "etiqueta": "ESCOLHA ONDE PARAR",
+   "nota": "Dois pontos de parada: uma curva sem visibilidade (vermelho) e um trecho plano e largo (ciano); a chave desliga e o motor não pega."
+  },
+  "L10": {
+   "zona": "motor",
+   "etiqueta": "MESMA CORREIA",
+   "nota": "A correia de arame liga as polias do alternador e da bomba d'água; as duas giram juntas."
+  },
+  "L11": {
+   "zona": "arrefecimento",
+   "estado": "alerta",
+   "etiqueta": "PODE SUPERAQUECER",
+   "nota": "A correia se parte, a polia da bomba para e o termômetro do motor sobe até a zona vermelha."
+  },
+  "L12": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": "DESGASTE MAIS RÁPIDO",
+   "nota": "Bateria de arame saudável em ciano ao lado de um alternador quebrado; a barra de vida útil da bateria encurta."
+  },
+  "L13": {
+   "zona": "eletrica",
+   "etiqueta": "PEÇA O TESTE",
+   "nota": "Mecânico holográfico sem rosto liga um testador à bateria e ao alternador; aparece um visto ciano."
+  },
+  "L14": {
+   "zona": "eletrica",
+   "estado": "atencao",
+   "etiqueta": "NÃO DESCONECTE",
+   "nota": "Cabo de arame preso ao polo da bateria com um grande \"X\" vermelho por cima; o painel pisca (ninguém mexe no cabo)."
+  },
+  "L15": {
+   "zona": "eletrica",
+   "etiqueta": "RESUMO",
+   "nota": "O carro inteiro em arame, com a zona do problema acesa (a bateria e o alternador); a etiqueta RESUMO aparece."
+  },
+  "L16": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "O carro inteiro em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}

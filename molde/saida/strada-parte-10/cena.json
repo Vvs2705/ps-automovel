@@ -1,0 +1,116 @@
+{
+ "carro": "hatch",
+ "serie": "FALANDO DE STRADA",
+ "titulo": "FALANDO DE STRADA #10",
+ "selo": "FATO DOCUMENTADO",
+ "fonte": "Fonte: Senacon/MJ, 30/07/2013; Encontracarros",
+ "falas": {
+  "L01": {
+   "zona": "carroceria",
+   "estado": "atencao",
+   "etiqueta": "CINTO EM RECALL?",
+   "nota": "Mão puxa o cinto de segurança; o fecho trava no encaixe."
+  },
+  "L02": {
+   "zona": "carroceria",
+   "cartao": {
+    "rotulo": "Cintos da Strada, 2013",
+    "valor": "2 RECALLS",
+    "unidade": "",
+    "detalhe": "Julho e dezembro de 2013",
+    "palavra": "recalls"
+   },
+   "legenda": "Em 2013, a Fiat fez dois recalls ligados ao cinto de segurança da Strada.",
+   "nota": "Calendário 2013 com dois marcos: julho e dezembro."
+  },
+  "L03": {
+   "zona": "carroceria",
+   "etiqueta": "JULHO: FECHOS",
+   "legenda": "Em julho: Strada 1.4, anos 2012 e 2013, com airbag duplo, por falha nos fechos dos cintos dianteiros.",
+   "fonte": "Fonte: Senacon/MJ, 30/07/2013",
+   "nota": "Strada 1.4 com airbag duplo; fecho do cinto em corte."
+  },
+  "L04": {
+   "zona": "carroceria",
+   "estado": "alerta",
+   "etiqueta": "FECHO PODE ROMPER",
+   "nota": "Simulação de colisão; o fecho solta e o corpo avança sobre o airbag."
+  },
+  "L05": {
+   "zona": "carroceria",
+   "cartao": {
+    "rotulo": "Strada e Palio Fire",
+    "valor": "3.029",
+    "unidade": "",
+    "detalhe": "A fonte não separa a Strada",
+    "palavra": "nove"
+   },
+   "legenda": "Foram 3.029 carros, somando a Strada e o Palio Fire.",
+   "nota": "Contador sobe até 3.029; duas silhuetas, Strada e Palio."
+  },
+  "L06": {
+   "zona": "carroceria",
+   "cartao": {
+    "rotulo": "Troca gratuita",
+    "valor": "1 HORA",
+    "unidade": "",
+    "detalhe": "A partir de 29/07/2013",
+    "palavra": "hora"
+   },
+   "fonte": "Fonte: Olhar Direto, 27/07/2013",
+   "nota": "Relógio de 1 hora; selo GRÁTIS."
+  },
+  "L07": {
+   "zona": "carroceria",
+   "etiqueta": "DEZEMBRO: 3 PORTAS",
+   "legenda": "Em dezembro: Strada cabine dupla de três portas, produzida de 5 de julho a 19 de novembro de 2013.",
+   "fonte": "Fonte: Encontracarros, 23/12/2013",
+   "nota": "Strada cabine dupla de três portas; barra de produção de julho a novembro de 2013."
+  },
+  "L08": {
+   "zona": "carroceria",
+   "estado": "atencao",
+   "cartao": {
+    "rotulo": "Parafuso da ancoragem",
+    "valor": "33 MM",
+    "unidade": "",
+    "detalhe": "O projeto previa 38 mm",
+    "palavra": "três"
+   },
+   "legenda": "Os parafusos da ancoragem do cinto do passageiro dianteiro tinham 33 milímetros, e o projeto previa 38.",
+   "nota": "Dois parafusos lado a lado: 33 mm e 38 mm."
+  },
+  "L09": {
+   "zona": "carroceria",
+   "cartao": {
+    "rotulo": "Registrados pela Senacon",
+    "valor": "830",
+    "unidade": "",
+    "detalhe": "Recall de dezembro de 2013",
+    "palavra": "trinta"
+   },
+   "legenda": "A Senacon registrou 830 veículos nesse segundo recall.",
+   "fonte": "Fonte: planilha da Senacon, 2013",
+   "nota": "Contador sobe até 830."
+  },
+  "L10": {
+   "zona": "carroceria",
+   "pontos": [
+    "chassi"
+   ],
+   "etiqueta": "CONFIRA O CHASSI",
+   "fonte": "Fonte: Ministério dos Transportes, 04/10/2024",
+   "nota": "Campo de chassi e botão Consultar, sobre o site da Fiat e o portal do governo."
+  },
+  "L11": {
+   "zona": "carroceria",
+   "etiqueta": "RESUMO",
+   "nota": "A Strada inteira em arame, com a zona do problema acesa (o cinto de segurança dianteiro); a etiqueta RESUMO aparece."
+  },
+  "L12": {
+   "zona": "carro",
+   "etiqueta": "SALVE E COMPARTILHE",
+   "nota": "A Strada inteira em arame; ícones de salvar e de compartilhar acendem; a etiqueta SALVE E COMPARTILHE aparece."
+  }
+ }
+}
